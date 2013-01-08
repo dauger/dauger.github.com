@@ -8,7 +8,7 @@ categories:
 
 Reboot
 ------
-It's been over a year since I've written a blog post at [Welcome to My Nerditorium](http://mynerditorium.blogspot.com). My old blog is hosted on the Blogger / Blogspot platform which I've never really enjoyed using. 
+It's been over a year since I've written a post at [Welcome to My Nerditorium](http://mynerditorium.blogspot.com). My old blog is hosted on the Blogger / Blogspot platform which I've never really enjoyed using. 
 
 I've decided to reboot my blog using the [Octopress](http://octopress.org) blog engine. Although I plan on slowly migrating my old posts over to this blog, I hope to jump back in the saddle and start generating new content ASAP.
 
