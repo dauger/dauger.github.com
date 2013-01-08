@@ -4,7 +4,7 @@
 
 url: http://dauger.github.com
 title: Welcome to My Nerditorium
-subtitle: My thoughts on coding, games, and nerdy media.
+subtitle: Thoughts on coding, gaming, and nerdy media.
 author: Daniel Auger
 simple_search: http://google.com/search
 description:
@@ -20,7 +20,6 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
-category_feeds: true
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -73,7 +72,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
