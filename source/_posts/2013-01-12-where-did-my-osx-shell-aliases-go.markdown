@@ -5,7 +5,7 @@ date: 2013-01-12 01:53
 comments: true
 categories: [osx, bash, pebkac]
 ---
-When it comes to \*nix experience, I'm kind of an odd duck. You see, I've been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a \*nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I'm still playing catch-up in many ways when it comes to fundimentals.
+When it comes to \*nix experience, I'm kind of an odd duck. You see, I've been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a \*nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I'm still playing catch-up in many ways when it comes to fundamentals.
 
 I recently blew away my OSX Mountain Lion install and started from scratch. While I was setting things up again I thought to myself: "I should really create some aliases for show / hide hidden files, because I can never remember the exact syntax." I did a bit of googling and learned that I should put my aliases in ~/.profile. 
 
