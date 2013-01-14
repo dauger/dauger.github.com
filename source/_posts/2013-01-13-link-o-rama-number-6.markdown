@@ -18,7 +18,7 @@ I wouldn't have expected this reaction from Microsoft. Then again, they probably
 ## Caught in a .NET  
 [Building Hypermedia Web APIs with ASP.NET Web API](http://msdn.microsoft.com/en-us/magazine/jj883957.aspx)  
 
-[How to Install Ocotpress in Windows](http://www.jeremymorgan.com/tutorials/how-to-install-octopress-windows/)
+[How to Install Octopress in Windows](http://www.jeremymorgan.com/tutorials/how-to-install-octopress-windows/)
 
 [Are your unit tests still hard to read ? – Should Assertion Library](http://lostechies.com/erichexter/2013/01/13/shouldlibrary/)  
 
