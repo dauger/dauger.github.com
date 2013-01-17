@@ -5,6 +5,8 @@ date: 2013-01-16 20:47
 comments: true
 categories: news
 ---
+I've changed the name of this post series because it turns out that there was already a software development related blog called ["Link-o-rama"](https://blogs.oracle.com/archbeat/entry/archbeat_link_o_rama_top38?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+brhubartOTN+%28ArchBeat%29). I guess I should have googled before I lept.
+
 ## JabbaScript
 [Thoughts on TypeScript](http://www.aaron-powell.com/javascript/thoughts-on-typescript)
 
