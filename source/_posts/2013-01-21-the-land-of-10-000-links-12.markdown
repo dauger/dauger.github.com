@@ -1,0 +1,39 @@
+---
+layout: post
+title: "The Land of 10,000 Links 12"
+date: 2013-01-21 21:18
+comments: true
+categories: news
+---
+## Caught in a .NET
+[The Dispose Pattern as an anti-pattern](http://msmvps.com/blogs/peterritchie/archive/2013/01/20/the-dispose-pattern-as-an-anti-pattern.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PeterRitchiesMvpBlog+%28Peter+Ritchie%27s+MVP+Blog%29)
+
+[Using Razor engine together with Asp.Net Web API to create a Hypermedia API](http://weblogs.asp.net/fredriknormen/archive/2013/01/20/using-razor-engine-together-with-asp-net-web-api-to-create-a-hypermedia-api.aspx)
+
+[Design-time generation of help page (or client) for ASP.NET Web API](http://blogs.msdn.com/b/yaohuang1/archive/2013/01/20/design-time-generation-of-help-page-or-proxy-for-asp-net-web-api.aspx)
+
+## Jabbascript
+[The (Odd) State of Node.js and its Frameworks](http://www.andrewmunsell.com/blog/the-odd-state-of-nodejs-and-its-frameworks/#.UP1kaaGH3MM)
+
+## Software Craftineering
+[Static Typing: Give me a break!](http://scientopia.org/blogs/goodmath/2013/01/20/static-typing-give-me-a-break/)
+
+[Refactoring is Sloppy](http://michaelfeathers.typepad.com/michael_feathers_blog/2013/01/refactoring-is-sloppy.html)
+
+[Too Lazy To Refactor?](http://agilecoach.typepad.com/agile-coaching/2013/01/too-lazy-to-refactor.html)
+
+[Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)
+
+## Hardware Wars
+[The impending crisis that is Windows XP and IE 8](http://www.troyhunt.com/2013/01/the-impending-crisis-that-is-windows-xp.html)
+
+[Ubuntu Phone Looks like the future of Computing](http://ostatic.com/blog/ubuntu-phone-looks-like-the-future-of-computing#buzz)
+
+## Rollin' 20s
+[Concept Art for D&D vNext](http://conceptopolis.deviantart.com/gallery/26646047)
+
+## Game over, man!
+[Atari U.S. operation files for bankruptcy](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-atari-bankruptcy-20130119,0,25279.story)
+
+## Hyper Media
+[Eleven Time Lords to feature in 50th anniversary Doctor Who episode](http://www.birminghammail.co.uk/whats-on/tv/eleven-time-lords-to-feature-in-50th-1228442)
