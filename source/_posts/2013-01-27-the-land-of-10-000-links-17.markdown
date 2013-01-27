@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The Land of 10,000 Links #17"
+date: 2013-01-27 16:59
+comments: true
+categories: news
+---
+## Business as usual
+[Amazon, Apple, and the beauty of low margins](http://www.eugenewei.com/blog/2012/11/28/amazon-and-margins)
+
+## JabbaScript
+[Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
+
+## Software Craftineering
+[Secrets in the Code](https://github.com/blog/1390-secrets-in-the-code)  
+Here's a bit of official follow-up by Github in regards to all of the sensative configuration data people were finding with Github Search.
+
+## Rollin' 20s
+[Gygax Magazine, A Family Affair](http://www.hitoncrit.com/gygax-magazine-a-family-affair/)
+
+## Game over, Man
+[Blizzard: “We acknowledge Diablo III needs to be a better game”](http://www.pcgamer.com/2013/01/25/blizzard-we-acknowledge-diablo-iii-needs-to-be-a-better-game/)
+
+[A Commodore 64 at Airport Security](http://nickm.com/post/2013/01/a-commodore-64-at-airport-security/)
+
+[30 Years of MIDI: The Commodore 64 Meets The iPad](http://www.synthtopia.com/content/2013/01/26/30-years-of-midi-the-commodore-64-meets-the-ipad/)
+
+[HALF-LIFE AND COUNTER-STRIKE GAMES NOW AVAILABLE NATIVELY FOR LINUX](http://www.webupd8.org/2013/01/half-life-and-counter-strike-games-now.html?m=1)
