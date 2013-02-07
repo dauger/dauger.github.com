@@ -13,11 +13,11 @@ categories:
 
 Testing with dependencies is straightforward with in-memory hosting because it is obvious that you can provide the HttpServer instance with an HttpConfiguration object containing an IDependencyResolver. However, when it comes to testing handlers via an HttpMessageInvoker, it is not entirely obvious or discoverable as to how you can wire up an HttpConfiguration (and therefore an IDependencyResolver).
 
-Here is the secret sauce: you can add an HttpConfiguration to a request object via a "stringly typed" property on the HttpRequestMessage object.
+Here is the secret sauce: you can add an HttpConfiguration to a request object via a "stringly typed" *"MS_HttpConfiguration"* property on the HttpRequestMessage object.
 
 ``` csharp  
 [TestMethod]
-public void SomeHandlerTest
+public void SomeHandlerTest()
 {
    // ... other test setup
    // ... set up handlerUnderTest including inner test handler
