@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #21"
 date: 2013-02-01 13:10
 comments: true
-categories: news
+categories: links
 ---
 ## Rubyx Cube
 [Data Verification](http://blog.rubygems.org/2013/01/31/data-verification.html)

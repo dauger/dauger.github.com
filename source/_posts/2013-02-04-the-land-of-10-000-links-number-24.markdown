@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #24"
 date: 2013-02-04 20:17
 comments: true
-categories: news
+categories: links
 ---
 ## Hyper Media
 [Search No More: All the 2013 Super Bowl Spots in One Place](http://adage.com/article/special-report-super-bowl/search-2013-super-bowl-spots-place/239485/)

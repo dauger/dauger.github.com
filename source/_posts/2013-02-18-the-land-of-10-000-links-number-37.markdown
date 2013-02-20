@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #37"
 date: 2013-02-18 19:18
 comments: true
-categories: news
+categories: links
 ---
 ## Software Craftineering
 [It's Not Simple to Keep It Simple](http://www.netobjectives.com/blogs/its-not-simple-keep-it-simple)

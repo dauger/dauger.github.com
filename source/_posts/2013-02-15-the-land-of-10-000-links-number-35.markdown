@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #35"
 date: 2013-02-15 19:08
 comments: true
-categories: news
+categories: links
 ---
 ## Prequel
 [Fatcache is Memcache on SSD](https://github.com/twitter/fatcache#readme)

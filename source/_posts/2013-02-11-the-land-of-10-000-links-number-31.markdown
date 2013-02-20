@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #31"
 date: 2013-02-11 19:42
 comments: true
-categories: news
+categories: links
 ---
 ## Staying up late
 [API Digest](http://us6.campaign-archive1.com/?u=0f63ff041b31c52a104f5b830&id=7dfe8e78f6)

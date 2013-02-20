@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #7"
+title: "The Land of 10,000 Links #7"
 date: 2013-01-14 21:11
 comments: true
-categories: news
+categories: links
 ---
 ## Rubyx Cube
 [Rails has Two Default Stacks](http://words.steveklabnik.com/rails-has-two-default-stacks)

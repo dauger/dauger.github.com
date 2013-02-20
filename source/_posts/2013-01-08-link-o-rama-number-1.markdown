@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #1"
+title: "The Land of 10,000 Links #1"
 date: 2013-01-08 22:30
 comments: true
-categories: news 
+categories: links
 ---
 ## JabbaScript
 [Get Started With TypeScript - New Course](http://www.johnpapa.net/typescriptcourse/)  

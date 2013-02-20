@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #2"
+title: "The Land of 10,000 Links #2"
 date: 2013-01-09 21:20
 comments: true
-categories: news
+categories: links
 ---
 
 ## JabbaScript

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #29"
 date: 2013-02-09 11:25
 comments: true
-categories: news
+categories: links
 ---
 # Caught in a .NET
 [Team Foundation Server and IE8](http://blogs.msdn.com/b/bharry/archive/2013/02/08/team-foundation-server-and-ie8.aspx)

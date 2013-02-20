@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #4"
+title: "The Land of 10,000 Links #4"
 date: 2013-01-11 16:42
 comments: true
-categories: news
+categories: links
 ---
 ## Rubyx Cube
 [A Review of Practical Object-Oriented Design in Ruby](http://nathany.com/poodr)  

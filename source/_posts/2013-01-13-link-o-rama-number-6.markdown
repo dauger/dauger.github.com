@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #6"
+title: "The Land of 10,000 Links #6"
 date: 2013-01-13 22:04
 comments: true
-categories: news
+categories: links
 ---
 ## Hardware Wars
 [Microsoft declares Windows RT Jailbreak tool is safe, says it 'appreciates the work of researchers'](http://thenextweb.com/microsoft/2013/01/11/microsoft-is-investigating-windows-rt-jailbreak-tool-says-will-take-appropriate-action/?utm_content=Microsoft%20is%20investigating%20Windows%20RT%20Jailbreak%20tool,%20says%20'will%20take%20appropriate%20action'&utm_campaign=social%20media&awesm=tnw.to_n0Zd5&utm_medium=Twitter%20Publisher&utm_source=Twitter)  

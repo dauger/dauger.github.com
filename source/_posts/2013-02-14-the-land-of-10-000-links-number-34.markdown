@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #34"
 date: 2013-02-14 20:19
 comments: true
-categories: news
+categories: links
 ---
 ## Cloudy With a Chance of Meatballs
 [Azure Embraces Phython/Django](http://www.windowsazure.com/en-us/develop/python/)

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #15"
 date: 2013-01-24 23:52
 comments: true
-categories: news
+categories: links
 ---
 ## Software Craftineering
 [A CULTURE OF EMPOWERMENT](http://jonkruger.com/blog/2013/01/24/a-culture-of-empowerment/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JonKrugersBlog+%28Jon+Kruger%27s+Blog%29)

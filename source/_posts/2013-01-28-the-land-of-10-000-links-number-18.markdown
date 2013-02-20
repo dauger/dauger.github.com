@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #18"
 date: 2013-01-28 19:42
 comments: true
-categories: news
+categories: links
 ---
 ## Software Craftineering
 [Haters Gonna Hateoas](http://timelessrepo.com/haters-gonna-hateoas)  

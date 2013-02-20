@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #22"
 date: 2013-02-02 11:26
 comments: true
-categories: news
+categories: links
 ---
 ## Software Craftineering
 [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)

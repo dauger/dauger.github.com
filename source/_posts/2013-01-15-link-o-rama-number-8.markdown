@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #8"
+title: "The Land of 10,000 Links #8"
 date: 2013-01-15 23:20
 comments: true
-categories: news
+categories: links
 ---
 ## JabbaScript
 [A dramatic review of The Nerdery's Javascript code standards](http://twitter.yfrog.com/objrqfp)

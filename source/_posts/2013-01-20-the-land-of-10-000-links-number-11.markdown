@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #11"
 date: 2013-01-20 12:02
 comments: true
-categories: news
+categories: links
 ---
 ## Game over, man!
 [Doom for the Vic-20](http://www.youtube.com/watch?v=Y7h3H-_8N_o)

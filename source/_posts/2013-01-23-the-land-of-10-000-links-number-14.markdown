@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #14"
 date: 2013-01-23 22:26
 comments: true
-categories: news
+categories: links
 ---
 ## Jabba
 [Functional Programming in Java is quite Approachable](http://blog.agiledeveloper.com/2013/01/functional-programming-in-java-is-quite.html?m=1)

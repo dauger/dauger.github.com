@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #19"
 date: 2013-01-29 19:42
 comments: true
-categories: news
+categories: links
 ---
 ## Game over, man!
 [Ex-Gas Powered Games dev starts his own Kickstarter for survival/base-building game Roam](http://www.eurogamer.net/articles/2013-01-30-ex-gas-powered-game-dev-starts-his-own-kickstarter-for-survival-base-building-game-rome?utm_source=twitterfeed&utm_medium=twitter)

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #10"
 date: 2013-01-18 18:54
 comments: true
-categories: news
+categories: links
 ---
 ## Cloudy with a Chance of Meatballs
 [Microsoft Apologizes for December Windows Azure Outage](http://redmondmag.com/articles/2013/01/17/microsoft-december-windows-azure-outage.aspx)

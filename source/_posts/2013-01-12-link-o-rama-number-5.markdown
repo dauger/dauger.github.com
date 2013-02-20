@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #5"
+title: "The Land of 10,000 Links #5"
 date: 2013-01-12 13:38
 comments: true
-categories: news
+categories: links
 ---
 ## Caught in a .NET  
 [Does The World Still Need Visual Basic?](http://blog.pluralsight.com/2013/01/10/does-the-world-still-need-visual-basic/)  

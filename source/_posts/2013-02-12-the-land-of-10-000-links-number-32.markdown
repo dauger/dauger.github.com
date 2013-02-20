@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #32"
 date: 2013-02-12 19:48
 comments: true
-categories: news
+categories: links
 ---
 ## Prequel
 [Moving SSRS 2012 with Powershell and Bourbon](http://widba.blogspot.com/2013/02/moving-ssrs-2012-with-powershell-and.html)

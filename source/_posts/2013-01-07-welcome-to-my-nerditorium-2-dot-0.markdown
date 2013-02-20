@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to My Nerditorium 2.0"
 date: 2013-01-07 23:32
 comments: true
-categories: 
+categories:
 ---
 
 Reboot

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #33"
 date: 2013-02-13 19:13
 comments: true
-categories: news
+categories: links
 ---
 ## Prequel
 [How I work with Postgres – psql, My PostgreSQL Admin](http://www.craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Link-o-rama #3"
+title: "The Land of 10,000 Links #3"
 date: 2013-01-10 21:39
 comments: true
-categories: 
+categories: links
 ---
 ## Rubyx Cube
 [Dependency injection != Inversion of Control](http://chrismdp.com/2013/01/dependency-injection-not-ioc/?utm_source=twitterfeed&utm_medium=twitter)  

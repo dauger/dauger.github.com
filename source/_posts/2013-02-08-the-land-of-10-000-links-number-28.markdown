@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #28"
 date: 2013-02-08 18:50
 comments: true
-categories: news
+categories: links
 ---
 ## Jabba
 [Functional Reactive in the Netflix API with RxJava](http://techblog.netflix.com/2013/02/rxjava-netflix-api.html)  

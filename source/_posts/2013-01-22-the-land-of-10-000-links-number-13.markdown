@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #13"
 date: 2013-01-22 22:11
 comments: true
-categories: news
+categories: links
 ---
 ## Caught in a .NET
 [Adding Request.IsLocal to ASP.NET Web API](http://www.strathweb.com/2013/01/adding-request-islocal-to-asp-net-web-api/)

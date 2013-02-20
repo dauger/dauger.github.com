@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #20"
 date: 2013-01-30 20:21
 comments: true
-categories: news
+categories: links
 ---
 ## Looking good!
 [Style guides](http://susanjeanrobertson.com/code/style-guides/)

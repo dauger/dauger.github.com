@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #23"
 date: 2013-02-03 19:30
 comments: true
-categories: news
+categories: links
 ---
 ## Welcome to the [Superb Owl](https://twitter.com/ActualPerson084/status/298151151357026304) XLVII edition of TLoTTL
 

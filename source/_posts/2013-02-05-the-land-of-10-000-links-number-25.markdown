@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #25"
 date: 2013-02-05 19:16
 comments: true
-categories: news
+categories: links
 ---
 ## Software Craftineering
 [TDD Hat](http://blog.gdinwiddie.com/2012/12/26/tdd-hat/)

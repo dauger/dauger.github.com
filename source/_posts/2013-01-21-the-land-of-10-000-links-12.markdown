@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links 12"
 date: 2013-01-21 21:18
 comments: true
-categories: news
+categories: links
 ---
 ## Caught in a .NET
 [The Dispose Pattern as an anti-pattern](http://msmvps.com/blogs/peterritchie/archive/2013/01/20/the-dispose-pattern-as-an-anti-pattern.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PeterRitchiesMvpBlog+%28Peter+Ritchie%27s+MVP+Blog%29)

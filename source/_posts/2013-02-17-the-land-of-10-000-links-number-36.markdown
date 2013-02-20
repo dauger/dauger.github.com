@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #36"
 date: 2013-02-17 16:54
 comments: true
-categories: news
+categories: links
 ---
 ## Prequel
 [How the co-creator of MySQL came to love databases](http://www.techradar.com/news/software/how-the-co-creator-of-mysql-came-to-love-databases-1130829)

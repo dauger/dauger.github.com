@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #30"
 date: 2013-02-10 12:23
 comments: true
-categories: news
+categories: links
 ---
 ## Cloudy with a Chance of Meatballs
 [The cloud that isn’t](http://blog.invalid.name/post/42755726224/the-cloud-that-isnt)

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #27"
 date: 2013-02-07 21:02
 comments: true
-categories: news
+categories: links
 ---
 ## Caught in a .NET
 [String Calculator kata with Autofixture exercise 2](http://blog.ploeh.dk/2013/02/07/StringCalculatorKataWithAutofixtureExercise2.aspx)

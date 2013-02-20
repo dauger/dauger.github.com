@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #16"
 date: 2013-01-26 17:02
 comments: true
-categories: news
+categories: links
 ---
 ## Prequel
 [10 Years After SQL Slammer](http://it.slashdot.org/story/13/01/25/1933238/10-years-after-sql-slammer?utm_source=slashdot&utm_medium=twitter)

@@ -3,7 +3,7 @@ layout: post
 title: "The Land of 10,000 Links #26"
 date: 2013-02-06 19:44
 comments: true
-categories: news
+categories: links
 ---
 ## Caught in a .NET
 [F# + ServiceStack - F# Web Services on any platform in and out of a web server](http://blogs.msdn.com/b/fsharpteam/archive/2013/02/06/f-servicestack-f-web-services-on-any-platform-in-and-out-of-a-web-server.aspx)
