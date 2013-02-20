@@ -97,3 +97,9 @@ google_analytics_tracking_id: UA-37319998-1
 
 # Facebook Like
 facebook_like: false
+
+# ----------------------- #
+#   Custom Settings       #
+# ----------------------- #
+front_page_categories: [links] # A list of categories for the front page
+front_page_categories_op : 'hide' # Whether to show or hide the list of categories from front_page_categories
