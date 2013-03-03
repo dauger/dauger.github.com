@@ -28,6 +28,3 @@ categories: links
 
 ## Hyper Media
 [Sam Raimi And Unspecified Raimi Brother To Write EVIL DEAD 4 This Summer!](http://www.aintitcool.com/node/61246)
-
-## Game over, man!
-[Ubuntu 12.10 Will Overtake Windows 8 on Steam, Valve Survey Reveals](http://news.softpedia.com/news/Ubuntu-12-10-Will-Take-Windows-8-on-Steam-Valve-Survey-Reveals-333924.shtml?utm_source=twitterfeed&utm_medium=twitter)
