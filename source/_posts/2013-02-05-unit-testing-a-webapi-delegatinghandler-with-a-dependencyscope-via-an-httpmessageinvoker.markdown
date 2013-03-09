@@ -3,9 +3,9 @@ layout: post
 title: "Unit Testing a WebAPI DelegatingHandler with a DependencyScope via an HttpMessageInvoker"
 date: 2013-02-05 20:49
 comments: true
-categories: [WebAPI, TDD]
+categories: [development, webapi, tdd]
 ---
- I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.
+I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more -->
 
 * Testing DelegatingHandlers in isolation via HttpMessageInvoker as outlined here: [Unit Testing Message Handler in Asp.net WebAPI](http://restoncode.azurewebsites.net/blog/2012/10/16/unit-testing-message-handler-in-asp-dot-net-webapi/)
 

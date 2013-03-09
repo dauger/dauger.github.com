@@ -3,9 +3,9 @@ layout: post
 title: "TDD Pattern: Broken Test as a Context Bookmark"
 date: 2013-01-21 22:13
 comments: true
-categories: TDD
+categories: tdd
 ---
-I've been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down:  
+I've been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: <!-- more --> 
 
 1. I took a trip last week which kept me from coding, and I used this technique to get me back on track this morning.
 2. I came across this post today about context switching: [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)
