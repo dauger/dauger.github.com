@@ -5,7 +5,7 @@ date: 2011-08-08 15:41
 comments: true
 categories: development
 ---
-Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of course, the first thing I did was open up Firebug to see where the time was being spent. To my surprise, the majority of the time was spent waiting for the initial response from the server. After a little digging, I narrowed down the time-sink to a custom widget that pulled images from a Sitefinity image album. In particular, the query to figure out which images to display was the source of slothness.
+Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of course, the first thing I did was open up Firebug to see where the time was being spent. To my surprise, the majority of the time was spent waiting for the initial response from the server. After a little digging, I narrowed down the time-sink to a custom widget that pulled images from a Sitefinity image album. In particular, the query to figure out which images to display was the source of slothness. <!-- more -->
 
 A few things to note:
 
