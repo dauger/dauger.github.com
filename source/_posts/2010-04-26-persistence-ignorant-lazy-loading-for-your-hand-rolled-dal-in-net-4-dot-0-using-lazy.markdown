@@ -5,7 +5,7 @@ date: 2010-04-26 13:54
 comments: false
 categories: development
 ---
-This post is a brief update to the .NET 3.5 article I posted about [P.I. lazy loading](/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/). The only major change I have made to the code is to use the new  [Lazy\<T\>](http://msdn.microsoft.com/en-us/library/dd642331.aspx) class that was introduced in .NET 4.0. This considerably cleans up the LazyLoadingList\<T\> class from the previous post.
+This post is a brief update to the .NET 3.5 article I posted about [P.I. lazy loading](/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/). The only major change I have made to the code is to use the new  [Lazy\<T\>](http://msdn.microsoft.com/en-us/library/dd642331.aspx) class that was introduced in .NET 4.0. This considerably cleans up the LazyLoadingList\<T\> class from the previous post. <!-- more -->
 
 Here is the new LazyLoadingList\<T\>:  
 ```csharp

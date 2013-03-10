@@ -2,7 +2,7 @@
 layout: post
 title: "Practical Persistence Ignorant Lazy Loading For Your Hand-Rolled DAL"
 date: 2010-01-31 12:45
-comments: true
+comments: false
 categories: development 
 ---
 ## Introduction – A Word Of Warning
@@ -19,7 +19,7 @@ medium-to-large-size eventually turned into a huge mess, or something
 with tons of friction and poor performance. That being said, I am not
 allowed to use an ORM at my current employer, and I know that many
 others are not as well. That being the case, I think this post may be of
-use for other people in the same situation. 
+use for other people in the same situation. <!-- more --> 
 
 Secondly – I specifically used the word “practical” to describe this strategy. Although there are
 ways to do this sort of thing with code gen and/or reflection, I am
