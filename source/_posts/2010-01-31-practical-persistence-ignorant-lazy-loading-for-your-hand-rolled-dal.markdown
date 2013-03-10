@@ -274,7 +274,7 @@ public delegate IEnumerable<t> LoadDelegate<t>();
 
 ## The Demo
 
-I’ve put a [demo up on Github](http://github.com/dauger/BlogSamples/tree/master/LazyLoadingCollections/)
+I’ve put a [demo up on Github](https://github.com/dauger/BlogSamples/tree/master/2010_01_31_LazyLoadingCollections)
 that ties this altogether. The project is organized as follows:
 
 {% img center /images/postimages/LazyLoadingCollectionsProject.jpg %}
@@ -362,4 +362,4 @@ across DAOs etc…
 [Source Code](https://github.com/dauger/BlogSamples/tree/master/2010_01_31_LazyLoadingCollections)
 
 ## UDPATE 
-This technique has been reworked for .NET 4.0 [here](http://mynerditorium.blogspot.com/2010/04/persistent-ignorant-lazy-loading-for.html).
+This technique has been reworked for .NET 4.0 [here](/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy).
