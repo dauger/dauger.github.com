@@ -5,7 +5,7 @@ date: 2010-12-10 00:48
 comments: false
 categories: development 
 ---
-In my [last WPF related post](http://nerditorium.danielauger.com/blog/2010/08/10/time-until-productivity-in-wpf/) I spoke a bit about my WPF learning experience. I was fortunate enough to have an MSDN Universal subscription and any book I wanted via my employer as I went down the path. Unexpectedly, I recently received an email from a reader who wanted to learn WPF on a budget of $0.00. After thinking for a bit, I came to the conclusion that WPF can be learned without spending any money (assuming you have a computer that can run the tools). Below is a roadmap on how to do so.
+In my [last WPF related post](http://nerditorium.danielauger.com/blog/2010/08/10/time-until-productivity-in-wpf/) I spoke a bit about my WPF learning experience. I was fortunate enough to have an MSDN Universal subscription and any book I wanted via my employer as I went down the path. Unexpectedly, I recently received an email from a reader who wanted to learn WPF on a budget of $0.00. After thinking for a bit, I came to the conclusion that WPF can be learned without spending any money (assuming you have a computer that can run the tools). Below is a roadmap on how to do so. <!-- more -->
 
 ## Get the tools for free
 Visual Studio Express, which is able to create WPF apps can be found [here](http://www.microsoft.com/express/Windows/)
