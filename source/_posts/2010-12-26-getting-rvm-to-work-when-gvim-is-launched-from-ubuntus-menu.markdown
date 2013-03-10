@@ -5,7 +5,7 @@ date: 2010-12-26 23:01
 comments: false
 categories: ubuntu
 ---
-If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you've probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue:
+If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you've probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue: <!-- more -->
 
 Add the following code to your ~/.profile file:
 ```bash
