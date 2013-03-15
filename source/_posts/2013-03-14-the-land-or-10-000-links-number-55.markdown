@@ -20,5 +20,5 @@ reflects](http://gigaom.com/2013/03/13/chris-wetherll-google-reader/)
 [CORS open source contribution to ASP.NET and System.Web.Cors](http://brockallen.com/2013/03/13/cors-open-source-contribution-to-asp-net-and-system-web-cors/)
 
 ## Game over, man!
-[Video Commodore CDTV at CES 1991](http://youtu.be/YI7OeR852Rg)
+[Video: Commodore CDTV at CES 1991](http://youtu.be/YI7OeR852Rg)
 
