@@ -39,6 +39,9 @@ This isn't just a MBP issue. My iPad3 suffers from this as well.
 
 [Common OAuth2 Vulnerabilities and Mitigation Techniques](http://leastprivilege.com/2013/03/15/common-oauth2-vulnerabilities-and-mitigation-techniques/)
 
+## Insomnia
+[If They Have to Ask, You Didn't Affort it](http://amundsen.com/blog/archives/1141)
+
 ## Game over, man!
 [Valve, Capcom reveal Left 4 Dead 2 & Resident Evil 6 crossover DLC](http://www.computerandvideogames.com/396385/valve-capcom-reveal-left-4-dead-2-resident-evil-6-crossover-dlc/?cid=OTC-RSS&attr=CVG-News-RSS&utm_source=dlvr.it&utm_medium=twitter)
 
