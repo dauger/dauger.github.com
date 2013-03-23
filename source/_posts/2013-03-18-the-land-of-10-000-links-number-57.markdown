@@ -8,7 +8,7 @@ categories: links
 ## JabbaScript
 [Sublime Web Inspector](http://sokolovstas.github.com/SublimeWebInspector/)
 
-[Structuring a node.js web application with Express](http://ec2-54-232-84-48.sa-east-1.compute.amazonaws.com/structuring-a-node-js-web-application-with-express/)
+[Structuring a node.js web application with Express](http://zeppelin-ci.org/structuring-a-node-js-web-application-with-express/)
 
 ## You've Been Served
 [Do You Need Virtual Machine Manager and VMM 2012 SP1 Installation](http://blog.ittoby.com/2013/03/do-you-need-virtual-machine-manager-and.html)
