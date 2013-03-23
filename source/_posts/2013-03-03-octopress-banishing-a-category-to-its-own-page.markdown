@@ -5,7 +5,7 @@ date: 2013-03-03 18:11
 comments: true
 categories: [meta, octopress]
 ---
-Because this blog is made of up "[link posts]({{ root_url }}/blog/categories/links)" and "original content" posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:
+Because this blog is made of up [link posts]({{ root_url }}/blog/categories/links) and original content posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:
 
 1. Hide all link posts from the index page.
 2. Create a page just for link posts and provide navigation to it via the nav bar.
