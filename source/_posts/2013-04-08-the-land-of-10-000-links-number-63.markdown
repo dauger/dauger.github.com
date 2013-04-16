@@ -53,6 +53,8 @@ categories: links
 
 [Developers and Depression: End The Shame](http://www.tablexi.com/blog/2013/04/developers-and-depression-end-the-shame/txi-life/)
 
+[Analysis of Women & Programming](http://blog.nerdery.com/2013/04/women-programming/)
+
 ## Game over, man!
 [Rumour: Next Xbox 'will be expensive', May 21 reveal suggested](http://www.computerandvideogames.com/399649/rumour-next-xbox-will-be-expensive-may-21-reveal-suggested/)
 
