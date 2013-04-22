@@ -13,6 +13,7 @@ I've typically used code reviews for the following benefits:
 2. As a conversational learning experience (which can benefit both the reviewee and the reviewer).
 
 When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I've come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.
+<!-- more -->
 
 ## Last Friday
 
