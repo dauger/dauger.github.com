@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: retro computing and gaming | Welcome to My Nerditorium]]></title>
-  <link href="http://nerditorium.danielauger.com/blog/categories/retro-computing-and-gaming/atom.xml" rel="self"/>
-  <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-16T12:53:00-05:00</updated>
-  <id>http://nerditorium.danielauger.com/</id>
+  <link href="http://dauger.github.com/blog/categories/retro-computing-and-gaming/atom.xml" rel="self"/>
+  <link href="http://dauger.github.com/"/>
+  <updated>2013-06-16T12:55:59-05:00</updated>
+  <id>http://dauger.github.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Matt Chat - The YouTube Channel You Should be Watching if You Played Video Games in the 80s or 90s]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s/"/>
+    <link href="http://dauger.github.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s/"/>
     <updated>2011-05-15T18:42:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s</id>
+    <id>http://dauger.github.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s</id>
     <content type="html"><![CDATA[<p>Nerd service announcement:</p>
 
 <p>If you played video games in the 80s and/or 90s and have never heard of, or watched <a href="http://www.youtube.com/user/blacklily8">Matt Chat</a>, you you are in for a treat. One of my friends aptly described it as, “Behind the Music for vintage video games.” <!-- more --></p>

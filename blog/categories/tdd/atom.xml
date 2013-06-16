@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tdd | Welcome to My Nerditorium]]></title>
-  <link href="http://nerditorium.danielauger.com/blog/categories/tdd/atom.xml" rel="self"/>
-  <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-16T12:53:00-05:00</updated>
-  <id>http://nerditorium.danielauger.com/</id>
+  <link href="http://dauger.github.com/blog/categories/tdd/atom.xml" rel="self"/>
+  <link href="http://dauger.github.com/"/>
+  <updated>2013-06-16T12:55:59-05:00</updated>
+  <id>http://dauger.github.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Unit Testing a WebAPI DelegatingHandler with a DependencyScope via an HttpMessageInvoker]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
+    <link href="http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
     <updated>2013-02-05T20:49:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
+    <id>http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
     <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
 
 <ul>
@@ -55,9 +55,9 @@ public void SomeHandlerTest()
   
   <entry>
     <title type="html"><![CDATA[TDD Pattern: Broken Test as a Context Bookmark]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark/"/>
+    <link href="http://dauger.github.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark/"/>
     <updated>2013-01-21T22:13:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark</id>
+    <id>http://dauger.github.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark</id>
     <content type="html"><![CDATA[<p>I've been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: <!-- more --></p>
 
 <ol>
@@ -72,9 +72,9 @@ public void SomeHandlerTest()
   
   <entry>
     <title type="html"><![CDATA[Should .NET Auto Properties Have Unit Tests?]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests/"/>
+    <link href="http://dauger.github.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests/"/>
     <updated>2010-07-19T12:16:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests</id>
+    <id>http://dauger.github.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests</id>
     <content type="html"><![CDATA[<p><img class="left" src="/images/postimages/testing_vader_scaled_thumb.jpg">
 Should .NET auto properties be unit tested? It is very easy to argue that testing auto properties falls into the “testing the .NET framework” smell and is a waste of time. However, experience has shown me otherwise. This is something that I’ve gone back and forth on many times since auto properties were introduced. For the time being, I think I’ve reached a conclusion. That conclusion is yes. <!-- more --></p>
 

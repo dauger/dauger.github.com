@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meta | Welcome to My Nerditorium]]></title>
-  <link href="http://nerditorium.danielauger.com/blog/categories/meta/atom.xml" rel="self"/>
-  <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-16T12:53:00-05:00</updated>
-  <id>http://nerditorium.danielauger.com/</id>
+  <link href="http://dauger.github.com/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://dauger.github.com/"/>
+  <updated>2013-06-16T12:55:59-05:00</updated>
+  <id>http://dauger.github.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress: Banishing a Category to Its Own Page]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/"/>
+    <link href="http://dauger.github.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/"/>
     <updated>2013-03-03T18:11:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page</id>
+    <id>http://dauger.github.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page</id>
     <content type="html"><![CDATA[<p>Because this blog is made of up <a href="/blog/categories/links">link posts</a> and original content posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:</p>
 
 <ol>
