@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: development | Welcome to My Nerditorium]]></title>
-  <link href="http://dauger.github.com/blog/categories/development/atom.xml" rel="self"/>
-  <link href="http://dauger.github.com/"/>
-  <updated>2013-06-16T12:56:48-05:00</updated>
-  <id>http://dauger.github.com/</id>
+  <link href="http://nerditorium.danielauger.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://nerditorium.danielauger.com/"/>
+  <updated>2013-06-16T13:03:20-05:00</updated>
+  <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Code Review Hack: No IDE]]></title>
-    <link href="http://dauger.github.com/blog/2013/04/21/code-review-hack-no-ide/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide/"/>
     <updated>2013-04-21T20:21:00-05:00</updated>
-    <id>http://dauger.github.com/blog/2013/04/21/code-review-hack-no-ide</id>
+    <id>http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide</id>
     <content type="html"><![CDATA[<h2>I'm a fan of code reviews</h2>
 
 <p>I've typically used code reviews for the following benefits:</p>
@@ -92,9 +92,9 @@ KeyValuePair&lt;string, IEnumerable<string>> dateUtcHeader = request</p>
   
   <entry>
     <title type="html"><![CDATA[Unit Testing a WebAPI DelegatingHandler with a DependencyScope via an HttpMessageInvoker]]></title>
-    <link href="http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
     <updated>2013-02-05T20:49:00-06:00</updated>
-    <id>http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
+    <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
     <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
 
 <ul>
@@ -132,9 +132,9 @@ public void SomeHandlerTest()
   
   <entry>
     <title type="html"><![CDATA[Your ASP.NET.* Project is Not Just Your UI Layer]]></title>
-    <link href="http://dauger.github.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer/"/>
     <updated>2011-11-30T12:54:00-06:00</updated>
-    <id>http://dauger.github.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer</id>
+    <id>http://nerditorium.danielauger.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer</id>
     <content type="html"><![CDATA[<p>In <a href="http://lostechies.com/jimmybogard/2011/11/28/dealing-with-transactions/">this</a> post by Jimmy Bogard about “dealing with non-transactional operations that must happen if some transaction succeeds,” the often embraced, but sometimes criticized, <a href="https://www.google.com/search?gcx=c&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=session+per+request">Session Per Request</a> pattern (aka Transaction Per Request), came under fire in the comments.</p>
 
 <!-- more -->
@@ -158,9 +158,9 @@ public void SomeHandlerTest()
   
   <entry>
     <title type="html"><![CDATA[All Paths to a Sitefinity Image are not Equal]]></title>
-    <link href="http://dauger.github.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/"/>
     <updated>2011-08-08T15:41:00-05:00</updated>
-    <id>http://dauger.github.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal</id>
+    <id>http://nerditorium.danielauger.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal</id>
     <content type="html"><![CDATA[<p>Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of course, the first thing I did was open up Firebug to see where the time was being spent. To my surprise, the majority of the time was spent waiting for the initial response from the server. After a little digging, I narrowed down the time-sink to a custom widget that pulled images from a Sitefinity image album. In particular, the query to figure out which images to display was the source of slothness. <!-- more --></p>
 
 <p>A few things to note:</p>
@@ -210,9 +210,9 @@ This reduced the query time down to about .2 seconds.</p>
   
   <entry>
     <title type="html"><![CDATA[.NET Dependency Management in a Pre-Nuget World]]></title>
-    <link href="http://dauger.github.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/"/>
     <updated>2011-02-28T19:57:00-06:00</updated>
-    <id>http://dauger.github.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world</id>
+    <id>http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world</id>
     <content type="html"><![CDATA[<p>This post is an attempt to capture how my previous team dealt with dependency / package management. The team, at its largest point, consisted of about 15 developers. There were roughly 200 3rd party dlls, and roughly 150 internal dlls in the dependency mix. No single app needed all 350 dlls, but groups of these dlls were common to applications in the same domain space of the enterprise. 3rd party dlls were things such as the MS Enterprise Library, image conversion libraries, desktop scanner interop libraries, etc… Internal dlls were things such as common utility libraries, WCF service contracts, DTOs etc… <!-- more --></p>
 
 <p>Until the recent development of projects such as <a href="http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx">Nuget</a> and <a href="http://www.openwrap.org/">OpenWrap</a>, dependency management in .NET has been a big problem. The larger a development group’s topology is, the more of a pain point it is. Because this is the case, a lot of teams don’t even realize they are going to have issues until the pain is upon them. Additionally, I think the complexity of describing the problem has helped to keep package management as an elephant in the .NET room for a long time.</p>

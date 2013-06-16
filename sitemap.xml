@@ -2,460 +2,616 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://dauger.github.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/
+            http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/
+            http://nerditorium.danielauger.com/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests/
+            http://nerditorium.danielauger.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2010/08/10/time-until-productivity-in-wpf/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2010/11/22/katamari-code/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2010/12/10/learn-wpf-for-free/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/
+            http://nerditorium.danielauger.com/blog/2010/08/10/time-until-productivity-in-wpf/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2011/01/11/programming-is-a-craft/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2010/11/22/katamari-code/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/2010/12/10/learn-wpf-for-free/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2011/02/16/the-case-of-web-deploy-2-dot-0-and-the-missing-msdeploy-dot-exe/
+            http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/2011/01/11/programming-is-a-craft/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/
+            http://nerditorium.danielauger.com/blog/2011/02/16/the-case-of-web-deploy-2-dot-0-and-the-missing-msdeploy-dot-exe/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s/
+            http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/
+            http://nerditorium.danielauger.com/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer/
+            http://nerditorium.danielauger.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/07/welcome-to-my-nerditorium-2-dot-0/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/08/link-o-rama-number-1/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/09/link-o-rama-number-2/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/10/link-o-rama-number-3/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/11/link-o-rama-number-4/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/12/link-o-rama-number-5/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/13/link-o-rama-number-6/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/14/link-o-rama-number-7/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/15/link-o-rama-number-8/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/16/the-land-of-10-000-links-number-9/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/18/the-land-of-10-000-links-number-10/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/20/the-land-of-10-000-links-number-11/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/21/the-land-of-10-000-links-12/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark/
+            http://nerditorium.danielauger.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/22/the-land-of-10-000-links-number-13/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/23/the-land-of-10-000-links-number-14/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/24/the-land-of-10-000-links-number-15/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/26/the-land-of-10-000-links-number-16/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/27/the-land-of-10-000-links-17/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/28/the-land-of-10-000-links-number-18/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/29/the-land-of-10-000-links-number-19/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/01/30/the-land-of-10-000-links-number-20/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/01/the-land-of-10-000-links-number-21/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/02/the-land-of-10-000-links-number-22/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/03/the-land-of-10-000-links-number-23/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/04/the-land-of-10-000-links-number-24/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/05/the-land-of-10-000-links-number-25/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/
+            http://nerditorium.danielauger.com/blog/2013/01/07/welcome-to-my-nerditorium-2-dot-0/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/02/06/the-land-of-10-000-links-number-26/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/08/link-o-rama-number-1/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/02/07/the-land-of-10-000-links-number-27/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/09/link-o-rama-number-2/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/02/08/the-land-of-10-000-links-number-28/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/10/link-o-rama-number-3/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/02/09/the-land-of-10-000-links-number-29/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/10/the-land-of-10-000-links-number-30/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/11/the-land-of-10-000-links-number-31/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/12/the-land-of-10-000-links-number-32/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/13/the-land-of-10-000-links-number-33/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/14/the-land-of-10-000-links-number-34/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/15/the-land-of-10-000-links-number-35/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/17/the-land-of-10-000-links-number-36/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/18/the-land-of-10-000-links-number-37/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/19/the-land-of-10-000-links-number-38/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/20/the-land-of-10-000-links-number-39/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/21/the-land-of-10-000-links-number-40/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/24/the-land-of-10-000-links-number-41/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/25/the-land-of-10-000-links-number-42/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/26/the-land-of-10-000-links-number-43/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/27/the-land-of-10-000-links-number-44/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/02/28/the-land-of-10-000-links-number-45/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/03/01/the-land-of-10-000-links-number-46/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dauger.github.com/blog/2013/03/03/the-land-of-10-000-links-number-47/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/11/link-o-rama-number-4/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/
+            http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/04/the-land-of-10-000-links-number-48/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/12/link-o-rama-number-5/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/05/the-land-of-10-000-links-number-49/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/13/link-o-rama-number-6/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/14/link-o-rama-number-7/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/15/link-o-rama-number-8/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://dauger.github.com/blog/2013/03/06/the-land-of-10-000-links-number-50-fin/
+            http://nerditorium.danielauger.com/blog/2013/01/16/the-land-of-10-000-links-number-9/
         </loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/07/the-land-of-10-000-links-number-51/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/18/the-land-of-10-000-links-number-10/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/09/the-land-of-10-000-links-number-52/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/20/the-land-of-10-000-links-number-11/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/12/the-land-of-10-000-links-number-53/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/21/the-land-of-10-000-links-12/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/13/the-land-of-10-000-links-number-54/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/14/the-land-or-10-000-links-number-55/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/22/the-land-of-10-000-links-number-13/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/16/the-land-of-10-000-links-number-56/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/23/the-land-of-10-000-links-number-14/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/18/the-land-of-10-000-links-number-57/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/24/the-land-of-10-000-links-number-15/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/22/the-land-of-10-000-links-number-58/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/26/the-land-of-10-000-links-number-16/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/24/the-land-of-10-000-links-number-59/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>http://nerditorium.danielauger.com/blog/2013/01/27/the-land-of-10-000-links-17/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/26/the-land-of-10-000-links-number-60/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/28/the-land-of-10-000-links-number-18/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/28/the-land-of-10-000-links-number-61/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/29/the-land-of-10-000-links-number-19/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/03/29/the-land-of-10-000-links-number-62/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/01/30/the-land-of-10-000-links-number-20/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/08/the-land-of-10-000-links-number-63/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/01/the-land-of-10-000-links-number-21/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/16/the-land-of-10-000-links-number-64/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/02/the-land-of-10-000-links-number-22/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/18/the-land-of-10-000-links-number-65/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/03/the-land-of-10-000-links-number-23/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/21/code-review-hack-no-ide/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/04/the-land-of-10-000-links-number-24/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/21/the-land-of-10-000-links-number-66/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/05/the-land-of-10-000-links-number-25/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/28/the-land-of-10-000-links-number-67/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/04/29/the-land-of-10-000-links-number-68/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/06/the-land-of-10-000-links-number-26/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/01/the-land-of-10-000-links-number-69/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/07/the-land-of-10-000-links-number-27/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/05/the-land-of-10-000-links-number-70/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/08/the-land-of-10-000-links-number-28/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/10/the-land-of-10-000-links-number-71/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/09/the-land-of-10-000-links-number-29/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/12/the-land-of-10-000-links-number-72/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/10/the-land-of-10-000-links-number-30/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/13/the-land-of-10-000-links-number-73/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/11/the-land-of-10-000-links-number-31/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/16/the-land-of-10-000-links-number-74/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/12/the-land-of-10-000-links-number-32/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/21/the-land-of-10-000-links-number-75/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/13/the-land-of-10-000-links-number-33/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/22/the-land-of-10-000-links-number-76/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/14/the-land-of-10-000-links-number-34/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/25/the-land-of-10-000-links-number-77/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/15/the-land-of-10-000-links-number-35/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/28/the-land-of-10-000-links-number-78/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/17/the-land-of-10-000-links-number-36/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/29/the-land-of-10-000-links-number-79/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/18/the-land-of-10-000-links-number-37/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/05/30/the-land-of-10-000-links-number-80/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/19/the-land-of-10-000-links-number-38/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/02/the-land-of-10-000-links-number-81/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/20/the-land-of-10-000-links-number-39/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/03/the-land-of-10-000-links-number-82/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/21/the-land-of-10-000-links-number-40/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/05/the-land-of-10-000-links-number-83/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/24/the-land-of-10-000-links-number-41/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/09/the-land-of-10-000-links-number-84/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/25/the-land-of-10-000-links-number-42/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/14/the-land-of-10-000-links-number-85/</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/26/the-land-of-10-000-links-number-43/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/2013/06/16/the-land-of-10-000-links-number-86/</loc>
-        <lastmod>2013-06-16T12:48:48-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/27/the-land-of-10-000-links-number-44/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/blog/archives/</loc>
-        <lastmod>2013-06-16T12:48:48-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/02/28/the-land-of-10-000-links-number-45/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/</loc>
-        <lastmod>2013-06-16T12:48:48-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/01/the-land-of-10-000-links-number-46/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
     <url>
-        <loc>http://dauger.github.com/robots.txt</loc>
-        <lastmod>2013-06-15T13:36:11-05:00</lastmod>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/03/the-land-of-10-000-links-number-47/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/04/the-land-of-10-000-links-number-48/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/05/the-land-of-10-000-links-number-49/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/06/the-land-of-10-000-links-number-50-fin/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/07/the-land-of-10-000-links-number-51/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/09/the-land-of-10-000-links-number-52/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/12/the-land-of-10-000-links-number-53/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/13/the-land-of-10-000-links-number-54/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/14/the-land-or-10-000-links-number-55/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/16/the-land-of-10-000-links-number-56/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/18/the-land-of-10-000-links-number-57/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/22/the-land-of-10-000-links-number-58/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/24/the-land-of-10-000-links-number-59/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/26/the-land-of-10-000-links-number-60/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/28/the-land-of-10-000-links-number-61/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/03/29/the-land-of-10-000-links-number-62/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/08/the-land-of-10-000-links-number-63/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/16/the-land-of-10-000-links-number-64/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/18/the-land-of-10-000-links-number-65/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/21/the-land-of-10-000-links-number-66/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/28/the-land-of-10-000-links-number-67/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/04/29/the-land-of-10-000-links-number-68/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/01/the-land-of-10-000-links-number-69/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/05/the-land-of-10-000-links-number-70/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/10/the-land-of-10-000-links-number-71/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/12/the-land-of-10-000-links-number-72/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/13/the-land-of-10-000-links-number-73/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/16/the-land-of-10-000-links-number-74/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/21/the-land-of-10-000-links-number-75/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/22/the-land-of-10-000-links-number-76/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/25/the-land-of-10-000-links-number-77/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/28/the-land-of-10-000-links-number-78/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/29/the-land-of-10-000-links-number-79/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/05/30/the-land-of-10-000-links-number-80/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/02/the-land-of-10-000-links-number-81/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/05/the-land-of-10-000-links-number-83/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/09/the-land-of-10-000-links-number-84/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://nerditorium.danielauger.com/blog/2013/06/16/the-land-of-10-000-links-number-86/
+        </loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/blog/archives/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nerditorium.danielauger.com/robots.txt</loc>
+        <lastmod>2013-06-16T13:01:51-05:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dauger.github.com/sitemap.xml 
+Sitemap: http://nerditorium.danielauger.com/sitemap.xml 

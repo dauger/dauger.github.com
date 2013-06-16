@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: webapi | Welcome to My Nerditorium]]></title>
-  <link href="http://dauger.github.com/blog/categories/webapi/atom.xml" rel="self"/>
-  <link href="http://dauger.github.com/"/>
-  <updated>2013-06-16T12:56:48-05:00</updated>
-  <id>http://dauger.github.com/</id>
+  <link href="http://nerditorium.danielauger.com/blog/categories/webapi/atom.xml" rel="self"/>
+  <link href="http://nerditorium.danielauger.com/"/>
+  <updated>2013-06-16T13:03:20-05:00</updated>
+  <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Unit Testing a WebAPI DelegatingHandler with a DependencyScope via an HttpMessageInvoker]]></title>
-    <link href="http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
+    <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
     <updated>2013-02-05T20:49:00-06:00</updated>
-    <id>http://dauger.github.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
+    <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
     <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
 
 <ul>
