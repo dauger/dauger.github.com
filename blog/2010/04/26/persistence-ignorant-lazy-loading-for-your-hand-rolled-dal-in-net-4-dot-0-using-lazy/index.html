@@ -1,0 +1,564 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Persistence Ignorant Lazy Loading for Your Hand-Rolled DAL in .NET 4.0 Using Lazy<T> - Welcome to My Nerditorium</title>
+  <meta name="author" content="Daniel Auger">
+
+  
+  <meta name="description" content="This post is a brief update to the .NET 3.5 article I posted about P.I. lazy loading. The only major change I have made to the code is to use the new &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37319998-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Welcome to My Nerditorium</a></h1>
+  
+    <h2>Thoughts on coding, gaming, and nerdy media.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:nerditorium.danielauger.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/links">10,000 Links</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Persistence Ignorant Lazy Loading for Your Hand-Rolled DAL in .NET 4.0 Using Lazy<T></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-04-26T13:54:00-05:00" pubdate data-updated="true">Apr 26<span>th</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>This post is a brief update to the .NET 3.5 article I posted about <a href="/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/">P.I. lazy loading</a>. The only major change I have made to the code is to use the new  <a href="http://msdn.microsoft.com/en-us/library/dd642331.aspx">Lazy&lt;T></a> class that was introduced in .NET 4.0. This considerably cleans up the LazyLoadingList&lt;T> class from the previous post. <!-- more --></p>
+
+<p>Here is the new LazyLoadingList&lt;T>:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+<span class='line-number'>57</span>
+<span class='line-number'>58</span>
+<span class='line-number'>59</span>
+<span class='line-number'>60</span>
+<span class='line-number'>61</span>
+<span class='line-number'>62</span>
+<span class='line-number'>63</span>
+<span class='line-number'>64</span>
+<span class='line-number'>65</span>
+<span class='line-number'>66</span>
+<span class='line-number'>67</span>
+<span class='line-number'>68</span>
+<span class='line-number'>69</span>
+<span class='line-number'>70</span>
+<span class='line-number'>71</span>
+<span class='line-number'>72</span>
+<span class='line-number'>73</span>
+<span class='line-number'>74</span>
+<span class='line-number'>75</span>
+<span class='line-number'>76</span>
+<span class='line-number'>77</span>
+<span class='line-number'>78</span>
+<span class='line-number'>79</span>
+<span class='line-number'>80</span>
+<span class='line-number'>81</span>
+<span class='line-number'>82</span>
+<span class='line-number'>83</span>
+<span class='line-number'>84</span>
+<span class='line-number'>85</span>
+<span class='line-number'>86</span>
+<span class='line-number'>87</span>
+<span class='line-number'>88</span>
+<span class='line-number'>89</span>
+<span class='line-number'>90</span>
+<span class='line-number'>91</span>
+<span class='line-number'>92</span>
+<span class='line-number'>93</span>
+<span class='line-number'>94</span>
+<span class='line-number'>95</span>
+<span class='line-number'>96</span>
+<span class='line-number'>97</span>
+<span class='line-number'>98</span>
+<span class='line-number'>99</span>
+</pre></td><td class='code'><pre><code class='csharp'><span class='line'><span class="k">public</span> <span class="k">class</span> <span class="nc">LazyLoadingList</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;</span> <span class="p">:</span> <span class="n">IList</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>     <span class="k">private</span> <span class="n">Lazy</span><span class="p">&lt;</span><span class="n">IList</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;&gt;</span> <span class="n">_lazyList</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="nf">LazyLoadingList</span><span class="p">(</span><span class="n">Lazy</span><span class="p">&lt;</span><span class="n">IList</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;&gt;</span> <span class="n">lazyList</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span> <span class="p">=</span> <span class="n">lazyList</span><span class="p">;</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#region Implementation of IEnumerable</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="n">IEnumerator</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;</span> <span class="n">GetEnumerator</span><span class="p">()</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">GetEnumerator</span><span class="p">();</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="n">IEnumerator</span> <span class="n">IEnumerable</span><span class="p">.</span><span class="n">GetEnumerator</span><span class="p">()</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">GetEnumerator</span><span class="p">();</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#endregion</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#region Implementation of ICollection&lt;T&gt;</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="k">void</span> <span class="nf">Add</span><span class="p">(</span><span class="n">T</span> <span class="n">item</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="n">item</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="k">void</span> <span class="nf">Clear</span><span class="p">()</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Clear</span><span class="p">();</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="kt">bool</span> <span class="nf">Contains</span><span class="p">(</span><span class="n">T</span> <span class="n">item</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Contains</span><span class="p">(</span><span class="n">item</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="k">void</span> <span class="nf">CopyTo</span><span class="p">(</span><span class="n">T</span><span class="p">[]</span> <span class="n">array</span><span class="p">,</span> <span class="kt">int</span> <span class="n">arrayIndex</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">CopyTo</span><span class="p">(</span><span class="n">array</span><span class="p">,</span> <span class="n">arrayIndex</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="kt">bool</span> <span class="nf">Remove</span><span class="p">(</span><span class="n">T</span> <span class="n">item</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Remove</span><span class="p">(</span><span class="n">item</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="kt">int</span> <span class="n">Count</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">get</span>
+</span><span class='line'>        <span class="p">{</span>
+</span><span class='line'>           <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Count</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="kt">bool</span> <span class="n">IsReadOnly</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">get</span>
+</span><span class='line'>        <span class="p">{</span>
+</span><span class='line'>           <span class="k">return</span> <span class="p">((</span><span class="n">ICollection</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;)</span><span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">).</span><span class="n">IsReadOnly</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#endregion</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#region Implementation of IList&lt;T&gt;</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="kt">int</span> <span class="nf">IndexOf</span><span class="p">(</span><span class="n">T</span> <span class="n">item</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">IndexOf</span><span class="p">(</span><span class="n">item</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="k">void</span> <span class="nf">Insert</span><span class="p">(</span><span class="kt">int</span> <span class="n">index</span><span class="p">,</span> <span class="n">T</span> <span class="n">item</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">Insert</span><span class="p">(</span><span class="n">index</span><span class="p">,</span> <span class="n">item</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="k">void</span> <span class="nf">RemoveAt</span><span class="p">(</span><span class="kt">int</span> <span class="n">index</span><span class="p">)</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">.</span><span class="n">RemoveAt</span><span class="p">(</span><span class="n">index</span><span class="p">);</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="k">public</span> <span class="n">T</span> <span class="k">this</span><span class="p">[</span><span class="kt">int</span> <span class="n">index</span><span class="p">]</span>
+</span><span class='line'>     <span class="p">{</span>
+</span><span class='line'>        <span class="k">get</span>
+</span><span class='line'>        <span class="p">{</span>
+</span><span class='line'>           <span class="k">return</span> <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">[</span><span class="n">index</span><span class="p">];</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>        <span class="k">set</span>
+</span><span class='line'>        <span class="p">{</span>
+</span><span class='line'>           <span class="n">_lazyList</span><span class="p">.</span><span class="n">Value</span><span class="p">[</span><span class="n">index</span><span class="p">]</span> <span class="p">=</span> <span class="k">value</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>     <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>     <span class="cp">#endregion</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Here are the changes to the invoking code:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+</pre></td><td class='code'><pre><code class='csharp'><span class='line'><span class="k">public</span> <span class="k">class</span> <span class="nc">CompanyDAO</span> <span class="p">:</span> <span class="n">ICompanyDAO</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>   <span class="n">List</span><span class="p">&lt;</span><span class="n">Company</span><span class="p">&gt;</span> <span class="n">_companiesInDatabase</span> <span class="p">=</span> <span class="k">new</span> <span class="n">List</span><span class="p">&lt;</span><span class="n">Company</span><span class="p">&gt;</span>
+</span><span class='line'>         <span class="p">{</span>
+</span><span class='line'>             <span class="k">new</span> <span class="nf">Company</span><span class="p">(){</span><span class="n">Name</span> <span class="p">=</span> <span class="s">&quot;ACME&quot;</span><span class="p">},</span>
+</span><span class='line'>             <span class="k">new</span> <span class="nf">Company</span><span class="p">(){</span><span class="n">Name</span> <span class="p">=</span> <span class="s">&quot;Hardees&quot;</span><span class="p">}</span>
+</span><span class='line'>         <span class="p">};</span>
+</span><span class='line'>
+</span><span class='line'>   <span class="cp">#region Implementation of ICompanyDAO</span>
+</span><span class='line'>
+</span><span class='line'>   <span class="k">public</span> <span class="n">Company</span> <span class="nf">GetByName</span><span class="p">(</span><span class="kt">string</span> <span class="n">name</span><span class="p">)</span>
+</span><span class='line'>   <span class="p">{</span>
+</span><span class='line'>      <span class="c1">// Write to console to demonstrate when loading is happening</span>
+</span><span class='line'>      <span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">&quot;---Loading Company---&quot;</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="c1">// Pretend we are calling / mapping from a store procedure</span>
+</span><span class='line'>      <span class="kt">var</span> <span class="n">company</span> <span class="p">=</span> <span class="n">_companiesInDatabase</span><span class="p">.</span><span class="n">Where</span><span class="p">(</span><span class="n">x</span> <span class="p">=&gt;</span> <span class="n">x</span><span class="p">.</span><span class="n">Name</span> <span class="p">==</span> <span class="n">name</span><span class="p">).</span><span class="n">First</span><span class="p">();</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>      <span class="c1">// Create / add the lazily loaded collection</span>
+</span><span class='line'>      <span class="k">if</span> <span class="p">(</span><span class="n">company</span> <span class="p">!=</span> <span class="k">null</span><span class="p">)</span>
+</span><span class='line'>      <span class="p">{</span>
+</span><span class='line'>         <span class="kt">var</span> <span class="n">lazyLoader</span> <span class="p">=</span> <span class="k">new</span> <span class="n">Lazy</span><span class="p">&lt;</span><span class="n">IList</span><span class="p">&lt;</span><span class="n">Employee</span><span class="p">&gt;&gt;(</span>
+</span><span class='line'>               <span class="p">()</span> <span class="p">=&gt;</span>
+</span><span class='line'>                     <span class="p">{</span>
+</span><span class='line'>                        <span class="kt">var</span> <span class="n">employeeDAO</span> <span class="p">=</span> <span class="k">new</span> <span class="n">EmployeeDAO</span><span class="p">();</span>
+</span><span class='line'>                        <span class="k">return</span> <span class="n">employeeDAO</span><span class="p">.</span><span class="n">GetByCompanyName</span><span class="p">(</span><span class="n">name</span><span class="p">).</span><span class="n">ToList</span><span class="p">();</span>
+</span><span class='line'>                     <span class="p">}</span>
+</span><span class='line'>            <span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'>         <span class="n">company</span><span class="p">.</span><span class="n">Employees</span> <span class="p">=</span> <span class="k">new</span> <span class="n">LazyLoadingList</span><span class="p">&lt;</span><span class="n">Employee</span><span class="p">&gt;(</span><span class="n">lazyLoader</span><span class="p">);</span>
+</span><span class='line'>      <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="k">return</span> <span class="n">company</span><span class="p">;</span>
+</span><span class='line'>   <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>   <span class="cp">#endregion</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p><a href="https://github.com/dauger/BlogSamples/tree/master/2010_04_26_LazyLoadingCollectionsWithLazyT">Source Code</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Daniel Auger</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-04-26T13:54:00-05:00" pubdate data-updated="true">Apr 26<span>th</span>, 2010</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/development/'>development</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/" title="Previous Post: Practical Persistence Ignorant Lazy Loading For Your Hand-Rolled DAL">&laquo; Practical Persistence Ignorant Lazy Loading For Your Hand-Rolled DAL</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2010/07/19/should-net-auto-properties-have-unit-tests/" title="Next Post: Should .NET Auto Properties Have Unit Tests?">Should .NET Auto Properties Have Unit Tests? &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/06/16/the-land-of-10-000-links-number-86/">The Land of 10,000 Links #86</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/14/the-land-of-10-000-links-number-85/">The Land of 10,000 Links #85</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/09/the-land-of-10-000-links-number-84/">The Land of 10,000 Links #84</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/05/the-land-of-10-000-links-number-83/">The Land of 10,000 Links #83</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/03/the-land-of-10-000-links-number-82/">The Land of 10,000 Links #82</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Categories</h1>
+  <ul id="categories">
+    <li class='category'><a href='/blog/categories/bash/'>bash (1)</a></li>
+<li class='category'><a href='/blog/categories/development/'>development (13)</a></li>
+<li class='category'><a href='/blog/categories/links/'>links (86)</a></li>
+<li class='category'><a href='/blog/categories/meta/'>meta (1)</a></li>
+<li class='category'><a href='/blog/categories/octopress/'>octopress (1)</a></li>
+<li class='category'><a href='/blog/categories/osx/'>osx (1)</a></li>
+<li class='category'><a href='/blog/categories/pebkac/'>pebkac (1)</a></li>
+<li class='category'><a href='/blog/categories/retro-computing-and-gaming/'>retro computing and gaming (1)</a></li>
+<li class='category'><a href='/blog/categories/tdd/'>tdd (3)</a></li>
+<li class='category'><a href='/blog/categories/ubuntu/'>ubuntu (1)</a></li>
+<li class='category'><a href='/blog/categories/webapi/'>webapi (1)</a></li>
+
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("danielauger", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a> Copyright &copy; 2008 - 2013 | Daniel Auger |
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+<p>
+Disclaimer: The opinions expressed herein are my own personal opinions and do not represent the views of my employer.
+</p>
+
+</footer>
+  
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

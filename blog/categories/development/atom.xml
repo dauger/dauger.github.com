@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: development | Welcome to My Nerditorium]]></title>
+  <link href="http://nerditorium.danielauger.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://nerditorium.danielauger.com/"/>
+  <updated>2013-06-16T12:53:00-05:00</updated>
+  <id>http://nerditorium.danielauger.com/</id>
+  <author>
+    <name><![CDATA[Daniel Auger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code Review Hack: No IDE]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide/"/>
+    <updated>2013-04-21T20:21:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide</id>
+    <content type="html"><![CDATA[<h2>I'm a fan of code reviews</h2>
+
+<p>I've typically used code reviews for the following benefits:</p>
+
+<ol>
+<li>As a code quality measure. I think that code reviews rank right up there with TDD as a code quality practice. When I'm calling the shots on a project, I like to have "code review" being a requirement of something being considered "done".</li>
+<li>As a conversational learning experience (which can benefit both the reviewee and the reviewer).</li>
+</ol>
+
+
+<p>When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I've come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.</p>
+
+<!-- more -->
+
+
+<h2>Last Friday</h2>
+
+<p>Last Friday was my annual code review at work. At <a href="http://nerdery.com">The Nerdery</a>, all developers get a special code review as part of the annual review process. This code review is not about catching immediate code quality issues. Rather, it is a conversation about some code that you've written in the past. This is so strengths, areas of improvement, what you've learned since, and overall skill can be assessed. Because the code under review can be "old", the conversation about the code can be more important than evaluating the code on its own merits.</p>
+
+<p>The code review tool we use is custom built. It is not entirely unlike <a href="http://www.atlassian.com/software/crucible">Crucible</a>. The tool's focus is about reading code and adding comments and tasks to possible issues. It has syntax highlighting, but it has no other IDE or advanced text editor features.</p>
+
+<h2>Reviewing and talking about code without the crutch of tooling can be a humbling experience</h2>
+
+<p>So... back to last Friday. I'm in my annual code review with one of my trusted peers. We've both been doing .NET development since .NET was released. We're reviewing an HMAC request signing WebAPI message handler I wrote about 3 months ago. We come across this:</p>
+
+<p>```csharp
+ var dateUtcHeader = request</p>
+
+<pre><code>    .Headers
+    .FirstOrDefault(x =&gt; x.Key.ToUpper() == CustomHeaders.DateUtc.ToUpper());
+
+        try
+        {
+            // Prefer the use of the date-utc header over the Date header
+            if (dateUtcHeader.Value != null)
+            {
+                // Try to parse the date as RFC1123 date
+</code></pre>
+
+<p>```</p>
+
+<p>The conversation then goes something like this:</p>
+
+<p>Peer: "Just curious... so why don't you need to check if the return value of FirstOrDefault is null?"</p>
+
+<p>Me: "Huh... Good question!"</p>
+
+<p>This was followed by us spewing out a few lines of thought, only to backtrack. To be clear, he wasn't trying to ding me. The underlying context here is that FirstOrDefault often requires a null check, but Resharper would have let me know if it was needed.</p>
+
+<p>Needless to say, this was a pretty humbling inquiry, and it lead to conversing about code (which was the point of the entire exercise).</p>
+
+<h2>Aftermath</h2>
+
+<p>As any curious programmer would, I later went back to my IDE to solve the mystery. What I found makes complete sense once you take a deeper look at the types involved.</p>
+
+<p>I know what some of you are thinking right now. If I would have used the full type in the declaration instead of var, things would have been much clearer. Here is what it would have looked like:</p>
+
+<p>```csharp
+KeyValuePair&lt;string, IEnumerable<string>> dateUtcHeader = request</p>
+
+<pre><code>.Headers
+.FirstOrDefault(x =&gt; x.Key.ToUpper() == CustomHeaders.DateUtc.ToUpper());
+</code></pre>
+
+<p>```</p>
+
+<p>This might be the reveal for some people. If not, here is the rub: <a href="http://msdn.microsoft.com/en-us/library/5tbh8a42.aspx">KeyValuePair&lt;TKey, TValue></a> is a Structure, and therefore cannot be null.</p>
+
+<p>Before someone links to it: <a href="http://www.charlespetzold.com/etc/doesvisualstudiorotthemind.html">Does Visual Studio Rot the Mind?</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unit Testing a WebAPI DelegatingHandler with a DependencyScope via an HttpMessageInvoker]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
+    <updated>2013-02-05T20:49:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
+    <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
+
+<ul>
+<li><p>Testing DelegatingHandlers in isolation via HttpMessageInvoker as outlined here: <a href="http://restoncode.azurewebsites.net/blog/2012/10/16/unit-testing-message-handler-in-asp-dot-net-webapi/">Unit Testing Message Handler in Asp.net WebAPI</a></p></li>
+<li><p>Testing "everything" via an in-memory HttpServer as outlined here: <a href="http://www.strathweb.com/2012/06/asp-net-web-api-integration-testing-with-in-memory-hosting/">ASP.NET Web API integration testing with in-memory hosting</a></p></li>
+</ul>
+
+
+<p>Testing with dependencies is straightforward with in-memory hosting because it is obvious that you can provide the HttpServer instance with an HttpConfiguration object containing an IDependencyResolver. However, when it comes to testing handlers via an HttpMessageInvoker, it is not entirely obvious or discoverable as to how you can wire up an HttpConfiguration (and therefore an IDependencyResolver).</p>
+
+<p>Here is the secret sauce: you can add an HttpConfiguration to a request object via a "stringly typed" <em>"MS_HttpConfiguration"</em> property on the HttpRequestMessage object.</p>
+
+<p>``` csharp<br/>
+[TestMethod]
+public void SomeHandlerTest()
+{
+   // ... other test setup
+   // ... set up handlerUnderTest including inner test handler</p>
+
+<p>   request = new HttpRequestMessage(HttpMethod.Get, serverUrl + "/resource/1?someParam=foo");
+   request.Properties["MS_HttpConfiguration"] = MethodThatReturnsAnHttpConfigWithDepResolver();</p>
+
+<p>   invoker = new HttpMessageInvoker(handlerUnderTest);</p>
+
+<p>   var response = invoker.SendAsync(request, new CancellationToken())</p>
+
+<pre><code>                              .Result;
+</code></pre>
+
+<p>   // ... asserts
+}
+```</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Your ASP.NET.* Project is Not Just Your UI Layer]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer/"/>
+    <updated>2011-11-30T12:54:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2011/11/30/your-asp-dot-net-dot-star-project-is-not-just-your-ui-layer</id>
+    <content type="html"><![CDATA[<p>In <a href="http://lostechies.com/jimmybogard/2011/11/28/dealing-with-transactions/">this</a> post by Jimmy Bogard about “dealing with non-transactional operations that must happen if some transaction succeeds,” the often embraced, but sometimes criticized, <a href="https://www.google.com/search?gcx=c&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=session+per+request">Session Per Request</a> pattern (aka Transaction Per Request), came under fire in the comments.</p>
+
+<!-- more -->
+
+
+<p><img src="/images/postimages/infrastructure_transactions_comments.png"></p>
+
+<p>I’ve had this conversation with other developers who have raised similar concerns before, and the reason brought up against going with this pattern is based off of the notion that the “Web” project must not orchestrate or indirectly know about the other layers of the application because it is the “UI” layer.</p>
+
+<p>The fact is, that the web project houses two conceptual layers:</p>
+
+<ol>
+<li>It houses the UI layer for the application.</li>
+<li>It houses the entry point / bootstrapping for the infrastructure of the application. It is the application.</li>
+</ol>
+
+
+<p>I am perfectly fine with the plumbing of the web project directly managing transactions. Some part of the application must manage this, and I a believe that the it should be pushed as far out to the seams of the application platform as possible.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[All Paths to a Sitefinity Image are not Equal]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/"/>
+    <updated>2011-08-08T15:41:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal</id>
+    <content type="html"><![CDATA[<p>Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of course, the first thing I did was open up Firebug to see where the time was being spent. To my surprise, the majority of the time was spent waiting for the initial response from the server. After a little digging, I narrowed down the time-sink to a custom widget that pulled images from a Sitefinity image album. In particular, the query to figure out which images to display was the source of slothness. <!-- more --></p>
+
+<p>A few things to note:</p>
+
+<ul>
+<li>There were about 250 image albums in the CMS (all but 5 or so of them were empty at the time of discovery, however).</li>
+<li>There were roughly 30 images in the album we were querying against.</li>
+<li>When the original query was written, there were only a few images in the system, and that is why the issue wasn’t apparent right when the query was written.
+Here’s an approximation of the original call to retrieve the images through the Sitefinity API:</li>
+</ul>
+
+
+<p>``` csharp
+var libManager = LibrariesManager.GetManager();</p>
+
+<p>var imagesFromFoo = libManager.GetImages()</p>
+
+<pre><code>    .Where(i =&gt; 
+        i.Album.Title.Equals("Foo") 
+        &amp;&amp; i.Status == ContentLifecycleStatus.Live)
+    .ToList();
+</code></pre>
+
+<p>```</p>
+
+<p>In this bit of code, we are querying for all images that belong to the image album named “Foo”. Note that the query is structured in a way where we query through the image object to determine what album it belongs to.</p>
+
+<p>The above query took about 2 seconds to return roughly 30 Sitefinity Image objects. This would not do. Therefore, I took to tweaking the query. I tried several different things while maintaining the original approach, but since Sitefinity’s LINQ provider isn’t a complete implementation, I couldn’t make much headway.</p>
+
+<p>I eventually decided to rethink the approach and query for the images by going in through the album instead of going through the image object.</p>
+
+<p>``` csharp
+var libManager = LibrariesManager.GetManager();</p>
+
+<p>var imagesFromFoo = libManager.GetAlbums()</p>
+
+<pre><code>    .Where(a =&gt; a.Title.Equals("Foo"))
+    .First()
+    .Images.Where(i =&gt; i.Status == ContentLifecycleStatus.Live)
+           .ToList();
+</code></pre>
+
+<p>```
+This reduced the query time down to about .2 seconds.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[.NET Dependency Management in a Pre-Nuget World]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/"/>
+    <updated>2011-02-28T19:57:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world</id>
+    <content type="html"><![CDATA[<p>This post is an attempt to capture how my previous team dealt with dependency / package management. The team, at its largest point, consisted of about 15 developers. There were roughly 200 3rd party dlls, and roughly 150 internal dlls in the dependency mix. No single app needed all 350 dlls, but groups of these dlls were common to applications in the same domain space of the enterprise. 3rd party dlls were things such as the MS Enterprise Library, image conversion libraries, desktop scanner interop libraries, etc… Internal dlls were things such as common utility libraries, WCF service contracts, DTOs etc… <!-- more --></p>
+
+<p>Until the recent development of projects such as <a href="http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx">Nuget</a> and <a href="http://www.openwrap.org/">OpenWrap</a>, dependency management in .NET has been a big problem. The larger a development group’s topology is, the more of a pain point it is. Because this is the case, a lot of teams don’t even realize they are going to have issues until the pain is upon them. Additionally, I think the complexity of describing the problem has helped to keep package management as an elephant in the .NET room for a long time.</p>
+
+<p>Since there has been abundant discussion on this issue lately, I’m going to skip describing the problems with dependency management and get straight into what we tried over the years, and what the final solution ended up being. It’s important to note that my team used TFS (2008) for source control because some of the steps we took were in response to TFS’ weaknesses.</p>
+
+<h2>First attempt ending in Failure:</h2>
+
+<ul>
+<li><strong>Manage all 3rd party dlls by putting them in a [sln]\bin folder (tracked by TFS).</strong></li>
+<li><strong>Manage all internal dependencies as shared projects across multiple slns.</strong></li>
+</ul>
+
+
+<p>I’m sure some of you are already cringing after reading the last bullet point, but you’ll have to admit it is the first solution that comes to mind to a lot of developers. Additionally, it is a very simple solution. The biggest issue with this solution is with sharing a project over several slns. Unfortunately, any bit of code in those shared projects is easily changeable from multiple slns; therefore it is very easy to break several slns in one fell swoop. Secondly configuration management goes out the window because every time a sln is compiled, each shared project gets a new version that bypasses any sort of change management.</p>
+
+<h2>Second attempt ending in failure:</h2>
+
+<ul>
+<li><strong>Manage all 3rd party and internal dlls by putting them in a [sln]\bin folder.</strong></li>
+</ul>
+
+
+<p>This solution complicates things slightly (in a positive way) by requiring each sln to use a proper release of all internal dlls; therefore you are able to have some degree of configuration management. However, this solution failed for us because of one simple fact: TFS does not track binaries well. We never ran into this weakness with the first solution because all of the 3rd party dlls were set-and-forget. They never changed after setting the initial reference. The internal dlls however, would change daily, or even hourly. At first this seemed like the perfect solution, however all sorts of strange errors started occurring. One person would get latest and everything would work, but another person would get latest and have errors. TFS simply could not tell if you needed a new version of the dlls in the /bin folder. Sadly, even a “clean all" and "get specific version" didn't fix things a lot of the time.</p>
+
+<h2>Third attempt ending in Success:</h2>
+
+<ul>
+<li><strong>Build a custom package management system.</strong></li>
+</ul>
+
+
+<p>Our custom package management system worked thusly: We created a network share. For each logical release (i.g. MS EntLib, Internal.Common.Util) we created both a [networkShare]\[package]\LatestRelease folder and a [networkShare]\[package]\Release_[version number] folder. We then created a console EXE with a bunch of options that would: 1) go and grab all of the latest dlls for all projects and dump them into one pre-defined “latest” folder on the developer PC and 2) Recreate the “releases” tree structure on the developer PC. This way, developers have the ability to drink from the fire-hose (the latest folder) or go for set releases (from the releases folder tree). TFS is not tracking dlls at all. Rather, we are relying on an absolute path file reference. Additionally, calling this executable becomes a build task on the CI server.
+This solution isn't perfect. Namely, it relies on developers to remember to run the executable from time to time. Additionally, there are potentially some versioning scenarios that could occur between packages that expect a different versions of sub dependencies. However that issue never manifested itself in our environment.</p>
+
+<h2>Nuget is not the final answer for teams using TFS</h2>
+
+<p><del>I've been following the Nuget dev list closely, and Nuget is considered to be a development time dependency resolver only, not a build time resolver. This means that if you use TFS to track your Nuget package folders, you could still run into dll versioning issues.</del></p>
+
+<h3>Update (4/17/2011)</h3>
+
+<p>Nuget team member David Ebbo has blogged that <a href="http://blog.davidebbo.com/2011/03/using-nuget-without-committing-packages.html">functionality has been added to allow use of Nuget without committing the packages folder to source control.</a></p>
+
+<h3>Update (4/30/2011)</h3>
+
+<p>According to Phil Haack, <a href="http://haacked.com/archive/2011/04/27/feedback-request-for-using-nuget-without-committing-packages.aspx">Nuget is going to be getting official support for non-committed packages.</a></p>
+
+<h3>Update (3/9/2013)</h3>
+
+<p>Obviously, Nuget package restore is a thing now, so this post should be considered for historical purposes only.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,327 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>.NET Dependency Management in a Pre-Nuget World - Welcome to My Nerditorium</title>
+  <meta name="author" content="Daniel Auger">
+
+  
+  <meta name="description" content="This post is an attempt to capture how my previous team dealt with dependency / package management. The team, at its largest point, consisted of &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37319998-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Welcome to My Nerditorium</a></h1>
+  
+    <h2>Thoughts on coding, gaming, and nerdy media.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:nerditorium.danielauger.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/links">10,000 Links</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">.NET Dependency Management in a Pre-Nuget World</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-02-28T19:57:00-06:00" pubdate data-updated="true">Feb 28<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>This post is an attempt to capture how my previous team dealt with dependency / package management. The team, at its largest point, consisted of about 15 developers. There were roughly 200 3rd party dlls, and roughly 150 internal dlls in the dependency mix. No single app needed all 350 dlls, but groups of these dlls were common to applications in the same domain space of the enterprise. 3rd party dlls were things such as the MS Enterprise Library, image conversion libraries, desktop scanner interop libraries, etc… Internal dlls were things such as common utility libraries, WCF service contracts, DTOs etc… <!-- more --></p>
+
+<p>Until the recent development of projects such as <a href="http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx">Nuget</a> and <a href="http://www.openwrap.org/">OpenWrap</a>, dependency management in .NET has been a big problem. The larger a development group’s topology is, the more of a pain point it is. Because this is the case, a lot of teams don’t even realize they are going to have issues until the pain is upon them. Additionally, I think the complexity of describing the problem has helped to keep package management as an elephant in the .NET room for a long time.</p>
+
+<p>Since there has been abundant discussion on this issue lately, I’m going to skip describing the problems with dependency management and get straight into what we tried over the years, and what the final solution ended up being. It’s important to note that my team used TFS (2008) for source control because some of the steps we took were in response to TFS’ weaknesses.</p>
+
+<h2>First attempt ending in Failure:</h2>
+
+<ul>
+<li><strong>Manage all 3rd party dlls by putting them in a [sln]\bin folder (tracked by TFS).</strong></li>
+<li><strong>Manage all internal dependencies as shared projects across multiple slns.</strong></li>
+</ul>
+
+
+<p>I’m sure some of you are already cringing after reading the last bullet point, but you’ll have to admit it is the first solution that comes to mind to a lot of developers. Additionally, it is a very simple solution. The biggest issue with this solution is with sharing a project over several slns. Unfortunately, any bit of code in those shared projects is easily changeable from multiple slns; therefore it is very easy to break several slns in one fell swoop. Secondly configuration management goes out the window because every time a sln is compiled, each shared project gets a new version that bypasses any sort of change management.</p>
+
+<h2>Second attempt ending in failure:</h2>
+
+<ul>
+<li><strong>Manage all 3rd party and internal dlls by putting them in a [sln]\bin folder.</strong></li>
+</ul>
+
+
+<p>This solution complicates things slightly (in a positive way) by requiring each sln to use a proper release of all internal dlls; therefore you are able to have some degree of configuration management. However, this solution failed for us because of one simple fact: TFS does not track binaries well. We never ran into this weakness with the first solution because all of the 3rd party dlls were set-and-forget. They never changed after setting the initial reference. The internal dlls however, would change daily, or even hourly. At first this seemed like the perfect solution, however all sorts of strange errors started occurring. One person would get latest and everything would work, but another person would get latest and have errors. TFS simply could not tell if you needed a new version of the dlls in the /bin folder. Sadly, even a “clean all&#8221; and &#8220;get specific version&#8221; didn&#8217;t fix things a lot of the time.</p>
+
+<h2>Third attempt ending in Success:</h2>
+
+<ul>
+<li><strong>Build a custom package management system.</strong></li>
+</ul>
+
+
+<p>Our custom package management system worked thusly: We created a network share. For each logical release (i.g. MS EntLib, Internal.Common.Util) we created both a [networkShare]\[package]\LatestRelease folder and a [networkShare]\[package]\Release_[version number] folder. We then created a console EXE with a bunch of options that would: 1) go and grab all of the latest dlls for all projects and dump them into one pre-defined “latest” folder on the developer PC and 2) Recreate the “releases” tree structure on the developer PC. This way, developers have the ability to drink from the fire-hose (the latest folder) or go for set releases (from the releases folder tree). TFS is not tracking dlls at all. Rather, we are relying on an absolute path file reference. Additionally, calling this executable becomes a build task on the CI server.
+This solution isn&#8217;t perfect. Namely, it relies on developers to remember to run the executable from time to time. Additionally, there are potentially some versioning scenarios that could occur between packages that expect a different versions of sub dependencies. However that issue never manifested itself in our environment.</p>
+
+<h2>Nuget is not the final answer for teams using TFS</h2>
+
+<p><del>I&#8217;ve been following the Nuget dev list closely, and Nuget is considered to be a development time dependency resolver only, not a build time resolver. This means that if you use TFS to track your Nuget package folders, you could still run into dll versioning issues.</del></p>
+
+<h3>Update (4/17/2011)</h3>
+
+<p>Nuget team member David Ebbo has blogged that <a href="http://blog.davidebbo.com/2011/03/using-nuget-without-committing-packages.html">functionality has been added to allow use of Nuget without committing the packages folder to source control.</a></p>
+
+<h3>Update (4/30/2011)</h3>
+
+<p>According to Phil Haack, <a href="http://haacked.com/archive/2011/04/27/feedback-request-for-using-nuget-without-committing-packages.aspx">Nuget is going to be getting official support for non-committed packages.</a></p>
+
+<h3>Update (3/9/2013)</h3>
+
+<p>Obviously, Nuget package restore is a thing now, so this post should be considered for historical purposes only.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Daniel Auger</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-02-28T19:57:00-06:00" pubdate data-updated="true">Feb 28<span>th</span>, 2011</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/development/'>development</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/02/16/the-case-of-web-deploy-2-dot-0-and-the-missing-msdeploy-dot-exe/" title="Previous Post: The Case of Web Deploy 2.0 and the Missing MSDeploy.exe">&laquo; The Case of Web Deploy 2.0 and the Missing MSDeploy.exe</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/05/15/matt-chat-the-youtube-channel-you-should-be-watching-if-you-played-video-games-in-the-80s-or-90s/" title="Next Post: Matt Chat - The YouTube Channel You Should be Watching if You Played Video Games in the 80s or 90s">Matt Chat - The YouTube Channel You Should be Watching if You Played Video Games in the 80s or 90s &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/06/16/the-land-of-10-000-links-number-86/">The Land of 10,000 Links #86</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/14/the-land-of-10-000-links-number-85/">The Land of 10,000 Links #85</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/09/the-land-of-10-000-links-number-84/">The Land of 10,000 Links #84</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/05/the-land-of-10-000-links-number-83/">The Land of 10,000 Links #83</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/03/the-land-of-10-000-links-number-82/">The Land of 10,000 Links #82</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Categories</h1>
+  <ul id="categories">
+    <li class='category'><a href='/blog/categories/bash/'>bash (1)</a></li>
+<li class='category'><a href='/blog/categories/development/'>development (13)</a></li>
+<li class='category'><a href='/blog/categories/links/'>links (86)</a></li>
+<li class='category'><a href='/blog/categories/meta/'>meta (1)</a></li>
+<li class='category'><a href='/blog/categories/octopress/'>octopress (1)</a></li>
+<li class='category'><a href='/blog/categories/osx/'>osx (1)</a></li>
+<li class='category'><a href='/blog/categories/pebkac/'>pebkac (1)</a></li>
+<li class='category'><a href='/blog/categories/retro-computing-and-gaming/'>retro computing and gaming (1)</a></li>
+<li class='category'><a href='/blog/categories/tdd/'>tdd (3)</a></li>
+<li class='category'><a href='/blog/categories/ubuntu/'>ubuntu (1)</a></li>
+<li class='category'><a href='/blog/categories/webapi/'>webapi (1)</a></li>
+
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("danielauger", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/80x15.png" /></a> Copyright &copy; 2008 - 2013 | Daniel Auger |
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+<p>
+Disclaimer: The opinions expressed herein are my own personal opinions and do not represent the views of my employer.
+</p>
+
+</footer>
+  
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

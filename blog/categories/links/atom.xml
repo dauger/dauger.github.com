@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
+  <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
+  <link href="http://nerditorium.danielauger.com/"/>
+  <updated>2013-06-16T12:53:00-05:00</updated>
+  <id>http://nerditorium.danielauger.com/</id>
+  <author>
+    <name><![CDATA[Daniel Auger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #86]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/16/the-land-of-10-000-links-number-86/"/>
+    <updated>2013-06-16T12:45:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/16/the-land-of-10-000-links-number-86</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://chimera.labs.oreilly.com/books/1234000001708/index.html">Designing Evolvable Web APIs with ASP.NET Book Get's New Website</a></p>
+
+<p><a href="https://github.com/scriptcs/scriptcs/wiki/Presentations-&amp;-talks">Scriptcs Presentations &amp; Talks</a></p>
+
+<p><a href="http://www.strathweb.com/2013/06/overriding-filters-in-asp-net-web-api-vnext/">Overriding filters in ASP.NET Web API vNext</a></p>
+
+<p><a href="http://leastprivilege.com/2013/06/16/relationship-between-identityserver-and-authorizationserver/">Relationship between IdentityServer and AuthorizationServer</a></p>
+
+<p><a href="http://tech.pro/tutorial/1366/building-rest-api-with-mvc-4-web-api-part-3">Building REST API with MVC 4 Web API - Part 3</a></p>
+
+<h2>HTTP APIs / REST</h2>
+
+<p><a href="http://andreineculau.github.io/hyperrest/2013-06-10-http-hell-no/">HTTP/REST is not big, nor healthy. It's hell no!</a></p>
+
+<p><a href="https://github.com/andreineculau/http-decision-diagram">HTTP Decision Diagram</a></p>
+
+<h2>Microsoft</h2>
+
+<p><a href="http://wyswords.com/2013/06/11/ballmer-dont-restructure-microsoft-renew-it/">Don't Restructure Microsoft, Renew It.</a></p>
+
+<h2>Apple</h2>
+
+<p><a href="http://www.youtube.com/watch?v=xOWDwKLJAfo&amp;feature=player_embedded">Woz Talks iOS and PRSIM</a></p>
+
+<h2>Agile</h2>
+
+<p><a href="http://neilkillick.com/2013/06/15/chris-chapman-interviews-me-about-noestimates/">Chris Chapman Interviews Neil Killick about NoEstimates</a></p>
+
+<h2>IDEs / Editors</h2>
+
+<p><a href="http://andrewbrookins.com/tech/one-year-later-an-epic-review-of-pycharm-2-7-from-a-vim-users-perspective/">One Year Later: An Epic Review of PyCharm 2.7 from a Vim User’s Perspective</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://msdn.microsoft.com/en-us/library/dn251004.aspx">Disaster Recovery and High Availability for Windows Azure Applications</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.reddit.com/r/xboxone/comments/1g8t5e/lets_clear_up_the_issues_used_games_kinect/">Let's Clear Up The Issues: Used Games, Kinect Privacy, and Other (What Most People Seem to Have Missed, An Explanation)</a></p>
+
+<p><a href="http://andrsoze.blogspot.se/2013/05/me-and-my-c64s-why-did-i-want-to-make.html">Me and my c64(s) - why did I want to make a c64 game in 2013</a></p>
+
+<p><a href="http://fabiensanglard.net/prince_of_persia/index.php">Prince of Persia Code Review</a></p>
+
+<p><a href="http://www.vg247.com/2013/06/14/console-wars-youre-going-to-buy-an-xbox-one/">Console Wars: you’re going to buy an Xbox One</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #85]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85/"/>
+    <updated>2013-06-14T07:39:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://rdallasgray.github.io/blog/2013/06/09/whats-wrong-with-javascript/">What's wrong with JavaScript</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/06/14/windows-azure-major-updates-for-mobile-backend-development.aspx">Windows Azure: Major Updates for Mobile Backend Development</a></p>
+
+<p><a href="https://speakerdeck.com/leastprivilege/securing-asp-dot-net-web-api-ndc-oslo-2013">Securing ASP.NET Web API (NDC Oslo 2013)</a></p>
+
+<h2>Software Craftsmanship and Engineering</h2>
+
+<p><a href="http://www.bphogan.com/2013/06/09/how-to-derail-your-readers-and-students/">How To Derail Your Readers And Students</a></p>
+
+<p><a href="http://www.larsavery.com/blog/a-process-for-learning-a-new-codebase/">A Process for Learning a New Codebase</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/06/netflix">How Netflix Deploys Code</a></p>
+
+<h2>REST</h2>
+
+<blockquote><p>... I keep reading all of the Hypermedia stuff because I want there to be that example. I want to understand it better. All of it is a lot of telling and not a lot of showing. ...if you are out there and you care about about Hypermedia, stop telling people how great it is and start showing them.
+<a href="http://trafficandweather.io/posts/episode-6-im-going-to-take-all-this-out">Traffic and Weather Podcast #6</a></p></blockquote>
+
+<p><a href="http://www.stormpath.com/blog/linking-and-resource-expansion-rest-api-tips">Linking and Resource Expansion: REST API Tips</a></p>
+
+<p><a href="http://www.emilsoman.com/blog/2013/05/18/building-a-tested/">Building a Tested, Documented and Versioned JSON API Using Rails 4</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://readwrite.com/2013/06/12/the-secret-to-openstacks-overnight-success?awesm=readwr.it_j0s#awesm=~o8zvSUjGudPTKY">The Secret(s) to OpenStack's Overnight Success</a></p>
+
+<h2>Software Craftsmanship</h2>
+
+<p><a href="http://blog.8thlight.com/ben-voss/2013/06/10/what-is-a-craftsman.html">What is a Craftsman</a></p>
+
+<p><a href="http://ahmetalpbalkan.com/blog/8-months-microsoft/">Lessons Learned from 8 Months at Microsoft</a></p>
+
+<p><a href="http://damieng.com/blog/2013/06/13/working-at-microsoft">Working at Microsoft</a></p>
+
+<h2>The Great and Powerful OS</h2>
+
+<p><a href="http://www.theverge.com/2013/6/10/4413228/apple-wwdc-2013-everything-you-need-to-know">WWDC 2013 - Everthing You Need to Know</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.eurogamer.net/articles/2013-06-10-dice-developing-new-star-wars-battlefront-game?utm_source=dlvr.it&amp;utm_medium=twitter">DICE developing new Star Wars Battlefront game</a></p>
+
+<p><a href="http://www.ign.com/articles/2013/06/12/e3-2013-cops-called-to-shut-down-ouya#.UbiS307BniY.twitter">E3 2013: Cops Called to Shut Down Ouya</a></p>
+
+<p><a href="http://www.neowin.net/news/anonymous-xbox-engineer-explains-drm-and-microsofts-xbox-one-intentions">Anonymous Xbox engineer explains DRM and Microsoft's Xbox One intentions</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #84]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/09/the-land-of-10-000-links-number-84/"/>
+    <updated>2013-06-09T11:07:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/09/the-land-of-10-000-links-number-84</id>
+    <content type="html"><![CDATA[<h2>Ruby</h2>
+
+<p><a href="http://pivotallabs.com/tag/rubymine/">Rubymine tips from Pivitol Labs</a></p>
+
+<p><a href="http://www.frodsan.com/hello-cuba">Hello, Cuba!</a></p>
+
+<h2>Javascript</h2>
+
+<p><a href="http://markdaggett.com/blog/2013/02/15/pragmatic-javascript-style/">Pragmatic JavaScript Style</a></p>
+
+<p><a href="http://www.knockmeout.net/2013/06/knockout-debugging-strategies-plugin.html">Knockout.js Troubleshooting Strategies</a></p>
+
+<p><a href="http://www.johnpapa.net/teched-na-2013-sessions/">John Papa's TechEd NA 2013 Presentations (Knockout, SPA)</a></p>
+
+<p><a href="http://ajlopez.wordpress.com/2013/05/30/aplicaciones-distribuidas-y-node-js/">Distributed Applications And Node.Js</a></p>
+
+<p><a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a></p>
+
+<p><a href="http://killdream.github.io/2013/06/06/node-modules-to-rule-them-all.html">Node Modules to Rule Them All</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://channel9.msdn.com/Blogs/Subscribe/Glenn-Block-Explains-SocketIO-Scale-Out-on-Service-Bus">Glenn Block Explains Socket.IO Scale-Out on Service Bus</a></p>
+
+<p><a href="http://www.cloudidentity.com/blog/2013/06/06/the-json-web-token-handler-for-net-4-5-reaches-ga/">The JSON Web Token Handler for .NET 4.5 Reaches GA!</a></p>
+
+<p><a href="http://roysvork.wordpress.com/2013/06/09/getting-started-with-linq-to-querystring-part-2-filtering-data/">Getting started with Linq to Querystring Part 2 – Filtering Data</a></p>
+
+<h2>Go</h2>
+
+<p><a href="https://github.com/laurent22/ripple">Ripple, a REST API framework for Go</a></p>
+
+<h2>Software Craftsmanship</h2>
+
+<p><a href="http://i.imgur.com/dOLkgVR.png">Typical Stack Overflow Question</a></p>
+
+<p><a href="http://imgur.com/gallery/wfbcD">Guide to Understanding Introverts</a></p>
+
+<p><a href="http://www.planetgeek.ch/2013/06/05/clean-code-cheat-sheet/">Clean Code Cheat Sheet</a></p>
+
+<p><a href="http://ayende.com/blog/162401/on-friction-in-software?key=bcea9e82-5341-4db1-ad02-169db2947cda&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">On Friction in Software</a></p>
+
+<p><a href="http://www.metaltoad.com/blog/programmers-be-considered-professional-you-need-act-one">Programmers: To be considered a professional, you need to act like one.</a></p>
+
+<h2>HTTP / APIs / REST</h2>
+
+<p><a href="http://blog.programmableweb.com/2013/06/09/42-new-apis-amazon-web-services-sentiment-analysis-and-qr-code/?utm_medium=referral&amp;utm_source=t.co">42 New APIs: Amazon Web Services, Sentiment Analysis and QR Code</a></p>
+
+<p><a href="http://trafficandweather.io/posts/2013/6/7/episode-12-">Episode 12: "I don't know that we really wanted to be in there together."</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://majornelson.com/2013/06/06/more-details-about-xbox-one-controller/">More Details About the Xbox One Controller</a></p>
+
+<p><a href="http://www.cheapassgamer.com/topic/301469-amazon-pcdd-indie-store-launch/">Amazon Launches Indie Game Storefront</a></p>
+
+<p><a href="http://www.destructoid.com/dungeon-defenders-devs-report-atrocious-work-environment-255641.phtml">Dungeon Defenders' devs report atrocious work environment</a></p>
+
+<h2>Security</h2>
+
+<p><a href="https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans">Confirmed: The NSA is Spying on Millions of Americans</a></p>
+
+<h2>OS</h2>
+
+<p><a href="https://github.com/shanselman/Windows-Wifi-Manager">Windows-Wifi-Manager</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #83]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/05/the-land-of-10-000-links-number-83/"/>
+    <updated>2013-06-05T19:32:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/05/the-land-of-10-000-links-number-83</id>
+    <content type="html"><![CDATA[<h2>JabbaScript</h2>
+
+<p><a href="http://gurustop.net/blog/2013/06/05/node-js-http-client-for-instapaper-with-https-basic-authentication/">Node.js Http Client for Instapaper with HTTPS &amp; Basic Auth</a></p>
+
+<p><a href="https://postgres.heroku.com/blog/past/2013/6/5/javascript_in_your_postgres/">JavaScript in your Postgres</a></p>
+
+<h2>Rubyx Cube</h2>
+
+<p><a href="http://devblog.avdi.org/2013/06/05/rubytapas-freebie-runnable-library/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+VirtuousCode+%28Virtuous+Code%29">Rubie Tapas Freebie: Runnable Library</a></p>
+
+<h2>Board</h2>
+
+<p><a href="https://github.com/dartist/101LinqSamples">101 Linq Samples Converted to Dart</a></p>
+
+<h2>Caught in a .NET</h2>
+
+<p><a href="https://twitter.com/amirrajan/status/342360203628527616">...really thinking of doing a talk called "EntityFramework you're doing it wrong" and see what happens/how people read it.</a></p>
+
+<p><a href="http://blogs.clariusconsulting.net/kzu/increase-developer-productivity-with-nuget-packages-with-nuget-references/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+DanielCazzulino+%28Daniel+Cazzulino%27s+Blog%29">Increase developer productivity with NuGet packages with NuGet References</a></p>
+
+<p><a href="http://blogs.msdn.com/b/codeplex/archive/2013/06/05/codeplex-learns-to-talk-to-other-services.aspx">CodePlex learns to talk to other services!</a></p>
+
+<p><a href="http://ijoshsmith.com/2013/06/05/ios-questions-from-a-wpf-developer/">iOS questions from a WPF developer</a></p>
+
+<p><a href="http://www.computerworld.com/s/article/9239717/TechEd_Microsoft_preps_system_software_for_cloud_usage?taxonomyId=158&amp;pageNumber=1%A0&amp;WT.mc_id=Social_TW_OutgoingEvents_20130603_24305_MSCloud#msTechEd">TechEd: Microsoft preps system software for cloud usage</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/06/vs2013_announced">The Emergence of Visual Studio 2013</a></p>
+
+<h2>Software</h2>
+
+<p><a href="http://news.cnet.com/8301-1001_3-57587687-92/intels-thunderbolt-2-official-coming-later-this-year/">Intel's 'Thunderbolt 2' official, coming later this year</a></p>
+
+<p><a href="http://winsupersite.com/windows-8/dell-xps-11-and-xps-12-preview?utm_source=twitterfeed&amp;utm_medium=twitter">Dell XPS 11 and XPS 12 Preview</a></p>
+
+<p><a href="http://www.marco.org/2013/06/05/future-mac-pro-rumor">On rumors that the next Mac Pro will be “really different”</a></p>
+
+<h2>Cloudy, With a Chance of Meatballs</h2>
+
+<p><a href="http://readwrite.com/2013/06/04/why-ibm-paid-big-bucks-to-expand-in-the-cloud-with-softlayer">Why IBM Paid Big Bucks To Expand In The Cloud With SoftLayer</a></p>
+
+<h2>The Great and Powerful OS</h2>
+
+<p><a href="http://www.wpcentral.com/video-microsoft-s-jensen-harris-shows-windows-81-surface-pro">Video: Microsoft’s Jensen Harris shows off Windows 8.1 on the Surface Pro</a></p>
+
+<p><a href="http://winsupersite.com/windows-8/windows-81-preview-visually?utm_source=twitterfeed&amp;utm_medium=twitter">Windows 8.1 Preview … Visually</a></p>
+
+<p><a href="http://www.theverge.com/2013/6/5/4398870/no-windows-rt-at-computex-taipei-2013">One year after debut, Windows RT is a Computex no-show</a></p>
+
+<p><a href="http://redmondmag.com/articles/2013/06/04/windows-8-1-networking.aspx">Windows 8.1 To Have New Networking Features</a></p>
+
+<h2>A Letter From the Editors</h2>
+
+<p><a href="http://dribbble.com/shots/1100850-Vim-Icon-Replacement">Vim Icon Replacement</a></p>
+
+<h2>Software Craftineering</h2>
+
+<p><a href="http://www.itworld.com/print/359398">Why your users hate Agile development (and what you can do about it)</a></p>
+
+<p><a href="http://tekpub.com/blogs/news/8040193-preview-for-tekpubs-get-involved-production-is-up">Preview for Tekpub's Get Involved! Production is Up</a></p>
+
+<p><a href="http://rarlindseysmash.com/posts/2013-06-01-coding-as-play">Coding as Play</a></p>
+
+<h2>Insomnia</h2>
+
+<p><a href="https://twitter.com/jbogard/status/342138631839965184">if a post about REST best practices starts with RESTful URLs.....c'mon guys, we're better than this</a></p>
+
+<p><a href="http://www.theverge.com/2013/6/5/4399242/google-keeps-caldav-api-public-opens-carddav-access">Google to keep CalDAV API public, opens CardDAV access 'to everyone'</a></p>
+
+<h2>Hypermedia</h2>
+
+<p><a href="http://www.vhnd.com/2012/11/29/audio-isolated-guitar-from-van-halens-first-three-albums/">Isolated Van Halen Guitar Tracks</a></p>
+
+<p><a href="http://www.huffingtonpost.com/2013/06/05/under-pressure-vocal-track_n_3390223.html?utm_hp_ref=entertainment">Isolated Vocal Tracks for Under Pressure</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #82]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82/"/>
+    <updated>2013-06-03T16:04:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82</id>
+    <content type="html"><![CDATA[<h2>Prequel</h2>
+
+<p><a href="http://mickeystuewe.com/2013/05/28/using-set-theory-instead-of-isnull-to-filter-data/">Using Set Theory Instead of ISNULL To Filter Data</a></p>
+
+<p><a href="https://www.simple-talk.com/sql/performance/sql-server-performance-crib-sheet/">SQL Server Performance - The Crib Sheet</a></p>
+
+<p><a href="http://www.brentozar.com/archive/2013/06/almost-everything-you-need-to-know-about-the-next-version-of-sql-server/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29">(Almost) Everything You Need to Know About SQL Server 2014</a></p>
+
+<h2>Cloudy, With a Chance of Meatballs</h2>
+
+<p><a href="http://windowsitpro.com/paul-thurrotts-wininfo/microsoft-preps-major-restructuring?utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+windowsitpro%2Fwininfo+%28WIN%3ENews%3EWinInfo+News%29">Microsoft Preps Major Restructuring</a><br/>
+<a href="http://www.infoworld.com/t/cringely/batten-down-the-hatches-its-microsoft-reorg-season-219911">Batten down the hatches -- it's Microsoft reorg season</a></p>
+
+<p><a href="http://devopsangle.com/2013/05/29/fear-the-cloud-helpful-tips-for-stifling-devops-progress-in-your-enterprise-humor/">Fear the Cloud? Helpful Tips for Stifling DevOps Progress in Your Enterprise [Humor]</a></p>
+
+<p><a href="http://windowsitpro.com/windows-azure/cloud-os-vnext">Cloud OS v.Next</a></p>
+
+<p><a href="http://www.brianhprince.com/2013/05/31/how-to-get-a-sticky-load-balancer-in-windows-azure/">How to get a sticky load balancer in Windows Azure</a></p>
+
+<p><a href="http://blogs.technet.com/b/stbnewsbytes/archive/2013/06/03/microsoft-s-technologies-mean-business-from-client-to-cloud.aspx?WT.mc_id=Social_TW_OutgoingEvents_20130603_24117_MSCloud">Microsoft’s Technologies Mean Business, From Client to Cloud</a></p>
+
+<p><a href="http://blog.programmableweb.com/2013/06/03/amazon-joins-single-sign-on-game-with-%E2%80%98login-with-amazon%E2%80%99/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">Amazon Joins Single Sign-On Game with ‘Login with Amazon’</a></p>
+
+<h2>Insomnia</h2>
+
+<p><a href="http://blogs.msdn.com/b/clemensv/archive/2013/06/03/internet-of-things-is-vpn-a-false-friend.aspx">Internet of Things: Is VPN a False Friend?</a></p>
+
+<p><a href="http://blog.safaribooksonline.com/2013/05/31/rest-from-a-client-perspective/">REST from a Client Perspective</a></p>
+
+<p><a href="http://urthen.github.io/2013/05/16/ways-to-version-your-api-part-2/?utm_content=buffer3fc81&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ways to version your API, Part 2</a></p>
+
+<p><a href="http://blog.8thlight.com/patrick-gombert/2013/06/02/idempotent-http.html">Idempotent HTTP</a></p>
+
+<p><a href="http://thebitchwhocodes.com/2013/05/30/the-123s-to-using-apis/">Starting with APIs - The Basics</a></p>
+
+<h2>Caught in a .NET</h2>
+
+<p><a href="https://www.simple-talk.com/dotnet/asp.net/modal-input-forms-in-asp.net-mvc/">Modal Input Forms in ASP.NET MVC</a></p>
+
+<p><a href="http://www.strathweb.com/2013/06/supporting-only-json-in-asp-net-web-api-the-right-way/">Supporting only JSON in ASP.NET Web API – the right way</a></p>
+
+<p><a href="http://blogs.msdn.com/b/jason_short/archive/2013/06/02/thoughts-on-queue-centric-workflow-design.aspx">Thoughts on Queue Centric Workflow Design</a></p>
+
+<p><a href="http://blogs.jetbrains.com/dotnet/2013/06/resharper-personal-and-academic-licensing-changes/">ReSharper Personal and Academic Licensing Changes</a></p>
+
+<p><a href="http://ericlippert.com/2013/06/03/tail-recursion-part-one/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tail-recursion-part-one">Tail recursion, part one</a></p>
+
+<h3>Teched Mania!</h3>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/06/03/visual-studio-2013.aspx">Visual Studio 2013</a><br/>
+<a href="http://tfs.visualstudio.com/en-us/news/2013-jun-3">Team Foundation Service Updates for TechEd 2013</a><br/>
+<a href="http://blogs.msdn.com/b/somasegar/archive/2013/06/03/teched-2013.aspx">Visual Studio 2013, ALM, and DevOps</a><br/>
+<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-new-dev-test-offering-biztalk-services-ssl-support-with-web-sites-ad-improvements-per-minute-billing.aspx">Windows Azure: Announcing New Dev/Test Offering, BizTalk Services, SSL Support with Web Sites, AD Improvements, Per Minute Billing</a><br/>
+<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-major-improvements-for-dev-test-in-the-cloud.aspx">Windows Azure: Announcing Major Improvements for Dev/Test in the Cloud</a></p>
+
+<h2>Software Craftineering</h2>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/06/03/un-reliability-in-messaging-idempotency-and-de-duplication/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">(Un) Reliability in messaging: idempotency and de-duplication</a></p>
+
+<p><a href="http://osherove.com/blog/2013/6/3/creativity-in-coding-does-tdd-leave-room-for-it.html">Creativity in Coding - Does TDD Leave Room For it?</a></p>
+
+<p><a href="http://blog.newrelic.com/2013/06/03/the-history-of-programming-languages-infographic-from-veracode/?utm_source=TWIT&amp;utm_medium=social_media&amp;utm_content=infographic&amp;utm_campaign=promotedtweet&amp;url_term=programming&amp;mpc=SM-TWIT-generic-en-100-programming-infographic">The History of Programming Languages Infographic</a></p>
+
+<h2>The Classics</h2>
+
+<p><a href="http://csdb.dk/release/?id=119255">The Compleat Programmer</a></p>
+
+<h2>The Great and Powerful OS</h2>
+
+<p><a href="http://blogs.windows.com/windows/b/springboard/archive/2013/06/03/what-s-new-for-the-enterprise-in-windows-8-1.aspx">What’s New For The Enterprise In Windows 8.1</a></p>
+
+<h2>Game over, man!</h2>
+
+<p><a href="http://www.computerandvideogames.com/410152/eidos-teases-new-deus-ex/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Eidos teases new Deus Ex</a></p>
+
+<p><a href="http://www.computerandvideogames.com/410279/zynga-lays-off-over-500-staff-closes-three-offices/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Confirmed: LA, New York and Dallas studios shuttered amidst major cuts</a></p>
+]]></content>
+  </entry>
+  
+</feed>
