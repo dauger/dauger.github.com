@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-16T13:03:20-05:00</updated>
+  <updated>2013-06-17T20:13:40-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #87]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87/"/>
+    <updated>2013-06-17T20:09:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87</id>
+    <content type="html"><![CDATA[<h2>Hardware</h2>
+
+<p><a href="http://slashdot.org/topic/datacenter/intel-slide-leaks-suggest-haswell-future/">Intel could release a wide array of Haswell chips in two waves.</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="https://blog.heroku.com/archives/2013/6/17/ruby-2-default-new-aps">Ruby 2.0.0 Now Defaut on All New Ruby Applications</a></p>
+
+<p><a href="http://stackoverflow.com/questions/1068558/oo-design-in-rails-where-to-put-stuff/1071510#1071510">Don&#8217;t Throw Out OOD Just Because You Are Using Rails</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://ericlippert.com/2013/06/17/string-concatenation-behind-the-scenes-part-one/?utm_source=feedly">String concatenation behind the scenes, part one</a></p>
+
+<p><a href="http://leastprivilege.com/2013/06/17/whats-in-an-authorizationserver-access-token/">What’s in an AuthorizationServer Access Token?</a></p>
+
+<p><a href="http://devmatter.blogspot.com/2013/06/demystifying-microsofts-git-offering.html">Demystifying Microsoft’s Git Offering</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/06/17/windows-azure-service-bus-drives-high-availability-scalability-for-financial-services-portal.aspx">Windows Azure Service Bus Drives High Availability, Scalability for Financial Services Portal</a></p>
+
+<p><a href="http://abdullin.com/journal/2013/6/17/gregs-event-store-and-windows-azure.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Using Event Store and Windows Azure</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/17/view-persisted-logs-in-azure-storage-in-visual-studio-2012.aspx">View Persisted Logs in Azure Storage in Visual Studio 2012</a></p>
+
+<p><a href="http://programming.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html">Application Resilience in a Service-oriented Architecture</a></p>
+
+<h2>HTTP APIs / REST</h2>
+
+<p><a href="http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">RESTful APIs&#8221; White House Sets the Standard(s)</a></p>
+
+<p><a href="http://manu.sporny.org/2013/http-signatures/">Verifiable Messaging over HTTP</a></p>
+
+<p><a href="http://www.clevegibbon.com/2013/06/why-content-apis/?utm_source=feedly">Why Content APIs</a></p>
+
+<h2>Agile</h2>
+
+<p><a href="http://www.boost.co.nz/blog/random-thoughts/do-you-need-a-scrum-master/?utm_source=dlvr.it&amp;utm_medium=twitter">Do you need a Scrum Master?</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #86]]></title>
@@ -1268,85 +1315,6 @@ One of the strangest 1st person action games gets a sequel.</p>
 <p><a href="http://blog.ploeh.dk/2013/04/29/rest-lessons-learned/">REST Lessons Learned</a></p>
 
 <p><a href="http://blog.ploeh.dk/2013/04/29/rest-lesson-learned-avoid-user-supplied-data-in-uri-segments/">REST lesson learned: Avoid user supplied data in URI segments</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #67]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/04/28/the-land-of-10-000-links-number-67/"/>
-    <updated>2013-04-28T19:38:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/04/28/the-land-of-10-000-links-number-67</id>
-    <content type="html"><![CDATA[<h2>JabbaScript</h2>
-
-<p><a href="http://blog.akiban.com/get-restful-with-node-js/">GET RESTful With node.js</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/04/node-socketio-servicebus">Microsoft Offers Module to Scale Out Real-time Node.js Applications</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://www.heartmindcode.com/blog/2013/04/private_accessors_in_ruby/">Private Accessors in Ruby</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://www.philliphaydon.com/2013/04/nancyfx-revisiting-content-negotiation-and-apis-part-1/">NancyFX - Revisiting Content Negotiation &amp; APIs (Part 1)</a></p>
-
-<p><a href="http://episodes.gitminutes.com/2013/04/gitminutes-05-martin-woodward-on-visual.html">GitMinutes #05: Martin Woodward on Visual Studio and TFS with Git</a></p>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/04/26/visual-studio-tools-for-git-update-available.aspx">Visual Studio Tools for Git Update available</a></p>
-
-<p><a href="http://marcgravell.blogspot.com/2013/04/fun-with-dynamic-how-to-build-dynamic.html">Fun with dynamic - how to build a dynamic object</a></p>
-
-<p><a href="http://www.strathweb.com/2013/04/asp-net-web-api-parameter-binding-part-1-understanding-binding-from-uri/">ASP.NET Web API parameter binding part 1 – Understanding binding from URI</a></p>
-
-<p><a href="http://www.strathweb.com/2013/04/asp-net-web-api-and-greedy-query-string-parameter-binding/">ASP.NET Web API and greedy query string parameter binding</a></p>
-
-<p><a href="http://iamnotmyself.com/2013/04/24/using-scriptcs-to-solve-simple-scripting-problems/">Using ScriptCS to Solve Simple Scripting Problems</a></p>
-
-<p><a href="http://www.hanselman.com/blog/ProjectlessScriptedCWithScriptCSAndRoslyn.aspx">Project-less scripted C# with ScriptCS and Roslyn</a></p>
-
-<p><a href="http://blogs.msdn.com/b/agile/archive/2013/04/25/just-released-microsoft-enterprise-library-6.aspx">Just Released - Microsoft Enterprise Library 6</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=w6t0hP5wgPQ&amp;feature=youtu.be">dotNetConf - .NET Open Source Panel</a></p>
-
-<p><a href="http://blog.alexonasp.net/post/2013/04/27/Zero-friction-parallel-self-hosting-of-ASPNET-Web-API-and-static-files-using-OWIN-and-Katana.aspx">Zero friction parallel self hosting of ASP.NET Web API and static files using OWIN and Katana</a></p>
-
-<h2>Stop</h2>
-
-<p><a href="http://openmymind.net/Introduction-To-Go-Buffered-Channels/">Introduction To Go: Buffered Channels</a></p>
-
-<p><a href="http://jessekallhoff.com/2013/04/22/go-environment-variables-gofig/">Go Environment Variables: GoFig</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://www.davidarno.org/2013/04/15/is-test-driven-development-the-only-future-for-software-development/">Is Test Driven Development the only future for software development?</a></p>
-
-<p><a href="http://tirania.org/blog/archive/2013/Apr-25.html">The Need for Excercises</a></p>
-
-<p><a href="http://haacked.com/archive/2013/04/22/better-testers.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+haacked+%28you%27ve+been+HAACKED%29">Better Testers</a></p>
-
-<h2>A Letter From the Editors</h2>
-
-<p><a href="http://wekeroad.com/2013/04/28/vim-the-alpha-and-omega">Vim: The Alpha and Omega</a></p>
-
-<h2>Cloudy with a Chance of Meatballs</h2>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/04/26/windows-azure-improvements-to-virtual-networks-virtual-machines-cloud-services-and-a-new-ruby-sdk.aspx">Windows Azure: Improvements to Virtual Networks, Virtual Machines, Cloud Services and a new Ruby SDK</a></p>
-
-<p><a href="http://www.hanselman.com/blog/PennyPinchingInTheCloudHowToRunATwoDayVirtualConferenceFor10.aspx">Penny Pinching in the Cloud: How to run a two day Virtual Conference for $10</a></p>
-
-<p><a href="http://www.hanselman.com/blog/PennyPinchingVideoMovingMyWebsitesImagesToTheAzureCDNAndUsingACustomDomain.aspx">Penny Pinching Video: Moving my Website&#8217;s Images to the Azure CDN (and using a custom domain)</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://3scale.github.io/2013/04/18/accelerate-your-mobile-api-with-nginx-and-lua/">Extending REST APIs with API Aggregator</a></p>
-
-<p><a href="http://www.sendicate.net/blog/2013/04/09/user-driven-api-design">User-Driven API Design</a></p>
-
-<p><a href="http://mathieu.fenniak.net/stop-designing-fragile-web-apis/">Stop Designing Fragile Web APIs</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/04/Layer-7">Layer 7 to be Merged with SiteMinder</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/04/idempotent">What is Idempotent in REST?</a></p>
 ]]></content>
   </entry>
   

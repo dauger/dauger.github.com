@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-16T13:03:20-05:00</updated>
+  <updated>2013-06-17T20:13:40-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #87]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87/"/>
+    <updated>2013-06-17T20:09:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87</id>
+    <content type="html"><![CDATA[<h2>Hardware</h2>
+
+<p><a href="http://slashdot.org/topic/datacenter/intel-slide-leaks-suggest-haswell-future/">Intel could release a wide array of Haswell chips in two waves.</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="https://blog.heroku.com/archives/2013/6/17/ruby-2-default-new-aps">Ruby 2.0.0 Now Defaut on All New Ruby Applications</a></p>
+
+<p><a href="http://stackoverflow.com/questions/1068558/oo-design-in-rails-where-to-put-stuff/1071510#1071510">Don't Throw Out OOD Just Because You Are Using Rails</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://ericlippert.com/2013/06/17/string-concatenation-behind-the-scenes-part-one/?utm_source=feedly">String concatenation behind the scenes, part one</a></p>
+
+<p><a href="http://leastprivilege.com/2013/06/17/whats-in-an-authorizationserver-access-token/">What’s in an AuthorizationServer Access Token?</a></p>
+
+<p><a href="http://devmatter.blogspot.com/2013/06/demystifying-microsofts-git-offering.html">Demystifying Microsoft’s Git Offering</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/06/17/windows-azure-service-bus-drives-high-availability-scalability-for-financial-services-portal.aspx">Windows Azure Service Bus Drives High Availability, Scalability for Financial Services Portal</a></p>
+
+<p><a href="http://abdullin.com/journal/2013/6/17/gregs-event-store-and-windows-azure.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Using Event Store and Windows Azure</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/17/view-persisted-logs-in-azure-storage-in-visual-studio-2012.aspx">View Persisted Logs in Azure Storage in Visual Studio 2012</a></p>
+
+<p><a href="http://programming.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html">Application Resilience in a Service-oriented Architecture</a></p>
+
+<h2>HTTP APIs / REST</h2>
+
+<p><a href="http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">RESTful APIs" White House Sets the Standard(s)</a></p>
+
+<p><a href="http://manu.sporny.org/2013/http-signatures/">Verifiable Messaging over HTTP</a></p>
+
+<p><a href="http://www.clevegibbon.com/2013/06/why-content-apis/?utm_source=feedly">Why Content APIs</a></p>
+
+<h2>Agile</h2>
+
+<p><a href="http://www.boost.co.nz/blog/random-thoughts/do-you-need-a-scrum-master/?utm_source=dlvr.it&amp;utm_medium=twitter">Do you need a Scrum Master?</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #86]]></title>
@@ -277,90 +324,6 @@
 <p><a href="http://www.vhnd.com/2012/11/29/audio-isolated-guitar-from-van-halens-first-three-albums/">Isolated Van Halen Guitar Tracks</a></p>
 
 <p><a href="http://www.huffingtonpost.com/2013/06/05/under-pressure-vocal-track_n_3390223.html?utm_hp_ref=entertainment">Isolated Vocal Tracks for Under Pressure</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #82]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82/"/>
-    <updated>2013-06-03T16:04:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82</id>
-    <content type="html"><![CDATA[<h2>Prequel</h2>
-
-<p><a href="http://mickeystuewe.com/2013/05/28/using-set-theory-instead-of-isnull-to-filter-data/">Using Set Theory Instead of ISNULL To Filter Data</a></p>
-
-<p><a href="https://www.simple-talk.com/sql/performance/sql-server-performance-crib-sheet/">SQL Server Performance - The Crib Sheet</a></p>
-
-<p><a href="http://www.brentozar.com/archive/2013/06/almost-everything-you-need-to-know-about-the-next-version-of-sql-server/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29">(Almost) Everything You Need to Know About SQL Server 2014</a></p>
-
-<h2>Cloudy, With a Chance of Meatballs</h2>
-
-<p><a href="http://windowsitpro.com/paul-thurrotts-wininfo/microsoft-preps-major-restructuring?utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+windowsitpro%2Fwininfo+%28WIN%3ENews%3EWinInfo+News%29">Microsoft Preps Major Restructuring</a><br/>
-<a href="http://www.infoworld.com/t/cringely/batten-down-the-hatches-its-microsoft-reorg-season-219911">Batten down the hatches -- it's Microsoft reorg season</a></p>
-
-<p><a href="http://devopsangle.com/2013/05/29/fear-the-cloud-helpful-tips-for-stifling-devops-progress-in-your-enterprise-humor/">Fear the Cloud? Helpful Tips for Stifling DevOps Progress in Your Enterprise [Humor]</a></p>
-
-<p><a href="http://windowsitpro.com/windows-azure/cloud-os-vnext">Cloud OS v.Next</a></p>
-
-<p><a href="http://www.brianhprince.com/2013/05/31/how-to-get-a-sticky-load-balancer-in-windows-azure/">How to get a sticky load balancer in Windows Azure</a></p>
-
-<p><a href="http://blogs.technet.com/b/stbnewsbytes/archive/2013/06/03/microsoft-s-technologies-mean-business-from-client-to-cloud.aspx?WT.mc_id=Social_TW_OutgoingEvents_20130603_24117_MSCloud">Microsoft’s Technologies Mean Business, From Client to Cloud</a></p>
-
-<p><a href="http://blog.programmableweb.com/2013/06/03/amazon-joins-single-sign-on-game-with-%E2%80%98login-with-amazon%E2%80%99/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">Amazon Joins Single Sign-On Game with ‘Login with Amazon’</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://blogs.msdn.com/b/clemensv/archive/2013/06/03/internet-of-things-is-vpn-a-false-friend.aspx">Internet of Things: Is VPN a False Friend?</a></p>
-
-<p><a href="http://blog.safaribooksonline.com/2013/05/31/rest-from-a-client-perspective/">REST from a Client Perspective</a></p>
-
-<p><a href="http://urthen.github.io/2013/05/16/ways-to-version-your-api-part-2/?utm_content=buffer3fc81&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ways to version your API, Part 2</a></p>
-
-<p><a href="http://blog.8thlight.com/patrick-gombert/2013/06/02/idempotent-http.html">Idempotent HTTP</a></p>
-
-<p><a href="http://thebitchwhocodes.com/2013/05/30/the-123s-to-using-apis/">Starting with APIs - The Basics</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://www.simple-talk.com/dotnet/asp.net/modal-input-forms-in-asp.net-mvc/">Modal Input Forms in ASP.NET MVC</a></p>
-
-<p><a href="http://www.strathweb.com/2013/06/supporting-only-json-in-asp-net-web-api-the-right-way/">Supporting only JSON in ASP.NET Web API – the right way</a></p>
-
-<p><a href="http://blogs.msdn.com/b/jason_short/archive/2013/06/02/thoughts-on-queue-centric-workflow-design.aspx">Thoughts on Queue Centric Workflow Design</a></p>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/06/resharper-personal-and-academic-licensing-changes/">ReSharper Personal and Academic Licensing Changes</a></p>
-
-<p><a href="http://ericlippert.com/2013/06/03/tail-recursion-part-one/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tail-recursion-part-one">Tail recursion, part one</a></p>
-
-<h3>Teched Mania!</h3>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/06/03/visual-studio-2013.aspx">Visual Studio 2013</a><br/>
-<a href="http://tfs.visualstudio.com/en-us/news/2013-jun-3">Team Foundation Service Updates for TechEd 2013</a><br/>
-<a href="http://blogs.msdn.com/b/somasegar/archive/2013/06/03/teched-2013.aspx">Visual Studio 2013, ALM, and DevOps</a><br/>
-<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-new-dev-test-offering-biztalk-services-ssl-support-with-web-sites-ad-improvements-per-minute-billing.aspx">Windows Azure: Announcing New Dev/Test Offering, BizTalk Services, SSL Support with Web Sites, AD Improvements, Per Minute Billing</a><br/>
-<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-major-improvements-for-dev-test-in-the-cloud.aspx">Windows Azure: Announcing Major Improvements for Dev/Test in the Cloud</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/06/03/un-reliability-in-messaging-idempotency-and-de-duplication/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">(Un) Reliability in messaging: idempotency and de-duplication</a></p>
-
-<p><a href="http://osherove.com/blog/2013/6/3/creativity-in-coding-does-tdd-leave-room-for-it.html">Creativity in Coding - Does TDD Leave Room For it?</a></p>
-
-<p><a href="http://blog.newrelic.com/2013/06/03/the-history-of-programming-languages-infographic-from-veracode/?utm_source=TWIT&amp;utm_medium=social_media&amp;utm_content=infographic&amp;utm_campaign=promotedtweet&amp;url_term=programming&amp;mpc=SM-TWIT-generic-en-100-programming-infographic">The History of Programming Languages Infographic</a></p>
-
-<h2>The Classics</h2>
-
-<p><a href="http://csdb.dk/release/?id=119255">The Compleat Programmer</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://blogs.windows.com/windows/b/springboard/archive/2013/06/03/what-s-new-for-the-enterprise-in-windows-8-1.aspx">What’s New For The Enterprise In Windows 8.1</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://www.computerandvideogames.com/410152/eidos-teases-new-deus-ex/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Eidos teases new Deus Ex</a></p>
-
-<p><a href="http://www.computerandvideogames.com/410279/zynga-lays-off-over-500-staff-closes-three-offices/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Confirmed: LA, New York and Dallas studios shuttered amidst major cuts</a></p>
 ]]></content>
   </entry>
   
