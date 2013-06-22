@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-17T20:13:40-05:00</updated>
+  <updated>2013-06-22T13:41:16-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Setting up an Existing Octopress Blog on a New Computer]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/setting-up-an-existing-octopress-blog-on-a-new-computer/"/>
+    <updated>2013-06-22T12:52:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/22/setting-up-an-existing-octopress-blog-on-a-new-computer</id>
+    <content type="html"><![CDATA[<p>This information comes from a <a href="http://code.dblock.org/octopress-setting-up-a-blog-and-contributing-to-an-existing-one">post</a> by <a href="https://twitter.com/dblockdotorg">@dblockdotorg</a> which was down today while I was trying to set my blog up on a fresh OS install. Therefore, I'm mirroring that content here in case it is unavailable in the future.</p>
+
+<pre><code>$ git clone git@github.com:username/username.github.com.git
+$ cd username.github.com
+$ git checkout source
+$ mkdir _deploy
+$ cd _deploy
+$ git init
+$ git remote add origin git@github.com:username/username.github.com.git
+$ git pull origin master
+$ cd ..
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress: Banishing a Category to Its Own Page]]></title>

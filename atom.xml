@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-17T20:13:40-05:00</updated>
+  <updated>2013-06-22T13:41:16-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Setting up an Existing Octopress Blog on a New Computer]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/setting-up-an-existing-octopress-blog-on-a-new-computer/"/>
+    <updated>2013-06-22T12:52:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/22/setting-up-an-existing-octopress-blog-on-a-new-computer</id>
+    <content type="html"><![CDATA[<p>This information comes from a <a href="http://code.dblock.org/octopress-setting-up-a-blog-and-contributing-to-an-existing-one">post</a> by <a href="https://twitter.com/dblockdotorg">@dblockdotorg</a> which was down today while I was trying to set my blog up on a fresh OS install. Therefore, I&#8217;m mirroring that content here in case it is unavailable in the future.</p>
+
+<pre><code>$ git clone git@github.com:username/username.github.com.git
+$ cd username.github.com
+$ git checkout source
+$ mkdir _deploy
+$ cd _deploy
+$ git init
+$ git remote add origin git@github.com:username/username.github.com.git
+$ git pull origin master
+$ cd ..
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #87]]></title>
@@ -1280,41 +1300,6 @@ JSON API is covered in this episode.</p>
 
 <p><a href="http://store.steampowered.com/app/215690/">Zeno Clash 2</a><br/>
 One of the strangest 1st person action games gets a sequel.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #68]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/04/29/the-land-of-10-000-links-number-68/"/>
-    <updated>2013-04-29T21:39:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/04/29/the-land-of-10-000-links-number-68</id>
-    <content type="html"><![CDATA[<h2>Hyper Media</h2>
-
-<p><a href="http://www.tor.com/blogs/2013/04/tor-books-uk-drm-free-one-year-later">One Year Later, the Results of Tor Books UK Going DRM-Free</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://www.ibm.com/developerworks/community/forums/html/topic?id=e3276579-015f-49bc-beea-28484ddef38e&amp;ps=25">Entity Framework Comes to DB2</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html">So You Don&#8217;t Want to be a Programmer After All</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://www.confreaks.com/videos/2367-mwrc2013-ruby-off-the-rails-building-a-distributed-system-in-ruby">Ruby off the Rails: Building a distributed system in Ruby</a></p>
-
-<h2>Cloudy, with a Chance of Meatballs</h2>
-
-<p><a href="http://arstechnica.com/information-technology/2013/04/microsoft-adds-azure-to-its-billion-dollar-a-year-club/">Microsoft adds Azure to its billion dollar a year club</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://net.tutsplus.com/tutorials/tools-and-tips/http-the-protocol-every-web-developer-must-know-part-2/">HTTP: The Protocol Every Web Developer Must Know – Part 2</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/04/29/rest-lessons-learned/">REST Lessons Learned</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/04/29/rest-lesson-learned-avoid-user-supplied-data-in-uri-segments/">REST lesson learned: Avoid user supplied data in URI segments</a></p>
 ]]></content>
   </entry>
   
