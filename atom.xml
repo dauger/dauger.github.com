@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-22T22:46:22-05:00</updated>
+  <updated>2013-06-22T23:27:26-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Review: Web API Design (Pluralsight)]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/"/>
+    <updated>2013-06-22T23:24:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight</id>
+    <content type="html"><![CDATA[<p>Apigee&#8217;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&#8217;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&#8230;) that I can remember.</p>
+
+<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&#8217;t really explored (vocabularies, API DNAs, etc&#8230;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
+
+<p>Bottom line: point developers who are new to Web APIs to this course.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #88]]></title>
@@ -1284,87 +1297,6 @@ JSON API is covered in this episode.</p>
 <p><a href="http://www.starringthecomputer.com/">Starring The Computer</a></p>
 
 <p><a href="http://www.retrothing.com/2013/05/amiga-forever-on-android.html">Amiga Forever Brings Classic Computing Power To Android</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #70]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/05/the-land-of-10-000-links-number-70/"/>
-    <updated>2013-05-05T20:47:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/05/the-land-of-10-000-links-number-70</id>
-    <content type="html"><![CDATA[<h2>JabbaScript</h2>
-
-<p><a href="https://npmjs.org/package/express-remote_control?buffer_share=18a89&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer%253A%252Bsteveklabnik%252Bon%252Btwitter">express-remote_control A Hypermerdia-inspired REST API for Express</a></p>
-
-<p><a href="https://github.com/JanVanRyswyck/node-validation">node-validation</a></p>
-
-<p><a href="http://www.knockmeout.net/2013/05/knockout-amd-helpers-plugin.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+KnockMeOut+%28Knock+Me+Out%29">Working With AMD Modules in Knockout.js</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://scorchedrb.com/">Simple, Powerful, Scorched</a></p>
-
-<p><a href="http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/">How to Install Xcode, Homebrew, Git, RVM, Ruby &amp; Rails on Snow Leopard, Lion, and Mountain Lion</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://github.com/glennblock/talks/tree/gh-pages/azure/command-line-tools">Azure Command Line Code Samples</a></p>
-
-<p><a href="https://github.com/dahlbyk/Presentations/tree/master/AbstractToYield">Abstract To Yield</a></p>
-
-<p><a href="http://autofac.org/">Autofac gets a new look</a></p>
-
-<p><a href="http://www.tugberkugurlu.com/archive/getting-started-with-owin-and-the-katana-stack">Getting Started With OWIN and the Katana Stack</a></p>
-
-<p><a href="http://amirrajan.net/Blog/dynamic-c-sharp">Dynamic C#</a></p>
-
-<p><a href="http://www.singular.co.nz/blog/archive/2007/12/20/shortguid-a-shorter-and-url-friendly-guid-in-c-sharp.aspx?utm_source=feedly">ShortGuid - A shorter and url friendly GUID class in C#</a></p>
-
-<p><a href="http://haishibai.blogspot.com/2013/04/windows-azure-sdk-20-features-1-even.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HaishisBlog+%28Haishi%27s+Blog%29">Windows Azure SDK 2.0 Features (1) – A Even Better Server Explorer</a></p>
-
-<p><a href="http://haishibai.blogspot.com/2013/04/windows-azure-sdk-20-features-2-even.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HaishisBlog+%28Haishi%27s+Blog%29">Windows Azure SDK 2.0 Features (2) – A Even Better Web Sites Experience</a></p>
-
-<p><a href="http://haishibai.blogspot.com/2013/04/windows-azure-sdk-20-features-3-even.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HaishisBlog+%28Haishi%27s+Blog%29">Windows Azure SDK 2.0 Features (3) – Even Bigger Machines</a></p>
-
-<p><a href="http://haishibai.blogspot.com/2013/04/windows-azure-sdk-20-features-4-even.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HaishisBlog+%28Haishi%27s+Blog%29">Windows Azure SDK 2.0 Features (4) – Even More Things You May be Interested</a></p>
-
-<p><a href="http://www.strathweb.com/2013/05/the-future-is-now-owin-and-multi-hosting-asp-net-web-applications/">The future is now – OWIN and multi-hosting ASP.NET web applications</a></p>
-
-<h2>Stop!</h2>
-
-<p><a href="https://github.com/strider-/imgchan">Go package for consuming 4chan&#8217;s public JSON API</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://blog.jongallant.com/2013/05/work-life-balance-at-microsoft.html#.UYUmXCtATJ8">My Thoughts on Work/Life Balance at Microsoft</a></p>
-
-<p><a href="https://speakerdeck.com/gpennington/graphic-design-for-programmers">Graphic Design for Programmers</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://jsonapi.org/">JSON API</a></p>
-
-<p><a href="https://news.ycombinator.com/item?id=5653706">Hacker News discussion re: JSON API</a></p>
-
-<p><a href="https://github.com/json-api/json-api">JSON API on Github</a></p>
-
-<p><a href="http://www.apievangelist.com/2013/05/02/startups-need-to-work-together-on-api-definitions/?buffer_share=4d579&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer%253A%252Bsteveklabnik%252Bon%252Btwitter">Startups Need To Work Together on API Definitions</a></p>
-
-<p><a href="http://emberjs.com/blog/2013/05/03/ember-data-progress-update.html">Ember Data Progress Update</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/04/30/rest-lesson-learned-avoid-204-responses/">REST lesson learned: Avoid 204 responses</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/05/02/rest-lesson-learned-consider-a-home-link-on-all-resources/">REST lesson learned: Consider a home link on all resources</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/05/03/rest-lesson-learned-consider-a-self-link-on-all-resources/">REST lesson learned: Consider a self link on all resources</a></p>
-
-<p><a href="http://www.infoq.com/presentations/REST-API-HATEOAS">Road to REST</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://bgr.com/2013/05/02/ios-7-redesign-details-on-time/">iOS 7 is coming with a major redesign – and it will launch on time</a></p>
-
-<p><a href="http://blog.ittoby.com/2013/05/using-raspberry-pi-as-thin-client-for.html">Using a Raspberry Pi as a Thin Client for RDP/RemoteFX/VMWare View or Citrix</a></p>
 ]]></content>
   </entry>
   

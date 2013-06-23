@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-22T22:46:22-05:00</updated>
+  <updated>2013-06-22T23:27:26-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Review: Web API Design (Pluralsight)]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/"/>
+    <updated>2013-06-22T23:24:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight</id>
+    <content type="html"><![CDATA[<p>Apigee's <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth's new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc...) that I can remember.</p>
+
+<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn't really explored (vocabularies, API DNAs, etc...). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
+
+<p>Bottom line: point developers who are new to Web APIs to this course.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Code Review Hack: No IDE]]></title>
@@ -205,64 +218,6 @@ var libManager = LibrariesManager.GetManager();</p>
 
 <p>```
 This reduced the query time down to about .2 seconds.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[.NET Dependency Management in a Pre-Nuget World]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/"/>
-    <updated>2011-02-28T19:57:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world</id>
-    <content type="html"><![CDATA[<p>This post is an attempt to capture how my previous team dealt with dependency / package management. The team, at its largest point, consisted of about 15 developers. There were roughly 200 3rd party dlls, and roughly 150 internal dlls in the dependency mix. No single app needed all 350 dlls, but groups of these dlls were common to applications in the same domain space of the enterprise. 3rd party dlls were things such as the MS Enterprise Library, image conversion libraries, desktop scanner interop libraries, etc… Internal dlls were things such as common utility libraries, WCF service contracts, DTOs etc… <!-- more --></p>
-
-<p>Until the recent development of projects such as <a href="http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx">Nuget</a> and <a href="http://www.openwrap.org/">OpenWrap</a>, dependency management in .NET has been a big problem. The larger a development group’s topology is, the more of a pain point it is. Because this is the case, a lot of teams don’t even realize they are going to have issues until the pain is upon them. Additionally, I think the complexity of describing the problem has helped to keep package management as an elephant in the .NET room for a long time.</p>
-
-<p>Since there has been abundant discussion on this issue lately, I’m going to skip describing the problems with dependency management and get straight into what we tried over the years, and what the final solution ended up being. It’s important to note that my team used TFS (2008) for source control because some of the steps we took were in response to TFS’ weaknesses.</p>
-
-<h2>First attempt ending in Failure:</h2>
-
-<ul>
-<li><strong>Manage all 3rd party dlls by putting them in a [sln]\bin folder (tracked by TFS).</strong></li>
-<li><strong>Manage all internal dependencies as shared projects across multiple slns.</strong></li>
-</ul>
-
-
-<p>I’m sure some of you are already cringing after reading the last bullet point, but you’ll have to admit it is the first solution that comes to mind to a lot of developers. Additionally, it is a very simple solution. The biggest issue with this solution is with sharing a project over several slns. Unfortunately, any bit of code in those shared projects is easily changeable from multiple slns; therefore it is very easy to break several slns in one fell swoop. Secondly configuration management goes out the window because every time a sln is compiled, each shared project gets a new version that bypasses any sort of change management.</p>
-
-<h2>Second attempt ending in failure:</h2>
-
-<ul>
-<li><strong>Manage all 3rd party and internal dlls by putting them in a [sln]\bin folder.</strong></li>
-</ul>
-
-
-<p>This solution complicates things slightly (in a positive way) by requiring each sln to use a proper release of all internal dlls; therefore you are able to have some degree of configuration management. However, this solution failed for us because of one simple fact: TFS does not track binaries well. We never ran into this weakness with the first solution because all of the 3rd party dlls were set-and-forget. They never changed after setting the initial reference. The internal dlls however, would change daily, or even hourly. At first this seemed like the perfect solution, however all sorts of strange errors started occurring. One person would get latest and everything would work, but another person would get latest and have errors. TFS simply could not tell if you needed a new version of the dlls in the /bin folder. Sadly, even a “clean all" and "get specific version" didn't fix things a lot of the time.</p>
-
-<h2>Third attempt ending in Success:</h2>
-
-<ul>
-<li><strong>Build a custom package management system.</strong></li>
-</ul>
-
-
-<p>Our custom package management system worked thusly: We created a network share. For each logical release (i.g. MS EntLib, Internal.Common.Util) we created both a [networkShare]\[package]\LatestRelease folder and a [networkShare]\[package]\Release_[version number] folder. We then created a console EXE with a bunch of options that would: 1) go and grab all of the latest dlls for all projects and dump them into one pre-defined “latest” folder on the developer PC and 2) Recreate the “releases” tree structure on the developer PC. This way, developers have the ability to drink from the fire-hose (the latest folder) or go for set releases (from the releases folder tree). TFS is not tracking dlls at all. Rather, we are relying on an absolute path file reference. Additionally, calling this executable becomes a build task on the CI server.
-This solution isn't perfect. Namely, it relies on developers to remember to run the executable from time to time. Additionally, there are potentially some versioning scenarios that could occur between packages that expect a different versions of sub dependencies. However that issue never manifested itself in our environment.</p>
-
-<h2>Nuget is not the final answer for teams using TFS</h2>
-
-<p><del>I've been following the Nuget dev list closely, and Nuget is considered to be a development time dependency resolver only, not a build time resolver. This means that if you use TFS to track your Nuget package folders, you could still run into dll versioning issues.</del></p>
-
-<h3>Update (4/17/2011)</h3>
-
-<p>Nuget team member David Ebbo has blogged that <a href="http://blog.davidebbo.com/2011/03/using-nuget-without-committing-packages.html">functionality has been added to allow use of Nuget without committing the packages folder to source control.</a></p>
-
-<h3>Update (4/30/2011)</h3>
-
-<p>According to Phil Haack, <a href="http://haacked.com/archive/2011/04/27/feedback-request-for-using-nuget-without-committing-packages.aspx">Nuget is going to be getting official support for non-committed packages.</a></p>
-
-<h3>Update (3/9/2013)</h3>
-
-<p>Obviously, Nuget package restore is a thing now, so this post should be considered for historical purposes only.</p>
 ]]></content>
   </entry>
   

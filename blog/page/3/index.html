@@ -5,11 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Programming is a Craft - Welcome to My Nerditorium</title>
+  <title>Welcome to My Nerditorium</title>
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="Here are my initial thoughts after reading: Programming is not a Craft &#8220;craft -noun 1. an art, trade, or occupation requiring special skill, &hellip;">
+  <meta name="description" content="Introduction – A Word Of Warning First off - I do not recommend you write your own hand-rolled data
+access solution for an OO .NET application. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2011/01/11/programming-is-a-craft/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/page/3/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -75,12 +76,15 @@
 </nav>
   <div id="main">
     <div id="content">
-      <div>
-<article class="hentry" role="article">
+      <div class="blog-index">
   
+  
+  
+    <article>
+      
   <header>
     
-      <h1 class="entry-title">Programming Is a Craft</h1>
+      <h1 class="entry-title"><a href="/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/">Practical Persistence Ignorant Lazy Loading for Your Hand-Rolled DAL</a></h1>
     
     
       <p class="meta">
@@ -96,85 +100,46 @@
   
 
 
-<time datetime="2011-01-11T21:38:00-06:00" pubdate data-updated="true">Jan 11<span>th</span>, 2011</time>
+<time datetime="2010-01-31T12:45:00-06:00" pubdate data-updated="true">Jan 31<span>st</span>, 2010</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Here are my initial thoughts after reading: <a href="http://dannorth.net/2011/01/11/programming-is-not-a-craft/">Programming is not a Craft</a> <!-- more --></p>
+  <div class="entry-content"><h2>Introduction – A Word Of Warning</h2>
 
-<p><img class="left" src="/images/postimages/witchcraft1.jpg">
-&#8220;craft -noun 1. an art, trade, or occupation requiring special skill, esp. manual skill: the craft of a mason.&#8221; (<a href="http://dictionary.reference.com/browse/craft">dictionary.com</a>)</p>
-
-<p>“In English, to describe something as a craft is to describe it as lying somewhere between an art (which relies on talent) and a science (which relies on knowledge). In this sense, the English word craft is roughly equivalent to the ancient Greek term <a href="http://en.wikipedia.org/wiki/Techne">techne</a>.&#8221; (<a href="http://en.wikipedia.org/wiki/Craft">wikipedia.com</a>)</p>
-
-<p>In my opinion, on a whole, software development is a combination of craft and primitive engineering (<a href="http://www-2.cs.cmu.edu/afs/cs.cmu.edu/project/compose/ftp/pdf/shaw_90.pdf">which is slowly emerging as a true engineering discipline</a>). The term craft usually means how something was made, not what was made or the perceived value of the end result by the layman. One of the commenters on the original post mentioned carpentry as a craft that may not always be defined by the value placed on the end product by the layman. In this vein, I will also mention that witchcraft is considered a craft.</p>
-
-<p>One of the hallmarks of craft is that that it is filled with heuristics and folklore. Much of the work of today&#8217;s software developer is squarely within this realm. More often than not, there is no clear-cut way to solve a problem. We craft a solution based off of our experiences and the folklore we encounter. It is worth noting that I consider blogs, google searches, MSDN, visits at a coworker&#8217;s desk, irc, and <a href="http://www.stackoverflow.com">stackoverflow.com</a> to be sources of folklore.</p>
-
-<p>I must say that I do agree with much of the post, but I think the terminology that is presented is incorrect. I think it would have been wiser to say that software development is most often not an art, and ego has no place in it.</p>
-
-<p>I also have to concede that in hindsight, I believe that the <a href="http://manifesto.softwarecraftsmanship.org/">software craftsmanship manifesto</a> was a bad idea. I recently learned there was a period of time when it was being debated if there should be clause in it to forbid using anything (tools, languages, etc&#8230;) that was not OSS. In my opinion the manifesto only serves to force a definition on something that needs no additional definition.</p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+<p>First off - I <strong>do not</strong> recommend you write your own hand-rolled data
+access solution for an OO .NET application. Ayende has a <a href="http://ayende.com/Blog/archive/2006/05/12/25ReasonsNotToWriteYourOwnObjectRelationalMapper.aspx">great post</a>
+that should convince you to use something like
+<a href="http://nhforge.org/">NHibernate</a>, <a href="http://www.llblgen.com/">LLBLGen</a>,
+<a href="http://en.wikipedia.org/wiki/ADO.NET_Entity_Framework">Entity Framework</a>, or
+<a href="http://en.wikipedia.org/wiki/LINQ_to_SQL#LINQ_to_SQL">Linq2Sql</a>. I
+strongly agree with him. I’ve worked on several projects which had a
+hand rolled, stored procedure based DAL. All of the DALs that were of a
+medium-to-large-size eventually turned into a huge mess, or something
+with tons of friction and poor performance. That being said, I am not
+allowed to use an ORM at my current employer, and I know that many
+others are not as well. That being the case, I think this post may be of
+use for other people in the same situation. </div>
   
-
-<span class="byline author vcard">Posted by <span class="fn">Daniel Auger</span></span>
-
-      
-
-
-
-
-
-
-
-
+  
+    <footer>
+      <a rel="full-article" href="/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/">Read on &rarr;</a>
+    </footer>
   
 
 
-<time datetime="2011-01-11T21:38:00-06:00" pubdate data-updated="true">Jan 11<span>th</span>, 2011</time>
-      
-
-<span class="categories">
+    </article>
   
-    <a class='category' href='/blog/categories/development/'>development</a>
-  
-</span>
-
-
-    </p>
+  <div class="pagination">
     
-      <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2011/01/11/programming-is-a-craft/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2011/01/11/programming-is-a-craft/" >Tweet</a>
-  
-  
-  <div class="g-plusone" data-size="medium"></div>
-  
-  
-</div>
-
+    <a href="/blog/archives">Blog Archives</a>
     
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/" title="Previous Post: Getting RVM to Work when GVIM is Launched from Ubuntu's Menu">&laquo; Getting RVM to Work when GVIM is Launched from Ubuntu's Menu</a>
-      
-      
-        <a class="basic-alignment right" href="/blog/2011/02/16/the-case-of-web-deploy-2-dot-0-and-the-missing-msdeploy-dot-exe/" title="Next Post: The Case of Web Deploy 2.0 and the Missing MSDeploy.exe">The Case of Web Deploy 2.0 and the Missing MSDeploy.exe &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
-
+    <a class="next" href="/blog/page/2/">Newer &rarr;</a>
+    
+  </div>
 </div>
-
 <aside class="sidebar">
   
     <section>
@@ -225,7 +190,7 @@
 <section>
   <h1>Latest Tweets</h1>
   <ul id="tweets">
-    <li class="loading">Status updating...</li>
+    <li class="loading">Status updating&#8230;</li>
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
@@ -245,7 +210,6 @@
   
 </aside>
 
-
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -258,6 +222,19 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'nerditorium';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
