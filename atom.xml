@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-22T13:41:16-05:00</updated>
+  <updated>2013-06-22T22:46:22-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,131 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #88]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/the-land-of-10-000-links-number-88/"/>
+    <updated>2013-06-22T22:33:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/06/22/the-land-of-10-000-links-number-88</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/06/22/array-covariance-not-just-ugly-but-slow-too.aspx">Array covariance: not just ugly, but slow too</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/06/EF6-Breaking-Changes#.UcBSkO9nqH8.twitter">Entity Framework 6 Brings Breaking Changes</a></p>
+
+<p><a href="http://tech.pro/blog/1380/code-lingo-immutable-and-mutable">Code Lingo: Immutable and Mutable</a></p>
+
+<p><a href="http://tech.pro/blog/1191/say-no-to-the-repository-pattern-in-your-dal">Say No to the Repository Pattern in Your DAL</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/06/19/update-to-httpclient-and-automatic-decompression.aspx">Update to HttpClient and Automatic Decompression</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/06/NHibernate-Future">The Uncertain Future of NHibernate</a></p>
+
+<p><a href="http://farm-fresh-code.blogspot.com/2013/06/getting-miniprofiler-to-work-with.html">Getting MiniProfiler to work with WebAPI and EF5 Code First</a></p>
+
+<p><a href="http://tech.pro/tutorial/1384/scriptcs-loves-ravendb--getting-started">ScriptCS Loves RavenDB : Getting Started</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://blogs.msdn.com/b/somasegar/archive/2013/06/18/typescript-0-9-preview-release.aspx">TypeScript 0.9 Preview Release</a></p>
+
+<p><a href="http://www.railsonmaui.com/blog/2013/06/11/emberjs-rails4-tutorial/">Video - Ember.js Tutorial With Rails 4</a></p>
+
+<p><a href="http://www.infoq.com/articles/effective-javascript-book-review">Interview and Book Review: Effective JavaScript</a></p>
+
+<p><a href="http://searls.testdouble.com/posts/2013-06-16-unrequired-love.html">Unrequired Love - a Discussion on Javascript and Dependency Management</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://www.kalzumeus.com/2013/06/17/if-your-business-uses-rails-2-3-you-need-to-move-to-a-supported-option-asap/">If Your Business Uses Rails 2.3 You Need To Move To A Supported Option ASAP</a></p>
+
+<h2>Smalltalk</h2>
+
+<p><a href="http://www.jarober.com/blog/blogView?entry=3549177066">ST 4U 406: Dave Thomas, Smalltalk Next</a></p>
+
+<h2>Elixrr</h2>
+
+<p><a href="https://peepcode.com/blog/2013/elixir-is-for-programmers">Elixir is for Programmers</a></p>
+
+<h2>Cloud and Big Data</h2>
+
+<p><a href="http://alexandrebrisebois.wordpress.com/2013/06/15/my-recommendations-for-windows-azure-literature/">My Recommendations For Windows Azure Literature</a></p>
+
+<p><a href="http://blogs.msdn.com/b/jimoneil/archive/2013/06/18/practical-azure-21-hdinsight.aspx">Practical Azure #21 - HDInsight</a></p>
+
+<p><a href="http://blogs.msdn.com/b/timomta/archive/2013/06/22/azure-iaas-my-benchmark-of-azure-storage-speeds.aspx">Azure IaaS: My Benchmark of Azure Storage Speeds</a></p>
+
+<p><a href="http://thomaslarock.com/2013/06/why-windows-azure-sql-database-may-be-right-for-you/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+SQLRockstar+%28SQLRockstar%29">Why Windows Azure SQL Database May be Right for You</a></p>
+
+<p><a href="http://programming.oreilly.com/2013/06/the-future-is-graph-databases.html">The Future is Graph Databases</a></p>
+
+<h2>Software Craftsmanship</h2>
+
+<p><a href="http://www.heartmindcode.com/blog/2013/06/teach-yourself-a-new-programming-language-in-21-minutes-or-2-3-years-it-depends/">Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends)</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/06/document-messaging-analysis">Greg Young on Documents and Processes as an Alternative to Events</a></p>
+
+<p><a href="http://mat-mcloughlin.github.io/2013/05/16/when-you-shouldnt-test.html">When you Shouldn&#8217;t Bother Testing</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/06/17/where-to-put-unit-tests/">Where to Put Unit Tests</a></p>
+
+<p><a href="http://spencertipping.com/posts/2012.0530.why-i-left-google.html">Why I Left Google</a></p>
+
+<p><a href="http://visualstudiomagazine.com/articles/2013/06/01/so-long-and-thanks-for-the-all-the-manifestos.aspx">So Long and Thanks for All the Manifestos</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/06/18/strategies-for-isolating-the-database-in-tests/">Strategies for Isolating the Database in Tests</a></p>
+
+<p><a href="http://haacked.com/archive/2013/06/18/semver-2-0-released.aspx">SemVer 2.0 Released</a></p>
+
+<p><a href="http://www.stum.de/2013/06/21/5-years-of-stackoverflow-com/">5 Years of Stackoverflow.com</a></p>
+
+<h2>Retrocomputing</h2>
+
+<p><a href="http://blog.smartbear.com/programming/programming-on-early-microcomputers-a-retrospective/">Programming on Early Microcomputers: A Retrospective</a></p>
+
+<h2>HTTP APIs / REST</h2>
+
+<p><a href="https://blog.apigee.com/detail/api_design_ruminating_over_rest">API Design: Ruminating Over Rest</a></p>
+
+<p><a href="https://blog.apigee.com/detail/api_design_honing_in_on_hateoas">API Design: Honing in on HATEOAS</a></p>
+
+<p><a href="https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_1">API Design: Harnessing HATEOAS, Part 1</a></p>
+
+<p><a href="http://blog.cdeutsch.com/2013/06/whats-best-format-for-api-responses.html">What&#8217;s The Best Structure for API Responses?</a></p>
+
+<p><a href="http://www.l1ghtm4n.com/post/53259404576/patterns-for-rest-api-bulk-operations">Patterns for REST API Bulk Operations</a></p>
+
+<p><a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">New Pluralsite Course - Web API Design by Shawn Wildermuth</a></p>
+
+<p><a href="http://www.infoq.com/presentations/web-api-html">Video - Building Hypermedia APIs with HTML</a></p>
+
+<p><a href="http://apigee.com/about/pressrelease/new-apigee-wizard-converts-apis-soap-rest-minutes">New Apigee Wizard Converts APIs from SOAP to REST in Minutes</a></p>
+
+<p><a href="http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/?goback=%2Egde_151744_member_250783064">Video - RESTful APIs: White House Sets The Standard(s)</a></p>
+
+<p><a href="http://www.staynalive.com/2013/06/with-new-api-twitter-attempts-to-kill.html">With New API, Twitter Attempts to Kill Autofollow Apps</a></p>
+
+<p><a href="http://blog.epanastasi.com/post/53374577584/debugging-the-stripe-api-using-runscope">Debugging the Stripe API using Runscope</a></p>
+
+<h2>Editors / IDEs</h2>
+
+<p><a href="https://github.com/borysf/Sublimerge/tree/sublime-text-3">Sublimerge - Diff and Merge Files in Sublime Text</a></p>
+
+<p><a href="http://justincampbell.me/til/use-ctrl-f-to-bring-up-history">Vim: TIL Use Ctrl-f to Bring Up History</a></p>
+
+<h2>Source Control</h2>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/06/19/enterprise-grade-git.aspx">Enterprise grade Git (in TFS)</a></p>
+
+<p><a href="http://tfs.visualstudio.com/en-us/news/2013-jun-19">Team Foundation Service updates - Jun 19</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.rockpapershotgun.com/2013/06/20/yikes-baldurs-gate-enhanced-pulled-bgii-on-hold/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RockPaperShotgun+%28Rock%2C+Paper%2C+Shotgun%29">Yikes: Baldur’s Gate Enhanced Pulled, BGII On Hold</a></p>
+
+<p><a href="http://www.rockpapershotgun.com/2013/06/20/witcher-2-combat-mod/">Greased Lightning: Witcher 2 Semi-Official Combat Mod Out</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Setting up an Existing Octopress Blog on a New Computer]]></title>
@@ -1240,66 +1365,6 @@ JSON API is covered in this episode.</p>
 <p><a href="http://bgr.com/2013/05/02/ios-7-redesign-details-on-time/">iOS 7 is coming with a major redesign – and it will launch on time</a></p>
 
 <p><a href="http://blog.ittoby.com/2013/05/using-raspberry-pi-as-thin-client-for.html">Using a Raspberry Pi as a Thin Client for RDP/RemoteFX/VMWare View or Citrix</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #69]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/01/the-land-of-10-000-links-number-69/"/>
-    <updated>2013-05-01T21:34:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/01/the-land-of-10-000-links-number-69</id>
-    <content type="html"><![CDATA[<h2>STOP!</h2>
-
-<p><a href="http://jessekallhoff.com/2013/05/02/go-web-apps-risk-analyzer-pt-1/">Go Web Apps: Risk Analyzer - Setup</a></p>
-
-<h2>JabbaScript</h2>
-
-<p><a href="http://blog.strongloop.com/how-to-test-an-api-with-node-js/">How to Test an API with Node.js</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/04/new-features-in-the-latest-resharper-8-ea/">New Features in the Latest ReSharper 8 EAP</a></p>
-
-<p><a href="http://www.hanselman.com/blog/CDNsFailButYourScriptsDontHaveToFallbackFromCDNToLocalJQuery.aspx">CDNs fail, but your scripts don&#8217;t have to - fallback from CDN to local jQuery</a></p>
-
-<p><a href="http://developers.slashdot.org/story/13/04/30/1940226/windows-store-in-app-ad-revenue-plummets?utm_source=slashdot&amp;utm_medium=twitter">Windows Store In-App Ad Revenue Plummets</a></p>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/04/30/announcing-the-release-of-windows-azure-sdk-2-0-for-net.aspx">Announcing the release of Windows Azure SDK 2.0 for .NET</a></p>
-
-<p><a href="http://tech.pro/tutorial/1265/restful-aspnet-mvc--show-action">Restful ASP.NET MVC: Show Action</a></p>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/05/01/announcing-the-release-of-webmatrix-3.aspx">Announcing the Release of WebMatrix 3</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://therealadam.com/2013/05/01/learning-from-a-dropped-refactoring/">Learning from a Dropped Refacting</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://www.musicbyprogrammers.com/">Music by Programmers</a></p>
-
-<p><a href="http://martinfowler.com/articles/dipInTheWild.html">DIP in the Wild</a></p>
-
-<p><a href="http://mkaz.com/web-dev/dont-be-a-git-use-subversion">Don’t be a git, use subversion</a></p>
-
-<p><a href="http://news.ncsu.edu/releases/wms-murphyhill-age-2013/">Older Is Wiser: Study Shows Software Developers’ Skills Improve Over Time</a></p>
-
-<p><a href="https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=0">Magic Tricks of Testing</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://blog.ploeh.dk/2013/05/01/rest-lesson-learned-avoid-hackable-urls/">REST lesson learned: Avoid hackable URLs</a></p>
-
-<p><a href="https://s3.amazonaws.com/cimlabs/Oredev-Hypermedia-APIs.pdf">Hypermedia APIs, the Rest of Rest</a></p>
-
-<h2>The Great and Powerful OS!</h2>
-
-<p><a href="http://www.zdnet.com/microsoft-readies-mohoro-windows-desktop-as-a-service-7000014769/">Microsoft readies &#8216;Mohoro&#8217; Windows desktop as a service</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://store.steampowered.com/app/215690/">Zeno Clash 2</a><br/>
-One of the strangest 1st person action games gets a sequel.</p>
 ]]></content>
   </entry>
   
