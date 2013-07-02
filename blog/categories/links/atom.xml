@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-30T15:11:18-05:00</updated>
+  <updated>2013-07-01T20:55:28-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #90]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90/"/>
+    <updated>2013-07-01T20:53:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90</id>
+    <content type="html"><![CDATA[<h2>GO</h2>
+
+<p><a href="http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/">Go Read: Open-Source Google Reader Clone</a></p>
+
+<p><a href="http://openmymind.net/Golang-Hot-Configuration-Reload/">Golang Hot Configuration Reload</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="https://nuget.org/packages/FakeItEasy/1.13.0">Fake it Easy! 1.13.0</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn296510.aspx">How Microsoft's Next-Gen Compiler Project Can Improve Your Code</a></p>
+
+<h2>Software Architecture</h2>
+
+<p><a href="http://askudi.libsyn.com/1-alternative-architectures-preaching-to-the-unconverted">Podcast - Ask Udi 1. Alternative Architectures &amp; Preaching to the Unconverted</a></p>
+
+<h2>Azure</h2>
+
+<p><a href="http://social.technet.microsoft.com/wiki/contents/articles/18146.windows-azure-telemetry-basics-and-troubleshooting.aspx">Windows Azure: Telemetry Basics adn Troubleshooting</a></p>
+
+<h2>AWS</h2>
+
+<p><a href="http://www.infoq.com/news/2013/06/economics-of-aws">Economics of Application Virtualization on AWS</a></p>
+
+<h2>HTTP / REST/ APIs</h2>
+
+<p><a href="https://mathieu.fenniak.net/is-your-web-api-susceptible-to-a-csrf-exploit/">Is your Web API susceptible to a CSRF exploit?</a></p>
+
+<h2>Security</h2>
+
+<p><a href="http://www.continuumsecurity.net/2013/07/01/how-to-sniff-cookies-over-https.html">How to Sniff Cookies Over HTTPS</a></p>
+
+<h2>OS</h2>
+
+<p><a href="http://thenextweb.com/insider/2013/07/01/windows-8-now-up-to-5-10-market-share-as-it-finally-passes-windows-vista/?utm_content=Windows%208%20now%20up%20to%205.10%%20market%20share%20as%20it%20finally%20passes%20Windows%20Vista&amp;awesm=tnw.to_b0ZLh&amp;utm_source=Twitter&amp;utm_campaign=social%20media&amp;utm_medium=share%20button">Windows 8 now up to 5.10% market share as it finally passes Windows Vista</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.computerandvideogames.com/417168/the-walking-dead-400-days-out-this-week/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Walking Dead: 400 Days out this week</a></p>
+
+<p><a href="http://www.computerandvideogames.com/417164/microsoft-ceo-steve-ballmer-to-oversee-xbox-business/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Xbox Head Leaves for Xynga - Ballmer to Oversee Xbox Business</a></p>
+
+<p><a href="http://majornelson.com/2013/07/01/xbox-360-special-edition-chrome-series-gold-wireless-controller/">Xbox 360 Special Edition Chrome Series Gold Wireless Controller</a></p>
+
+<h2>Apps</h2>
+
+<p><a href="http://blog.comixology.com/2013/07/01/comixology-debuts-subscriptions-bundles/">ComiXology Debuts Subscriptions &amp; Bundles!</a></p>
+
+<h2>Table-top RPGS</h2>
+
+<p><a href="http://www.wizards.com/DnD/Article.aspx?x=dnd%2F4ll%2F20130701&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Many Worlds of D&amp;D</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #89]]></title>
@@ -346,64 +405,6 @@
 <p><a href="http://fabiensanglard.net/prince_of_persia/index.php">Prince of Persia Code Review</a></p>
 
 <p><a href="http://www.vg247.com/2013/06/14/console-wars-youre-going-to-buy-an-xbox-one/">Console Wars: you’re going to buy an Xbox One</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #85]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85/"/>
-    <updated>2013-06-14T07:39:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85</id>
-    <content type="html"><![CDATA[<h2>JavaScript</h2>
-
-<p><a href="http://rdallasgray.github.io/blog/2013/06/09/whats-wrong-with-javascript/">What's wrong with JavaScript</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/06/14/windows-azure-major-updates-for-mobile-backend-development.aspx">Windows Azure: Major Updates for Mobile Backend Development</a></p>
-
-<p><a href="https://speakerdeck.com/leastprivilege/securing-asp-dot-net-web-api-ndc-oslo-2013">Securing ASP.NET Web API (NDC Oslo 2013)</a></p>
-
-<h2>Software Craftsmanship and Engineering</h2>
-
-<p><a href="http://www.bphogan.com/2013/06/09/how-to-derail-your-readers-and-students/">How To Derail Your Readers And Students</a></p>
-
-<p><a href="http://www.larsavery.com/blog/a-process-for-learning-a-new-codebase/">A Process for Learning a New Codebase</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/netflix">How Netflix Deploys Code</a></p>
-
-<h2>REST</h2>
-
-<blockquote><p>... I keep reading all of the Hypermedia stuff because I want there to be that example. I want to understand it better. All of it is a lot of telling and not a lot of showing. ...if you are out there and you care about about Hypermedia, stop telling people how great it is and start showing them.
-<a href="http://trafficandweather.io/posts/episode-6-im-going-to-take-all-this-out">Traffic and Weather Podcast #6</a></p></blockquote>
-
-<p><a href="http://www.stormpath.com/blog/linking-and-resource-expansion-rest-api-tips">Linking and Resource Expansion: REST API Tips</a></p>
-
-<p><a href="http://www.emilsoman.com/blog/2013/05/18/building-a-tested/">Building a Tested, Documented and Versioned JSON API Using Rails 4</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://readwrite.com/2013/06/12/the-secret-to-openstacks-overnight-success?awesm=readwr.it_j0s#awesm=~o8zvSUjGudPTKY">The Secret(s) to OpenStack's Overnight Success</a></p>
-
-<h2>Software Craftsmanship</h2>
-
-<p><a href="http://blog.8thlight.com/ben-voss/2013/06/10/what-is-a-craftsman.html">What is a Craftsman</a></p>
-
-<p><a href="http://ahmetalpbalkan.com/blog/8-months-microsoft/">Lessons Learned from 8 Months at Microsoft</a></p>
-
-<p><a href="http://damieng.com/blog/2013/06/13/working-at-microsoft">Working at Microsoft</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://www.theverge.com/2013/6/10/4413228/apple-wwdc-2013-everything-you-need-to-know">WWDC 2013 - Everthing You Need to Know</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-06-10-dice-developing-new-star-wars-battlefront-game?utm_source=dlvr.it&amp;utm_medium=twitter">DICE developing new Star Wars Battlefront game</a></p>
-
-<p><a href="http://www.ign.com/articles/2013/06/12/e3-2013-cops-called-to-shut-down-ouya#.UbiS307BniY.twitter">E3 2013: Cops Called to Shut Down Ouya</a></p>
-
-<p><a href="http://www.neowin.net/news/anonymous-xbox-engineer-explains-drm-and-microsofts-xbox-one-intentions">Anonymous Xbox engineer explains DRM and Microsoft's Xbox One intentions</a></p>
 ]]></content>
   </entry>
   

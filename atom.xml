@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-06-30T15:11:18-05:00</updated>
+  <updated>2013-07-01T20:55:28-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #90]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90/"/>
+    <updated>2013-07-01T20:53:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90</id>
+    <content type="html"><![CDATA[<h2>GO</h2>
+
+<p><a href="http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/">Go Read: Open-Source Google Reader Clone</a></p>
+
+<p><a href="http://openmymind.net/Golang-Hot-Configuration-Reload/">Golang Hot Configuration Reload</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="https://nuget.org/packages/FakeItEasy/1.13.0">Fake it Easy! 1.13.0</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn296510.aspx">How Microsoft&#8217;s Next-Gen Compiler Project Can Improve Your Code</a></p>
+
+<h2>Software Architecture</h2>
+
+<p><a href="http://askudi.libsyn.com/1-alternative-architectures-preaching-to-the-unconverted">Podcast - Ask Udi 1. Alternative Architectures &amp; Preaching to the Unconverted</a></p>
+
+<h2>Azure</h2>
+
+<p><a href="http://social.technet.microsoft.com/wiki/contents/articles/18146.windows-azure-telemetry-basics-and-troubleshooting.aspx">Windows Azure: Telemetry Basics adn Troubleshooting</a></p>
+
+<h2>AWS</h2>
+
+<p><a href="http://www.infoq.com/news/2013/06/economics-of-aws">Economics of Application Virtualization on AWS</a></p>
+
+<h2>HTTP / REST/ APIs</h2>
+
+<p><a href="https://mathieu.fenniak.net/is-your-web-api-susceptible-to-a-csrf-exploit/">Is your Web API susceptible to a CSRF exploit?</a></p>
+
+<h2>Security</h2>
+
+<p><a href="http://www.continuumsecurity.net/2013/07/01/how-to-sniff-cookies-over-https.html">How to Sniff Cookies Over HTTPS</a></p>
+
+<h2>OS</h2>
+
+<p><a href="http://thenextweb.com/insider/2013/07/01/windows-8-now-up-to-5-10-market-share-as-it-finally-passes-windows-vista/?utm_content=Windows%208%20now%20up%20to%205.10%%20market%20share%20as%20it%20finally%20passes%20Windows%20Vista&amp;awesm=tnw.to_b0ZLh&amp;utm_source=Twitter&amp;utm_campaign=social%20media&amp;utm_medium=share%20button">Windows 8 now up to 5.10% market share as it finally passes Windows Vista</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.computerandvideogames.com/417168/the-walking-dead-400-days-out-this-week/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Walking Dead: 400 Days out this week</a></p>
+
+<p><a href="http://www.computerandvideogames.com/417164/microsoft-ceo-steve-ballmer-to-oversee-xbox-business/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Xbox Head Leaves for Xynga - Ballmer to Oversee Xbox Business</a></p>
+
+<p><a href="http://majornelson.com/2013/07/01/xbox-360-special-edition-chrome-series-gold-wireless-controller/">Xbox 360 Special Edition Chrome Series Gold Wireless Controller</a></p>
+
+<h2>Apps</h2>
+
+<p><a href="http://blog.comixology.com/2013/07/01/comixology-debuts-subscriptions-bundles/">ComiXology Debuts Subscriptions &amp; Bundles!</a></p>
+
+<h2>Table-top RPGS</h2>
+
+<p><a href="http://www.wizards.com/DnD/Article.aspx?x=dnd%2F4ll%2F20130701&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Many Worlds of D&amp;D</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #89]]></title>
@@ -1284,58 +1343,6 @@ JSON API is covered in this episode.</p>
 <p><a href="http://haacked.com/archive/2013/05/13/applying-conways-law.aspx">Applying Conway’s Law</a></p>
 
 <p><a href="http://wekeroad.com/2013/05/13/knowing-more-programming-languages-will-make-you-smarter?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+wekeroad%2FEeKc+%28Rob+Conery%29">Knowing More Programming Languages Will Make You Smarter</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #72]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/12/the-land-of-10-000-links-number-72/"/>
-    <updated>2013-05-12T12:05:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/12/the-land-of-10-000-links-number-72</id>
-    <content type="html"><![CDATA[<h2>Caught in a .NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/05/07/writing-a-cloud-application-is-easy-writing-a-good-cloud-application-is-harder.aspx">Designing Great Cloud Applications</a></p>
-
-<p><a href="http://visualstudiogallery.msdn.microsoft.com/33b0242d-7158-4d39-9a01-0a08cf7c28bd">Farticus</a><br/>
-&#8220;The original Visual Studio fart app&#8221;</p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/">5 Things You Should Stop Doing With jQuery</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://blog.zenspider.com/releases/2013/05/minitest-version-5-0-0-has-been-released.html">minitest version 5.0.0 has been released!</a></p>
-
-<p><a href="http://blog.rubymotion.com/post/49943751398/rubymotion-goes-2-0-and-gets-os-x-support-templates">RubyMotion Goes 2.0 And Gets OS X Support, Templates and Plugins</a></p>
-
-<p><a href="https://speakerdeck.com/jeg2/the-patterns-we-all-need-to-know">The Patterns We all Need to Know</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://www.layer7tech.com/blogs/index.php/making-government-data-easy-to-find-accessible-usable/">Making Government Data “Easy to Find, Accessible &amp; Usable”</a><br/>
-&#8220;On May 9, 2013 the White House released an executive order with the title <em>Making Open &amp; Machine Readable the New Default for Government Information</em>.&#8221;</p>
-
-<p><a href="http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/">A Beginner&#8217;s Guide to HTTP Cache Headers</a></p>
-
-<p><a href="http://blog.restlet.com/2013/05/02/how-much-rest-should-your-web-api-get/">How much REST should your web API get?</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://blog.headius.com/2013/05/on-languages-vms-optimization-and-way.html">On Languages, VMs, Optimization, and the Way of the World</a></p>
-
-<p><a href="http://blog.zorinaq.com/?e=74">&#8220;I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems. Here Is Why.&#8221;</a><br/>
-&#8220;Many of us wanted to improve cmd.exe, but couldn&#8217;t.&#8221;</p>
-
-<p><a href="http://bradt.ca/blog/stop-avoiding-regular-expressions-damn-it/">Stop Avoiding Regular Expressions Damn It</a></p>
-
-<p><a href="http://thepaulrayner.com/blog/2013/05/07/succeeding-with-ddd-documentation/">Succeeding With DDD - Documentation</a>
-&#8220;The problem with a lot of documentation is that it is seen as an end in itself, rather than a means to an end, which is to deliver a quality product that meets an important customer need.&#8221;</p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://www.extremetech.com/extreme/155392-international-space-station-switches-from-windows-to-linux-for-improved-reliability">International Space Station switches from Windows to Linux, for improved reliability</a><br/>
-&#8220;We migrated key functions from Windows to Linux because we needed an operating system that was stable and reliable.&#8221;</p>
 ]]></content>
   </entry>
   
