@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-01T20:55:28-05:00</updated>
+  <updated>2013-07-02T20:05:33-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #91]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/02/the-land-of-10-000-links-number-91/"/>
+    <updated>2013-07-02T19:55:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/02/the-land-of-10-000-links-number-91</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn296508.aspx">Behavior-Driven Design with SpecFlow</a></p>
+
+<p><a href="http://www.west-wind.com/weblog/posts/2013/Jul/01/Using-HTML-5-SessionState-to-save-rendered-Page-Content">Using HTML 5 SessionState to save rendered Page Content</a></p>
+
+<p><a href="http://odetocode.com/blogs/scott/archive/2013/07/01/on-the-coexistence-of-asp-net-mvc-and-webapi.aspx">On The Coexistence of ASP.NET MVC and WebAPI</a></p>
+
+<p><a href="http://www.lhotka.net/weblog/ThoughtsOnBuild2013.aspx">Thoughts on Build 2013</a></p>
+
+<p><a href="http://tech.pro/tutorial/1270/restful-aspnet-mvc--edit-action">Restful ASP.NET MVC : Edit Action</a></p>
+
+<p><a href="http://blogs.msdn.com/b/ukmsdn/archive/2013/06/25/behind-the-scenes-with-the-british-and-irish-lions-apps-windows-azure-server-architecture.aspx">Roaring for the Lions: Creating a reusable, extensible app development platform using Windows Azure</a></p>
+
+<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=39365">ASP.NET and Web Tools for Visual Studio 2013 Preview Refresh Update</a><br/>
+NOTE: This is a new update pushed on 7/1. If you installed this right after Build, this is an update for you.</p>
+
+<p><a href="http://encosia.com/get-the-lowdown-on-visual-studio-2013-and-web-essentials/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Encosia+%28Encosia%29">Get the lowdown on Visual Studio 2013 and Web Essentials</a></p>
+
+<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/code-completion-improvements-in-resharper-8/">Code Completion Improvements in ReSharper 8</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/29/make-vs2012-mvc4-vsix-template-to-work-for-visual-studio-2013-preview.aspx?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer58126&amp;utm_medium=twitter">Make VS2012 MVC4 VSIX template to work for Visual Studio 2013
+preview</a></p>
+
+<p><a href="http://blogs.microsoft.co.il/blogs/sasha/archive/2013/07/02/visual-studio-2013-heap-view.aspx">Visual Studio 2013 Heap View</a></p>
+
+<p><a href="http://www.slideshare.net/EdBlankenship/whats-new-in-the-visual-studio-2013-preview">What&#8217;s New in the Visual Studio 2013 Preview</a>  One thing I hadn&#8217;t noticed before is that the code lense is only in the Ultimate sku.</p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://www.youtube.com/watch?v=gXGLGVWWwKI">Visual Node - a new tool for Node.js development and debugging in Visual Studio</a></p>
+
+<p><a href="http://tatiyants.com/are-single-page-apps-bad/">Are Single Page Apps Bad?</a></p>
+
+<p><a href="http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript">Five Patterns to Help You Tame Asynchronous JavaScript</a></p>
+
+<p><a href="http://www.slideshare.net/nzakas/enough-withthejavascriptalready">Enough With All the JavaScript Already!</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://blog.steveklabnik.com/posts/2013-06-25-removing-turbolinks-from-rails-4">Removing Turbolinks from Rails 4</a></p>
+
+<h2>Software Craftsmanship</h2>
+
+<p><a href="https://vimeo.com/68375232">Video - Ian Cooper: TDD, where did it all go wrong</a></p>
+
+<h2>Cloud / SAAS</h2>
+
+<p><a href="https://github.com/blog/1547-release-your-software">Github adds &#8220;Release&#8221; feature</a></p>
+
+<h2>OS and Server</h2>
+
+<p><a href="http://blogs.msdn.com/b/powershell/archive/2013/07/02/windows-management-framework-4-0-preview-now-available.aspx">Windows Management Framework 4.0 Preview Now Available</a></p>
+
+<p><a href="http://arstechnica.com/information-technology/2013/07/skydrive-in-windows-8-1-cloud-storage-the-way-its-meant-to-be/">SkyDrive in Windows 8.1: Cloud storage the way it’s meant to be</a></p>
+
+<h2>Retrocompute!</h2>
+
+<p><a href="http://www.youtube.com/watch?v=iNXoRJdWbYo&amp;feature=share">Video - &#8220;Weird Paul&#8221; Ressurrects the C64 Programs He Wrote When He was 13</a></p>
+
+<p><a href="http://www.chickenlipsradio.org/2013/06/show-001-why-i-love-commodore.html">Podcast - Chicken Lips Radio #1: Why I Love Commodore</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #90]]></title>
@@ -1299,50 +1368,6 @@ I&#8217;ve been doing TDD Katas for years now, but I needed to find a &#8220;jum
 <h2>Stop!</h2>
 
 <p><a href="http://nathany.com/why-go?utm_content=bufferff302&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Why Go?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #73]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/13/the-land-of-10-000-links-number-73/"/>
-    <updated>2013-05-13T19:44:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/13/the-land-of-10-000-links-number-73</id>
-    <content type="html"><![CDATA[<h2>Insomnia</h2>
-
-<p><a href="http://trafficandweather.io/posts/2013/5/12/episode-11-">Traffic and Weather Episode 11 - &#8220;I think they should call this Unicorn&#8221;</a><br/>
-JSON API is covered in this episode.</p>
-
-<p><a href="https://zapier.com/blog/introducing-api-status-board/">Introducing the API Status Board</a></p>
-
-<p><a href="http://apidigest.com/posts/2013/5/12/api-digest-20">API Digest 2.0</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://gauravmantri.com/2013/05/12/windows-azure-sdk-2-0-for-net-taking-a-second-look-at-windows-azure-diagnostics/">Windows Azure SDK 2.0 For .Net – Taking A Second Look At Windows Azure Diagnostics</a></p>
-
-<p><a href="http://roysvork.wordpress.com/2013/05/12/getting-started-with-linq-to-querystring-part-1-paging-data/">Getting started with Linq to Querystring Part 1 – Paging data</a></p>
-
-<p><a href="http://madstt.dk/verify-your-guards-with-autofixture/">Verify Your Guards With AutoFixture</a></p>
-
-<p><a href="http://www.piotrwalat.net/building-reactive-xaml-apps-with-asp-net-signalr-and-mvvm/">Building reactive XAML apps with ASP.NET SignalR and MVVM</a></p>
-
-<p><a href="http://jeremydmiller.com/2013/05/13/would-i-use-ravendb-again/">Would I use RavenDb again?</a></p>
-
-<p><a href="http://www.strathweb.com/2013/05/scriptcs-and-using-azure-mobile-services-from-your-scripts/">scriptcs and using Azure Mobile Services from your scripts</a></p>
-
-<p><a href="http://ericlippert.com/2013/05/13/spot-the-defect-rounding/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spot-the-defect-rounding">Spot the defect: rounding</a></p>
-
-<h2>STOP!</h2>
-
-<p><a href="http://blog.golang.org/2013/05/go-11-is-released.html">Go 1.1 is released</a></p>
-
-<p><a href="http://jessekallhoff.com/2013/05/13/go-web-apps-risk-analyzer-engine-and-tests-pt-2/">Go Web Apps: RISK Analyzer - Engine and Tests</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://haacked.com/archive/2013/05/13/applying-conways-law.aspx">Applying Conway’s Law</a></p>
-
-<p><a href="http://wekeroad.com/2013/05/13/knowing-more-programming-languages-will-make-you-smarter?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+wekeroad%2FEeKc+%28Rob+Conery%29">Knowing More Programming Languages Will Make You Smarter</a></p>
 ]]></content>
   </entry>
   
