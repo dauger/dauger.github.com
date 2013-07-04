@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-02T20:05:33-05:00</updated>
+  <updated>2013-07-04T14:51:12-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #92]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92/"/>
+    <updated>2013-07-04T14:44:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://www.wintellect.com/blogs/jrobbins/tfs-build-numbers-file-version-now-with-hosted-tfs-build-support">TFS Build Numbers &amp; File Version Now with Hosted TFS Build Support</a></p>
+
+<p><a href="http://blogs.msdn.com/b/jaredpar/archive/2013/07/02/immutable-isn-t-just-for-parallel-code.aspx">Immutable Isn&#8217;t Just About Parallel Code</a></p>
+
+<p><a href="http://www.philliphaydon.com/2013/07/setting-up-a-nancyfx-website/">Setting up a NancyFX website</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/07/03/what-is-new-in-code-analysis-for-visual-studio-2013.aspx">What is New in Code Analysis for Visual Studio 2013</a></p>
+
+<p><a href="http://blog.getglimpse.com/2013/07/04/glimpse-1-5-0-released/">Glimpse 1.5.0 released</a></p>
+
+<p><a href="http://dhickey.ie/post/2013/07/04/Making-Visual-Studio-2012-extensions-work-with-VS-2013-Preview.aspx">Making Visual Studio 2012 extensions work with VS 2013 Preview</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/03/understanding-owin-forms-authentication-in-mvc-5.aspx">Understanding OWIN Forms authentication in MVC 5</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/02/manage-cors-policy-dynamically.aspx">Manage CORS policy dynamically</a></p>
+
+<p><a href="http://codebetter.com/patricksmacchia/2013/07/04/code-rules-are-not-just-about-clean-code/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CodeBetter+%28CodeBetter.Com%29">Code Rules are not just about Clean Code</a></p>
+
+<p><a href="http://lbadri.wordpress.com/2013/07/04/hawk-authentication-for-asp-net-web-api-using-thinktecture-identitymodel-45/">Hawk Authentication for ASP.NET Web API using Thinktecture.IdentityModel.45</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/03/the-story-of-synchronized-settings.aspx">The Story of Synchronized Settings in VS2013</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://screamingatmyscreen.com/2013/7/should-i-rewrite-my-app-in-go-for-better-scalability/">Should I rewrite my app in Go for better scalability?</a></p>
+
+<p><a href="http://openmymind.net/Shard-Your-Hash-table-to-reduce-write-locks/">Shard Your Hash Table To Reduce Write Locks</a></p>
+
+<p><a href="http://blog.drewolson.org/blog/2013/07/04/clojure-core-dot-async-and-go-a-code-comparison/">Clojure core.async and Go: A Code Comparison</a></p>
+
+<h2>Elixer</h2>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/">Elixir for the Lazy, Impatient and Busy: Part 1 |> Lists and Recursion</a></p>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/">Elixir for the Lazy Impatient and Busy: Part 2 |> Processes 101</a></p>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/">Elixir for the Lazy Impatient and Busy: Part 3 |> Processes 102</a></p>
+
+<h2>HTTP APIs / REST</h2>
+
+<p><a href="https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2">API Design: Harnessing HATEOAS, Part 2</a></p>
+
+<p><a href="http://yobriefca.se/blog/2013/04/29/micro-service-architecture/">Micro Service Architecture</a></p>
+
+<h2>Software Craftsmanship / Methodologies</h2>
+
+<p><a href="http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/">High Costs and Negative Value of Pair Programming</a></p>
+
+<h2>OSes</h2>
+
+<p><a href="http://www.extremetech.com/computing/160342-windows-8-1-multi-monitor-hands-on-desktop-review-video">Windows 8.1 multi-monitor Desktop hands-on review (video)</a></p>
+
+<p><a href="http://www.winbeta.org/news/microsoft-research-releases-network-speed-test-app-windows-8">Microsoft Research releases Network Speed Test app for Windows 8</a></p>
+
+<p><a href="http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/">Internet Explorer 11: “Don’t call me IE”</a></p>
+
+<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-fixes-windows-81-preview?utm_source=twitterfeed&amp;utm_medium=twitter">Microsoft Delivers Fixes for Windows 8.1 Preview</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/">Majority of Gamers Today Can&#8217;t Finish Level 1 in Super Mario Bros.</a></p>
+
+<p><a href="http://www.computerandvideogames.com/417401/double-fine-needs-more-money-to-finish-3m-kickstarter-project/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Double Fine &#8216;needs more money&#8217; to finish $3m Kickstarter project</a></p>
+
+<p><a href="http://www.eurogamer.net/articles/2013-07-04-american-mcgee-defends-double-fine-kickstarter-after-adding-new-USD100-000-stretch-goal?utm_source=twitterfeed&amp;utm_medium=twitter">American McGee defends Double Fine Kickstarter after adding $100,000 stretch goal to OZombie</a></p>
+
+<p><a href="http://www.eurogamer.net/articles/2013-07-04-microsoft-will-now-include-a-headset-with-xbox-one?utm_source=dlvr.it&amp;utm_medium=twitter">Microsoft will now include a headset with Xbox One - report</a></p>
+
+<p><a href="http://winsupersite.com/xbox/games-gold-july-2013?utm_source=twitterfeed&amp;utm_medium=twitter">XBox Live Games With Gold: July 2013</a></p>
+
+<h2>In Memoriam</h2>
+
+<p><a href="http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html">Douglas C. Engelbart, Inventor of the Computer Mouse, Dies at 88</a><br/>
+Watch his classic <a href="http://www.youtube.com/watch?v=JfIgzSoTMOs#">The Mother of All Demos</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #91]]></title>
@@ -1288,86 +1372,6 @@ $ cd ..
 <h2>The Great and Powerful OS</h2>
 
 <p><a href="http://ostatic.com/blog/critical-linux-exploit-in-the-wild">Critical Linux Exploit In The Wild</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #74]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/16/the-land-of-10-000-links-number-74/"/>
-    <updated>2013-05-16T20:03:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/16/the-land-of-10-000-links-number-74</id>
-    <content type="html"><![CDATA[<h2>Prequel</h2>
-
-<p><a href="http://www.brentozar.com/archive/2013/05/the-basics-of-sql-server-execution-plans-video/">The Basics of SQL Server Execution Plans (video)</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://programming.oreilly.com/2013/05/exploring-hypermedia-with-mike-amundsen.html">Exploring Hypermedia with Mike Amundsen</a></p>
-
-<p><a href="http://www.mnot.net/blog/2013/05/15/http_problem?utm_source=dlvr.it&amp;utm_medium=twitter">Indicating Problems in HTTP APIs</a></p>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/05/15/eventual-consistency-in-rest-apis/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Eventual Consistency in REST APIs</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/05/15/where-is-net-headed.aspx">Where Is .NET Headed?</a></p>
-
-<p>The ASP.NET website has updated its OSS project pages for both <a href="http://www.asp.net/mvc/open-source">MVC</a> and <a href="http://www.asp.net/web-api/open-source">WebAPI</a>. If you were curious, yes there is one for <a href="http://www.asp.net/web-forms/open-source">Webforms</a> too.</p>
-
-<p><a href="http://tech.pro/tutorial/1276/servicestack-and-ravendb-end-to-end-testing">ServiceStack and RavenDB End to End Testing</a><br/>
-&#8220;The unit testing debate is over, and you SHOULD be unit testing. The bigger question now is how to unit test. The problem of how becomes more compounded once you start introducing complex dependencies.&#8221;</p>
-
-<p><a href="http://codebetter.com/glennblock/2013/05/14/scripting-ease-with-script-packs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CodeBetter+%28CodeBetter.Com%29">Scripting ease with Script Packs</a></p>
-
-<p><a href="http://blog.oneunicorn.com/2013/05/14/ef6-sql-logging-part-3-interception-building-blocks/">EF6 SQL Logging – Part 3: Interception building blocks</a></p>
-
-<p><a href="http://blog.filipekberg.se/2013/05/14/using-bit-fields-in-csharp/">Using bit fields in C#</a></p>
-
-<p><a href="http://scottksmith.com/blog/2013/05/14/deeper-dive-into-scriptcs/">Deeper Dive Into ScriptCS</a></p>
-
-<p><a href="http://blog.greatrexpectations.com/2013/05/15/exception-handling-for-web-api-controller-constructors/">Exception Handling for Web API Controller Constructors</a></p>
-
-<h2>Hypermedia</h2>
-
-<p><a href="http://blog.5by5.tv/articles/2013/5/14/the-changelog-comes-to-5by5">The Changelog Podcast Moves to the 5by5 Network</a></p>
-
-<h2>JabbaScript</h2>
-
-<p><a href="http://blog.strongloop.com/the-road-to-node-js-v1-0/">The Road to Node.js v1.0</a></p>
-
-<h2>Board</h2>
-
-<p><a href="http://www.ramen.io/post/46936028144/we-are-switching-to-dart-why">We are Switching to Dart. Why?</a></p>
-
-<p><a href="http://www.builtwithdart.com/">Built with Dart</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://blog.8thlight.com/eric-smith/2013/05/13/what-is-a-bug.html">What is a Bug?</a></p>
-
-<p><a href="http://ayende.com/blog/162017/how-not-to-deal-with-replication-lag?key=f682e2b0-eb63-4f23-b2fe-b57f3b9d9281&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">How not to deal with Replication Lag</a></p>
-
-<p><a href="http://www.freelancersshow.com/the-freelancers-show-059-overcoming-burnout/">The Freelancers’ Show 059 – Overcoming Burnout</a></p>
-
-<p><a href="http://www.headspring.com/patrick/enabling-change/">Enabling Change</a><br/>
-&#8220;Once the higher-level tests provide meaningful coverage on their own, the early scaffolding tests can be removed.&#8221;</p>
-
-<p><a href="http://swreflections.blogspot.com/2013/04/architecture-breaking-bugs-when.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BuildingRealSoftware+%28Building+Real+Software%29">Architecture-Breaking Bugs – when a Dreamliner becomes a Nightmare</a></p>
-
-<p><a href="http://mikemainguy.blogspot.com/2013/05/when-to-refactor-code.html">When to refactor code</a></p>
-
-<p><a href="http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd">Kata - the Only Way to Learn TDD</a><br/>
-I&#8217;ve been doing TDD Katas for years now, but I needed to find a &#8220;jumping on point&#8221; for a friend today. This link is really great IMHO.</p>
-
-<p><a href="http://www.techdays.ru/videos/6834.html">beautiful builds: maintainable, coherent build process patterns</a></p>
-
-<p><a href="http://www.techdays.ru/videos/6832.html">a second look at unit testing</a></p>
-
-<p><a href="http://www.theunixman.com//posts/2013-05-16-01-kidlet1.html">Teaching Programming 1</a></p>
-
-<h2>Stop!</h2>
-
-<p><a href="http://nathany.com/why-go?utm_content=bufferff302&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Why Go?</a></p>
 ]]></content>
   </entry>
   
