@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-04T14:51:12-05:00</updated>
+  <updated>2013-07-06T13:03:56-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #93]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/06/the-land-of-10-000-links-number-93/"/>
+    <updated>2013-07-06T12:54:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/06/the-land-of-10-000-links-number-93</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/multi-file-templates-in-resharper-8/">Multifile Templates in ReSharper 8</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/05/introducing-select-and-expand-support-in-web-api-odata.aspx">Introducing $select and $expand support in Web API OData</a></p>
+
+<h2>Software Craftsmanship / Engineering</h2>
+
+<p><a href="https://theholyjava.wordpress.com/2013/07/05/the-invisible-benefits-of-pair-programming-avoiding-wasteful-coding-excursions/">The Invisible Benefits Of Pair-Programming: Avoiding Wasteful Coding Excursions</a></p>
+
+<p><a href="http://davenicolette.wordpress.com/2013/07/06/does-pair-programming-work/">Does Pair Programming Work?</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/06/06/acid-2-0-in-action/">ACID 2.0 in action</a></p>
+
+<p><a href="http://www.retro-computer.net/att-tech-channel-how-a-computer-works-great-tutorial-from-1962">AT&amp;T Tech Channel – How a Computer Works. Great Tutorial From 1962</a></p>
+
+<p><a href="http://codeofrob.com/entries/working-for-free-and-what-it-taught-me.html">Working for free and what it taught me</a></p>
+
+<p><a href="http://mobile.nytimes.com/blogs/bits/2013/07/05/technology-workers-are-young-really-young/">Technology Workers are Young (Reailly Young)</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/">Elixir: It&#8217;s Not About Syntax</a></p>
+
+<p><a href="http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/">Installing Elixir on Ubuntu 13.04</a></p>
+
+<h2>Rust</h2>
+
+<p><a href="http://cmr.github.io/blog/2013/07/05/the-state-of-rust/">The State of Rust 0.7</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="https://blog.apigee.com/detail/api_design_a_new_model_for_pragmatic_rest">API Design: A New Model for Pragmatic REST</a></p>
+
+<h2>Hardware</h2>
+
+<p><a href="http://www.slashgear.com/lenovo-thinkpad-helix-review-04288958/">Lenovo ThinkPad Helix Review</a></p>
+
+<p><a href="http://makezine.com/2013/07/04/why-microsofts-3d-printing-rocks/">Why Microsoft&#8217;s 3D Printing Rocks</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.eurogamer.net/articles/2013-07-05-project-eternity-as-a-series-could-run-for-eternity?utm_source=dlvr.it&amp;utm_medium=twitter">Project Eternity, as a series, could run for eternity</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #92]]></title>
@@ -1291,87 +1342,6 @@ $ cd ..
 <p><a href="http://www.neowin.net/news/xbox-one-to-ditch-xbox-live-arcade-and-xbox-live-indie-games-branding?utm_source=dlvr.it&amp;utm_medium=twitter">Xbox One to ditch Xbox Live Arcade and Xbox Live Indie Games branding</a></p>
 
 <p><a href="http://archive.org/search.php?query=collection%3Acomputercommercials&amp;sort=-publicdate">Archive.org Stash of Retro Computer Commercials</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #75]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/21/the-land-of-10-000-links-number-75/"/>
-    <updated>2013-05-21T21:45:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/21/the-land-of-10-000-links-number-75</id>
-    <content type="html"><![CDATA[<h2>JabbaScript</h2>
-
-<p><a href="http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/">How We Built eBay’s First Node.js Application</a></p>
-
-<p><a href="http://mark-dot-net.blogspot.com.au/2013/05/knockout-what-mvvm-should-have-been.html">Knockout - What MVVM should have been like in XAML</a></p>
-
-<p><a href="http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/">Knockout-ES5: a plugin to simplify your syntax</a></p>
-
-<p><a href="http://jesseliberty.com/2013/05/20/4th-pluralsight-course-javascript-from-scratch/?utm_content=bufferf87c8&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Pluralsight Course: JavaScript From Scratch</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://codemanship.co.uk/parlezuml/blog/?postid=1170">Straw Man TDD</a></p>
-
-<p><a href="http://wpdaily.co/code-forever/?utm_content=buffer28ee4&amp;utm_source=buffer&amp;utm_medium=facebook&amp;utm_campaign=Buffer">Sorry, My Code Won&#8217;t Last Forever</a></p>
-
-<p><a href="http://itknowledgeexchange.techtarget.com/unchartered-waters/applying-the-lean-startup-at-intuit/">Applying the Lean Startup at Intuit</a></p>
-
-<p><a href="http://blog.goyello.com/2013/05/17/express-names-in-code-bad-vs-clean/">Express names in code: Bad vs Clean</a></p>
-
-<p><a href="http://skillcrush.com/2013/04/30/if-you-learn-only-one-technical-skill-learn-this-one/?utm_content=bufferc86b3&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">If you learn only one technical skill, learn THIS one</a></p>
-
-<p><a href="http://www.ardonio.com/2013/05/21/im-done-with-scrum/">I’m done with scrum</a></p>
-
-<p><a href="http://www.infoq.com/presentations/Usable-API">Writing Usable APIs in Practice</a></p>
-
-<p><a href="http://ericlippert.com/2013/05/20/what-is-lexical-scoping/">What is lexical scoping?</a></p>
-
-<p><a href="https://www.simple-talk.com/opinion/opinion-pieces/some-laws-of-software-development/">Some &#8220;Laws&#8221; of Software Development</a></p>
-
-<p><a href="https://peepcode.com/blog/2013/teaching-developers">Teaching Developers</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers">Sandi Metz’ rules for developers</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://blog.hackedbrain.com/2013/05/18/scriptcs-clrmd-enabling-rich-programmatic-net-diagnostics/">scriptcs.clrmd - Enabling Rich, Programmatic .NET Diagnostics</a></p>
-
-<p><a href="http://www.codeproject.com/Articles/593881/What-is-the-difference-between-Reflection-and-Dyna">What is the difference between Reflection and Dynamic in C#?</a></p>
-
-<p><a href="http://tech.pro/tutorial/1295/c-performance-benchmark-mistakes-part-two">C# Performance Benchmark Mistakes, Part Two</a></p>
-
-<p><a href="http://techoctave.com/c7/posts/113-c-reading-xml-with-namespace">C# Reading XML With Namespace</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://programming.oreilly.com/2013/05/a-matter-of-semantics.html">A Matter of Semantics</a></p>
-
-<p><a href="http://apiux.com/2013/05/14/api-versioning/?utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer&amp;utm_content=bufferde1d4">Do You Really Need API Versioning?</a></p>
-
-<p><a href="http://www.kijinsung.com/id/7108a50c-3523-489c-a318-63a23094a937">A Modest Proposal for Improving Website Authentication</a></p>
-
-<h2>Cloudy, with a Chance of Meatballs</h2>
-
-<p><a href="http://blog.aditi.com/cloud/windows-azure-virtual-machines-lessons-learned/">Lessons Learned: Taking the best out of Windows Azure Virtual Machines</a></p>
-
-<h2>Prequel</h2>
-
-<p><a href="http://aphyr.com/posts/284-call-me-maybe-mongodb">Call me maybe: MongoDB</a></p>
-
-<h2>STOP!</h2>
-
-<p><a href="http://dave.cheney.net/2013/05/21/go-1-1-performance-improvements">Go 1.1 performance improvements</a></p>
-
-<h2>Aversion Control</h2>
-
-<p><a href="http://www.theunixman.com//posts/2013-05-21-pullreq.html">Pull Requests for Git Users</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://ostatic.com/blog/critical-linux-exploit-in-the-wild">Critical Linux Exploit In The Wild</a></p>
 ]]></content>
   </entry>
   
