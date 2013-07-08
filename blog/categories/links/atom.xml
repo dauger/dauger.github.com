@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-06T13:03:56-05:00</updated>
+  <updated>2013-07-08T17:54:47-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #94]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/08/the-land-of-10-000-links-number-94/"/>
+    <updated>2013-07-08T17:53:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/08/the-land-of-10-000-links-number-94</id>
+    <content type="html"><![CDATA[<h2>Ruby</h2>
+
+<p><a href="http://devblog.avdi.org/2013/07/07/fixing-a-doc-bug-in-ruby/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+VirtuousCode+%28Virtuous+Code%29">Fixing a Doc Bug in Ruby</a></p>
+
+<p><a href="http://blowmage.com/2013/07/08/minitest-spec-rails4">Adding Minitest Spec in Rails 4</a></p>
+
+<p><a href="https://github.com/moger777/missingly">Missingly - A DSL for Handling method_missing Hooks</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://joearms.github.io/2013/05/31/a-week-with-elixir.html">A Week with Elixir</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://openmymind.net/Your-Buffer-Is-Leaking/">Your Buffer is Leaking</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://blogs.msdn.com/b/zainnab/archive/2013/07/08/visual-studio-2013-making-intellisense-transparent-while-you-code.aspx">Visual Studio 2013: Making IntelliSense Transparent While You Code</a></p>
+
+<p><a href="http://www.brentozar.com/archive/2013/07/cassandra-and-net/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29">Cassandra and .NET</a></p>
+
+<p><a href="https://entityframework.codeplex.com/wikipage?title=Design%20Meeting%20Notes%20-%20July%205%2c%202013">EF Design Meeting Notes 7/5</a></p>
+
+<p><a href="http://tech.pro/tutorial/1317/c-performance-benchmark-mistakes-part-three">C# Performance Benchmark Mistakes, Part Three</a></p>
+
+<p><a href="http://tech.pro/blog/1410/theoretical-null-chaining-evaluations">Theoretical: Null Chaining Evaluations</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn296512.aspx">Leveraging Windows 8 Features with MVVM</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/">Signs you're veering from good API design</a></p>
+
+<p><a href="https://github.com/solso/raw2swagger">raw2swagger - Incrementally Create a Swagger API Spec from Logs</a></p>
+
+<h2>Software Engineering / Crafstmanship / Process</h2>
+
+<p><a href="http://blog.markrendle.net/2012/08/23/the-professional-employer/">The Professional Employer</a></p>
+
+<p><a href="http://jonkruger.com/blog/2013/07/08/are-software-teams-inherently-inefficient/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+JonKrugersBlog+%28Jon+Kruger%27s+Blog%29">Are Software Teams Inherently Inefficient?</a></p>
+
+<p><a href="http://csharperimage.jeremylikness.com/2013/07/30-years-of-hello-world.html">30 Years of “Hello, World”</a></p>
+
+<p><a href="http://paulstovell.com/blog/two-week-sprints-twelve-month-releases">Two week sprints; twelve month releases</a></p>
+
+<p><a href="http://blog.8thlight.com/ben-voss/2013/07/08/strive-for-simplicity.html">Strive for Simplicity</a></p>
+
+<p><a href="http://agiledata.org/essays/tdd.html">Introduction to Test Driven Development (TDD)</a></p>
+
+<h2>OS and Server</h2>
+
+<p><a href="http://blog.ittoby.com/2013/07/manage-windows-firewall-with-powershell.html">Manage the Windows Firewall with Powershell</a></p>
+
+<h2>Cloud / Scalability</h2>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/08/going-cloud-first-with-windows-azure.aspx">Going 'Cloud First' with Windows Azure</a></p>
+
+<p><a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds</a></p>
+
+<p><a href="http://geteventstore.com/blog/20130708/testing-event-store-ha/">Testing Event Store HA</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.bruneras.com/games_bruce2.php">Bruce Lee Gets a Sequel 29 Years Later</a></p>
+
+<p><a href="http://www.computerandvideogames.com/418079/hidden-powers-at-valve-ex-employee-claims/">Hidden Powers At Valve - Ex-Employee Claims</a></p>
+
+<p><a href="http://www.businessinsider.com/xbox-rejected-names-2013-7">Here Are The Names Microsoft Rejected Before Settling On 'Xbox'</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #93]]></title>
@@ -273,115 +350,6 @@ preview</a></p>
 <h2>Table-top RPGS</h2>
 
 <p><a href="http://www.wizards.com/DnD/Article.aspx?x=dnd%2F4ll%2F20130701&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Many Worlds of D&amp;D</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #89]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/30/the-land-of-10-000-links-number-89/"/>
-    <updated>2013-06-30T15:07:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/30/the-land-of-10-000-links-number-89</id>
-    <content type="html"><![CDATA[<h2>HTTP APIs / REST</h2>
-
-<p><a href="http://www.mnot.net/blog/2013/06/23/linking_apis">Five Reasons to Consider Linking in Your HTTP APIs</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/Jersey_2_0_released">RESTful Web Services Framework Jersey 2.0 Released, Implementing JAX-RS 2.0 Specification</a></p>
-
-<p><a href="http://bryanhelmig.com/your-api-consumers-arent-who-you-think-they-are/">Your API Consumers Aren’t Who You Think They Are</a></p>
-
-<p><a href="http://blog.mailchimp.com/mailchimps-api-v2/">MailChimp’s API, V2</a></p>
-
-<p><a href="http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/">Don't Make Second Class APIs</a></p>
-
-<p><a href="http://trafficandweather.io/posts/2013/6/28/episode-13-1-800-i-love-brand-new-carpeting">Traffic and Weather Podcast Episode 13: "1-800-I-LOVE-BRAND-NEW-CARPETING"</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/06/26/announcing-the-net-framework-4-5-1-preview.aspx">Announcing the .NET Framework 4.5.1 Preview</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/net451_preview#.Uc2INljj_wE.twitter">NET 4.5.1 Is Bigger Than It Appears</a></p>
-
-<p><a href="http://blogs.msdn.com/b/fsharpteam/archive/2013/06/27/announcing-a-pre-release-of-f-3-1-and-the-visual-f-tools-in-visual-studio-2013.aspx">Announcing a pre-release of F# 3.1 and the Visual F# tools in Visual Studio 2013</a></p>
-
-<p><a href="http://blogs.msdn.com/b/adonet/archive/2013/06/26/ef-and-visual-studio-2013-preview.aspx">EF and Visual Studio 2013 Preview</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/06/28/welcome-sign-in-to-visual-studio.aspx">Welcome. Sign in to Visual Studio.</a></p>
-
-<p><a href="http://abhishekrlal.com/2013/06/27/durable-task-framework-preview-with-azure-service-bus/">Durable Task Framework (Preview) with Azure Service Bus</a></p>
-
-<p><a href="http://www.asp.net/vnext/overview/latest/release-notes">ASP.NET and Web Tools for Visual Studio 2013 Preview Release Notes</a></p>
-
-<p><a href="http://gunnarpeipman.com/2013/06/code-information-indicators-in-visual-studio-2013/">Code Information Indicators in Visual Studio 2013</a></p>
-
-<p><a href="http://msdn.microsoft.com/en-US/windows/apps/bg184615">Windows 8.1 Preview Product Guide for Developers</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/27/introducing-asp-net-identity-membership-system-for-asp-net-applications.aspx">Introducing ASP.NET Identity – A membership system for ASP.NET applications</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/26/announcing-release-of-asp-net-and-web-tools-for-visual-studio-2013-preview-and-the-refresh-update.aspx">Announcing release of ASP.NET and Web Tools for Visual Studio 2013 Preview and the refresh update</a></p>
-
-<p><a href="http://roysvork.wordpress.com/2013/06/24/is-using-odataiqueryable-in-your-web-api-an-inherently-bad-thing/">Is using OData\IQueryable in your Web API an inherently bad thing?</a></p>
-
-<p><a href="http://www.alvinashcraft.com/2013/06/27/the-ravendb-indexing-process/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+alvinashcraft+%28Alvin+Ashcraft%27s+Morning+Dew%29">The RavenDB Indexing Process</a></p>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/06/24/please-welcome-immutablearray.aspx">Please Welcome ImmutableArray&lt;T></a></p>
-
-<p><a href="http://www.strathweb.com/2013/06/ihttpactionresult-new-way-of-creating-responses-in-asp-net-web-api-2/">IHttpActionResult – new way of creating responses in ASP.NET Web API 2</a></p>
-
-<p><a href="http://www.geekswithblogs.net/dlussier/archive/2013/06/30/153294.aspx">Thoughts on Build 2013</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="http://www.infoq.com/news/2013/06/rails4?utm_medium=referral&amp;utm_source=t.co">Rails 4 Released: Faster Pages With Turbolinks</a></p>
-
-<p><a href="https://blog.engineyard.com/2013/whats-new-and-awesome-in-ruby-2">What’s New and Awesome in Ruby 2?</a></p>
-
-<p><a href="http://news.railstutorial.org/rails-tutorial-for-rails-4-0-final/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+railstutorial+%28Ruby+on+Rails+Tutorial+News%29">Rails Tutorial for Rails 4.0 final</a></p>
-
-<p><a href="http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/">We Retire 1.8.7</a></p>
-
-<h2>Operating Systems</h2>
-
-<p><a href="http://www.infragistics.com/community/blogs/brent_schooley/archive/2013/06/29/the-best-tip-for-using-the-windows-8-1-start-button.aspx?utm_content=buffer65e45&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">The best tip for using the Windows 8.1 Start button</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/windows-81-tip-show-more-tiles?utm_source=twitterfeed&amp;utm_medium=twitter">Windows 8.1 Tip: Show More Tiles</a></p>
-
-<p><a href="http://techpinions.com/a-week-with-os-x-mavericks/19497">A Week With OS X Mavericks</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://callbackhell.com/">Callback Hell</a></p>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/advanced-unit-testing-techniques-in-javascript/">Advanced Unit Testing Techniques in JavaScript</a></p>
-
-<p><a href="http://ideasof.andersaberg.com/idea/12/typescript-09-generics-what-and-how-to-use-them">TypeScript 0.9 Generics: What? And How to use them</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://jaxenter.com/netflix-unleash-genie-a-hadoop-platform-as-a-service-47623.html">Netflix unleash Genie, a Hadoop Platform-as-a-Service</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/06/21/building-blocks-of-great-cloud-applications.aspx">Building Blocks of Great Cloud Applications</a></p>
-
-<h2>Software Engineering / Craftsmanship</h2>
-
-<p><a href="https://medium.com/look-what-i-made/7d546e5954c1">Recruiter Spam</a></p>
-
-<p><a href="http://blog.8thlight.com/cory-foy/2013/06/26/procedural-polymorphism.html">Procedural Polymorphism</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://massively.joystiq.com/2013/06/23/asherons-call-2-prepares-quality-of-life-update/">Asheron's Call 2 prepares quality-of-life update</a></p>
-
-<p><a href="http://www.vg247.com/2013/06/26/avellone-kickstarter-has-reignited-publisher-interest-in-rpgs/">Avellone: Kickstarter has reignited publisher interest in RPGs</a></p>
-
-<p><a href="http://www.computerandvideogames.com/416915/ea-refocusing-origin-to-service-gamers-better/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">EA refocusing Origin to 'service gamers better'</a></p>
-
-<p><a href="http://www.rockpapershotgun.com/2013/06/24/beamdog-hoping-for-baldurs-gate-iii-despite-legal-hell/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RockPaperShotgun+%28Rock%2C+Paper%2C+Shotgun%29">Beamdog Hoping For Baldur’s Gate III Despite ‘Legal Hell’</a></p>
-
-<h2>Table-top Gaming</h2>
-
-<p><a href="http://lookrobot.co.uk/2013/06/20/11-ways-to-be-a-better-roleplayer/">11 Ways to be a Better Roleplayer</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=0hotvELUWu8&amp;feature=youtu.be&amp;a">The 15 Best D&amp;D Modules of All Time</a></p>
 ]]></content>
   </entry>
   
