@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-08T17:54:47-05:00</updated>
+  <updated>2013-07-10T20:07:50-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #95]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95/"/>
+    <updated>2013-07-10T20:05:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/10/inrelease-acquisition-is-complete.aspx">InRelease Acquisition is complete</a></p>
+
+<p><a href="http://support.microsoft.com/kb/2848395/en-us">Known issues for Visual Studio 2013 Preview</a></p>
+
+<p><a href="http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx">RIA Services is Getting Open-Sourced</a></p>
+
+<p><a href="http://odetocode.com/blogs/scott/archive/2013/07/09/getting-started-with-owin-katana-and-vs2013.aspx">Getting Started With OWIN, Katana, and VS2013</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Required JavaScript Reading</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://openmymind.net/Go-Slices-And-The-Case-Of-The-Missing-Memory/">Go Slices And The Case Of The Missing Memory</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://tryelixir.org/">Try Elixir</a></p>
+
+<h2>Git</h2>
+
+<p><a href="http://www.peterlundgren.com/blog/on-gits-shortcomings/">On Git&#8217;s Shortcomings</a></p>
+
+<p><a href="http://kivo.com/blog/git-for-the-masses/">Git for the Masses</a></p>
+
+<p><a href="http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/">Usefull Github Patterns</a></p>
+
+<h2>Software Engineering / Craftsmanship</h2>
+
+<p><a href="http://pl.atyp.us/2013-07-perf-pitfalls.html">Performance Measurements Pitfalls</a></p>
+
+<p><a href="http://pauloortins.com/lessons-unit-tests/">12 Lessons I learned using unit tests/TDD</a></p>
+
+<p><a href="http://sideeffect.kr/popularconvention/">Popular Code Convations Gleened from Github</a></p>
+
+<p><a href="http://pandodaily.com/2013/07/08/lessons-from-the-first-millionaire-online-teacher/">Lessons from the first millionaire online teacher</a></p>
+
+<p><a href="http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best">How to Work Remotely and Still Be the Best</a></p>
+
+<p><a href="http://blog.goosoftware.co.uk/2012/12/05/how-ascii-lost-and-unicode-won/">How ASCII Lost and Unicode Won</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://www.ericsink.com/entries/mobile_database_sync.html">Welcoming Dropbox Datastore</a></p>
+
+<p><a href="http://blogs.msdn.com/b/luispanzano/archive/2013/07/10/quick-recap-of-cloud-announcements-at-build-and-wpc-2013.aspx">Recap of Cloud Announcements at BUILD and WPC 2013</a></p>
+
+<p><a href="http://sqlblog.com/blogs/greg_low/archive/2013/07/09/is-there-more-to-using-sql-in-azure-than-redirecting-your-connection-string.aspx">Is there more to using SQL in Azure than redirecting your connection string?</a></p>
+
+<h2>Databases</h2>
+
+<p><a href="http://kellabyte.com/2013/07/09/lightning-memory-mapped-database/">Lightning Memory-Mapped Database</a></p>
+
+<p><a href="http://ayende.com/blog/162754/reviewing-lightning-memory-mapped-database-library-partial?key=5fbbf4a4-bf5c-44f3-8b10-93ba25e4ace8&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">Reviewing Lightning Memory-Mapped Database Library: Partial</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #94]]></title>
@@ -1291,61 +1356,6 @@ $ cd ..
 <h2>Rollin&#8217; 20s</h2>
 
 <p><a href="http://www.forbes.com/sites/davidewalt/2013/05/24/after-a-year-playtesting-a-new-dungeons-dragons-whats-next/">After A Year Playtesting A New Dungeons &amp; Dragons, What&#8217;s Next?</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #77]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/25/the-land-of-10-000-links-number-77/"/>
-    <updated>2013-05-25T12:28:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/25/the-land-of-10-000-links-number-77</id>
-    <content type="html"><![CDATA[<h2>Rubyx Cube</h2>
-
-<p><a href="https://vimeo.com/25755615">How Ruby is Making Me a better C# Developer, and a Better Man</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/agileer/archive/2013/05/17/the-right-way-to-write-a-custom-exception-class.aspx">The CORRECT Way to Code a Custom Exception Class</a></p>
-
-<p><a href="http://www.strathweb.com/2013/05/retrieving-the-clients-ip-address-in-asp-net-web-api/">Retrieving the client’s IP address in ASP.NET Web API</a></p>
-
-<p><a href="http://ericlippert.com/2013/05/23/the-mystery-of-the-inserted-method/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-mystery-of-the-inserted-method">The mystery of the inserted method</a></p>
-
-<p><a href="http://kozmic.net/2013/05/23/on-nuget-git-and-unignoring-packages/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+kozmic+%28Krzysztof+Ko%C5%BAmic%27s+blog%29">On Nuget, Git and Unignoring Packages</a></p>
-
-<p><a href="http://peterkellner.net/2013/05/22/wrestling-all-day-with-webapi-newtonsoft-and-json-date-formats/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wrestling-all-day-with-webapi-newtonsoft-and-json-date-formats">Wrestling All Day With WebAPI, NewtonSoft and JSON Date Formats</a></p>
-
-<p><a href="http://blogs.msdn.com/b/agile/archive/2013/05/22/dealing-with-windows-azure-storage-transient-faults.aspx">Dealing with Windows Azure Storage transient faults</a></p>
-
-<p><a href="https://github.com/glennblock/webapiworker">Hello world web api self-hosted in worker role on Azure</a></p>
-
-<p><a href="http://tech.pro/tutorial/1253/ravendb-how-to-page-queries">RavenDB: How To Page Queries</a></p>
-
-<p><a href="http://tech.pro/tutorial/1289/building-rest-api-with-mvc-4-web-api-part-2">Building REST API with MVC 4 Web API - Part 2</a></p>
-
-<h2>STOP!</h2>
-
-<p><a href="http://blog.disqus.com/post/51155103801/trying-out-this-go-thing">Trying out this Go thing…</a></p>
-
-<p><a href="http://blog.golang.org/2013/05/advanced-go-concurrency-patterns.html">Advanced Go Concurrency Patterns</a></p>
-
-<h2>Cloudy With a Chance of Meatballs</h2>
-
-<p><a href="http://voiceofthedba.wordpress.com/2013/05/23/starting-with-azure/">Starting with Azure</a></p>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/05/23/announcing-the-release-of-amqp-support-with-windows-azure-service-bus.aspx">Announcing the release of AMQP support with Windows Azure Service Bus</a></p>
-
-<p><a href="http://www.datacenterknowledge.com/archives/2013/05/23/ubiquity/">With Ubiquity, Sears is Turning Shuttered Stores into Data Centers</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://myresearchrants.wordpress.com/2013/05/22/data-sharing-in-science-the-sad-reality/">Data sharing in Science (the sad reality)</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-05-23-oculus-rift-hires-ex-valve-team-fortress-2-vr-specialist?utm_source=twitterfeed&amp;utm_medium=twitter">Oculus Rift hires ex-Valve Team Fortress 2 VR specialist</a></p>
-
-<p><a href="http://fabiensanglard.net/doom3_bfg/index.php">Doom3 BFG Source Code Review</a></p>
 ]]></content>
   </entry>
   
