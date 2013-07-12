@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tdd | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/tdd/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-11T19:52:08-05:00</updated>
+  <updated>2013-07-11T19:54:56-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -75,7 +75,7 @@ public void SomeHandlerTest()
     <link href="http://nerditorium.danielauger.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests/"/>
     <updated>2010-07-19T12:16:00-05:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2010/07/19/should-net-auto-properties-have-unit-tests</id>
-    <content type="html"><![CDATA[<p><img class="left" src="/images/postimages/testing_vader_scaled_thumb.jpg">
+    <content type="html"><![CDATA[<p>{% img left /images/postimages/testing_vader_scaled_thumb.jpg %}
 Should .NET auto properties be unit tested? It is very easy to argue that testing auto properties falls into the “testing the .NET framework” smell and is a waste of time. However, experience has shown me otherwise. This is something that I’ve gone back and forth on many times since auto properties were introduced. For the time being, I think I’ve reached a conclusion. That conclusion is yes. <!-- more --></p>
 
 <p>I typically do two types of testing: 1) Test Driven Design, and 2) Test while/after unit testing. Let’s consider these two scenarios.</p>

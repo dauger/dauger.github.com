@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-11T19:52:08-05:00</updated>
+  <updated>2013-07-11T19:54:56-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -153,7 +153,7 @@ public void SomeHandlerTest()
 <!-- more -->
 
 
-<p><img src="/images/postimages/infrastructure_transactions_comments.png"></p>
+<p>{% img /images/postimages/infrastructure_transactions_comments.png %}</p>
 
 <p>I’ve had this conversation with other developers who have raised similar concerns before, and the reason brought up against going with this pattern is based off of the notion that the “Web” project must not orchestrate or indirectly know about the other layers of the application because it is the “UI” layer.</p>
 
