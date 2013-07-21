@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-11T19:54:56-05:00</updated>
+  <updated>2013-07-20T21:23:07-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #97]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97/"/>
+    <updated>2013-07-20T21:21:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97</id>
+    <content type="html"><![CDATA[<h2>Ruby</h2>
+
+<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let's Celebrate the Future</a></p>
+
+<p><a href="http://rubysource.com/docker-for-rubyists/">Docker for Rubyists</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual - An Extensible Deep Comparison for .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/19/writing-web-api-client-code-for-multiple-platforms-using-portable-libraries.aspx">Writing Web API Client Code for Multiple Platforms Using Portable Libraries</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/07/20/linq-versus-the-lsp/">LINQ Versus the LSP</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work.aspx">Windows Azure Web Sites: How Application Strings and Connection Strings Work</a></p>
+
+<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/resharper-80-is-available/">ReSharper 8.0 is Available</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC - 4 Years Later</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://endgate.net/">Endgate - An HTML5 / JS Game Framework Powered by TypeScript</a></p>
+
+<p><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync Multiple AngularJS Apps Without Server via PouchDB</a></p>
+
+<p><a href="http://briancray.com/posts/javascript-module-pattern">JavaScript Module Pattern: When to Use it and Why</a></p>
+
+<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn't Scheme</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="http://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/">PUT or POST: The REST of the Story </a></p>
+
+<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API - Tips for REST + JSON Developers</a></p>
+
+<h2>Git</h2>
+
+<p><a href="https://sandofsky.com/blog/git-workflow.html">Understanding the Git Workflow</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate - Git Repository based Database Migrations</a></p>
+
+<h2>Databases</h2>
+
+<p><a href="http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction">New Pluralsight Course: Introduction to MongoDB</a></p>
+
+<p><a href="http://0x74696d.com/posts/falling-in-and-out-of-love-with-dynamodb-part-ii/">Falling In And Out Of Love With DynamoDB, Part II</a></p>
+
+<p><a href="http://www.usievents.com/en/conferences/12-paris-usi-2013/sessions/1090-why-you-should-never-write-your-own-database">Why You Should Never Write Your Own Database</a></p>
+
+<h2>Windows</h2>
+
+<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-more-fixes-windows-81-preview">Microsoft Delivers More Fixes for Windows 8.1 Preview</a></p>
+
+<h2>OSX</h2>
+
+<p><a href="http://www.macworld.com/article/2044473/new-digitally-signed-mac-malware-confuses-users-with-right-to-left-file-name-tricks.html">New digitally signed Mac malware confuses users with right-to-left file name tricks</a></p>
+
+<h2>Community</h2>
+
+<p><a href="http://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferce215&amp;utm_medium=twitter">Linus Torvalds defends his right to shame Linux kernel developers</a></p>
+
+<p><a href="http://www.wired.com/wiredenterprise/2013/07/sarah_sharp/">Why This Hacker Stood Up Against ‘Verbal Abuse’ in Linux Land</a></p>
+
+<p><a href="http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon">Enigma codebreaker Alan Turing to be given posthumous pardon</a></p>
+
+<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can't Teach Programming, Create Software Engineering for Poor Programmers</a></p>
+
+<p><a href="http://goodenoughsoftware.net/2013/07/18/the-charlie-foxtrot-aka-teched/">Why I Cancelled My TechEd Talks</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
+
+<p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #96]]></title>
@@ -272,90 +355,6 @@ part of it has audio.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.eurogamer.net/articles/2013-07-05-project-eternity-as-a-series-could-run-for-eternity?utm_source=dlvr.it&amp;utm_medium=twitter">Project Eternity, as a series, could run for eternity</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #92]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92/"/>
-    <updated>2013-07-04T14:44:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://www.wintellect.com/blogs/jrobbins/tfs-build-numbers-file-version-now-with-hosted-tfs-build-support">TFS Build Numbers &amp; File Version Now with Hosted TFS Build Support</a></p>
-
-<p><a href="http://blogs.msdn.com/b/jaredpar/archive/2013/07/02/immutable-isn-t-just-for-parallel-code.aspx">Immutable Isn't Just About Parallel Code</a></p>
-
-<p><a href="http://www.philliphaydon.com/2013/07/setting-up-a-nancyfx-website/">Setting up a NancyFX website</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/07/03/what-is-new-in-code-analysis-for-visual-studio-2013.aspx">What is New in Code Analysis for Visual Studio 2013</a></p>
-
-<p><a href="http://blog.getglimpse.com/2013/07/04/glimpse-1-5-0-released/">Glimpse 1.5.0 released</a></p>
-
-<p><a href="http://dhickey.ie/post/2013/07/04/Making-Visual-Studio-2012-extensions-work-with-VS-2013-Preview.aspx">Making Visual Studio 2012 extensions work with VS 2013 Preview</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/03/understanding-owin-forms-authentication-in-mvc-5.aspx">Understanding OWIN Forms authentication in MVC 5</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/02/manage-cors-policy-dynamically.aspx">Manage CORS policy dynamically</a></p>
-
-<p><a href="http://codebetter.com/patricksmacchia/2013/07/04/code-rules-are-not-just-about-clean-code/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CodeBetter+%28CodeBetter.Com%29">Code Rules are not just about Clean Code</a></p>
-
-<p><a href="http://lbadri.wordpress.com/2013/07/04/hawk-authentication-for-asp-net-web-api-using-thinktecture-identitymodel-45/">Hawk Authentication for ASP.NET Web API using Thinktecture.IdentityModel.45</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/03/the-story-of-synchronized-settings.aspx">The Story of Synchronized Settings in VS2013</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://screamingatmyscreen.com/2013/7/should-i-rewrite-my-app-in-go-for-better-scalability/">Should I rewrite my app in Go for better scalability?</a></p>
-
-<p><a href="http://openmymind.net/Shard-Your-Hash-table-to-reduce-write-locks/">Shard Your Hash Table To Reduce Write Locks</a></p>
-
-<p><a href="http://blog.drewolson.org/blog/2013/07/04/clojure-core-dot-async-and-go-a-code-comparison/">Clojure core.async and Go: A Code Comparison</a></p>
-
-<h2>Elixer</h2>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/">Elixir for the Lazy, Impatient and Busy: Part 1 |> Lists and Recursion</a></p>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/">Elixir for the Lazy Impatient and Busy: Part 2 |> Processes 101</a></p>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/">Elixir for the Lazy Impatient and Busy: Part 3 |> Processes 102</a></p>
-
-<h2>HTTP APIs / REST</h2>
-
-<p><a href="https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2">API Design: Harnessing HATEOAS, Part 2</a></p>
-
-<p><a href="http://yobriefca.se/blog/2013/04/29/micro-service-architecture/">Micro Service Architecture</a></p>
-
-<h2>Software Craftsmanship / Methodologies</h2>
-
-<p><a href="http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/">High Costs and Negative Value of Pair Programming</a></p>
-
-<h2>OSes</h2>
-
-<p><a href="http://www.extremetech.com/computing/160342-windows-8-1-multi-monitor-hands-on-desktop-review-video">Windows 8.1 multi-monitor Desktop hands-on review (video)</a></p>
-
-<p><a href="http://www.winbeta.org/news/microsoft-research-releases-network-speed-test-app-windows-8">Microsoft Research releases Network Speed Test app for Windows 8</a></p>
-
-<p><a href="http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/">Internet Explorer 11: “Don’t call me IE”</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-fixes-windows-81-preview?utm_source=twitterfeed&amp;utm_medium=twitter">Microsoft Delivers Fixes for Windows 8.1 Preview</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/">Majority of Gamers Today Can't Finish Level 1 in Super Mario Bros.</a></p>
-
-<p><a href="http://www.computerandvideogames.com/417401/double-fine-needs-more-money-to-finish-3m-kickstarter-project/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Double Fine 'needs more money' to finish $3m Kickstarter project</a></p>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-04-american-mcgee-defends-double-fine-kickstarter-after-adding-new-USD100-000-stretch-goal?utm_source=twitterfeed&amp;utm_medium=twitter">American McGee defends Double Fine Kickstarter after adding $100,000 stretch goal to OZombie</a></p>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-04-microsoft-will-now-include-a-headset-with-xbox-one?utm_source=dlvr.it&amp;utm_medium=twitter">Microsoft will now include a headset with Xbox One - report</a></p>
-
-<p><a href="http://winsupersite.com/xbox/games-gold-july-2013?utm_source=twitterfeed&amp;utm_medium=twitter">XBox Live Games With Gold: July 2013</a></p>
-
-<h2>In Memoriam</h2>
-
-<p><a href="http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html">Douglas C. Engelbart, Inventor of the Computer Mouse, Dies at 88</a><br/>
-Watch his classic <a href="http://www.youtube.com/watch?v=JfIgzSoTMOs#">The Mother of All Demos</a>.</p>
 ]]></content>
   </entry>
   

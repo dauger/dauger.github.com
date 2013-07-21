@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-11T19:54:56-05:00</updated>
+  <updated>2013-07-20T21:23:07-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -38,7 +38,7 @@ $ cd ..
     <link href="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/"/>
     <updated>2013-03-03T18:11:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page</id>
-    <content type="html"><![CDATA[<p>Because this blog is made of up <a href="{{%20root_url%20}}/blog/categories/links">link posts</a> and original content posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:</p>
+    <content type="html"><![CDATA[<p>Because this blog is made of up <a href="/blog/categories/links">link posts</a> and original content posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:</p>
 
 <ol>
 <li>Hide all link posts from the index page.</li>
@@ -63,7 +63,7 @@ $ cd ..
 
 <ul class="main-navigation">
   <!-- other nav links -->
-  <li><a href="{{ root_url }}/blog/categories/links">10,000 Links</a></li>
+  <li><a href="/blog/categories/links">10,000 Links</a></li>
   <!-- other nav links -->
 </ul>
 

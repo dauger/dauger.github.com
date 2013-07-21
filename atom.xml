@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-11T19:54:44-05:00</updated>
+  <updated>2013-07-20T21:23:07-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,89 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #97]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97/"/>
+    <updated>2013-07-20T21:21:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97</id>
+    <content type="html"><![CDATA[<h2>Ruby</h2>
+
+<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let&#8217;s Celebrate the Future</a></p>
+
+<p><a href="http://rubysource.com/docker-for-rubyists/">Docker for Rubyists</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual - An Extensible Deep Comparison for .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/19/writing-web-api-client-code-for-multiple-platforms-using-portable-libraries.aspx">Writing Web API Client Code for Multiple Platforms Using Portable Libraries</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/07/20/linq-versus-the-lsp/">LINQ Versus the LSP</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work.aspx">Windows Azure Web Sites: How Application Strings and Connection Strings Work</a></p>
+
+<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/resharper-80-is-available/">ReSharper 8.0 is Available</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC - 4 Years Later</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://endgate.net/">Endgate - An HTML5 / JS Game Framework Powered by TypeScript</a></p>
+
+<p><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync Multiple AngularJS Apps Without Server via PouchDB</a></p>
+
+<p><a href="http://briancray.com/posts/javascript-module-pattern">JavaScript Module Pattern: When to Use it and Why</a></p>
+
+<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn&#8217;t Scheme</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="http://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/">PUT or POST: The REST of the Story </a></p>
+
+<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API - Tips for REST + JSON Developers</a></p>
+
+<h2>Git</h2>
+
+<p><a href="https://sandofsky.com/blog/git-workflow.html">Understanding the Git Workflow</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate - Git Repository based Database Migrations</a></p>
+
+<h2>Databases</h2>
+
+<p><a href="http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction">New Pluralsight Course: Introduction to MongoDB</a></p>
+
+<p><a href="http://0x74696d.com/posts/falling-in-and-out-of-love-with-dynamodb-part-ii/">Falling In And Out Of Love With DynamoDB, Part II</a></p>
+
+<p><a href="http://www.usievents.com/en/conferences/12-paris-usi-2013/sessions/1090-why-you-should-never-write-your-own-database">Why You Should Never Write Your Own Database</a></p>
+
+<h2>Windows</h2>
+
+<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-more-fixes-windows-81-preview">Microsoft Delivers More Fixes for Windows 8.1 Preview</a></p>
+
+<h2>OSX</h2>
+
+<p><a href="http://www.macworld.com/article/2044473/new-digitally-signed-mac-malware-confuses-users-with-right-to-left-file-name-tricks.html">New digitally signed Mac malware confuses users with right-to-left file name tricks</a></p>
+
+<h2>Community</h2>
+
+<p><a href="http://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferce215&amp;utm_medium=twitter">Linus Torvalds defends his right to shame Linux kernel developers</a></p>
+
+<p><a href="http://www.wired.com/wiredenterprise/2013/07/sarah_sharp/">Why This Hacker Stood Up Against ‘Verbal Abuse’ in Linux Land</a></p>
+
+<p><a href="http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon">Enigma codebreaker Alan Turing to be given posthumous pardon</a></p>
+
+<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can&#8217;t Teach Programming, Create Software Engineering for Poor Programmers</a></p>
+
+<p><a href="http://goodenoughsoftware.net/2013/07/18/the-charlie-foxtrot-aka-teched/">Why I Cancelled My TechEd Talks</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
+
+<p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #96]]></title>
@@ -1263,97 +1346,6 @@ $ cd ..
 <h2>Game over, man!</h2>
 
 <p><a href="http://www.forbes.com/sites/erikkain/2013/05/30/good-old-games-gog-com-and-the-drm-free-revolution/">Good Old Games: GOG.com And The DRM-Free Revolution</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #79]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/05/29/the-land-of-10-000-links-number-79/"/>
-    <updated>2013-05-29T19:15:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/05/29/the-land-of-10-000-links-number-79</id>
-    <content type="html"><![CDATA[<h2>Prequel</h2>
-
-<p><a href="http://www.brentozar.com/archive/2013/05/words-dbas-should-never-say-to-developers/?utm_campaign=twitter&amp;utm_medium=twitter&amp;utm_source=twitter">Words DBAs Should Never Say to Developers</a></p>
-
-<p><a href="http://ayende.com/blog/162339/ravendbs-dynamic-reporting?key=9e0026d5-d7bb-4f78-ab98-29df206c7108&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">RavenDB’s Dynamic Reporting</a></p>
-
-<p><a href="http://thomaslarock.com/2013/05/top-7-things-you-want-to-do-in-windows-azure-sql-database-but-cant/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+SQLRockstar+%28SQLRockstar%29">Top 7 Things You Want to do in Windows Azure SQL Database but Can&#8217;t</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://kotaku.com/ps4nodrm-the-next-gen-twitter-campaign-thats-got-son-510143287?utm_campaign=Socialflow_Kotaku_Twitter&amp;utm_source=Kotaku_Twitter&amp;utm_medium=Socialflow">#PS4NoDRM: The Next-Gen Twitter Campaign That&#8217;s Got Sony&#8217;s Attention</a></p>
-
-<p><a href="http://www.computerandvideogames.com/409410/microsoft-pledges-indie-support-on-xbox-one/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Microsoft pledges indie support on Xbox One</a></p>
-
-<h2>JabbaScript</h2>
-
-<p><a href="http://broadcastingadam.com/2013/05/ember-data-is-pre-alpha-software/">Ember Data Is Pre-Alpha Software</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/05/strongloop-node">Strongloop Node: the First Enterprise-Ready Node.js Distribution</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://github.com/darrelmiller/RunscopeMessageHandler">Runscope Message Handler</a></p>
-
-<p><a href="http://blog.jonathanchannon.com/2013/05/29/why-net-should-become-independent/">Why .NET Should Become Independent</a></p>
-
-<p><a href="http://tech.pro/blog/1352/aspnet-mvc--5-bad-out-of-the-box-guidances">ASP.NET MVC : 5 bad out-of-the-box guidances</a></p>
-
-<p><a href="http://www.philliphaydon.com/2013/05/nancyfx-hosting-with-owin/">NancyFX - Hosting with OWIN</a></p>
-
-<p><a href="http://geekswithblogs.net/tonyt/archive/2013/05/28/153003.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+geekswithblogs+%28Geekswithblogs.net%29">Stored Procedures in Entity Framework 6</a></p>
-
-<p><a href="http://meisinger2.wordpress.com/2013/05/28/planning-the-next-rhino-mock/">Planning the Next Rhino Mock</a></p>
-
-<p><a href="http://tech.pro/tutorial/1334/fluent-validation-with-aspnet-mvc">Fluent Validation with ASP.NET MVC</a></p>
-
-<p><a href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2013/05/29/better-unit-testing-with-microsoft-fakes-guide-a-la-mobi-and-epub.aspx">Better Unit Testing with Microsoft Fakes Guide a la mobi and epub</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/05/ODataUriParser">ODataUriParser Now Supports $select and $expand</a></p>
-
-<p><a href="http://linskin.wordpress.com/2012/07/13/hibernate-caught-napping/">Hibernate caught napping.</a></p>
-
-<p><a href="http://visualstudiomagazine.com/articles/2013/05/29/the-decorator-pattern-in-net.aspx">The Decorator Pattern in .NET</a></p>
-
-<p><a href="http://jesseliberty.com/2013/05/29/5th-pluralsight-course-c-from-scratch/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+JesseLiberty-SilverlightGeek+%28Jesse+Liberty%29">Pluralsight Course: C# From Scratch</a></p>
-
-<p><a href="http://wildermuth.com/2013/5/29/Evolving_Your_Development_Skills">Evolving Your Development Skills</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://devblog.avdi.org/2013/05/29/naught-a-gem-for-building-null-object-classes-in-ruby/">Naught, a toolkit for building Null Object Classes in Ruby</a></p>
-
-<p><a href="http://dbvt.com/blog/post/Ensuring-Exclusive-Current_User-Access-in-Rails.aspx">Ensuring Exclusive Current_User Access in Rails</a></p>
-
-<h2>STOP!</h2>
-
-<p><a href="http://jessekallhoff.com/2013/05/29/go-web-apps-risk-analyzer-tying-it-all-together-pt-3/">Go Web Apps: Risk Analyzer - Tying it All Together</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://blogs.msdn.com/b/marcod/archive/2013/05/25/inspirationfortdd.aspx">Inspiration for test-driven design?</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://blog.programmableweb.com/2013/05/29/apis-as-glue-making-it-stick/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">APIs as Glue: Making it Stick</a></p>
-
-<p><a href="http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">Best Practices for Designing a Pragmatic RESTful API</a></p>
-
-<h2>Insecurity</h2>
-
-<p><a href="http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/">Anatomy of a hack: How crackers ransack passwords like “qeadzcwrsfxv1331”</a></p>
-
-<p><a href="http://www.pcworld.com/article/2040062/hackers-exploit-ruby-on-rails-vulnerability-to-compromise-servers-create-botnet.html?utm_medium=referral&amp;utm_source=t.co">Hackers exploit Ruby on Rails vulnerability to compromise servers, create botnet</a></p>
-
-<p><a href="https://drupal.org/news/130529SecurityUpdate">Reset Your Drupal.org Password</a></p>
-
-<h2>You&#8217;ve Been Served</h2>
-
-<p><a href="http://blog.ittoby.com/2013/05/windows-server-2012-superfeature-dhcp.html">Windows Server 2012 SuperFeature: DHCP App-Level Failover/Loadbalance</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://winsupersite.com/windows-8/blue-start-experience-changes">In Blue: Start Experience Changes</a></p>
 ]]></content>
   </entry>
   
