@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-20T21:23:07-05:00</updated>
+  <updated>2013-07-27T12:48:17-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,121 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #98]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98/"/>
+    <updated>2013-07-27T12:11:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://codebetter.com/howarddierking/2013/07/23/katana-license-lifts-windows-only-restriction/">Katana License Lifts Windows-only Restriction</a></p>
+
+<p><a href="http://www.strathweb.com/2013/07/scriptcs-and-multiline-repl/">Scriptcs and multiline REPL!</a></p>
+
+<p><a href="https://github.com/xpaulbettsx/refit">The automatic type-safe REST library for Xamarin and .NET</a></p>
+
+<p><a href="http://blog.xamarin.com/major-upgrades-to-xamarin%E2%80%99s-platform-async-is-here/">Async Comes to Mono</a></p>
+
+<p><a href="http://www.cloudidentity.com/blog/2013/07/23/securing-a-web-api-with-windows-azure-ad-and-katana/">Securing a Web API with Windows Azure AD and Katana</a></p>
+
+<p><a href="http://stackoverflow.com/questions/7807066/how-signalr-works-internally/7874352#7874352">How Signalr Words Internally</a></p>
+
+<p><a href="https://github.com/tugberkugurlu/OwinSamples">OWIN Samples</a></p>
+
+<p><a href="http://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/">When to use IEnumerable, ICollection, IList and List</a></p>
+
+<p><a href="http://mentalflatlining.wordpress.com/2013/02/19/evaluating-data-services-options-wcf-vs-webapi-vs-servicestack/">Evaluating Data Services options – WCF vs WebAPI vs ServiceStack</a></p>
+
+<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=921">ASP.NET Web API 2.0 Cross Origin Resource Sharing Support</a></p>
+
+<p><a href="http://nakedalm.com/creating-a-custom-activity-for-team-foundation-build/">You can be creating a custom activity for Team Foundation Build in a few simple steps.</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/24/msbuild-is-now-part-of-visual-studio.aspx">MSBuild is Now Part of Visual Studio</a></p>
+
+<h2>Dart</h2>
+
+<p><a href="http://www.infoq.com/interviews/moore-dart">Kevin Moore on Dart</a></p>
+
+<h2>Go</h2>
+
+<p><a href="https://github.com/mindreframer/golang-stuff/">Go Resources / Stuff</a></p>
+
+<p><a href="http://blog.bensigelman.org/post/56158760736/golang-impressions">My Impressions of Go</a></p>
+
+<h2>Databases</h2>
+
+<p><a href="http://www.infoq.com/research/nosql-databases">NoSQL Trends</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://blog.alexmaccaw.com/how-yield-will-transform-node">How Yield Will Transform Node</a></p>
+
+<p><a href="http://net.tutsplus.com/articles/news/learn-ember-with-us-for-free/">Learn Ember With Us for Free</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/07/23/windows-azure-july-updates-sql-database-traffic-manager-autoscale-virtual-machines.aspx">Windows Azure July Updates: SQL Database, Traffic Manager, AutoScale, Virtual Machines</a></p>
+
+<p><a href="http://windowsitpro.com/cloud/prism-killing-us-cloud-economy">PRISM is Killing the US Cloud Economy</a></p>
+
+<h2>HTTP / REST / API</h2>
+
+<p><a href="http://blog.programmableweb.com/2013/07/23/swagger-offers-lightning-quick-connection-to-your-api/">Swagger Offers Lightning Quick Connection To Your API</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/22/rest-api-for-team-rooms.aspx">REST API for TFS Team Rooms</a></p>
+
+<p><a href="http://techoctave.com/c7/posts/71-twitter-rest-api-dissected">Twitter "REST" API Dissected</a></p>
+
+<p><a href="http://blog.hartleybrody.com/https-certificates/">How HTTPS Secures Connections: What Every Web Dev Should Know</a></p>
+
+<h2>Community / Craftsmanship / Engineering</h2>
+
+<p><a href="http://www.mindful.org/mindful-magazine/a-users-guide-to-living-well-in-screenworld">A User's Guide to Living Well in Screenworld</a></p>
+
+<p><a href="http://michaelfeathers.typepad.com/michael_feathers_blog/2013/07/the-single-responsibility-principle-leads-to-good-openclosed-characteristics.html">The Single Responsibility and Open/Closed Principle are the Same</a></p>
+
+<p><a href="http://scriptogr.am/terryr/post/thank-you-github">Thank You GitHub (And all Other OSS Community Leaders)</a></p>
+
+<p><a href="http://www.joelonsoftware.com/items/2013/07/22.html">Victory Lap for Ask Patents</a></p>
+
+<p><a href="http://www.wired.com/underwire/2013/07/ap_argshaming/?mbid=social10097944">Why You Should Think Twice Before Shaming Anyone on Social Media</a></p>
+
+<p><a href="https://peepcode.com/blog/2013/leveling-up">Pluralsight Acquires Peepcode</a></p>
+
+<p><a href="http://www.codinghorror.com/blog/2013/07/rule-of-three.html">The Rule of Three</a></p>
+
+<p><a href="http://openmymind.net/Caching-Your-Worst-Best-Friend/">Caching: Your Words Best Friend</a></p>
+
+<p><a href="http://justin.abrah.ms/computer-science/big-o-notation-explained.html">Big-O Notation Explained by a Self-Taught Programmer</a></p>
+
+<p><a href="http://www.daedtech.com/throw-out-your-code">Throw Out Your Code</a></p>
+
+<p><a href="http://lizkeogh.com/2013/07/21/estimating-complexity/">Estimating Complexity</a></p>
+
+<h2>Operating Systems and Hardware</h2>
+
+<p><a href="http://mattgemmell.com/2013/07/24/connecting-newton-devices-to-os-x/">Connecting Newton devices to OS X</a></p>
+
+<p><a href="http://www.computerandvideogames.com/420736/microsoft-to-open-xbox-one-to-self-publishing-claims-report/">Microsoft reveals Xbox One self-publishing plans</a></p>
+
+<p><a href="http://blogs.technet.com/b/in_the_cloud/archive/2013/07/24/what-s-new-in-2012-r2-enabling-open-source-software.aspx">What's New in 2012 R2: Enabling Open Source Software</a></p>
+
+<p><a href="http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL">Spy agencies ban Lenovo PCs on security concerns</a></p>
+
+<h2>Text Editors / IDEs</h2>
+
+<p><a href="http://aspirecode.com/sublime-text-3-worth-the-upgrade/">Sublime Text 3: Worth the Upgrade?</a></p>
+
+<p><a href="https://github.com/nosami/Omnisharp">Omnisharp - Vim Omnicompletion (Intellisense) and More for C#</a></p>
+
+<p><a href="http://blogs.msdn.com/b/cdnstudents/archive/2013/07/18/visual-studio-tips-for-html-web-or-windows-developers-zencoding.aspx">Visual Studio Tips for HTML web or windows developers: ZenCoding</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.computerandvideogames.com/420421/sony-issues-new-ps4-operating-system-screenshots/">Sony Issues New PS4 Operating System Screenshots</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #97]]></title>
@@ -304,57 +419,6 @@ part of it has audio.</p>
 <p><a href="http://www.computerandvideogames.com/418079/hidden-powers-at-valve-ex-employee-claims/">Hidden Powers At Valve - Ex-Employee Claims</a></p>
 
 <p><a href="http://www.businessinsider.com/xbox-rejected-names-2013-7">Here Are The Names Microsoft Rejected Before Settling On 'Xbox'</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #93]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/06/the-land-of-10-000-links-number-93/"/>
-    <updated>2013-07-06T12:54:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/06/the-land-of-10-000-links-number-93</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/multi-file-templates-in-resharper-8/">Multifile Templates in ReSharper 8</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/05/introducing-select-and-expand-support-in-web-api-odata.aspx">Introducing $select and $expand support in Web API OData</a></p>
-
-<h2>Software Craftsmanship / Engineering</h2>
-
-<p><a href="https://theholyjava.wordpress.com/2013/07/05/the-invisible-benefits-of-pair-programming-avoiding-wasteful-coding-excursions/">The Invisible Benefits Of Pair-Programming: Avoiding Wasteful Coding Excursions</a></p>
-
-<p><a href="http://davenicolette.wordpress.com/2013/07/06/does-pair-programming-work/">Does Pair Programming Work?</a></p>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/06/06/acid-2-0-in-action/">ACID 2.0 in action</a></p>
-
-<p><a href="http://www.retro-computer.net/att-tech-channel-how-a-computer-works-great-tutorial-from-1962">AT&amp;T Tech Channel – How a Computer Works. Great Tutorial From 1962</a></p>
-
-<p><a href="http://codeofrob.com/entries/working-for-free-and-what-it-taught-me.html">Working for free and what it taught me</a></p>
-
-<p><a href="http://mobile.nytimes.com/blogs/bits/2013/07/05/technology-workers-are-young-really-young/">Technology Workers are Young (Reailly Young)</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/">Elixir: It's Not About Syntax</a></p>
-
-<p><a href="http://devblog.avdi.org/2013/07/05/installing-elixir-on-ubuntu-13-04/">Installing Elixir on Ubuntu 13.04</a></p>
-
-<h2>Rust</h2>
-
-<p><a href="http://cmr.github.io/blog/2013/07/05/the-state-of-rust/">The State of Rust 0.7</a></p>
-
-<h2>HTTP / REST</h2>
-
-<p><a href="https://blog.apigee.com/detail/api_design_a_new_model_for_pragmatic_rest">API Design: A New Model for Pragmatic REST</a></p>
-
-<h2>Hardware</h2>
-
-<p><a href="http://www.slashgear.com/lenovo-thinkpad-helix-review-04288958/">Lenovo ThinkPad Helix Review</a></p>
-
-<p><a href="http://makezine.com/2013/07/04/why-microsofts-3d-printing-rocks/">Why Microsoft's 3D Printing Rocks</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-05-project-eternity-as-a-series-could-run-for-eternity?utm_source=dlvr.it&amp;utm_medium=twitter">Project Eternity, as a series, could run for eternity</a></p>
 ]]></content>
   </entry>
   
