@@ -1,0 +1,38 @@
+---
+layout: post
+title: "The Land of 10,000 Links #99"
+date: 2013-07-29 20:37
+comments: true
+categories: links
+---
+## .NET
+[Implementing Async HTTP Modules in ASP.NET Using TPL's Task API](http://brockallen.com/2013/07/27/implementing-async-http-modules-in-asp-net-using-tpls-task-api/)
+
+[Using the Katana Authentication Handlers with NancyFx](http://weblogs.asp.net/cibrax/archive/2013/07/29/using-the-katana-authentication-handlers-with-nancyfx.aspx)
+
+[Recommended Order for Watching Julie Lerman's Pluralsight Entity Framework Courses](http://thedatafarm.com/blog/data-access/recommended-order-for-watching-my-pluralsight-entity-framework-courses/)
+
+[Visual Studio 2012 tools for Git (0.9.5.0) are available](http://blogs.msdn.com/b/bharry/archive/2013/07/29/visual-studio-2012-tools-for-git-0-9-5-0-are-available.aspx)
+
+[Team Foundation Service updates – July 29](http://tfs.visualstudio.com/en-us/news/2013-jul-29)
+
+[C#/.NET Little Wonders: Getting Caller Information](http://geekswithblogs.net/BlackRabbitCoder/archive/2013/07/25/c.net-little-wonders-getting-caller-information.aspx)
+
+## Sql Server
+[SQL Server 2014 Standard Edition Sucks, and It’s All Your Fault](http://www.brentozar.com/archive/2013/07/sql-server-2014-standard-edition-sucks-and-its-all-your-fault/)
+
+## JavaScript
+[It's a Mad, Mad, Mad, Mad World: Scoping in CoffeeScript and JavaScript](http://raganwald.com/2013/07/27/Ive-always-been-mad.html)
+
+## HTTP / REST / APIs
+[Exist in the Web Not On It](https://speakerdeck.com/ammeep/exist-in-the-web-not-on-it)
+
+[One Step Guide On Designing a REST API](http://hadihariri.com/2013/07/29/one-step-guide-on-designing-a-rest-api/)
+
+[Back to the Roots. Meet HTTP](http://blog.apiary.io/2013/07/22/Back-to-the-roots/)
+
+## Software Crafstmanship / Engineering / Community
+[Honesty Under Pressure](http://blog.8thlight.com/mike-jansen/2013/07/29/honesty-under-pressure.html)
+
+## Video Games
+[Matt Chat 203: Frayed Knights](http://www.youtube.com/watch?v=MpRBPY-E8Wg&feature=youtube_gdata)
