@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-27T12:48:17-05:00</updated>
+  <updated>2013-07-29T20:40:14-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #99]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/07/29/the-land-of-10-000-links-99/"/>
+    <updated>2013-07-29T20:37:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/07/29/the-land-of-10-000-links-99</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://brockallen.com/2013/07/27/implementing-async-http-modules-in-asp-net-using-tpls-task-api/">Implementing Async HTTP Modules in ASP.NET Using TPL&#8217;s Task API</a></p>
+
+<p><a href="http://weblogs.asp.net/cibrax/archive/2013/07/29/using-the-katana-authentication-handlers-with-nancyfx.aspx">Using the Katana Authentication Handlers with NancyFx</a></p>
+
+<p><a href="http://thedatafarm.com/blog/data-access/recommended-order-for-watching-my-pluralsight-entity-framework-courses/">Recommended Order for Watching Julie Lerman&#8217;s Pluralsight Entity Framework Courses</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/29/visual-studio-2012-tools-for-git-0-9-5-0-are-available.aspx">Visual Studio 2012 tools for Git (0.9.5.0) are available</a></p>
+
+<p><a href="http://tfs.visualstudio.com/en-us/news/2013-jul-29">Team Foundation Service updates – July 29</a></p>
+
+<p><a href="http://geekswithblogs.net/BlackRabbitCoder/archive/2013/07/25/c.net-little-wonders-getting-caller-information.aspx">C#/.NET Little Wonders: Getting Caller Information</a></p>
+
+<h2>Sql Server</h2>
+
+<p><a href="http://www.brentozar.com/archive/2013/07/sql-server-2014-standard-edition-sucks-and-its-all-your-fault/">SQL Server 2014 Standard Edition Sucks, and It’s All Your Fault</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://raganwald.com/2013/07/27/Ive-always-been-mad.html">It&#8217;s a Mad, Mad, Mad, Mad World: Scoping in CoffeeScript and JavaScript</a></p>
+
+<h2>HTTP / REST / APIs</h2>
+
+<p><a href="https://speakerdeck.com/ammeep/exist-in-the-web-not-on-it">Exist in the Web Not On It</a></p>
+
+<p><a href="http://hadihariri.com/2013/07/29/one-step-guide-on-designing-a-rest-api/">One Step Guide On Designing a REST API</a></p>
+
+<p><a href="http://blog.apiary.io/2013/07/22/Back-to-the-roots/">Back to the Roots. Meet HTTP</a></p>
+
+<h2>Software Crafstmanship / Engineering / Community</h2>
+
+<p><a href="http://blog.8thlight.com/mike-jansen/2013/07/29/honesty-under-pressure.html">Honesty Under Pressure</a></p>
+
+<h2>Video Games</h2>
+
+<p><a href="http://www.youtube.com/watch?v=MpRBPY-E8Wg&amp;feature=youtube_gdata">Matt Chat 203: Frayed Knights</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #98]]></title>
@@ -1347,75 +1392,6 @@ $ cd ..
 <p><a href="http://www.computerandvideogames.com/410152/eidos-teases-new-deus-ex/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Eidos teases new Deus Ex</a></p>
 
 <p><a href="http://www.computerandvideogames.com/410279/zynga-lays-off-over-500-staff-closes-three-offices/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Confirmed: LA, New York and Dallas studios shuttered amidst major cuts</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #81]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/02/the-land-of-10-000-links-number-81/"/>
-    <updated>2013-06-02T12:19:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/02/the-land-of-10-000-links-number-81</id>
-    <content type="html"><![CDATA[<h2>Rubyx Cube</h2>
-
-<p><a href="http://www.railsonmaui.com/tips/rubymine.html">Favorite RubyMine Tips</a></p>
-
-<p><a href="https://speakerdeck.com/mirakui/high-performance-rails-long-edition">High Performance Rails</a></p>
-
-<h2>JabbaScript</h2>
-
-<p><a href="http://iamnotmyself.com/2013/05/30/debugging-in-the-land-of-server-side-javascript/">Debugging in the Land of Server-Side Javascript</a></p>
-
-<h2>Tin Roof, Rusted</h2>
-
-<p><a href="http://blog.steveklabnik.com/posts/2013-05-30-rust--y-scraps--iterating-with-a-step">Rust -y scraps: iterating with a step</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://owened.co.nz/why-cant-microsoft-get-anything-right-on-the-first-try">Why can’t Microsoft get their products right on the first try?</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://al3x.net/2013/05/23/letter-to-a-young-programmer.html">Letter To A Young Programmer Considering A Startup</a></p>
-
-<p><a href="http://news.cnet.com/8301-17938_105-57586687-1/family-ties-actress-goes-to-college-to-learn-coding/?part=rss&amp;subj=news&amp;tag=title">&#8216;Family Ties&#8217; actress goes to college to learn coding</a></p>
-
-<p><a href="http://mdswanson.com/blog/2013/05/29/the-30-second-standup.html">The 30 Second Standup</a></p>
-
-<h2>Cloudy, With a Chance of Meatballs</h2>
-
-<p><a href="http://convective.wordpress.com/2013/05/30/building-resilient-high-scale-services-in-windows-azure/">Building Resilient, High-Scale Services in Windows Azure</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="http://blog.oneunicorn.com/2013/05/31/ef6-release-datesor-lack-thereof/">EF6 release dates…or lack thereof</a></p>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/05/29/get-httpclient-rtm-200-ok.aspx">Get /httpclient/rtm – 200 OK</a></p>
-
-<p><a href="http://tech.pro/tutorial/1253/ravendb-how-to-page-queries?utm_source=tutorials&amp;utm_medium=social&amp;utm_campaign=database">RavenDB: How To Page Queries</a></p>
-
-<p><a href="http://weblogs.asp.net/ricardoperes/archive/2013/05/29/the-state-of-entity-framework-and-nhibernate.aspx">The State of Entity Framework and NHibernate</a></p>
-
-<p><a href="http://elegantcode.com/2013/05/31/taking-baby-steps-with-scriptcs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ElegantCode+%28Elegant+Code%29">Taking Baby Steps with ScriptCS</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/05/cqrs-tutorial-csharp">New C# based CQRS Tutorial available</a></p>
-
-<h2>STOP!</h2>
-
-<p><a href="http://dehora.net/journal/2013/06/01/on-go/">On Go</a> - <a href="https://news.ycombinator.com/item?id=5806970">Hacker News Comments</a> - <a href="http://www.reddit.com/r/programming/comments/1fi2y3/on_go/">Reddit Comments</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://martinfowler.com/bliki/API_Copyright.html">API_Copyright</a></p>
-
-<p><a href="http://www.layer7tech.com/blogs/index.php/banking-on-apis/">Banking on APIs</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/05/OData-4">What’s New in OData 4.0?</a></p>
-
-<p><a href="https://gist.github.com/solojavier/5690999">You should read about hypermedia APIs, if only to challenge your thinking.</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://www.theverge.com/2013/5/31/4384248/documentary-crew-to-excavate-legendary-et-atari-landfill?utm_source=feedly">Were truckloads of &#8216;E.T.&#8217; Atari cartridges buried in New Mexico? A film crew is about to find out</a></p>
 ]]></content>
   </entry>
   
