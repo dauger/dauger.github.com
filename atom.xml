@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-29T20:40:14-05:00</updated>
+  <updated>2013-08-01T21:50:14-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #100]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/08/01/the-land-of-10-000-links-number-100/"/>
+    <updated>2013-08-01T21:48:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/08/01/the-land-of-10-000-links-number-100</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://www.strathweb.com/2013/07/owin-middleware-asp-net-web-api-and-clients-ip-address/">Owin Middleare, ASP.NET Web API and Client&#8217;s IP Address</a></p>
+
+<p><a href="http://blog.leansentry.com/2013/07/all-about-iis-asp-net-request-queues/">Everything you ever wanted to know about ASP.NET request queueing</a></p>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/07/31/announcing-the-release-of-the-windows-azure-sdk-2-1-for-net.aspx">Announcing the release of the Windows Azure SDK 2.1 for .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/30/vs-2012-4-update-4-will-exist.aspx">VS 2012.4 (Update 4) will exist!</a></p>
+
+<p><a href="http://www.cloudidentity.com/blog/2013/07/30/securing-a-web-api-with-windows-server-2012-r2-adfs-and-katana/?utm_source=feedly">Securing a Web API with Windows Server 2012 R2 ADFS and Katana</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="https://github.com/bramp/js-sequence-diagrams">js-sequence-diagrams</a></p>
+
+<h2>HTTP / APIs</h2>
+
+<p><a href="http://gigaom.com/2013/07/31/apigee-raises-35m-to-wrestle-with-old-school-apis/">Apigee raises $35M to wrestle with old-school APIs</a></p>
+
+<p><a href="http://blog.epanastasi.com/post/56919440376/oauth-is-awesome-oauth-is-horrible">OAuth is awesome, OAuth is horrible.</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://www.wpcentral.com/so-long-skydrive-microsoft-required-change-name-after-trademark-dispute">So long SkyDrive, Microsoft required to change name after trademark dispute</a></p>
+
+<h2>Craftsmanshipt / Engineering / Community</h2>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/31/the-improved-microsoft-developer-network.aspx">The Improved Microsoft Developer Network</a></p>
+
+<p><a href="http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider">The One Cost Engineers and Product Managers Don&#8217;t Consider</a></p>
+
+<p><a href="http://www.nytimes.com/2013/07/27/nyregion/in-lieu-of-money-toyota-donates-efficiency-to-new-york-charity.html?_r=2&amp;">In Lieu of Money, Toyota Donates Efficiency to New York Charity</a></p>
+
+<p><a href="http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/">Agile Estimation with the Bucket System</a></p>
+
+<p><a href="http://ajlopez.wordpress.com/2013/08/01/tdd-links-news-and-resources-9/">TDD Links by Angel Lopez</a></p>
+
+<h2>Operating Systems</h2>
+
+<p><a href="http://blog.ittoby.com/2013/07/windows-81-changes-illustrate-attention.html">Windows 8.1: Changes Illustrate Attention to Detail</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #99]]></title>
@@ -1308,90 +1357,6 @@ $ cd ..
 <p><a href="http://www.vhnd.com/2012/11/29/audio-isolated-guitar-from-van-halens-first-three-albums/">Isolated Van Halen Guitar Tracks</a></p>
 
 <p><a href="http://www.huffingtonpost.com/2013/06/05/under-pressure-vocal-track_n_3390223.html?utm_hp_ref=entertainment">Isolated Vocal Tracks for Under Pressure</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #82]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82/"/>
-    <updated>2013-06-03T16:04:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/03/the-land-of-10-000-links-number-82</id>
-    <content type="html"><![CDATA[<h2>Prequel</h2>
-
-<p><a href="http://mickeystuewe.com/2013/05/28/using-set-theory-instead-of-isnull-to-filter-data/">Using Set Theory Instead of ISNULL To Filter Data</a></p>
-
-<p><a href="https://www.simple-talk.com/sql/performance/sql-server-performance-crib-sheet/">SQL Server Performance - The Crib Sheet</a></p>
-
-<p><a href="http://www.brentozar.com/archive/2013/06/almost-everything-you-need-to-know-about-the-next-version-of-sql-server/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+BrentOzar-SqlServerDba+%28Brent+Ozar+Unlimited%29">(Almost) Everything You Need to Know About SQL Server 2014</a></p>
-
-<h2>Cloudy, With a Chance of Meatballs</h2>
-
-<p><a href="http://windowsitpro.com/paul-thurrotts-wininfo/microsoft-preps-major-restructuring?utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+windowsitpro%2Fwininfo+%28WIN%3ENews%3EWinInfo+News%29">Microsoft Preps Major Restructuring</a><br/>
-<a href="http://www.infoworld.com/t/cringely/batten-down-the-hatches-its-microsoft-reorg-season-219911">Batten down the hatches &#8211; it&#8217;s Microsoft reorg season</a></p>
-
-<p><a href="http://devopsangle.com/2013/05/29/fear-the-cloud-helpful-tips-for-stifling-devops-progress-in-your-enterprise-humor/">Fear the Cloud? Helpful Tips for Stifling DevOps Progress in Your Enterprise [Humor]</a></p>
-
-<p><a href="http://windowsitpro.com/windows-azure/cloud-os-vnext">Cloud OS v.Next</a></p>
-
-<p><a href="http://www.brianhprince.com/2013/05/31/how-to-get-a-sticky-load-balancer-in-windows-azure/">How to get a sticky load balancer in Windows Azure</a></p>
-
-<p><a href="http://blogs.technet.com/b/stbnewsbytes/archive/2013/06/03/microsoft-s-technologies-mean-business-from-client-to-cloud.aspx?WT.mc_id=Social_TW_OutgoingEvents_20130603_24117_MSCloud">Microsoft’s Technologies Mean Business, From Client to Cloud</a></p>
-
-<p><a href="http://blog.programmableweb.com/2013/06/03/amazon-joins-single-sign-on-game-with-%E2%80%98login-with-amazon%E2%80%99/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">Amazon Joins Single Sign-On Game with ‘Login with Amazon’</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="http://blogs.msdn.com/b/clemensv/archive/2013/06/03/internet-of-things-is-vpn-a-false-friend.aspx">Internet of Things: Is VPN a False Friend?</a></p>
-
-<p><a href="http://blog.safaribooksonline.com/2013/05/31/rest-from-a-client-perspective/">REST from a Client Perspective</a></p>
-
-<p><a href="http://urthen.github.io/2013/05/16/ways-to-version-your-api-part-2/?utm_content=buffer3fc81&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Ways to version your API, Part 2</a></p>
-
-<p><a href="http://blog.8thlight.com/patrick-gombert/2013/06/02/idempotent-http.html">Idempotent HTTP</a></p>
-
-<p><a href="http://thebitchwhocodes.com/2013/05/30/the-123s-to-using-apis/">Starting with APIs - The Basics</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://www.simple-talk.com/dotnet/asp.net/modal-input-forms-in-asp.net-mvc/">Modal Input Forms in ASP.NET MVC</a></p>
-
-<p><a href="http://www.strathweb.com/2013/06/supporting-only-json-in-asp-net-web-api-the-right-way/">Supporting only JSON in ASP.NET Web API – the right way</a></p>
-
-<p><a href="http://blogs.msdn.com/b/jason_short/archive/2013/06/02/thoughts-on-queue-centric-workflow-design.aspx">Thoughts on Queue Centric Workflow Design</a></p>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/06/resharper-personal-and-academic-licensing-changes/">ReSharper Personal and Academic Licensing Changes</a></p>
-
-<p><a href="http://ericlippert.com/2013/06/03/tail-recursion-part-one/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tail-recursion-part-one">Tail recursion, part one</a></p>
-
-<h3>Teched Mania!</h3>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/06/03/visual-studio-2013.aspx">Visual Studio 2013</a><br/>
-<a href="http://tfs.visualstudio.com/en-us/news/2013-jun-3">Team Foundation Service Updates for TechEd 2013</a><br/>
-<a href="http://blogs.msdn.com/b/somasegar/archive/2013/06/03/teched-2013.aspx">Visual Studio 2013, ALM, and DevOps</a><br/>
-<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-new-dev-test-offering-biztalk-services-ssl-support-with-web-sites-ad-improvements-per-minute-billing.aspx">Windows Azure: Announcing New Dev/Test Offering, BizTalk Services, SSL Support with Web Sites, AD Improvements, Per Minute Billing</a><br/>
-<a href="http://weblogs.asp.net/scottgu/archive/2013/06/03/windows-azure-announcing-major-improvements-for-dev-test-in-the-cloud.aspx">Windows Azure: Announcing Major Improvements for Dev/Test in the Cloud</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/06/03/un-reliability-in-messaging-idempotency-and-de-duplication/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">(Un) Reliability in messaging: idempotency and de-duplication</a></p>
-
-<p><a href="http://osherove.com/blog/2013/6/3/creativity-in-coding-does-tdd-leave-room-for-it.html">Creativity in Coding - Does TDD Leave Room For it?</a></p>
-
-<p><a href="http://blog.newrelic.com/2013/06/03/the-history-of-programming-languages-infographic-from-veracode/?utm_source=TWIT&amp;utm_medium=social_media&amp;utm_content=infographic&amp;utm_campaign=promotedtweet&amp;url_term=programming&amp;mpc=SM-TWIT-generic-en-100-programming-infographic">The History of Programming Languages Infographic</a></p>
-
-<h2>The Classics</h2>
-
-<p><a href="http://csdb.dk/release/?id=119255">The Compleat Programmer</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://blogs.windows.com/windows/b/springboard/archive/2013/06/03/what-s-new-for-the-enterprise-in-windows-8-1.aspx">What’s New For The Enterprise In Windows 8.1</a></p>
-
-<h2>Game over, man!</h2>
-
-<p><a href="http://www.computerandvideogames.com/410152/eidos-teases-new-deus-ex/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Eidos teases new Deus Ex</a></p>
-
-<p><a href="http://www.computerandvideogames.com/410279/zynga-lays-off-over-500-staff-closes-three-offices/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Confirmed: LA, New York and Dallas studios shuttered amidst major cuts</a></p>
 ]]></content>
   </entry>
   

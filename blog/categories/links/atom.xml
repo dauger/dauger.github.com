@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-07-29T20:40:14-05:00</updated>
+  <updated>2013-08-01T21:50:14-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #100]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/08/01/the-land-of-10-000-links-number-100/"/>
+    <updated>2013-08-01T21:48:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/08/01/the-land-of-10-000-links-number-100</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://www.strathweb.com/2013/07/owin-middleware-asp-net-web-api-and-clients-ip-address/">Owin Middleare, ASP.NET Web API and Client's IP Address</a></p>
+
+<p><a href="http://blog.leansentry.com/2013/07/all-about-iis-asp-net-request-queues/">Everything you ever wanted to know about ASP.NET request queueing</a></p>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/07/31/announcing-the-release-of-the-windows-azure-sdk-2-1-for-net.aspx">Announcing the release of the Windows Azure SDK 2.1 for .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/30/vs-2012-4-update-4-will-exist.aspx">VS 2012.4 (Update 4) will exist!</a></p>
+
+<p><a href="http://www.cloudidentity.com/blog/2013/07/30/securing-a-web-api-with-windows-server-2012-r2-adfs-and-katana/?utm_source=feedly">Securing a Web API with Windows Server 2012 R2 ADFS and Katana</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="https://github.com/bramp/js-sequence-diagrams">js-sequence-diagrams</a></p>
+
+<h2>HTTP / APIs</h2>
+
+<p><a href="http://gigaom.com/2013/07/31/apigee-raises-35m-to-wrestle-with-old-school-apis/">Apigee raises $35M to wrestle with old-school APIs</a></p>
+
+<p><a href="http://blog.epanastasi.com/post/56919440376/oauth-is-awesome-oauth-is-horrible">OAuth is awesome, OAuth is horrible.</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://www.wpcentral.com/so-long-skydrive-microsoft-required-change-name-after-trademark-dispute">So long SkyDrive, Microsoft required to change name after trademark dispute</a></p>
+
+<h2>Craftsmanshipt / Engineering / Community</h2>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/31/the-improved-microsoft-developer-network.aspx">The Improved Microsoft Developer Network</a></p>
+
+<p><a href="http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider">The One Cost Engineers and Product Managers Don't Consider</a></p>
+
+<p><a href="http://www.nytimes.com/2013/07/27/nyregion/in-lieu-of-money-toyota-donates-efficiency-to-new-york-charity.html?_r=2&amp;">In Lieu of Money, Toyota Donates Efficiency to New York Charity</a></p>
+
+<p><a href="http://www.agileadvice.com/2013/07/30/referenceinformation/agile-estimation-with-the-bucket-system/">Agile Estimation with the Bucket System</a></p>
+
+<p><a href="http://ajlopez.wordpress.com/2013/08/01/tdd-links-news-and-resources-9/">TDD Links by Angel Lopez</a></p>
+
+<h2>Operating Systems</h2>
+
+<p><a href="http://blog.ittoby.com/2013/07/windows-81-changes-illustrate-attention.html">Windows 8.1: Changes Illustrate Attention to Detail</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #99]]></title>
@@ -322,71 +371,6 @@ part of it has audio.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.eurogamer.net/articles/2013-07-11-microsoft-is-retiring-its-xbox-live-rewards-program">Microsoft is retiring its Xbox Live Rewards program</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #95]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95/"/>
-    <updated>2013-07-10T20:05:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/10/inrelease-acquisition-is-complete.aspx">InRelease Acquisition is complete</a></p>
-
-<p><a href="http://support.microsoft.com/kb/2848395/en-us">Known issues for Visual Studio 2013 Preview</a></p>
-
-<p><a href="http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx">RIA Services is Getting Open-Sourced</a></p>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/07/09/getting-started-with-owin-katana-and-vs2013.aspx">Getting Started With OWIN, Katana, and VS2013</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Required JavaScript Reading</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://openmymind.net/Go-Slices-And-The-Case-Of-The-Missing-Memory/">Go Slices And The Case Of The Missing Memory</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="http://tryelixir.org/">Try Elixir</a></p>
-
-<h2>Git</h2>
-
-<p><a href="http://www.peterlundgren.com/blog/on-gits-shortcomings/">On Git's Shortcomings</a></p>
-
-<p><a href="http://kivo.com/blog/git-for-the-masses/">Git for the Masses</a></p>
-
-<p><a href="http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/">Usefull Github Patterns</a></p>
-
-<h2>Software Engineering / Craftsmanship</h2>
-
-<p><a href="http://pl.atyp.us/2013-07-perf-pitfalls.html">Performance Measurements Pitfalls</a></p>
-
-<p><a href="http://pauloortins.com/lessons-unit-tests/">12 Lessons I learned using unit tests/TDD</a></p>
-
-<p><a href="http://sideeffect.kr/popularconvention/">Popular Code Convations Gleened from Github</a></p>
-
-<p><a href="http://pandodaily.com/2013/07/08/lessons-from-the-first-millionaire-online-teacher/">Lessons from the first millionaire online teacher</a></p>
-
-<p><a href="http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best">How to Work Remotely and Still Be the Best</a></p>
-
-<p><a href="http://blog.goosoftware.co.uk/2012/12/05/how-ascii-lost-and-unicode-won/">How ASCII Lost and Unicode Won</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://www.ericsink.com/entries/mobile_database_sync.html">Welcoming Dropbox Datastore</a></p>
-
-<p><a href="http://blogs.msdn.com/b/luispanzano/archive/2013/07/10/quick-recap-of-cloud-announcements-at-build-and-wpc-2013.aspx">Recap of Cloud Announcements at BUILD and WPC 2013</a></p>
-
-<p><a href="http://sqlblog.com/blogs/greg_low/archive/2013/07/09/is-there-more-to-using-sql-in-azure-than-redirecting-your-connection-string.aspx">Is there more to using SQL in Azure than redirecting your connection string?</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://kellabyte.com/2013/07/09/lightning-memory-mapped-database/">Lightning Memory-Mapped Database</a></p>
-
-<p><a href="http://ayende.com/blog/162754/reviewing-lightning-memory-mapped-database-library-partial?key=5fbbf4a4-bf5c-44f3-8b10-93ba25e4ace8&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">Reviewing Lightning Memory-Mapped Database Library: Partial</a></p>
 ]]></content>
   </entry>
   
