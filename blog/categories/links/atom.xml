@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-08-01T21:55:47-05:00</updated>
+  <updated>2013-08-19T22:10:16-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,105 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #101]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101/"/>
+    <updated>2013-08-19T22:00:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101</id>
+    <content type="html"><![CDATA[<h2>CSS</h2>
+
+<p><a href="http://flippinawesome.org/2013/08/12/writing-better-css/">Writing Better CSS</a></p>
+
+<p><a href="http://philipwalton.com/articles/decoupling-html-css-and-javascript/">Decoupling Your HTML, CSS, and JavaScript</a></p>
+
+<h2>APIs / REST / HTTP</h2>
+
+<p><a href="http://blogs.gartner.com/eric-knipp/2013/08/02/dont-let-api-management-wag-the-dog/">Don’t Let API Management Wag the Dog</a></p>
+
+<p><a href="http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html">Let's Remove Verbs from HTTP 2.0</a></p>
+
+<p><a href="http://slid.es/passy/hypermedia-apis">Pragmatic Hypermedia APIs</a></p>
+
+<p><a href="http://blogs.hbr.org/cs/2013/08/move_beyond_enterprise_it_to_a.html">Move Beyond Enterprise IT to an API Strategy</a></p>
+
+<p><a href="http://www.strehle.de/tim/weblog/archives/2013/08/14/1638">HTML Hypermedia API Resources</a></p>
+
+<p><a href="http://matthewlehner.net/rails-api-testing-guidelines/">Rails API Testing Best Practices</a></p>
+
+<p><a href="http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators">Jump start your app development with Runscope's OAuth 1.0a and OAuth 2 Token Generators</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/08/14/elixir-for-the-lazy-impatient-and-busy-part-5-streams-streaming-dynamo/">Elixir for the Lazy Impatient and Busy: Part 5 Streams, Streaming and Dynamo!</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=KQwEmdOH-GM">LoneStarRuby Conf 2013 - Elixir: Power of Erlang, Joy of Ruby</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/">How to Write a Command Line Application in Node.js</a></p>
+
+<p><a href="http://devlicio.us/blogs/rob_eisenberg/archive/2013/08/16/announcing-durandal-2-0-and-weyland-1-0.aspx">Announcing Durandal 2.0 and Weyland 1.0</a></p>
+
+<p><a href="http://octopusdeploy.com/blog/octopus-2.0-ui-release-creation-angular-grunt-responsiveness">Octopus 2.0 UI: Angular, Grunt and responsiveness</a></p>
+
+<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Build a Complete MVC Web Site With ExpressJS</a></p>
+
+<p><a href="http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&amp;utm_medium=email">The "Development Drawbacks" Of JavaScript Web Applications</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://friism.com/heroku-net-buildpack-now-with-nginx">Heroku .NET buildpack now with nginx</a></p>
+
+<p><a href="http://odetocode.com/blogs/scott/archive/2013/08/12/attribute-routes-and-hierarchical-routing.aspx">Attribute Routes and Hierarchical Routing</a></p>
+
+<p><a href="https://blog.neteril.org/blog/2013/08/11/the-very-basic-guide-to-contribute-to-mono-bcl/">The Very Basic Guide to Contribute to Mono BCL</a></p>
+
+<p><a href="http://byterot.blogspot.co.uk/2013/08/OWIN-Katana-challenges-blues-library-developer-aspnetwebapi-nancyfx.html">OWIN and Katana challenges: blues of a library developer</a></p>
+
+<p><a href="http://tech.pro/tutorial/1433/performance-benchmark-mistakes-part-four">Performance Benchmark Mistakes Part Four</a></p>
+
+<p><a href="http://www.strathweb.com/2013/08/customizing-controller-discovery-in-asp-net-web-api/">Customizing controller discovery in ASP.NET Web API</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://blog.wercker.com/2013/08/07/building-an-api-with-golang-rethinkdb-wercker.html">Building an API with Golang, RethingDB and Werker</a></p>
+
+<p><a href="http://www.altdevblogaday.com/2013/08/18/introducing-go/">An introduction to: Go[lang]</a></p>
+
+<h2>Git</h2>
+
+<p><a href="http://robots.thoughtbot.com/post/57797091118/git-bisect">Git Bisect</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx">Penny Pinching in the Cloud: When do Azure Websites make sense?</a></p>
+
+<p><a href="http://www.jeff.wilcox.name/2013/08/command-line-improvements/">Windows Azure cross-platform command line improvements - Summer 2013</a></p>
+
+<h2>Software Craftsmanship / Community / Engineering</h2>
+
+<p><a href="http://datachomp.com/archives/no-longer-buying-aircraft-carriers/">No Longer Buying Aircraft Carriers</a></p>
+
+<p><a href="http://abdullin.com/journal/2013/8/8/essay-on-messaging-and-design-patterns.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Essay on Messaging and Design Patterns</a></p>
+
+<p><a href="https://blog.twitter.com/2013/new-tweets-per-second-record-and-how">New Tweets per second record, and how!</a></p>
+
+<p><a href="http://www.bnj.com/cowboy-coding-pink-sombrero/">Cowboy Coding and the Pink Sombrero</a></p>
+
+<p><a href="http://blog.8thlight.com/wai-lee-chin-feman/2013/08/11/anti-anti-if.html">Conditionals Aren’t Evil, Unless You Duplicate Them</a></p>
+
+<p><a href="http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/">Loyalty and Layoffs</a></p>
+
+<p><a href="http://tirania.org/blog/archive/2013/Aug-15.html">Callbacks as our Generations' Go To Statement</a></p>
+
+<h2>Retro</h2>
+
+<p><a href="http://www.ausretrogamer.com/c64-ode-to-thee">C64: Ode To Thee</a></p>
+
+<p><a href="http://www.filfre.net/2013/08/how-things-work-commodore-64-and-summer-games-edition/">How Things Work: Commodore 64 and Summer Games Edition</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #100]]></title>
@@ -302,75 +401,6 @@
 <p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
 
 <p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #96]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/11/the-land-of-10-000-links-number-96/"/>
-    <updated>2013-07-11T19:49:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/11/the-land-of-10-000-links-number-96</id>
-    <content type="html"><![CDATA[<h2>Microsoft Reorg</h2>
-
-<p><a href="http://www.microsoft.com/en-us/news/Press/2013/Jul13/07-11OneMicrosoft.aspx">One Microsoft: Company realigns to enable innovation at greater speed, efficiency</a></p>
-
-<p><a href="http://blogs.technet.com/b/firehose/archive/2013/07/11/ballmer-talks-about-realignment-and-the-future-for-one-microsoft.aspx">Ballmer talks about realignment and the future for ‘One Microsoft’</a><br/>
-Note: This is stock footage intended for news agencies, which is why only
-part of it has audio.</p>
-
-<h2>.NET</h2>
-
-<p><a href="http://www.moqthis.com/rebirth.html">Moq Rebirth</a></p>
-
-<p><a href="http://paulstovell.com/blog/convention-based-rest-api-with-documentation">Convention-based HTTP API on top of Nancy (with documentation!)</a></p>
-
-<p><a href="http://octopusdeploy.com/blog/octopus-2.0-vision">Planning Octopus 2.0</a></p>
-
-<p><a href="http://tech.pro/tutorial/1408/building-remote-control-service-for-spotify-with-aspnet-web-api-and-signalr">Building remote control service for Spotify with ASP.NET Web API and SignalR</a></p>
-
-<p><a href="http://blog.xamarin.com/a-quick-look-at-dropbox%E2%80%99s-new-datastore-api%E2%80%A6-in-c-sharp/">A quick look at Dropbox’s new Datastore API… in C#!</a></p>
-
-<p><a href="http://blogs.msdn.com/b/zainnab/archive/2013/07/11/drag-and-drop-code-onto-the-toolbox.aspx">Visual Studio 2013: Drag and Drop Code Onto the Toolbox</a></p>
-
-<p><a href="http://www.udidahan.com/2013/07/11/nservicebus-4-0-released/">NServiceBus 4.0 Released!</a></p>
-
-<p><a href="http://notherdev.blogspot.com/2013/07/liskov-substitution-vs-immutability.html">Liskov Substitution Principle vs. immutability</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/eight-cool-features-coming-in-es6">Eight Cool Features Coming in ES6</a></p>
-
-<h2>Git</h2>
-
-<p><a href="https://github.com/blog/1557-github-flow-in-the-browser">What is GitHub Flow?</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/11/scaling-up-and-scaling-out-in-windows-azure-web-sites.aspx">Scaling Up and Scaling Out in Windows Azure Web Sites</a></p>
-
-<h2>Software Craftsmanship / Engineering / Architecture / Community</h2>
-
-<p><a href="http://voiceofthedba.wordpress.com/2013/07/11/hiring-guitarists/">Hiring Guitarists</a></p>
-
-<p><a href="http://blog.ledwards.com/blog/2013/07/11/in-defense-of-coders/">In Defense of Coders</a></p>
-
-<p><a href="http://codebetter.com/sebastienlambla/2013/07/11/unit-testing-is-out-vertical-slice-testing-is-in">Unit testing is out, Vertical Slice Testing is in</a></p>
-
-<p><a href="http://blog.jgc.org/2013/07/your-test-suite-is-trying-to-tell-you.html">Your Test Suite is Trying to Tell You Something</a></p>
-
-<p><a href="http://disciplinedagiledelivery.wordpress.com/2013/07/10/12-habits-that-will-make-you-an-excellent-team-lead/">12 Habits That Will Make You an Excellent Team Lead</a></p>
-
-<h2>Design</h2>
-
-<p><a href="http://blog.hubspot.com/look-back-20-years-website-design">A Look Back at 20+ Years of Website Design</a></p>
-
-<h2>HTTP</h2>
-
-<p><a href="http://www.chmod777self.com/2013/07/http2-wait-theres-more.html">HTTP/2 ... Wait! There's more!</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-11-microsoft-is-retiring-its-xbox-live-rewards-program">Microsoft is retiring its Xbox Live Rewards program</a></p>
 ]]></content>
   </entry>
   

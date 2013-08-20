@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-08-01T21:55:47-05:00</updated>
+  <updated>2013-08-19T22:10:16-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,105 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #101]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101/"/>
+    <updated>2013-08-19T22:00:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101</id>
+    <content type="html"><![CDATA[<h2>CSS</h2>
+
+<p><a href="http://flippinawesome.org/2013/08/12/writing-better-css/">Writing Better CSS</a></p>
+
+<p><a href="http://philipwalton.com/articles/decoupling-html-css-and-javascript/">Decoupling Your HTML, CSS, and JavaScript</a></p>
+
+<h2>APIs / REST / HTTP</h2>
+
+<p><a href="http://blogs.gartner.com/eric-knipp/2013/08/02/dont-let-api-management-wag-the-dog/">Don’t Let API Management Wag the Dog</a></p>
+
+<p><a href="http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html">Let&#8217;s Remove Verbs from HTTP 2.0</a></p>
+
+<p><a href="http://slid.es/passy/hypermedia-apis">Pragmatic Hypermedia APIs</a></p>
+
+<p><a href="http://blogs.hbr.org/cs/2013/08/move_beyond_enterprise_it_to_a.html">Move Beyond Enterprise IT to an API Strategy</a></p>
+
+<p><a href="http://www.strehle.de/tim/weblog/archives/2013/08/14/1638">HTML Hypermedia API Resources</a></p>
+
+<p><a href="http://matthewlehner.net/rails-api-testing-guidelines/">Rails API Testing Best Practices</a></p>
+
+<p><a href="http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators">Jump start your app development with Runscope&#8217;s OAuth 1.0a and OAuth 2 Token Generators</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/08/14/elixir-for-the-lazy-impatient-and-busy-part-5-streams-streaming-dynamo/">Elixir for the Lazy Impatient and Busy: Part 5 Streams, Streaming and Dynamo!</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=KQwEmdOH-GM">LoneStarRuby Conf 2013 - Elixir: Power of Erlang, Joy of Ruby</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/">How to Write a Command Line Application in Node.js</a></p>
+
+<p><a href="http://devlicio.us/blogs/rob_eisenberg/archive/2013/08/16/announcing-durandal-2-0-and-weyland-1-0.aspx">Announcing Durandal 2.0 and Weyland 1.0</a></p>
+
+<p><a href="http://octopusdeploy.com/blog/octopus-2.0-ui-release-creation-angular-grunt-responsiveness">Octopus 2.0 UI: Angular, Grunt and responsiveness</a></p>
+
+<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Build a Complete MVC Web Site With ExpressJS</a></p>
+
+<p><a href="http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&amp;utm_medium=email">The &#8220;Development Drawbacks&#8221; Of JavaScript Web Applications</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://friism.com/heroku-net-buildpack-now-with-nginx">Heroku .NET buildpack now with nginx</a></p>
+
+<p><a href="http://odetocode.com/blogs/scott/archive/2013/08/12/attribute-routes-and-hierarchical-routing.aspx">Attribute Routes and Hierarchical Routing</a></p>
+
+<p><a href="https://blog.neteril.org/blog/2013/08/11/the-very-basic-guide-to-contribute-to-mono-bcl/">The Very Basic Guide to Contribute to Mono BCL</a></p>
+
+<p><a href="http://byterot.blogspot.co.uk/2013/08/OWIN-Katana-challenges-blues-library-developer-aspnetwebapi-nancyfx.html">OWIN and Katana challenges: blues of a library developer</a></p>
+
+<p><a href="http://tech.pro/tutorial/1433/performance-benchmark-mistakes-part-four">Performance Benchmark Mistakes Part Four</a></p>
+
+<p><a href="http://www.strathweb.com/2013/08/customizing-controller-discovery-in-asp-net-web-api/">Customizing controller discovery in ASP.NET Web API</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://blog.wercker.com/2013/08/07/building-an-api-with-golang-rethinkdb-wercker.html">Building an API with Golang, RethingDB and Werker</a></p>
+
+<p><a href="http://www.altdevblogaday.com/2013/08/18/introducing-go/">An introduction to: Go[lang]</a></p>
+
+<h2>Git</h2>
+
+<p><a href="http://robots.thoughtbot.com/post/57797091118/git-bisect">Git Bisect</a></p>
+
+<h2>Cloud</h2>
+
+<p><a href="http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx">Penny Pinching in the Cloud: When do Azure Websites make sense?</a></p>
+
+<p><a href="http://www.jeff.wilcox.name/2013/08/command-line-improvements/">Windows Azure cross-platform command line improvements - Summer 2013</a></p>
+
+<h2>Software Craftsmanship / Community / Engineering</h2>
+
+<p><a href="http://datachomp.com/archives/no-longer-buying-aircraft-carriers/">No Longer Buying Aircraft Carriers</a></p>
+
+<p><a href="http://abdullin.com/journal/2013/8/8/essay-on-messaging-and-design-patterns.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Essay on Messaging and Design Patterns</a></p>
+
+<p><a href="https://blog.twitter.com/2013/new-tweets-per-second-record-and-how">New Tweets per second record, and how!</a></p>
+
+<p><a href="http://www.bnj.com/cowboy-coding-pink-sombrero/">Cowboy Coding and the Pink Sombrero</a></p>
+
+<p><a href="http://blog.8thlight.com/wai-lee-chin-feman/2013/08/11/anti-anti-if.html">Conditionals Aren’t Evil, Unless You Duplicate Them</a></p>
+
+<p><a href="http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/">Loyalty and Layoffs</a></p>
+
+<p><a href="http://tirania.org/blog/archive/2013/Aug-15.html">Callbacks as our Generations&#8217; Go To Statement</a></p>
+
+<h2>Retro</h2>
+
+<p><a href="http://www.ausretrogamer.com/c64-ode-to-thee">C64: Ode To Thee</a></p>
+
+<p><a href="http://www.filfre.net/2013/08/how-things-work-commodore-64-and-summer-games-edition/">How Things Work: Commodore 64 and Summer Games Edition</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #100]]></title>
@@ -1276,87 +1375,6 @@ $ cd ..
 <h2>OS</h2>
 
 <p><a href="https://github.com/shanselman/Windows-Wifi-Manager">Windows-Wifi-Manager</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #83]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/05/the-land-of-10-000-links-number-83/"/>
-    <updated>2013-06-05T19:32:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/05/the-land-of-10-000-links-number-83</id>
-    <content type="html"><![CDATA[<h2>JabbaScript</h2>
-
-<p><a href="http://gurustop.net/blog/2013/06/05/node-js-http-client-for-instapaper-with-https-basic-authentication/">Node.js Http Client for Instapaper with HTTPS &amp; Basic Auth</a></p>
-
-<p><a href="https://postgres.heroku.com/blog/past/2013/6/5/javascript_in_your_postgres/">JavaScript in your Postgres</a></p>
-
-<h2>Rubyx Cube</h2>
-
-<p><a href="http://devblog.avdi.org/2013/06/05/rubytapas-freebie-runnable-library/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+VirtuousCode+%28Virtuous+Code%29">Rubie Tapas Freebie: Runnable Library</a></p>
-
-<h2>Board</h2>
-
-<p><a href="https://github.com/dartist/101LinqSamples">101 Linq Samples Converted to Dart</a></p>
-
-<h2>Caught in a .NET</h2>
-
-<p><a href="https://twitter.com/amirrajan/status/342360203628527616">&#8230;really thinking of doing a talk called &#8220;EntityFramework you&#8217;re doing it wrong&#8221; and see what happens/how people read it.</a></p>
-
-<p><a href="http://blogs.clariusconsulting.net/kzu/increase-developer-productivity-with-nuget-packages-with-nuget-references/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+DanielCazzulino+%28Daniel+Cazzulino%27s+Blog%29">Increase developer productivity with NuGet packages with NuGet References</a></p>
-
-<p><a href="http://blogs.msdn.com/b/codeplex/archive/2013/06/05/codeplex-learns-to-talk-to-other-services.aspx">CodePlex learns to talk to other services!</a></p>
-
-<p><a href="http://ijoshsmith.com/2013/06/05/ios-questions-from-a-wpf-developer/">iOS questions from a WPF developer</a></p>
-
-<p><a href="http://www.computerworld.com/s/article/9239717/TechEd_Microsoft_preps_system_software_for_cloud_usage?taxonomyId=158&amp;pageNumber=1%A0&amp;WT.mc_id=Social_TW_OutgoingEvents_20130603_24305_MSCloud#msTechEd">TechEd: Microsoft preps system software for cloud usage</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/vs2013_announced">The Emergence of Visual Studio 2013</a></p>
-
-<h2>Software</h2>
-
-<p><a href="http://news.cnet.com/8301-1001_3-57587687-92/intels-thunderbolt-2-official-coming-later-this-year/">Intel&#8217;s &#8216;Thunderbolt 2&#8217; official, coming later this year</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/dell-xps-11-and-xps-12-preview?utm_source=twitterfeed&amp;utm_medium=twitter">Dell XPS 11 and XPS 12 Preview</a></p>
-
-<p><a href="http://www.marco.org/2013/06/05/future-mac-pro-rumor">On rumors that the next Mac Pro will be “really different”</a></p>
-
-<h2>Cloudy, With a Chance of Meatballs</h2>
-
-<p><a href="http://readwrite.com/2013/06/04/why-ibm-paid-big-bucks-to-expand-in-the-cloud-with-softlayer">Why IBM Paid Big Bucks To Expand In The Cloud With SoftLayer</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://www.wpcentral.com/video-microsoft-s-jensen-harris-shows-windows-81-surface-pro">Video: Microsoft’s Jensen Harris shows off Windows 8.1 on the Surface Pro</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/windows-81-preview-visually?utm_source=twitterfeed&amp;utm_medium=twitter">Windows 8.1 Preview … Visually</a></p>
-
-<p><a href="http://www.theverge.com/2013/6/5/4398870/no-windows-rt-at-computex-taipei-2013">One year after debut, Windows RT is a Computex no-show</a></p>
-
-<p><a href="http://redmondmag.com/articles/2013/06/04/windows-8-1-networking.aspx">Windows 8.1 To Have New Networking Features</a></p>
-
-<h2>A Letter From the Editors</h2>
-
-<p><a href="http://dribbble.com/shots/1100850-Vim-Icon-Replacement">Vim Icon Replacement</a></p>
-
-<h2>Software Craftineering</h2>
-
-<p><a href="http://www.itworld.com/print/359398">Why your users hate Agile development (and what you can do about it)</a></p>
-
-<p><a href="http://tekpub.com/blogs/news/8040193-preview-for-tekpubs-get-involved-production-is-up">Preview for Tekpub&#8217;s Get Involved! Production is Up</a></p>
-
-<p><a href="http://rarlindseysmash.com/posts/2013-06-01-coding-as-play">Coding as Play</a></p>
-
-<h2>Insomnia</h2>
-
-<p><a href="https://twitter.com/jbogard/status/342138631839965184">if a post about REST best practices starts with RESTful URLs&#8230;..c&#8217;mon guys, we&#8217;re better than this</a></p>
-
-<p><a href="http://www.theverge.com/2013/6/5/4399242/google-keeps-caldav-api-public-opens-carddav-access">Google to keep CalDAV API public, opens CardDAV access &#8216;to everyone&#8217;</a></p>
-
-<h2>Hypermedia</h2>
-
-<p><a href="http://www.vhnd.com/2012/11/29/audio-isolated-guitar-from-van-halens-first-three-albums/">Isolated Van Halen Guitar Tracks</a></p>
-
-<p><a href="http://www.huffingtonpost.com/2013/06/05/under-pressure-vocal-track_n_3390223.html?utm_hp_ref=entertainment">Isolated Vocal Tracks for Under Pressure</a></p>
 ]]></content>
   </entry>
   
