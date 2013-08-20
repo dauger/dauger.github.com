@@ -1,0 +1,88 @@
+---
+layout: post
+title: "The Land of 10,000 Links #101"
+date: 2013-08-19 22:00
+comments: true
+categories: links
+---
+## CSS
+[Writing Better CSS](http://flippinawesome.org/2013/08/12/writing-better-css/)
+
+[Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
+
+## APIs / REST / HTTP
+[Don’t Let API Management Wag the Dog](http://blogs.gartner.com/eric-knipp/2013/08/02/dont-let-api-management-wag-the-dog/)
+
+[Let's Remove Verbs from HTTP 2.0](http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html)
+
+[Pragmatic Hypermedia APIs](http://slid.es/passy/hypermedia-apis)
+
+[Move Beyond Enterprise IT to an API Strategy](http://blogs.hbr.org/cs/2013/08/move_beyond_enterprise_it_to_a.html)
+
+[HTML Hypermedia API Resources](http://www.strehle.de/tim/weblog/archives/2013/08/14/1638)
+
+[Rails API Testing Best Practices](http://matthewlehner.net/rails-api-testing-guidelines/)
+
+[Jump start your app development with Runscope's OAuth 1.0a and OAuth 2 Token Generators](http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators)
+
+## Elixir
+[Elixir for the Lazy Impatient and Busy: Part 5 Streams, Streaming and Dynamo!](http://benjamintanweihao.github.io/blog/2013/08/14/elixir-for-the-lazy-impatient-and-busy-part-5-streams-streaming-dynamo/)
+
+[LoneStarRuby Conf 2013 - Elixir: Power of Erlang, Joy of Ruby](https://www.youtube.com/watch?v=KQwEmdOH-GM)
+
+## JavaScript
+[How to Write a Command Line Application in Node.js](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
+
+[Announcing Durandal 2.0 and Weyland 1.0](http://devlicio.us/blogs/rob_eisenberg/archive/2013/08/16/announcing-durandal-2-0-and-weyland-1-0.aspx)
+
+[Octopus 2.0 UI: Angular, Grunt and responsiveness](http://octopusdeploy.com/blog/octopus-2.0-ui-release-creation-angular-grunt-responsiveness)
+
+[Build a Complete MVC Web Site With ExpressJS](http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29)
+
+[The "Development Drawbacks" Of JavaScript Web Applications](http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&utm_medium=email)
+
+## .NET
+[Heroku .NET buildpack now with nginx](http://friism.com/heroku-net-buildpack-now-with-nginx)
+
+[Attribute Routes and Hierarchical Routing](http://odetocode.com/blogs/scott/archive/2013/08/12/attribute-routes-and-hierarchical-routing.aspx)
+
+[The Very Basic Guide to Contribute to Mono BCL](https://blog.neteril.org/blog/2013/08/11/the-very-basic-guide-to-contribute-to-mono-bcl/)
+
+[OWIN and Katana challenges: blues of a library developer](http://byterot.blogspot.co.uk/2013/08/OWIN-Katana-challenges-blues-library-developer-aspnetwebapi-nancyfx.html)
+
+[Performance Benchmark Mistakes Part Four](http://tech.pro/tutorial/1433/performance-benchmark-mistakes-part-four)
+
+[Customizing controller discovery in ASP.NET Web API](http://www.strathweb.com/2013/08/customizing-controller-discovery-in-asp-net-web-api/)
+
+## Go
+[Building an API with Golang, RethingDB and Werker](http://blog.wercker.com/2013/08/07/building-an-api-with-golang-rethinkdb-wercker.html)
+
+[An introduction to: Go\[lang\]](http://www.altdevblogaday.com/2013/08/18/introducing-go/)
+
+## Git
+[Git Bisect](http://robots.thoughtbot.com/post/57797091118/git-bisect)
+
+## Cloud
+[Penny Pinching in the Cloud: When do Azure Websites make sense?](http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx)
+
+[Windows Azure cross-platform command line improvements - Summer 2013](http://www.jeff.wilcox.name/2013/08/command-line-improvements/)
+
+## Software Craftsmanship / Community / Engineering
+[No Longer Buying Aircraft Carriers](http://datachomp.com/archives/no-longer-buying-aircraft-carriers/)
+
+[Essay on Messaging and Design Patterns](http://abdullin.com/journal/2013/8/8/essay-on-messaging-and-design-patterns.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29)
+
+[New Tweets per second record, and how!](https://blog.twitter.com/2013/new-tweets-per-second-record-and-how)
+
+[Cowboy Coding and the Pink Sombrero](http://www.bnj.com/cowboy-coding-pink-sombrero/)
+
+[Conditionals Aren’t Evil, Unless You Duplicate Them](http://blog.8thlight.com/wai-lee-chin-feman/2013/08/11/anti-anti-if.html)
+
+[Loyalty and Layoffs](http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/)
+
+[Callbacks as our Generations' Go To Statement](http://tirania.org/blog/archive/2013/Aug-15.html)
+
+## Retro
+[C64: Ode To Thee](http://www.ausretrogamer.com/c64-ode-to-thee)
+
+[How Things Work: Commodore 64 and Summer Games Edition](http://www.filfre.net/2013/08/how-things-work-commodore-64-and-summer-games-edition/)
