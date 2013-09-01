@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-08-19T22:10:16-05:00</updated>
+  <updated>2013-09-01T14:35:11-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,117 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #102]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/01/the-land-of-10-000-links-number-102/"/>
+    <updated>2013-09-01T14:33:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/01/the-land-of-10-000-links-number-102</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://www.amazedsaint.com/2013/08/awesome-libraries-for-c-developers-1.html">Awesome Libraries For C# Developers #1 - Interactive Extensions</a></p>
+
+<p><a href="http://tfs.visualstudio.com/news/release-archive">TF Service Feature Release Archive</a></p>
+
+<p><a href="http://roysvork.wordpress.com/2013/08/20/graph-based-routing/">Graph Based Routing</a></p>
+
+<p><a href="http://blogs.msdn.com/b/adonet/archive/2013/08/21/ef6-release-candidate-available.aspx">EF 6 Release Candidate</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/08/20/tfs-internal-usage-statistics-1st-half-cy-2013.aspx">TFS Internal Usage Statistics - 1st Half CY 2013</a></p>
+
+<p><a href="https://github.com/cameronism/ConsoleDump">Pretty print objects to the console. Similar to LINQPad&#8217;s Dump() extension method.</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/08/23/how-to-create-a-pure-f-aspnet-web-api-project/">How to create a pure F# ASP.NET Web API project</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/08/22/improved-package-restore.aspx">Improved NuGet Package Restore</a></p>
+
+<p><a href="http://thedatafarm.com/blog/data-access/entity-framework-private-constructors-and-private-setters/">Entity Framework, Private Constructors and Private Setters</a></p>
+
+<p><a href="http://blog.jonathanchannon.com/2013/08/24/async-route-handling-with-nancy/">Async Route Handling with Nancy</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/08/25/automapper-3-0-released/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">AutoMapper 3.0 released</a></p>
+
+<p><a href="http://www.strathweb.com/2013/08/asp-net-web-api-2-and-httprequestcontext/">ASP.NET Web API 2 and HttpRequestContext</a></p>
+
+<p><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817?page=0,0">Why Microsoft&#8217;s .NET Failed</a></p>
+
+<p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/an-overview-of-project-katana">An Overview of Project Katana</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/08/31/nuget-2-7-package-restore-tips.aspx">NuGet 2.7 Package Restore Tips</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn342868.aspx">Coding for Domain-Driven Design: Tips for Data-Focused Devs</a></p>
+
+<p><a href="http://techmike2kx.wordpress.com/2013/08/23/10-tools-of-the-trade-for-your-windowsazure-environment/">10 Tools of the Trade for Your Windows Azure Environment</a></p>
+
+<p><a href="http://andywigley.com/2013/08/22/push-notifications-made-easy-using-windows-azure-notification-hubs-with-windows-phone/">Push Notifications made easy: Using Windows Azure Notification Hubs with Windows Phone</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/">Elixir Isn&#8217;t Hipser</a></p>
+
+<h2>Scala</h2>
+
+<p><a href="http://net.tutsplus.com/tutorials/building-ribbit-in-scala/">Building Ribbit in Scala</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://www.johnpapa.net/compare-durandal-to-angular-not-knockout-to-angular/">Compare Durandal to Angular, Not Knockout to Angular</a></p>
+
+<p><a href="http://wekeroad.com/2013/08/22/js-frameworks-are-amazing-and-no-one-is-happy">Javascript Frameworks Are Amazing and Nobody Is Happy</a></p>
+
+<p><a href="http://ambroselittle.com/2013/08/31/typescript-to-be-or-not-to-be/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8475b&amp;utm_medium=twitter">TypeScript: To Be or Not To Be</a></p>
+
+<p><a href="https://www.simple-talk.com/dotnet/asp.net/functionally-similar---comparing-underscore.js-to-linq/">Comparing Underscore to LINQ</a></p>
+
+<p><a href="https://medium.com/code-adventures/438bce155dcb">Node.js Deployments with Docker, Dokku, &amp; Digital Ocean</a></p>
+
+<h2>APIs / HTTP</h2>
+
+<p><a href="http://techblog.netflix.com/2013/08/deploying-netflix-api.html">Deploying the Netflix API</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/08/mamund-on-api-design">Mike Amundsen Workshop on API Design</a></p>
+
+<p><a href="http://th.adde.us/2013/08/http-status-codes/">HTTP Status Codes From the Commandline</a></p>
+
+<p><a href="http://venturebeat.com/2013/08/31/api-economy/">API Economy</a></p>
+
+<p><a href="http://www.infoq.com/interviews/amundsen-api">Mike Amundsen on API Design, Governance, and Lifecycle Management</a></p>
+
+<p><a href="http://apievangelist.com/2013/08/27/sitemap-for-apis/">Sitemap for APIs</a></p>
+
+<p><a href="https://mathieu.fenniak.net/the-api-checklist/">The Web API Checklist — 43 Things To Think About When Designing, Testing, and Releasing your API</a></p>
+
+<h2>Community / Engineering / Craftsmanship</h2>
+
+<p><a href="https://www.youtube.com/watch?v=veYFV4maTyQ#at=142">TDD in Tatters</a></p>
+
+<p><a href="http://thecuttingledge.com/?p=980">Kanban is Not Agile</a></p>
+
+<p><a href="http://openmymind.net/On-Sharing-Infrastructure/">On Sharing Infrastructure</a></p>
+
+<p><a href="http://rossipedia.com/blog/2013/08/dependency-injection-considered-harmful/">Dependency Injection Considered Harmful? Not So Fast.</a></p>
+
+<p><a href="https://medium.com/p/9a3781d57c4b">Algorithmic Interviewing</a></p>
+
+<p><a href="http://geoff.greer.fm/2013/08/28/an-office-made-of-software/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferd8fd9&amp;utm_medium=twitter">An Office Made of Software</a></p>
+
+<p><a href="http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html">Top 10 Uses for a Message Queue</a></p>
+
+<p><a href="http://heartmindcode.com/2013/08/25/loyalty-and-the-headsman/">Loyalty and the Headsman</a></p>
+
+<p><a href="http://hadihariri.com/2013/08/24/the-corporate-ladder/">The Corporate Ladder</a></p>
+
+<p><a href="http://openmymind.net/SOA-Lessons-Learned-1/">SOA Lessons Learned</a></p>
+
+<p><a href="http://simpleprogrammer.com/2013/08/26/dont-code-katas/?utm_source=feedly">Why I Don&#8217;t Do Code Katas</a></p>
+
+<p><a href="http://wekeroad.com/2013/08/28/how-behavioral-is-your-bdd">Are You Really Doing BDD?</a></p>
+
+<h2>Retro</h2>
+
+<p><a href="http://www.wothke.ch/experimental/TinyJsSid.html">Tiny&#8217;R&#8217;Sid - An HTML 5 / JS SID Player</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #101]]></title>
@@ -1302,79 +1413,6 @@ $ cd ..
 <p><a href="http://www.ign.com/articles/2013/06/12/e3-2013-cops-called-to-shut-down-ouya#.UbiS307BniY.twitter">E3 2013: Cops Called to Shut Down Ouya</a></p>
 
 <p><a href="http://www.neowin.net/news/anonymous-xbox-engineer-explains-drm-and-microsofts-xbox-one-intentions">Anonymous Xbox engineer explains DRM and Microsoft&#8217;s Xbox One intentions</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #84]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/09/the-land-of-10-000-links-number-84/"/>
-    <updated>2013-06-09T11:07:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/09/the-land-of-10-000-links-number-84</id>
-    <content type="html"><![CDATA[<h2>Ruby</h2>
-
-<p><a href="http://pivotallabs.com/tag/rubymine/">Rubymine tips from Pivitol Labs</a></p>
-
-<p><a href="http://www.frodsan.com/hello-cuba">Hello, Cuba!</a></p>
-
-<h2>Javascript</h2>
-
-<p><a href="http://markdaggett.com/blog/2013/02/15/pragmatic-javascript-style/">Pragmatic JavaScript Style</a></p>
-
-<p><a href="http://www.knockmeout.net/2013/06/knockout-debugging-strategies-plugin.html">Knockout.js Troubleshooting Strategies</a></p>
-
-<p><a href="http://www.johnpapa.net/teched-na-2013-sessions/">John Papa&#8217;s TechEd NA 2013 Presentations (Knockout, SPA)</a></p>
-
-<p><a href="http://ajlopez.wordpress.com/2013/05/30/aplicaciones-distribuidas-y-node-js/">Distributed Applications And Node.Js</a></p>
-
-<p><a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a></p>
-
-<p><a href="http://killdream.github.io/2013/06/06/node-modules-to-rule-them-all.html">Node Modules to Rule Them All</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://channel9.msdn.com/Blogs/Subscribe/Glenn-Block-Explains-SocketIO-Scale-Out-on-Service-Bus">Glenn Block Explains Socket.IO Scale-Out on Service Bus</a></p>
-
-<p><a href="http://www.cloudidentity.com/blog/2013/06/06/the-json-web-token-handler-for-net-4-5-reaches-ga/">The JSON Web Token Handler for .NET 4.5 Reaches GA!</a></p>
-
-<p><a href="http://roysvork.wordpress.com/2013/06/09/getting-started-with-linq-to-querystring-part-2-filtering-data/">Getting started with Linq to Querystring Part 2 – Filtering Data</a></p>
-
-<h2>Go</h2>
-
-<p><a href="https://github.com/laurent22/ripple">Ripple, a REST API framework for Go</a></p>
-
-<h2>Software Craftsmanship</h2>
-
-<p><a href="http://i.imgur.com/dOLkgVR.png">Typical Stack Overflow Question</a></p>
-
-<p><a href="http://imgur.com/gallery/wfbcD">Guide to Understanding Introverts</a></p>
-
-<p><a href="http://www.planetgeek.ch/2013/06/05/clean-code-cheat-sheet/">Clean Code Cheat Sheet</a></p>
-
-<p><a href="http://ayende.com/blog/162401/on-friction-in-software?key=bcea9e82-5341-4db1-ad02-169db2947cda&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">On Friction in Software</a></p>
-
-<p><a href="http://www.metaltoad.com/blog/programmers-be-considered-professional-you-need-act-one">Programmers: To be considered a professional, you need to act like one.</a></p>
-
-<h2>HTTP / APIs / REST</h2>
-
-<p><a href="http://blog.programmableweb.com/2013/06/09/42-new-apis-amazon-web-services-sentiment-analysis-and-qr-code/?utm_medium=referral&amp;utm_source=t.co">42 New APIs: Amazon Web Services, Sentiment Analysis and QR Code</a></p>
-
-<p><a href="http://trafficandweather.io/posts/2013/6/7/episode-12-">Episode 12: &#8220;I don&#8217;t know that we really wanted to be in there together.&#8221;</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://majornelson.com/2013/06/06/more-details-about-xbox-one-controller/">More Details About the Xbox One Controller</a></p>
-
-<p><a href="http://www.cheapassgamer.com/topic/301469-amazon-pcdd-indie-store-launch/">Amazon Launches Indie Game Storefront</a></p>
-
-<p><a href="http://www.destructoid.com/dungeon-defenders-devs-report-atrocious-work-environment-255641.phtml">Dungeon Defenders&#8217; devs report atrocious work environment</a></p>
-
-<h2>Security</h2>
-
-<p><a href="https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-millions-americans">Confirmed: The NSA is Spying on Millions of Americans</a></p>
-
-<h2>OS</h2>
-
-<p><a href="https://github.com/shanselman/Windows-Wifi-Manager">Windows-Wifi-Manager</a></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-08-19T22:10:16-05:00</updated>
+  <updated>2013-09-01T14:35:11-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,117 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #102]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/01/the-land-of-10-000-links-number-102/"/>
+    <updated>2013-09-01T14:33:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/01/the-land-of-10-000-links-number-102</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><a href="http://www.amazedsaint.com/2013/08/awesome-libraries-for-c-developers-1.html">Awesome Libraries For C# Developers #1 - Interactive Extensions</a></p>
+
+<p><a href="http://tfs.visualstudio.com/news/release-archive">TF Service Feature Release Archive</a></p>
+
+<p><a href="http://roysvork.wordpress.com/2013/08/20/graph-based-routing/">Graph Based Routing</a></p>
+
+<p><a href="http://blogs.msdn.com/b/adonet/archive/2013/08/21/ef6-release-candidate-available.aspx">EF 6 Release Candidate</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/08/20/tfs-internal-usage-statistics-1st-half-cy-2013.aspx">TFS Internal Usage Statistics - 1st Half CY 2013</a></p>
+
+<p><a href="https://github.com/cameronism/ConsoleDump">Pretty print objects to the console. Similar to LINQPad's Dump() extension method.</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/08/23/how-to-create-a-pure-f-aspnet-web-api-project/">How to create a pure F# ASP.NET Web API project</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/08/22/improved-package-restore.aspx">Improved NuGet Package Restore</a></p>
+
+<p><a href="http://thedatafarm.com/blog/data-access/entity-framework-private-constructors-and-private-setters/">Entity Framework, Private Constructors and Private Setters</a></p>
+
+<p><a href="http://blog.jonathanchannon.com/2013/08/24/async-route-handling-with-nancy/">Async Route Handling with Nancy</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/08/25/automapper-3-0-released/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">AutoMapper 3.0 released</a></p>
+
+<p><a href="http://www.strathweb.com/2013/08/asp-net-web-api-2-and-httprequestcontext/">ASP.NET Web API 2 and HttpRequestContext</a></p>
+
+<p><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817?page=0,0">Why Microsoft's .NET Failed</a></p>
+
+<p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/an-overview-of-project-katana">An Overview of Project Katana</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/08/31/nuget-2-7-package-restore-tips.aspx">NuGet 2.7 Package Restore Tips</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn342868.aspx">Coding for Domain-Driven Design: Tips for Data-Focused Devs</a></p>
+
+<p><a href="http://techmike2kx.wordpress.com/2013/08/23/10-tools-of-the-trade-for-your-windowsazure-environment/">10 Tools of the Trade for Your Windows Azure Environment</a></p>
+
+<p><a href="http://andywigley.com/2013/08/22/push-notifications-made-easy-using-windows-azure-notification-hubs-with-windows-phone/">Push Notifications made easy: Using Windows Azure Notification Hubs with Windows Phone</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/">Elixir Isn't Hipser</a></p>
+
+<h2>Scala</h2>
+
+<p><a href="http://net.tutsplus.com/tutorials/building-ribbit-in-scala/">Building Ribbit in Scala</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://www.johnpapa.net/compare-durandal-to-angular-not-knockout-to-angular/">Compare Durandal to Angular, Not Knockout to Angular</a></p>
+
+<p><a href="http://wekeroad.com/2013/08/22/js-frameworks-are-amazing-and-no-one-is-happy">Javascript Frameworks Are Amazing and Nobody Is Happy</a></p>
+
+<p><a href="http://ambroselittle.com/2013/08/31/typescript-to-be-or-not-to-be/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8475b&amp;utm_medium=twitter">TypeScript: To Be or Not To Be</a></p>
+
+<p><a href="https://www.simple-talk.com/dotnet/asp.net/functionally-similar---comparing-underscore.js-to-linq/">Comparing Underscore to LINQ</a></p>
+
+<p><a href="https://medium.com/code-adventures/438bce155dcb">Node.js Deployments with Docker, Dokku, &amp; Digital Ocean</a></p>
+
+<h2>APIs / HTTP</h2>
+
+<p><a href="http://techblog.netflix.com/2013/08/deploying-netflix-api.html">Deploying the Netflix API</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/08/mamund-on-api-design">Mike Amundsen Workshop on API Design</a></p>
+
+<p><a href="http://th.adde.us/2013/08/http-status-codes/">HTTP Status Codes From the Commandline</a></p>
+
+<p><a href="http://venturebeat.com/2013/08/31/api-economy/">API Economy</a></p>
+
+<p><a href="http://www.infoq.com/interviews/amundsen-api">Mike Amundsen on API Design, Governance, and Lifecycle Management</a></p>
+
+<p><a href="http://apievangelist.com/2013/08/27/sitemap-for-apis/">Sitemap for APIs</a></p>
+
+<p><a href="https://mathieu.fenniak.net/the-api-checklist/">The Web API Checklist — 43 Things To Think About When Designing, Testing, and Releasing your API</a></p>
+
+<h2>Community / Engineering / Craftsmanship</h2>
+
+<p><a href="https://www.youtube.com/watch?v=veYFV4maTyQ#at=142">TDD in Tatters</a></p>
+
+<p><a href="http://thecuttingledge.com/?p=980">Kanban is Not Agile</a></p>
+
+<p><a href="http://openmymind.net/On-Sharing-Infrastructure/">On Sharing Infrastructure</a></p>
+
+<p><a href="http://rossipedia.com/blog/2013/08/dependency-injection-considered-harmful/">Dependency Injection Considered Harmful? Not So Fast.</a></p>
+
+<p><a href="https://medium.com/p/9a3781d57c4b">Algorithmic Interviewing</a></p>
+
+<p><a href="http://geoff.greer.fm/2013/08/28/an-office-made-of-software/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferd8fd9&amp;utm_medium=twitter">An Office Made of Software</a></p>
+
+<p><a href="http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html">Top 10 Uses for a Message Queue</a></p>
+
+<p><a href="http://heartmindcode.com/2013/08/25/loyalty-and-the-headsman/">Loyalty and the Headsman</a></p>
+
+<p><a href="http://hadihariri.com/2013/08/24/the-corporate-ladder/">The Corporate Ladder</a></p>
+
+<p><a href="http://openmymind.net/SOA-Lessons-Learned-1/">SOA Lessons Learned</a></p>
+
+<p><a href="http://simpleprogrammer.com/2013/08/26/dont-code-katas/?utm_source=feedly">Why I Don't Do Code Katas</a></p>
+
+<p><a href="http://wekeroad.com/2013/08/28/how-behavioral-is-your-bdd">Are You Really Doing BDD?</a></p>
+
+<h2>Retro</h2>
+
+<p><a href="http://www.wothke.ch/experimental/TinyJsSid.html">Tiny'R'Sid - An HTML 5 / JS SID Player</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #101]]></title>
@@ -318,89 +429,6 @@
 <h2>Video Games</h2>
 
 <p><a href="http://www.computerandvideogames.com/420421/sony-issues-new-ps4-operating-system-screenshots/">Sony Issues New PS4 Operating System Screenshots</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #97]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97/"/>
-    <updated>2013-07-20T21:21:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97</id>
-    <content type="html"><![CDATA[<h2>Ruby</h2>
-
-<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let's Celebrate the Future</a></p>
-
-<p><a href="http://rubysource.com/docker-for-rubyists/">Docker for Rubyists</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual - An Extensible Deep Comparison for .NET</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/19/writing-web-api-client-code-for-multiple-platforms-using-portable-libraries.aspx">Writing Web API Client Code for Multiple Platforms Using Portable Libraries</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/07/20/linq-versus-the-lsp/">LINQ Versus the LSP</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work.aspx">Windows Azure Web Sites: How Application Strings and Connection Strings Work</a></p>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/resharper-80-is-available/">ReSharper 8.0 is Available</a></p>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC - 4 Years Later</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://endgate.net/">Endgate - An HTML5 / JS Game Framework Powered by TypeScript</a></p>
-
-<p><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync Multiple AngularJS Apps Without Server via PouchDB</a></p>
-
-<p><a href="http://briancray.com/posts/javascript-module-pattern">JavaScript Module Pattern: When to Use it and Why</a></p>
-
-<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn't Scheme</a></p>
-
-<h2>HTTP / REST</h2>
-
-<p><a href="http://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/">PUT or POST: The REST of the Story </a></p>
-
-<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API - Tips for REST + JSON Developers</a></p>
-
-<h2>Git</h2>
-
-<p><a href="https://sandofsky.com/blog/git-workflow.html">Understanding the Git Workflow</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate - Git Repository based Database Migrations</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction">New Pluralsight Course: Introduction to MongoDB</a></p>
-
-<p><a href="http://0x74696d.com/posts/falling-in-and-out-of-love-with-dynamodb-part-ii/">Falling In And Out Of Love With DynamoDB, Part II</a></p>
-
-<p><a href="http://www.usievents.com/en/conferences/12-paris-usi-2013/sessions/1090-why-you-should-never-write-your-own-database">Why You Should Never Write Your Own Database</a></p>
-
-<h2>Windows</h2>
-
-<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-more-fixes-windows-81-preview">Microsoft Delivers More Fixes for Windows 8.1 Preview</a></p>
-
-<h2>OSX</h2>
-
-<p><a href="http://www.macworld.com/article/2044473/new-digitally-signed-mac-malware-confuses-users-with-right-to-left-file-name-tricks.html">New digitally signed Mac malware confuses users with right-to-left file name tricks</a></p>
-
-<h2>Community</h2>
-
-<p><a href="http://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferce215&amp;utm_medium=twitter">Linus Torvalds defends his right to shame Linux kernel developers</a></p>
-
-<p><a href="http://www.wired.com/wiredenterprise/2013/07/sarah_sharp/">Why This Hacker Stood Up Against ‘Verbal Abuse’ in Linux Land</a></p>
-
-<p><a href="http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon">Enigma codebreaker Alan Turing to be given posthumous pardon</a></p>
-
-<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can't Teach Programming, Create Software Engineering for Poor Programmers</a></p>
-
-<p><a href="http://goodenoughsoftware.net/2013/07/18/the-charlie-foxtrot-aka-teched/">Why I Cancelled My TechEd Talks</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
-
-<p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
 ]]></content>
   </entry>
   
