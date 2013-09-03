@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-01T14:35:11-05:00</updated>
+  <updated>2013-09-02T20:42:33-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #103]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/02/the-land-of-10-000-links-number-103/"/>
+    <updated>2013-09-02T20:41:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/02/the-land-of-10-000-links-number-103</id>
+    <content type="html"><![CDATA[<h2>Finance</h2>
+
+<p><a href="http://bowiesongs.wordpress.com/2013/08/27/the-bowie-bonds/">The Bowie Bonds</a></p>
+
+<h2>REST / HTTP / APIs</h2>
+
+<p><a href="http://amy.palamounta.in/blog/2013/07/29/exist-in-the-web-not-on-it/">Exist in the Web - Not on It</a></p>
+
+<p><a href="http://apievangelist.com/2013/09/02/baseline-for-federal-government-open-data-and-api-portals/">Baseline for Federal Government Open Data and API Portals</a></p>
+
+<h2>Cloud &amp; Virtualization</h2>
+
+<p><a href="http://technosophos.com/content/why-containers-wont-beat-vms">Why Containers Won't Beat VMs</a></p>
+
+<p><a href="http://www.networkworld.com/supp/2013/enterprise4/082613-ecs-amazon-273014.html?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8897a&amp;utm_medium=twitter">Can Anybody Catch Amazon</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://theburningmonk.com/2010/03/threading-understanding-the-volatile-modifier-in-csharp/">Threading - Understanding the Volatile Modifier in C#</a></p>
+
+<p><a href="http://thenextdotnet.com/blog/2013/08/30/entering-the-next-net/#.UiQj2QauO4w.twitter">Entering the Next .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/officeapps/archive/2013/08/30/use-visual-studio-2012-to-debug-javascript-code-outside-the-running-project.aspx">Use Visual Studio 2012 to debug JavaScript code outside the running project</a></p>
+
+<p><a href="http://www.zdnet.com/visual-studio-2013-release-candidate-inches-closer-7000019982/">Visual Studio 2013 Release Candidate inches closer</a></p>
+
+<h2>Craftsmanship / Engineering / Methodology / Community</h2>
+
+<p><a href="http://www.infoq.com/articles/planning-controlling-complex-projects-beyond-budgetting">Planning and Controlling Complex Projects</a></p>
+
+<p><a href="http://tekpub.com/blogs/news/8909001-we-re-suspending-subscriptions">Tekpub - We're Suspending Subscriptions</a></p>
+
+<p><a href="http://schneems.com/post/41104255619/use-gifs-in-your-pull-request-for-good-not-evil">Use GIFs in your Pull Request for Good, not Evil</a></p>
+
+<p><a href="https://gist.github.com/dergachev/4627207">OS X Screencast to animated GIF</a></p>
+
+<p><a href="http://movingtofreedom.org/2013/09/02/writing-clean-code-equals-painting-a-picture/">Writing Clean Code is Like Painting a Picture</a></p>
+
+<h2>Markdown</h2>
+
+<p><a href="http://www.cssreflex.com/markdown-editors/">7 Awesome Markdwon Editors for Web Developers</a></p>
+
+<h2>Gaming</h2>
+
+<p><a href="http://hypercritical.co/2013/09/02/nintendo-in-crisis">Nintendo in Crisis</a></p>
+
+<p><a href="http://www.amazon.com/dp/1466567538/ref=tsm_1_fb_lk">Honoring the Code: Conversations with Great Game Designers</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #102]]></title>
@@ -314,121 +369,6 @@
 <h2>Video Games</h2>
 
 <p><a href="http://www.youtube.com/watch?v=MpRBPY-E8Wg&amp;feature=youtube_gdata">Matt Chat 203: Frayed Knights</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #98]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98/"/>
-    <updated>2013-07-27T12:11:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://codebetter.com/howarddierking/2013/07/23/katana-license-lifts-windows-only-restriction/">Katana License Lifts Windows-only Restriction</a></p>
-
-<p><a href="http://www.strathweb.com/2013/07/scriptcs-and-multiline-repl/">Scriptcs and multiline REPL!</a></p>
-
-<p><a href="https://github.com/xpaulbettsx/refit">The automatic type-safe REST library for Xamarin and .NET</a></p>
-
-<p><a href="http://blog.xamarin.com/major-upgrades-to-xamarin%E2%80%99s-platform-async-is-here/">Async Comes to Mono</a></p>
-
-<p><a href="http://www.cloudidentity.com/blog/2013/07/23/securing-a-web-api-with-windows-azure-ad-and-katana/">Securing a Web API with Windows Azure AD and Katana</a></p>
-
-<p><a href="http://stackoverflow.com/questions/7807066/how-signalr-works-internally/7874352#7874352">How Signalr Words Internally</a></p>
-
-<p><a href="https://github.com/tugberkugurlu/OwinSamples">OWIN Samples</a></p>
-
-<p><a href="http://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/">When to use IEnumerable, ICollection, IList and List</a></p>
-
-<p><a href="http://mentalflatlining.wordpress.com/2013/02/19/evaluating-data-services-options-wcf-vs-webapi-vs-servicestack/">Evaluating Data Services options – WCF vs WebAPI vs ServiceStack</a></p>
-
-<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=921">ASP.NET Web API 2.0 Cross Origin Resource Sharing Support</a></p>
-
-<p><a href="http://nakedalm.com/creating-a-custom-activity-for-team-foundation-build/">You can be creating a custom activity for Team Foundation Build in a few simple steps.</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/24/msbuild-is-now-part-of-visual-studio.aspx">MSBuild is Now Part of Visual Studio</a></p>
-
-<h2>Dart</h2>
-
-<p><a href="http://www.infoq.com/interviews/moore-dart">Kevin Moore on Dart</a></p>
-
-<h2>Go</h2>
-
-<p><a href="https://github.com/mindreframer/golang-stuff/">Go Resources / Stuff</a></p>
-
-<p><a href="http://blog.bensigelman.org/post/56158760736/golang-impressions">My Impressions of Go</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://www.infoq.com/research/nosql-databases">NoSQL Trends</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://blog.alexmaccaw.com/how-yield-will-transform-node">How Yield Will Transform Node</a></p>
-
-<p><a href="http://net.tutsplus.com/articles/news/learn-ember-with-us-for-free/">Learn Ember With Us for Free</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/07/23/windows-azure-july-updates-sql-database-traffic-manager-autoscale-virtual-machines.aspx">Windows Azure July Updates: SQL Database, Traffic Manager, AutoScale, Virtual Machines</a></p>
-
-<p><a href="http://windowsitpro.com/cloud/prism-killing-us-cloud-economy">PRISM is Killing the US Cloud Economy</a></p>
-
-<h2>HTTP / REST / API</h2>
-
-<p><a href="http://blog.programmableweb.com/2013/07/23/swagger-offers-lightning-quick-connection-to-your-api/">Swagger Offers Lightning Quick Connection To Your API</a></p>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/22/rest-api-for-team-rooms.aspx">REST API for TFS Team Rooms</a></p>
-
-<p><a href="http://techoctave.com/c7/posts/71-twitter-rest-api-dissected">Twitter "REST" API Dissected</a></p>
-
-<p><a href="http://blog.hartleybrody.com/https-certificates/">How HTTPS Secures Connections: What Every Web Dev Should Know</a></p>
-
-<h2>Community / Craftsmanship / Engineering</h2>
-
-<p><a href="http://www.mindful.org/mindful-magazine/a-users-guide-to-living-well-in-screenworld">A User's Guide to Living Well in Screenworld</a></p>
-
-<p><a href="http://michaelfeathers.typepad.com/michael_feathers_blog/2013/07/the-single-responsibility-principle-leads-to-good-openclosed-characteristics.html">The Single Responsibility and Open/Closed Principle are the Same</a></p>
-
-<p><a href="http://scriptogr.am/terryr/post/thank-you-github">Thank You GitHub (And all Other OSS Community Leaders)</a></p>
-
-<p><a href="http://www.joelonsoftware.com/items/2013/07/22.html">Victory Lap for Ask Patents</a></p>
-
-<p><a href="http://www.wired.com/underwire/2013/07/ap_argshaming/?mbid=social10097944">Why You Should Think Twice Before Shaming Anyone on Social Media</a></p>
-
-<p><a href="https://peepcode.com/blog/2013/leveling-up">Pluralsight Acquires Peepcode</a></p>
-
-<p><a href="http://www.codinghorror.com/blog/2013/07/rule-of-three.html">The Rule of Three</a></p>
-
-<p><a href="http://openmymind.net/Caching-Your-Worst-Best-Friend/">Caching: Your Words Best Friend</a></p>
-
-<p><a href="http://justin.abrah.ms/computer-science/big-o-notation-explained.html">Big-O Notation Explained by a Self-Taught Programmer</a></p>
-
-<p><a href="http://www.daedtech.com/throw-out-your-code">Throw Out Your Code</a></p>
-
-<p><a href="http://lizkeogh.com/2013/07/21/estimating-complexity/">Estimating Complexity</a></p>
-
-<h2>Operating Systems and Hardware</h2>
-
-<p><a href="http://mattgemmell.com/2013/07/24/connecting-newton-devices-to-os-x/">Connecting Newton devices to OS X</a></p>
-
-<p><a href="http://www.computerandvideogames.com/420736/microsoft-to-open-xbox-one-to-self-publishing-claims-report/">Microsoft reveals Xbox One self-publishing plans</a></p>
-
-<p><a href="http://blogs.technet.com/b/in_the_cloud/archive/2013/07/24/what-s-new-in-2012-r2-enabling-open-source-software.aspx">What's New in 2012 R2: Enabling Open Source Software</a></p>
-
-<p><a href="http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL">Spy agencies ban Lenovo PCs on security concerns</a></p>
-
-<h2>Text Editors / IDEs</h2>
-
-<p><a href="http://aspirecode.com/sublime-text-3-worth-the-upgrade/">Sublime Text 3: Worth the Upgrade?</a></p>
-
-<p><a href="https://github.com/nosami/Omnisharp">Omnisharp - Vim Omnicompletion (Intellisense) and More for C#</a></p>
-
-<p><a href="http://blogs.msdn.com/b/cdnstudents/archive/2013/07/18/visual-studio-tips-for-html-web-or-windows-developers-zencoding.aspx">Visual Studio Tips for HTML web or windows developers: ZenCoding</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.computerandvideogames.com/420421/sony-issues-new-ps4-operating-system-screenshots/">Sony Issues New PS4 Operating System Screenshots</a></p>
 ]]></content>
   </entry>
   

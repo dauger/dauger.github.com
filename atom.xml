@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-01T14:35:11-05:00</updated>
+  <updated>2013-09-02T20:42:33-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #103]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/02/the-land-of-10-000-links-number-103/"/>
+    <updated>2013-09-02T20:41:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/02/the-land-of-10-000-links-number-103</id>
+    <content type="html"><![CDATA[<h2>Finance</h2>
+
+<p><a href="http://bowiesongs.wordpress.com/2013/08/27/the-bowie-bonds/">The Bowie Bonds</a></p>
+
+<h2>REST / HTTP / APIs</h2>
+
+<p><a href="http://amy.palamounta.in/blog/2013/07/29/exist-in-the-web-not-on-it/">Exist in the Web - Not on It</a></p>
+
+<p><a href="http://apievangelist.com/2013/09/02/baseline-for-federal-government-open-data-and-api-portals/">Baseline for Federal Government Open Data and API Portals</a></p>
+
+<h2>Cloud &amp; Virtualization</h2>
+
+<p><a href="http://technosophos.com/content/why-containers-wont-beat-vms">Why Containers Won&#8217;t Beat VMs</a></p>
+
+<p><a href="http://www.networkworld.com/supp/2013/enterprise4/082613-ecs-amazon-273014.html?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8897a&amp;utm_medium=twitter">Can Anybody Catch Amazon</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://theburningmonk.com/2010/03/threading-understanding-the-volatile-modifier-in-csharp/">Threading - Understanding the Volatile Modifier in C#</a></p>
+
+<p><a href="http://thenextdotnet.com/blog/2013/08/30/entering-the-next-net/#.UiQj2QauO4w.twitter">Entering the Next .NET</a></p>
+
+<p><a href="http://blogs.msdn.com/b/officeapps/archive/2013/08/30/use-visual-studio-2012-to-debug-javascript-code-outside-the-running-project.aspx">Use Visual Studio 2012 to debug JavaScript code outside the running project</a></p>
+
+<p><a href="http://www.zdnet.com/visual-studio-2013-release-candidate-inches-closer-7000019982/">Visual Studio 2013 Release Candidate inches closer</a></p>
+
+<h2>Craftsmanship / Engineering / Methodology / Community</h2>
+
+<p><a href="http://www.infoq.com/articles/planning-controlling-complex-projects-beyond-budgetting">Planning and Controlling Complex Projects</a></p>
+
+<p><a href="http://tekpub.com/blogs/news/8909001-we-re-suspending-subscriptions">Tekpub - We&#8217;re Suspending Subscriptions</a></p>
+
+<p><a href="http://schneems.com/post/41104255619/use-gifs-in-your-pull-request-for-good-not-evil">Use GIFs in your Pull Request for Good, not Evil</a></p>
+
+<p><a href="https://gist.github.com/dergachev/4627207">OS X Screencast to animated GIF</a></p>
+
+<p><a href="http://movingtofreedom.org/2013/09/02/writing-clean-code-equals-painting-a-picture/">Writing Clean Code is Like Painting a Picture</a></p>
+
+<h2>Markdown</h2>
+
+<p><a href="http://www.cssreflex.com/markdown-editors/">7 Awesome Markdwon Editors for Web Developers</a></p>
+
+<h2>Gaming</h2>
+
+<p><a href="http://hypercritical.co/2013/09/02/nintendo-in-crisis">Nintendo in Crisis</a></p>
+
+<p><a href="http://www.amazon.com/dp/1466567538/ref=tsm_1_fb_lk">Honoring the Code: Conversations with Great Game Designers</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #102]]></title>
@@ -1355,64 +1410,6 @@ $ cd ..
 <p><a href="http://fabiensanglard.net/prince_of_persia/index.php">Prince of Persia Code Review</a></p>
 
 <p><a href="http://www.vg247.com/2013/06/14/console-wars-youre-going-to-buy-an-xbox-one/">Console Wars: you’re going to buy an Xbox One</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #85]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85/"/>
-    <updated>2013-06-14T07:39:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/14/the-land-of-10-000-links-number-85</id>
-    <content type="html"><![CDATA[<h2>JavaScript</h2>
-
-<p><a href="http://rdallasgray.github.io/blog/2013/06/09/whats-wrong-with-javascript/">What&#8217;s wrong with JavaScript</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/06/14/windows-azure-major-updates-for-mobile-backend-development.aspx">Windows Azure: Major Updates for Mobile Backend Development</a></p>
-
-<p><a href="https://speakerdeck.com/leastprivilege/securing-asp-dot-net-web-api-ndc-oslo-2013">Securing ASP.NET Web API (NDC Oslo 2013)</a></p>
-
-<h2>Software Craftsmanship and Engineering</h2>
-
-<p><a href="http://www.bphogan.com/2013/06/09/how-to-derail-your-readers-and-students/">How To Derail Your Readers And Students</a></p>
-
-<p><a href="http://www.larsavery.com/blog/a-process-for-learning-a-new-codebase/">A Process for Learning a New Codebase</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/netflix">How Netflix Deploys Code</a></p>
-
-<h2>REST</h2>
-
-<blockquote><p>&#8230; I keep reading all of the Hypermedia stuff because I want there to be that example. I want to understand it better. All of it is a lot of telling and not a lot of showing. &#8230;if you are out there and you care about about Hypermedia, stop telling people how great it is and start showing them.
-<a href="http://trafficandweather.io/posts/episode-6-im-going-to-take-all-this-out">Traffic and Weather Podcast #6</a></p></blockquote>
-
-<p><a href="http://www.stormpath.com/blog/linking-and-resource-expansion-rest-api-tips">Linking and Resource Expansion: REST API Tips</a></p>
-
-<p><a href="http://www.emilsoman.com/blog/2013/05/18/building-a-tested/">Building a Tested, Documented and Versioned JSON API Using Rails 4</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://readwrite.com/2013/06/12/the-secret-to-openstacks-overnight-success?awesm=readwr.it_j0s#awesm=~o8zvSUjGudPTKY">The Secret(s) to OpenStack&#8217;s Overnight Success</a></p>
-
-<h2>Software Craftsmanship</h2>
-
-<p><a href="http://blog.8thlight.com/ben-voss/2013/06/10/what-is-a-craftsman.html">What is a Craftsman</a></p>
-
-<p><a href="http://ahmetalpbalkan.com/blog/8-months-microsoft/">Lessons Learned from 8 Months at Microsoft</a></p>
-
-<p><a href="http://damieng.com/blog/2013/06/13/working-at-microsoft">Working at Microsoft</a></p>
-
-<h2>The Great and Powerful OS</h2>
-
-<p><a href="http://www.theverge.com/2013/6/10/4413228/apple-wwdc-2013-everything-you-need-to-know">WWDC 2013 - Everthing You Need to Know</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-06-10-dice-developing-new-star-wars-battlefront-game?utm_source=dlvr.it&amp;utm_medium=twitter">DICE developing new Star Wars Battlefront game</a></p>
-
-<p><a href="http://www.ign.com/articles/2013/06/12/e3-2013-cops-called-to-shut-down-ouya#.UbiS307BniY.twitter">E3 2013: Cops Called to Shut Down Ouya</a></p>
-
-<p><a href="http://www.neowin.net/news/anonymous-xbox-engineer-explains-drm-and-microsofts-xbox-one-intentions">Anonymous Xbox engineer explains DRM and Microsoft&#8217;s Xbox One intentions</a></p>
 ]]></content>
   </entry>
   
