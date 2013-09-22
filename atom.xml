@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-14T14:32:49-05:00</updated>
+  <updated>2013-09-22T15:20:20-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,105 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #105]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/22/the-land-of-10-000-links-number-105/"/>
+    <updated>2013-09-22T15:12:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/22/the-land-of-10-000-links-number-105</id>
+    <content type="html"><![CDATA[<h2>REST / APIs / HTTP</h2>
+
+<p><a href="http://apievangelist.com/2013/09/14/api-monetization-in-the-internet-of-things--nordic-apis/">API Monetization In The Internet of Things @ Nordic APIs</a></p>
+
+<p><a href="http://thenextweb.com/entrepreneur/2013/09/15/why-you-probably-dont-need-an-api-strategy/">Why You Probably Don&#8217;t Need an API Strategy</a></p>
+
+<p><a href="http://readwrite.com/2013/09/19/api-defined#awesm=~ohZ4uqjc0xOXUd">What APIs Are And Why They&#8217;re Important</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://osherove.com/blog/2013/9/15/new-online-course-tdd-and-bdd-in-ruby.html">New Online Course: TDD and BDD in Ruby</a></p>
+
+<p><a href="http://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails">After Two Decades of Programming, I Use Rails</a></p>
+
+<p><a href="http://www.randomhacks.net/articles/2005/12/03/why-ruby-is-an-acceptable-lisp">Why Ruby is an Acceptable LISP</a></p>
+
+<p><a href="https://speakerdeck.com/sarahmei/why-hasnt-ruby-won">Why Hasn&#8217;t Ruby Won?</a></p>
+
+<p><a href="http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/">Twitter Drops Ruby - The Bullshit</a></p>
+
+<p><a href="http://www.reddit.com/r/ruby/comments/1mwg7o/what_are_some_of_the_best_ruby_programs_youve/">Reddit - What are Some of the Best Ruby Programs You&#8217;ve Ever Seen?</a></p>
+
+<p><a href="http://www.sitepoint.com/comparing-ruby-background-processing-libraries-delayed-job/">Comparing Ruby Background Processing Libraries: Delayed Job</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://leastprivilege.com/2013/09/15/using-authorizationserver-with-web-api-v2katanafirst-look/">Using AuthorizationServer with Web API v2/Katana–first look</a></p>
+
+<p><a href="http://www.asp.net/aspnet/overview/aspnet-45/developing-aspnet-apps-with-windows-azure-active-directory">Developing ASP.NET Apps with Windows Azure Active Directory</a></p>
+
+<p><a href="http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+haacked+%28you%27ve+been+HAACKED%29">RestSharp 104.2.0 Released</a></p>
+
+<p><a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a></p>
+
+<p><a href="http://roysvork.wordpress.com/2013/09/20/nancy-style-modules-in-asp-net-web-api-with-superscribe/">Nancy Style Modules in ASP.NET WebAPI with Superscribe</a></p>
+
+<p><a href="http://roysvork.wordpress.com/2013/09/22/why-you-shouldnt-use-a-web-framework-to-build-your-next-api/">Why you shouldn’t use a web framework to build your next API</a></p>
+
+<p><a href="http://ianbattersby.github.io/blog/2013/09/21/sorry-windows-its-you-not-me/">Sorry Windows, It&#8217;s You, Not Me.</a></p>
+
+<p><a href="http://blogs.msdn.com/b/myamama/archive/2013/09/22/download-free-windows-phone-quality-checklist.aspx">Windows Phone Development Quality Checklist</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/09/19/announcing-the-availability-of-team-foundation-server-2013-power-tools.aspx">Announcing the availability of Team Foundation Server 2013 Power Tools</a></p>
+
+<p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/09/19/casting-vs-quot-as-quot-embracing-exceptions.aspx">Casting vs &#8220;as&#8221; - Embracing Exceptions</a></p>
+
+<p><a href="http://blog.jonathanchannon.com/2013/09/20/returning-multiple-fake-objects-with-fakeiteasy/">Returning multiple fake objects with FakeItEasy</a></p>
+
+<p><a href="http://blog.jonathanchannon.com/2013/09/16/enabling-cors-in-iisexpress/">Enabling CORS in IIS Express</a></p>
+
+<p><a href="http://diframeworks.apphb.com/">Dependency Injection Feature Tests</a></p>
+
+<p><a href="http://blog.stephencleary.com/2013/08/startnew-is-dangerous.html">StartNew is Dangerous</a></p>
+
+<p><a href="http://blogs.msdn.com/b/adonet/archive/2013/09/17/entity-framework-links-5.aspx">Entity Framework Links #5</a></p>
+
+<h2>C++</h2>
+
+<p><a href="http://bartoszmilewski.com/2013/09/19/edward-chands/">Edward C++ Hands</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://tip.golang.org/doc/go1.2">Go 1.2 Release Notes</a></p>
+
+<p><a href="http://openmymind.net/Dependency-Injection-In-Go/">Dependency Injection in Go</a></p>
+
+<h2>Azure</h2>
+
+<p><a href="http://channel9.msdn.com/Events/TechEd/NewZealand/2013/MDC319">Deploying a Minecraft Server on Windows Azure</a></p>
+
+<p><a href="http://www.troyhunt.com/2013/09/the-complete-guide-to-loading-free-ssl.html">The complete guide to loading a free SSL certificate into an Azure website</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/library/windowsazure/dn369872.aspx?utm_content=bufferb7d93&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Managing a Premium Database</a></p>
+
+<h2>Community / Engineering</h2>
+
+<p><a href="http://lucisferre.net/2013/09/11/why-im-not-supporting-old-ie-versions/">Why I&#8217;m Not Supporting Old IE Versions</a></p>
+
+<p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/09/21/career-and-skills-advice.aspx">Career and Skills Advice</a></p>
+
+<p><a href="http://10kloc.wordpress.com/2013/08/25/plain-text-doesnt-exist-unicode-and-encodings-demystified/?utm_content=bufferc62dc&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Unicode isn’t harmful for health – Unicode Myths debunked and encodings demystified</a></p>
+
+<p><a href="http://agilewarrior.wordpress.com/2013/09/17/the-automated-tester/">The Automated Tester</a></p>
+
+<p><a href="http://diegobasch.com/software-development-estimates-where-do-i-start">Software Development Estimates, Where Do I Start?</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://cmd.fm/">Web Command Line Music Player</a></p>
+
+<p><a href="http://www.gamasutra.com/view/news/200655/Video_Porting_Canabalt_and_Super_Crate_Box_to_the_Commodore_64.php">Video - Porting Canabalt and Super Crate Box to the Commodore 64</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #104]]></title>
@@ -1413,53 +1512,6 @@ $ git remote add origin git@github.com:username/username.github.com.git
 $ git pull origin master
 $ cd ..
 </code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #87]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87/"/>
-    <updated>2013-06-17T20:09:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/17/the-land-of-10-000-links-number-87</id>
-    <content type="html"><![CDATA[<h2>Hardware</h2>
-
-<p><a href="http://slashdot.org/topic/datacenter/intel-slide-leaks-suggest-haswell-future/">Intel could release a wide array of Haswell chips in two waves.</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="https://blog.heroku.com/archives/2013/6/17/ruby-2-default-new-aps">Ruby 2.0.0 Now Defaut on All New Ruby Applications</a></p>
-
-<p><a href="http://stackoverflow.com/questions/1068558/oo-design-in-rails-where-to-put-stuff/1071510#1071510">Don&#8217;t Throw Out OOD Just Because You Are Using Rails</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://ericlippert.com/2013/06/17/string-concatenation-behind-the-scenes-part-one/?utm_source=feedly">String concatenation behind the scenes, part one</a></p>
-
-<p><a href="http://leastprivilege.com/2013/06/17/whats-in-an-authorizationserver-access-token/">What’s in an AuthorizationServer Access Token?</a></p>
-
-<p><a href="http://devmatter.blogspot.com/2013/06/demystifying-microsofts-git-offering.html">Demystifying Microsoft’s Git Offering</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/06/17/windows-azure-service-bus-drives-high-availability-scalability-for-financial-services-portal.aspx">Windows Azure Service Bus Drives High Availability, Scalability for Financial Services Portal</a></p>
-
-<p><a href="http://abdullin.com/journal/2013/6/17/gregs-event-store-and-windows-azure.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Using Event Store and Windows Azure</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/17/view-persisted-logs-in-azure-storage-in-visual-studio-2012.aspx">View Persisted Logs in Azure Storage in Visual Studio 2012</a></p>
-
-<p><a href="http://programming.oreilly.com/2013/06/application-resilience-in-a-service-oriented-architecture.html">Application Resilience in a Service-oriented Architecture</a></p>
-
-<h2>HTTP APIs / REST</h2>
-
-<p><a href="http://blog.programmableweb.com/2013/06/17/restful-apis-white-house-sets-the-standards/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ProgrammableWeb+%28ProgrammableWeb%3A+Blog%29">RESTful APIs&#8221; White House Sets the Standard(s)</a></p>
-
-<p><a href="http://manu.sporny.org/2013/http-signatures/">Verifiable Messaging over HTTP</a></p>
-
-<p><a href="http://www.clevegibbon.com/2013/06/why-content-apis/?utm_source=feedly">Why Content APIs</a></p>
-
-<h2>Agile</h2>
-
-<p><a href="http://www.boost.co.nz/blog/random-thoughts/do-you-need-a-scrum-master/?utm_source=dlvr.it&amp;utm_medium=twitter">Do you need a Scrum Master?</a></p>
 ]]></content>
   </entry>
   
