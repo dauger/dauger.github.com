@@ -3,7 +3,7 @@ layout: post
 title: "Perception is Reality - .NET OSS is Getting Better"
 date: 2013-09-23 20:31
 comments: true
-categories: .NET, OSS 
+categories: .NET OSS 
 ---
 This post is a response (not a rebuttal) to: 
 [Perception is Reality - .Net OSS is DOA](http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/) 
@@ -14,9 +14,9 @@ I could get my own thoughts down. Therefore, I may be repeating some
 things that have already been said.*
 
 #tl;dr
-In my experience, OSS usage is up slightly among internal corporate teams, but 
-it is taking off elsewhere. That being said, there are things Microsoft
-could do to increase OSS adoption.
+In my experience, OSS usage has risen slightly among internal corporate teams over the past few years. 
+However, OSS usage has really taken off among other types of teams. Additionally, there are things that Microsoft
+could do to increase OSS adoption across the board.
 
 ## OSS in the Enterprise / Big Business Projects
 Although there is a long way to go when it comes to getting enterprise .NET 
