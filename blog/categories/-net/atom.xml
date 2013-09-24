@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: .NET, | Welcome to My Nerditorium]]></title>
-  <link href="http://nerditorium.danielauger.com/blog/categories/-net-/atom.xml" rel="self"/>
+  <title><![CDATA[Category: .NET | Welcome to My Nerditorium]]></title>
+  <link href="http://nerditorium.danielauger.com/blog/categories/-net/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-23T20:44:52-05:00</updated>
+  <updated>2013-09-24T09:17:56-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -28,9 +28,9 @@ things that have already been said.</em></p>
 
 <h1>tl;dr</h1>
 
-<p>In my experience, OSS usage is up slightly among internal corporate teams, but
-it is taking off elsewhere. That being said, there are things Microsoft
-could do to increase OSS adoption.</p>
+<p>In my experience, OSS usage has risen slightly among internal corporate teams over the past few years.
+However, OSS usage has really taken off among other types of teams. Additionally, there are things that Microsoft
+could do to increase OSS adoption across the board.</p>
 
 <h2>OSS in the Enterprise / Big Business Projects</h2>
 
