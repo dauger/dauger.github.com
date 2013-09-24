@@ -9,7 +9,7 @@
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="Nerd service announcement: If you played video games in the 80s and/or 90s and have never heard of, or watched Matt Chat, you you are in for a treat &hellip;">
+  <meta name="description" content="Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -77,6 +77,45 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/">All Paths to a Sitefinity Image Are Not Equal</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-08-08T15:41:00-05:00" pubdate data-updated="true">Aug 8<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Recently, while doing a performance pass through a Sitefinity 4 application, I noticed that a public facing page had an unusually slow load time. Of course, the first thing I did was open up Firebug to see where the time was being spent. To my surprise, the majority of the time was spent waiting for the initial response from the server. After a little digging, I narrowed down the time-sink to a custom widget that pulled images from a Sitefinity image album. In particular, the query to figure out which images to display was the source of slothness. </div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2011/08/08/all-paths-to-a-sitefinity-image-are-not-equal/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -433,45 +472,6 @@ Should .NET auto properties be unit tested? It is very easy to argue that testin
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/">Persistence Ignorant Lazy Loading for Your Hand-Rolled DAL in .NET 4.0 Using Lazy<T></a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2010-04-26T13:54:00-05:00" pubdate data-updated="true">Apr 26<span>th</span>, 2010</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This post is a brief update to the .NET 3.5 article I posted about <a href="/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/">P.I. lazy loading</a>. The only major change I have made to the code is to use the new  <a href="http://msdn.microsoft.com/en-us/library/dd642331.aspx">Lazy&lt;T></a> class that was introduced in .NET 4.0. This considerably cleans up the LazyLoadingList&lt;T> class from the previous post. </div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2010/04/26/persistence-ignorant-lazy-loading-for-your-hand-rolled-dal-in-net-4-dot-0-using-lazy/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/3/">&larr; Older</a>
@@ -489,6 +489,10 @@ Should .NET auto properties be unit tested? It is very easy to argue that testin
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Perception is Reality - .NET OSS is Getting Better</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/09/22/the-land-of-10-000-links-number-105/">The Land of 10,000 Links #105</a>
       </li>
     
@@ -504,16 +508,14 @@ Should .NET auto properties be unit tested? It is very easy to argue that testin
         <a href="/blog/2013/09/01/the-land-of-10-000-links-number-102/">The Land of 10,000 Links #102</a>
       </li>
     
-      <li class="post">
-        <a href="/blog/2013/08/19/the-land-of-10-000-links-101/">The Land of 10,000 Links #101</a>
-      </li>
-    
   </ul>
 </section>
 <section>
   <h1>Categories</h1>
   <ul id="categories">
-    <li class='category'><a href='/blog/categories/bash/'>bash (1)</a></li>
+    <li class='category'><a href='/blog/categories/-net-/'>.NET, (1)</a></li>
+<li class='category'><a href='/blog/categories/oss/'>OSS (1)</a></li>
+<li class='category'><a href='/blog/categories/bash/'>bash (1)</a></li>
 <li class='category'><a href='/blog/categories/development/'>development (14)</a></li>
 <li class='category'><a href='/blog/categories/links/'>links (105)</a></li>
 <li class='category'><a href='/blog/categories/meta/'>meta (2)</a></li>
