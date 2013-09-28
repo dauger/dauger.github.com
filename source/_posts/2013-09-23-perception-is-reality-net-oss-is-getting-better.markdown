@@ -145,3 +145,8 @@ Microsoft who wish to promote OSS. I personally think getting the
 consulting arm onboard is going to be a large hurdle that could make or
 break things. Also - I haven't really done enough thinking about the
 recent reorg to foresee how it might affect things.
+
+## Other Reactions
+
+[Perception is Reality–The state of OSS in .NET](http://lostechies.com/jimmybogard/2013/09/25/perception-is-realitythe-state-of-oss-in-net/) by [Jimmy Bogard](https://twitter.com/jbogard)  
+[Reality is an Illusion – .NET OSS is hard](http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard/) by [Mark Rendle](https://twitter.com/markrendle)
