@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-24T09:17:56-05:00</updated>
+  <updated>2013-09-28T16:13:36-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,134 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #106]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/09/28/the-land-of-10-000-links-number-106/"/>
+    <updated>2013-09-28T15:59:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/09/28/the-land-of-10-000-links-number-106</id>
+    <content type="html"><![CDATA[<h2>.NET</h2>
+
+<p><strong>PSA</strong>: There is an interesting discussion going on regarding the state
+of OSS in the .NET community.<br/>
+<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a> by <a href="https://twitter.com/amirrajan">Amir Rajan</a><br/>
+<a href="http://nerditorium.danielauger.com/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Perception is Reality - .NET OSS Is Getting Better</a> by <a href="https://twitter.com/danielauger">Moi</a><br/>
+<a href="http://lostechies.com/jimmybogard/2013/09/25/perception-is-realitythe-state-of-oss-in-net/">Perception is Reality–The state of OSS in .NET</a> by <a href="https://twitter.com/jbogard">Jimmy Bogard</a><br/>
+<a href="http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard/">Reality is an Illusion – .NET OSS is hard</a> by <a href="https://twitter.com/markrendle">Mark Rendle</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=oaJgxPonEkc&amp;feature=youtu.be">Visual Studio Automation With Leap Motion</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/22/web-publish-how-to-automate-multi-project-publish-with-file-system.aspx">Web Publish - How to Automate Multi-project Publish with File System</a></p>
+
+<p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection">OWIN Startup Class Detection</a></p>
+
+<p><a href="https://twitter.com/gblock/status/383350823884836865">Glenn Block is leaving Microsoft</a></p>
+
+<p><a href="http://www.microsoftvirtualacademy.com/training-courses/developing-asp-net-mvc-4-web-applications-jump-start#fbid=7-fpkOj_Hmy">Microsoft Virtual Academy - Developing ASP.NET MVC 4 Web Applications Jump Start</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/09/26/test-styles-and-avoiding-setupteardown/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Test styles and avoiding setup/teardown</a></p>
+
+<p><a href="http://www.philliphaydon.com/2013/09/instant-nancy-web-development-book-review/">Instant Nancy Web Development - Book Review</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=50Nqom-Zpuo&amp;feature=youtu.be&amp;a">Owin - A New .NET Web</a></p>
+
+<p><a href="http://channel9.msdn.com/Series/Get-Started-MS-Big-Data/01">Getting Started with Microsft Big Data</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/09/25/immutable-collections-ready-for-prime-time.aspx">Immutable collections ready for prime time</a></p>
+
+<p><a href="http://techcrunch.com/2013/09/26/microsofts-mobile-platforms-suffer-from-flagging-developer-interest/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29">Microsoft’s Mobile Platforms Suffer From Flagging Developer Interest</a></p>
+
+<p><a href="http://clariuslabs.github.io/CommonComposition/">Common Composition Portable component composition annotations, dependency injection framework agnostic.</a></p>
+
+<p><a href="http://billwagner.azurewebsites.net/blog/a-quick-refresher-on-x-and-x-c-version">A quick refresher on x++ and ++x (C# version)</a></p>
+
+<p><a href="http://channel9.msdn.com/posts/Introducing-Semantic-Logging">Introducing Semantic Logging</a></p>
+
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/09/20/introducing-microsoft-monitoring-agent.aspx">Introducing Microsoft Monitoring Agent</a></p>
+
+<p><a href="http://lostechies.com/patricklioi/2013/09/27/a-swiss-army-katana/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">A Swiss Army Katana</a></p>
+
+<p><a href="http://cibrax.me/blog/2013/09/27/unit-testing-improvements-in-asp-dot-net-web-api/">Unit Testing Improvements in ASP.NET Web API</a></p>
+
+<p><a href="http://www.theverge.com/2013/9/27/4779036/exclusive-video-steve-ballmers-intense-tearful-goodbye-to-microsoft">Ballmer's Exit Speech</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/23/attribute-routing-changes-for-asp-net-web-stack-shipped-in-vs2013-rc.aspx">Attribute Routing changes for ASP.NET Web Stack shipped in VS2013 RC</a></p>
+
+<p><a href="http://blogs.msdn.com/b/wriju/archive/2013/09/24/ado-net-entity-framework-executing-tsql-and-dbcontext-under-same-transaction.aspx">ADO.NET Entity Framework : Executing TSQL and DbContext under same Transaction</a></p>
+
+<p><a href="http://blogs.msdn.com/b/ikivanc/archive/2013/09/24/windows-8-1-learning-roadmap.aspx">Windows 8.1 Learning RoadMap</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://blog.coderstats.net/todomvc-complexity/">How Complex are TodoMVC Implementations</a></p>
+
+<p><a href="http://blog.jetbrains.com/webstorm/2013/09/welcome-webstorm-7-0-everything-you-need-at-your-fingertips-without-compromise/">Webstorm 7 Has Been Released</a><br/>
+Remember: Webstorm has moved to a subscription model so this is a free
+upgrade for anyone who has paid in the past year.</p>
+
+<p><a href="http://mgonto.github.io/restangular-talk-with-image-right/">Consuming REST APIs with Restangular</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://www.techienews.co.uk/971517/ruby-on-rails-2-0-4-0-vulnerable-to-account-hijacks/?utm_medium=referral&amp;utm_source=t.co">Ruby on Rails 2.0 – 4.0 vulnerable to account hijacks</a></p>
+
+<p><a href="http://blog.mattwynne.net/2013/09/25/are-ruby-conferences-taking-us-in-the-wrong-direction/">Are Ruby conferences taking us in the wrong direction?</a></p>
+
+<p><a href="http://confreaks.com/videos/2668-gogaruco2013-measuring-ruby">Measuring Ruby</a></p>
+
+<p><a href="http://engineering.gomiso.com/2011/06/27/building-a-platform-api-on-rails/">Building a Platform API on Rails</a></p>
+
+<h2>Community / Engineering / Architecture</h2>
+
+<p><a href="http://ht.ly/pchcF">Test First</a></p>
+
+<p><a href="http://ht.ly/pfNW5">A.T. FAIL!</a></p>
+
+<p><a href="http://swizec.com/blog/lessons-learned-in-a-year-of-freelancing/swizec/6348">Lessions Learned in a Year of Freelancing</a></p>
+
+<p><a href="http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/">Testing Code is Simple</a></p>
+
+<p><a href="https://twitter.com/chzy/status/383240788299108352">Agile is NOT a set of practices</a></p>
+
+<p><a href="http://worrydream.com/dbx/">References for "The Future of Programming"</a></p>
+
+<h2>REST / APIs / HTTP</h2>
+
+<p><a href="http://codebetter.com/howarddierking/2013/09/23/the-secret-to-restful-services-is-restful-clients/">The Secret to RESTful Services is RESTful Clients</a></p>
+
+<p><a href="http://blog.runscope.com/posts/api-providers-build-a-twilio-like-request-inspector-with-runscope">API Providers: Build a Twilio-like Request Inspector in One Day with Runscope Embeds</a></p>
+
+<h2>Virtualization / Cloud</h2>
+
+<p><a href="http://www.infoq.com/articles/docker-containers">Docker: Using Linux Containers to Support Portable Application Deployment</a></p>
+
+<p><a href="http://www.infoq.com/articles/cloud-pci-compliance">Cloud PCI Compliance: The Checklist</a></p>
+
+<p><a href="http://blogs.msdn.com/b/igorpag/archive/2013/09/25/sql-server-vm-disaster-recovery-between-azure-and-amazon.aspx">SQL Server VM Disaster Recovery Between Azure and Amazon</a></p>
+
+<p><a href="http://blogs.msdn.com/b/brunoterkaly/archive/2013/09/26/migrating-an-on-premises-sql-server-2012-database-to-windows-azure-sql-database.aspx">How to Migrate an On-Premises SQL Server 2012 Database to Windows Azure SQL Database</a></p>
+
+<p><a href="http://blogs.msdn.com/b/umits/archive/2013/09/27/windows-azure-learning-poster.aspx">Windows Azure Learning Poster</a></p>
+
+<h2>Editors / IDEs</h2>
+
+<p><a href="http://rc3.org/2012/05/12/the-grammar-of-vim/">The Grammar of Vim</a></p>
+
+<p><a href="http://marked2app.com/">Marked 2 Has Been Released</a></p>
+
+<p><a href="http://jesseliberty.com/2013/09/25/sublime-textmy-new-love/">Sublime Text - My New Love</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.retrocomputers.eu/2013/09/27/beebsid-c64-sid-chip-for-the-bbc-micro-in-the-internet-case/">BeebSID – C64 SID chip for the BBC Micro in ‘The Internet’ case</a></p>
+
+<p><a href="http://kotaku.com/how-lucasarts-fell-apart-1401731043">How LucasArts Fell Apart</a></p>
+
+<p><a href="http://games.slashdot.org/story/13/09/28/136230/what-valves-announcements-mean-for-gaming?utm_source=slashdot&amp;utm_medium=twitter">What Valve's Announcements Mean for Gaming</a></p>
+
+<p><a href="http://blog.ittoby.com/2013/09/overclocking-haswell-quick-fail-method.html">Overclocking Haswell Quick Fail Method</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #105]]></title>
@@ -380,105 +508,6 @@
 <h2>Retro</h2>
 
 <p><a href="http://www.wothke.ch/experimental/TinyJsSid.html">Tiny'R'Sid - An HTML 5 / JS SID Player</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #101]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101/"/>
-    <updated>2013-08-19T22:00:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/08/19/the-land-of-10-000-links-101</id>
-    <content type="html"><![CDATA[<h2>CSS</h2>
-
-<p><a href="http://flippinawesome.org/2013/08/12/writing-better-css/">Writing Better CSS</a></p>
-
-<p><a href="http://philipwalton.com/articles/decoupling-html-css-and-javascript/">Decoupling Your HTML, CSS, and JavaScript</a></p>
-
-<h2>APIs / REST / HTTP</h2>
-
-<p><a href="http://blogs.gartner.com/eric-knipp/2013/08/02/dont-let-api-management-wag-the-dog/">Don’t Let API Management Wag the Dog</a></p>
-
-<p><a href="http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html">Let's Remove Verbs from HTTP 2.0</a></p>
-
-<p><a href="http://slid.es/passy/hypermedia-apis">Pragmatic Hypermedia APIs</a></p>
-
-<p><a href="http://blogs.hbr.org/cs/2013/08/move_beyond_enterprise_it_to_a.html">Move Beyond Enterprise IT to an API Strategy</a></p>
-
-<p><a href="http://www.strehle.de/tim/weblog/archives/2013/08/14/1638">HTML Hypermedia API Resources</a></p>
-
-<p><a href="http://matthewlehner.net/rails-api-testing-guidelines/">Rails API Testing Best Practices</a></p>
-
-<p><a href="http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators">Jump start your app development with Runscope's OAuth 1.0a and OAuth 2 Token Generators</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/08/14/elixir-for-the-lazy-impatient-and-busy-part-5-streams-streaming-dynamo/">Elixir for the Lazy Impatient and Busy: Part 5 Streams, Streaming and Dynamo!</a></p>
-
-<p><a href="https://www.youtube.com/watch?v=KQwEmdOH-GM">LoneStarRuby Conf 2013 - Elixir: Power of Erlang, Joy of Ruby</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/">How to Write a Command Line Application in Node.js</a></p>
-
-<p><a href="http://devlicio.us/blogs/rob_eisenberg/archive/2013/08/16/announcing-durandal-2-0-and-weyland-1-0.aspx">Announcing Durandal 2.0 and Weyland 1.0</a></p>
-
-<p><a href="http://octopusdeploy.com/blog/octopus-2.0-ui-release-creation-angular-grunt-responsiveness">Octopus 2.0 UI: Angular, Grunt and responsiveness</a></p>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Build a Complete MVC Web Site With ExpressJS</a></p>
-
-<p><a href="http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&amp;utm_medium=email">The "Development Drawbacks" Of JavaScript Web Applications</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://friism.com/heroku-net-buildpack-now-with-nginx">Heroku .NET buildpack now with nginx</a></p>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/08/12/attribute-routes-and-hierarchical-routing.aspx">Attribute Routes and Hierarchical Routing</a></p>
-
-<p><a href="https://blog.neteril.org/blog/2013/08/11/the-very-basic-guide-to-contribute-to-mono-bcl/">The Very Basic Guide to Contribute to Mono BCL</a></p>
-
-<p><a href="http://byterot.blogspot.co.uk/2013/08/OWIN-Katana-challenges-blues-library-developer-aspnetwebapi-nancyfx.html">OWIN and Katana challenges: blues of a library developer</a></p>
-
-<p><a href="http://tech.pro/tutorial/1433/performance-benchmark-mistakes-part-four">Performance Benchmark Mistakes Part Four</a></p>
-
-<p><a href="http://www.strathweb.com/2013/08/customizing-controller-discovery-in-asp-net-web-api/">Customizing controller discovery in ASP.NET Web API</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://blog.wercker.com/2013/08/07/building-an-api-with-golang-rethinkdb-wercker.html">Building an API with Golang, RethingDB and Werker</a></p>
-
-<p><a href="http://www.altdevblogaday.com/2013/08/18/introducing-go/">An introduction to: Go[lang]</a></p>
-
-<h2>Git</h2>
-
-<p><a href="http://robots.thoughtbot.com/post/57797091118/git-bisect">Git Bisect</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx">Penny Pinching in the Cloud: When do Azure Websites make sense?</a></p>
-
-<p><a href="http://www.jeff.wilcox.name/2013/08/command-line-improvements/">Windows Azure cross-platform command line improvements - Summer 2013</a></p>
-
-<h2>Software Craftsmanship / Community / Engineering</h2>
-
-<p><a href="http://datachomp.com/archives/no-longer-buying-aircraft-carriers/">No Longer Buying Aircraft Carriers</a></p>
-
-<p><a href="http://abdullin.com/journal/2013/8/8/essay-on-messaging-and-design-patterns.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RinatAbdullin+%28Rinat+Abdullin+on+Efficient+Software+Development%29">Essay on Messaging and Design Patterns</a></p>
-
-<p><a href="https://blog.twitter.com/2013/new-tweets-per-second-record-and-how">New Tweets per second record, and how!</a></p>
-
-<p><a href="http://www.bnj.com/cowboy-coding-pink-sombrero/">Cowboy Coding and the Pink Sombrero</a></p>
-
-<p><a href="http://blog.8thlight.com/wai-lee-chin-feman/2013/08/11/anti-anti-if.html">Conditionals Aren’t Evil, Unless You Duplicate Them</a></p>
-
-<p><a href="http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/">Loyalty and Layoffs</a></p>
-
-<p><a href="http://tirania.org/blog/archive/2013/Aug-15.html">Callbacks as our Generations' Go To Statement</a></p>
-
-<h2>Retro</h2>
-
-<p><a href="http://www.ausretrogamer.com/c64-ode-to-thee">C64: Ode To Thee</a></p>
-
-<p><a href="http://www.filfre.net/2013/08/how-things-work-commodore-64-and-summer-games-edition/">How Things Work: Commodore 64 and Summer Games Edition</a></p>
 ]]></content>
   </entry>
   
