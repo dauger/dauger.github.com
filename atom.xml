@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-09-28T16:13:36-05:00</updated>
+  <updated>2013-10-05T22:56:48-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,133 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #107]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/05/the-land-of-10-000-links-number-107/"/>
+    <updated>2013-10-05T22:55:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/05/the-land-of-10-000-links-number-107</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://www.2ality.com/2013/09/javascript-unicode.html">Unicode and JavaScript</a></p>
+
+<p><a href="http://yauh.de/articles/376/best-learning-resources-for-meteorjs">Best Learning Resources for Meteor.js</a></p>
+
+<p><a href="http://blog.jcoglan.com/2013/10/01/announcing-faye-1-0/">Announcing Faye 1.0</a></p>
+
+<p><a href="http://toys.usvsth3m.com/javascript-under-pressure/">You Can&#8217;t JavaScript Under Pressure</a></p>
+
+<p><a href="http://www.sitepoint.com/writing-awesome-build-script-grunt/">Writing an Awesome Build Script with Grunt</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://mrjoy.com/2013/09/19/an-unusual-case-for-cucumber/">An Unusual Case for Cucumber</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://blog.golang.org/slices">Arrays, slices (and strings): The mechanics of &#8216;append&#8217;</a></p>
+
+<p><a href="http://nathany.com/go-testing-toolbox/">Go Testing Toolbox</a></p>
+
+<p><a href="http://blog.menfin.info/Presentations/20120709_Golang_introduction/#slide1">Welcome to the Nice World of Golang</a></p>
+
+<p><a href="http://www.codingcookies.com/2013/09/21/creating-a-proxy-server-with-go/">Creating a Proxy Server in Go</a></p>
+
+<p><a href="http://mwholt.blogspot.com/2013/09/behavior-driven-testing-in-go-with.html">Behavior-driven testing in Go with GoConvey (BDD in &#8220;golang&#8221;)</a></p>
+
+<p><a href="http://rubylearning.com/blog/2013/09/24/an-introduction-to-go-programming-a-free-online-course/">An Introduction to Go programming – A Free Online Course</a></p>
+
+<p><a href="http://www.goinggo.net/2013/10/go-package-management-call-to-action.html">Go Package Management Call To Action</a></p>
+
+<p><a href="https://github.com/MiniProfiler/go">Miniprofiler for Go</a></p>
+
+<p><a href="http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/">Applying the Clean Architecture to Go Programs</a></p>
+
+<p><a href="http://www.alexedwards.net/blog/understanding-mutexes">Understanding Mutexes</a></p>
+
+<p><a href="http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go/">On Distributing Command Line Applications: Why I Switched From Ruby to Go</a></p>
+
+<h2>.NET / Azure</h2>
+
+<p><a href="http://www.strathweb.com/2013/09/dynamic-per-controller-httpconfiguration-asp-net-web-api/">Dynamic per-controller HttpConfiguration in ASP.NET Web API</a></p>
+
+<p><a href="http://www.diaryofaninja.com/blog/2013/09/28/migrating-diary-of-a-ninja-to-azure-websites-and-sql-azure">Migrating Diary of a Ninja to Azure Websites and SQL Azure</a></p>
+
+<p><a href="http://tfs.visualstudio.com/news/2013-sep-30">Team Foundation Service updates - Sep 30</a></p>
+
+<p><a href="http://blog.pluralsight.com/2013/07/31/get-ready-for-ef6-by-learning-ef5/">Get ready for EF6… by learning EF5!</a></p>
+
+<p><a href="http://jeffreystedfast.blogspot.com/2013/09/mimekit-coming-to-nuget-near-you.html">MimeKit: Coming to a NuGet near you.</a></p>
+
+<p><a href="https://twitter.com/tjanczuk/status/384724481219891200">Tomasz Janczuk Leaves Microsoft</a></p>
+
+<p><a href="http://thinkfirstcodelater.com/blog/?p=3143&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ThinkFirstCodeLater+%28Think+First%2C+Code+Later%29">Azure CLI Day 15 – site scale mode</a></p>
+
+<p><a href="http://blogs.msdn.com/b/paolos/archive/2013/09/30/service-bus-explorer-2-1-adds-support-for-notification-hubs-and-service-bus-1-1.aspx">Service Bus Explorer 2.1 adds support for Notification Hubs and Service Bus 1.1</a></p>
+
+<p><a href="http://visualstudiomagazine.com/articles/2013/10/01/web-api-2-routing-attributes-part-2.aspx">Web API 2 Routing Attributes, Part 2</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn451446.aspx">Getting Started with Oak</a></p>
+
+<p><a href="http://msarchet.com/hyperapi/">HyperApi</a></p>
+
+<p><a href="http://www.flexsearch.net/">{F}lexSearch - Flexible and fast open source .net based Search Engine</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn451439.aspx">Getting Started with the Katana Project</a></p>
+
+<p><a href="http://msdn.microsoft.com/en-us/magazine/dn451438.aspx">Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 3</a></p>
+
+<p><a href="http://msmvps.com/blogs/nunogodinho/archive/2013/04/22/lessons-learned-taking-the-best-out-of-windows-azure-virtual-machines.aspx">Lessons Learned: Taking the best out of Widnows Azure Virtual Machines</a></p>
+
+<p><a href="http://blog.jonathanchannon.com/2013/10/01/blogging-with-markdown-and-git/">Blogging with Markdown &amp; Deploying via Git - Introducing Sandra.Snow</a></p>
+
+<p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/owin-middleware-in-the-iis-integrated-pipeline">OWIN Middleware in the IIS integrated pipeline</a></p>
+
+<h2>Rust</h2>
+
+<p><a href="http://cmr.github.io/blog/2013/09/30/this-week-in-rust/">This Week in Rust</a></p>
+
+<p><a href="https://twitter.com/avdi/status/384731018538000384">Drama - Haskell == Rust > Go</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://www.natescottwest.com/blog/2013/09/26/elixir-for-rubyists/">Elixir for Rubyists Part 1</a></p>
+
+<h2>REST / APIs / HTTP</h2>
+
+<p><a href="http://www.designinghypermediaapis.com/blog/the-beginning-of-the-end.html">Update on Desinging Hypermerdia APIs Book - The Beginning of the End</a></p>
+
+<p><a href="http://www.crummy.com/writing/RESTful-Web-Services/">RESTful Web Services has been put online for free</a></p>
+
+<p><a href="http://raml.org/">RESTful API Modeling Language</a></p>
+
+<h2>Engineering / Architecture / Community</h2>
+
+<p><a href="http://www.hanselman.com/blog/TheMythOfTheRockstarProgrammer.aspx">The Myth of the Rockstar Programmer</a></p>
+
+<p><a href="http://37signals.com/svn/posts/3641-rethinking-agile-in-an-office-less-world">Rethinking Agile in an Office-less World</a></p>
+
+<p><a href="http://openmymind.net/Growth-Planning/">Growth Planning</a></p>
+
+<p><a href="http://www.informit.com/promotions/what-is-the-best-way-for-a-programmer-to-learn-a-new-139481">What&#8217;s the Best Way for a Programmer to Learn a New Language?</a></p>
+
+<p><a href="http://rylev.github.io/words/blog/2013/10/03/erlang-is-the-most-object-oriented-language/">Erlang is the Most Object Oriented Language</a></p>
+
+<p><a href="http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful">Presentation Skills Considered Harmful</a></p>
+
+<p><a href="http://blog.8thlight.com/uncle-bob/2013/10/01/Dance-You-Imps.html">Dance You Imps!</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/10/01/curbing-long-tail-design/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Curbing Long Tail Desing</a></p>
+
+<p><a href="http://venturebeat.com/2013/09/30/an-idiots-guide-to-devops/">An Idiot&#8217;s Guide to Devops</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/10/03/scaling-lessons-learnedfrom-0-to-15-million-users/">Scaling lessons learned–from 0 to 15 million users</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.extremetech.com/gaming/167674-steam-box-valve-abuses-its-gamer-goodwill-to-bet-big-on-a-bad-idea">Steam Box: Valve Abuses its GamerGoodwill to Bet Big on a Bad Idea</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #106]]></title>
@@ -1646,19 +1773,6 @@ preview</a></p>
 <p><a href="http://lookrobot.co.uk/2013/06/20/11-ways-to-be-a-better-roleplayer/">11 Ways to be a Better Roleplayer</a></p>
 
 <p><a href="http://www.youtube.com/watch?v=0hotvELUWu8&amp;feature=youtu.be&amp;a">The 15 Best D&amp;D Modules of All Time</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Review: Web API Design (Pluralsight)]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/"/>
-    <updated>2013-06-22T23:24:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight</id>
-    <content type="html"><![CDATA[<p>Apigee&#8217;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&#8217;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&#8230;) that I can remember.</p>
-
-<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&#8217;t really explored (vocabularies, API DNAs, etc&#8230;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
-
-<p>Bottom line: point developers who are new to Web APIs to this course.</p>
 ]]></content>
   </entry>
   
