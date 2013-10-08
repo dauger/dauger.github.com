@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-05T22:56:48-05:00</updated>
+  <updated>2013-10-07T20:37:29-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #108]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/07/the-land-of-10-000-links-number-108/"/>
+    <updated>2013-10-07T20:36:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/07/the-land-of-10-000-links-number-108</id>
+    <content type="html"><![CDATA[<h2>.NET / Azure</h2>
+
+<p><a href="http://www.strathweb.com/2013/10/extend-glimpse-fly-scriptcs-code-execution-tab-glimpse/">Extend Glimpse on the Fly - Scriptcs Code Execution Tab in Glimpse</a></p>
+
+<p><a href="http://tomasp.net/blog/csharp-async-gotchas.aspx/">Async in C# and F#: Asynchronous gotchas in C#</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/10/07/announcing-dedicated-federal-cloud-and-improved-pricing-networking-and-identity-options.aspx">Announcing Dedicated Federal Cloud and Improved Pricing, Networking, and Identity Options</a></p>
+
+<p><a href="http://byterot.blogspot.com/2013/10/beware-of-undisposed-or-unconsumed-httpresponsemessage-aspnetwebapi.html">Beware of undisposed or unconsumed HttpResponseMessage</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/why-not-open-sourcing-microsoft-net-is-hurting-it">Why Not Open Sourcing Microsoft.NET Is Hurting It</a></p>
+
+<p><a href="http://weblogs.asp.net/shijuvarghese/archive/2013/10/03/asp-net-web-api-owin-self-host-on-windows-azure.aspx">ASP.NET Web API OWIN Self Host on Windows Azure</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="https://groups.google.com/forum/m/#!topic/capistrano/nmMaqWR1z84">Time to hand over the reigns before Capistrano costs me my youth?</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://pivotallabs.com/a-rubyist-leaning-go-testing-http-handlers/">A Rubyist Learning Go – Testing HTTP</a></p>
+
+<p><a href="http://dave.cheney.net/2013/10/07/simple-test-coverage-with-go-1-2">Simple Test Coverage with Go 1.2</a></p>
+
+<p><a href="https://code.google.com/p/go-wiki/">Go Wiki</a></p>
+
+<p><a href="http://www.altdevblogaday.com/2013/08/18/introducing-go/">An Introduction to Go</a></p>
+
+<p><a href="http://www.capotej.com/blog/2013/10/07/golang-http-handlers-as-middleware/">Golang Http Handlers as Middleware</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://learnxinyminutes.com/docs/javascript/">Learn Y in X Minutes - Where X=JavaScript</a></p>
+
+<p><a href="http://wekeroad.com/2013/10/07/yes-bad-javascript-will-shut-your-site-down">Yes Bad JavaScript Will Shut Your Site Down</a></p>
+
+<p><a href="http://devlicio.us/blogs/rob_eisenberg/archive/2013/10/07/durandal-vs-framework-x.aspx">Durandal vs. Framework “X”</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://chimera.labs.oreilly.com/books/1234000001642/">Etudes for Elixir</a> - a companion to <a href="http://shop.oreilly.com/product/0636920030584.do">Introducing Elixir</a></p>
+
+<h2>Git</h2>
+
+<p><a href="https://gist.github.com/jbenet/ee6c9ac48068889b0912">A Simple Git Branching Model</a></p>
+
+<h2>REST / HTTP / APIs</h2>
+
+<p><a href="http://blog.programmableweb.com/2013/10/07/api-design-is-stuck-in-2008/">API Design is Stuck in 2008</a></p>
+
+<h2>Community / Architecture / Methodology</h2>
+
+<p><a href="http://amirrajan.net/meta/2013/10/06/TDD-the-wombo-combo-of-software-dev/">TDD - The Wombo Combo of Software Development</a></p>
+
+<p><a href="http://jamesmckay.net/2013/10/your-best-practices-are-probably-nothing-of-the-sort/">Your best practices are (probably) nothing of the sort</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.computerandvideogames.com/432729/steam-machines-not-designed-to-replace-pcs/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Steam Machines not designed to replace PCs, says Valve</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #107]]></title>
@@ -1664,115 +1731,6 @@ preview</a></p>
 <h2>Table-top RPGS</h2>
 
 <p><a href="http://www.wizards.com/DnD/Article.aspx?x=dnd%2F4ll%2F20130701&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Many Worlds of D&amp;D</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #89]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/06/30/the-land-of-10-000-links-number-89/"/>
-    <updated>2013-06-30T15:07:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/06/30/the-land-of-10-000-links-number-89</id>
-    <content type="html"><![CDATA[<h2>HTTP APIs / REST</h2>
-
-<p><a href="http://www.mnot.net/blog/2013/06/23/linking_apis">Five Reasons to Consider Linking in Your HTTP APIs</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/Jersey_2_0_released">RESTful Web Services Framework Jersey 2.0 Released, Implementing JAX-RS 2.0 Specification</a></p>
-
-<p><a href="http://bryanhelmig.com/your-api-consumers-arent-who-you-think-they-are/">Your API Consumers Aren’t Who You Think They Are</a></p>
-
-<p><a href="http://blog.mailchimp.com/mailchimps-api-v2/">MailChimp’s API, V2</a></p>
-
-<p><a href="http://benzilla.galbraiths.org/2013/06/19/dont-make-second-class-apis/">Don&#8217;t Make Second Class APIs</a></p>
-
-<p><a href="http://trafficandweather.io/posts/2013/6/28/episode-13-1-800-i-love-brand-new-carpeting">Traffic and Weather Podcast Episode 13: &#8220;1-800-I-LOVE-BRAND-NEW-CARPETING&#8221;</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/06/26/announcing-the-net-framework-4-5-1-preview.aspx">Announcing the .NET Framework 4.5.1 Preview</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/06/net451_preview#.Uc2INljj_wE.twitter">NET 4.5.1 Is Bigger Than It Appears</a></p>
-
-<p><a href="http://blogs.msdn.com/b/fsharpteam/archive/2013/06/27/announcing-a-pre-release-of-f-3-1-and-the-visual-f-tools-in-visual-studio-2013.aspx">Announcing a pre-release of F# 3.1 and the Visual F# tools in Visual Studio 2013</a></p>
-
-<p><a href="http://blogs.msdn.com/b/adonet/archive/2013/06/26/ef-and-visual-studio-2013-preview.aspx">EF and Visual Studio 2013 Preview</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/06/28/welcome-sign-in-to-visual-studio.aspx">Welcome. Sign in to Visual Studio.</a></p>
-
-<p><a href="http://abhishekrlal.com/2013/06/27/durable-task-framework-preview-with-azure-service-bus/">Durable Task Framework (Preview) with Azure Service Bus</a></p>
-
-<p><a href="http://www.asp.net/vnext/overview/latest/release-notes">ASP.NET and Web Tools for Visual Studio 2013 Preview Release Notes</a></p>
-
-<p><a href="http://gunnarpeipman.com/2013/06/code-information-indicators-in-visual-studio-2013/">Code Information Indicators in Visual Studio 2013</a></p>
-
-<p><a href="http://msdn.microsoft.com/en-US/windows/apps/bg184615">Windows 8.1 Preview Product Guide for Developers</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/27/introducing-asp-net-identity-membership-system-for-asp-net-applications.aspx">Introducing ASP.NET Identity – A membership system for ASP.NET applications</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/06/26/announcing-release-of-asp-net-and-web-tools-for-visual-studio-2013-preview-and-the-refresh-update.aspx">Announcing release of ASP.NET and Web Tools for Visual Studio 2013 Preview and the refresh update</a></p>
-
-<p><a href="http://roysvork.wordpress.com/2013/06/24/is-using-odataiqueryable-in-your-web-api-an-inherently-bad-thing/">Is using OData\IQueryable in your Web API an inherently bad thing?</a></p>
-
-<p><a href="http://www.alvinashcraft.com/2013/06/27/the-ravendb-indexing-process/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+alvinashcraft+%28Alvin+Ashcraft%27s+Morning+Dew%29">The RavenDB Indexing Process</a></p>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/06/24/please-welcome-immutablearray.aspx">Please Welcome ImmutableArray&lt;T></a></p>
-
-<p><a href="http://www.strathweb.com/2013/06/ihttpactionresult-new-way-of-creating-responses-in-asp-net-web-api-2/">IHttpActionResult – new way of creating responses in ASP.NET Web API 2</a></p>
-
-<p><a href="http://www.geekswithblogs.net/dlussier/archive/2013/06/30/153294.aspx">Thoughts on Build 2013</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="http://www.infoq.com/news/2013/06/rails4?utm_medium=referral&amp;utm_source=t.co">Rails 4 Released: Faster Pages With Turbolinks</a></p>
-
-<p><a href="https://blog.engineyard.com/2013/whats-new-and-awesome-in-ruby-2">What’s New and Awesome in Ruby 2?</a></p>
-
-<p><a href="http://news.railstutorial.org/rails-tutorial-for-rails-4-0-final/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+railstutorial+%28Ruby+on+Rails+Tutorial+News%29">Rails Tutorial for Rails 4.0 final</a></p>
-
-<p><a href="http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/">We Retire 1.8.7</a></p>
-
-<h2>Operating Systems</h2>
-
-<p><a href="http://www.infragistics.com/community/blogs/brent_schooley/archive/2013/06/29/the-best-tip-for-using-the-windows-8-1-start-button.aspx?utm_content=buffer65e45&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">The best tip for using the Windows 8.1 Start button</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/windows-81-tip-show-more-tiles?utm_source=twitterfeed&amp;utm_medium=twitter">Windows 8.1 Tip: Show More Tiles</a></p>
-
-<p><a href="http://techpinions.com/a-week-with-os-x-mavericks/19497">A Week With OS X Mavericks</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://callbackhell.com/">Callback Hell</a></p>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/advanced-unit-testing-techniques-in-javascript/">Advanced Unit Testing Techniques in JavaScript</a></p>
-
-<p><a href="http://ideasof.andersaberg.com/idea/12/typescript-09-generics-what-and-how-to-use-them">TypeScript 0.9 Generics: What? And How to use them</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://jaxenter.com/netflix-unleash-genie-a-hadoop-platform-as-a-service-47623.html">Netflix unleash Genie, a Hadoop Platform-as-a-Service</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/06/21/building-blocks-of-great-cloud-applications.aspx">Building Blocks of Great Cloud Applications</a></p>
-
-<h2>Software Engineering / Craftsmanship</h2>
-
-<p><a href="https://medium.com/look-what-i-made/7d546e5954c1">Recruiter Spam</a></p>
-
-<p><a href="http://blog.8thlight.com/cory-foy/2013/06/26/procedural-polymorphism.html">Procedural Polymorphism</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://massively.joystiq.com/2013/06/23/asherons-call-2-prepares-quality-of-life-update/">Asheron&#8217;s Call 2 prepares quality-of-life update</a></p>
-
-<p><a href="http://www.vg247.com/2013/06/26/avellone-kickstarter-has-reignited-publisher-interest-in-rpgs/">Avellone: Kickstarter has reignited publisher interest in RPGs</a></p>
-
-<p><a href="http://www.computerandvideogames.com/416915/ea-refocusing-origin-to-service-gamers-better/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">EA refocusing Origin to &#8216;service gamers better&#8217;</a></p>
-
-<p><a href="http://www.rockpapershotgun.com/2013/06/24/beamdog-hoping-for-baldurs-gate-iii-despite-legal-hell/?utm_source=feedly&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+RockPaperShotgun+%28Rock%2C+Paper%2C+Shotgun%29">Beamdog Hoping For Baldur’s Gate III Despite ‘Legal Hell’</a></p>
-
-<h2>Table-top Gaming</h2>
-
-<p><a href="http://lookrobot.co.uk/2013/06/20/11-ways-to-be-a-better-roleplayer/">11 Ways to be a Better Roleplayer</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=0hotvELUWu8&amp;feature=youtu.be&amp;a">The 15 Best D&amp;D Modules of All Time</a></p>
 ]]></content>
   </entry>
   
