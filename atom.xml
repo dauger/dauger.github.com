@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-07T20:37:29-05:00</updated>
+  <updated>2013-10-09T21:56:35-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #109]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/09/the-land-of-10-000-links-number-109/"/>
+    <updated>2013-10-09T21:53:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/09/the-land-of-10-000-links-number-109</id>
+    <content type="html"><![CDATA[<h2>Go</h2>
+
+<p><a href="http://pivotallabs.com/announcing-ginkgo-and-gomega-bdd-style-testing-for-golang/">Announcing Ginkgo and Gomega: BDD-Stye Testing for Golang</a></p>
+
+<p><a href="http://thornydev.blogspot.jp/2013/10/beautiful-code-ported-to-go.html">Beautiful Code Ported to Go</a></p>
+
+<h2>.NET / Azure</h2>
+
+<p><a href="http://www.lhotka.net/weblog/DoesNETHaveAFuture.aspx">Does .NET Have a Future</a></p>
+
+<p><a href="http://weblogs.asp.net/ricardoperes/archive/2013/10/07/tracing-entity-framework-code-first-calls.aspx">Tracing Entity Framework Code First Calls</a></p>
+
+<p><a href="http://www.troyhunt.com/2013/10/10-ways-to-make-your-net-projects-play.html">10 ways to make your .NET projects play nice with others</a></p>
+
+<p><a href="http://www.hanselman.com/blog/IteratingQuicklyAtAHackathonWithAzureMobileServicesAndDynamicSchema.aspx">Iterating quickly at a Hackathon with Azure Mobile Services and Dynamic Schema</a></p>
+
+<p><a href="http://blogs.msdn.com/b/granth/archive/2013/10/08/what-does-a-well-maintained-team-foundation-server-look-like.aspx">What does a well maintained Team Foundation Server look like?</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word &#8220;Enterprise&#8221;</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx">ASP.NET App Suspend – responsive shared .NET web hosting</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/10/09/enable-and-monitor-asp-net-app-suspend-on-windows-server-2012-r2.aspx">Enable and monitor ASP.NET App Suspend on Windows Server 2012 R2</a></p>
+
+<p><a href="http://www.mindscapehq.com/blog/index.php/2013/10/08/building-wpf-applications/?utm_source=facebook&amp;utm_medium=blog&amp;utm_campaign=wpfapps">Building WPF Applications</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://rubyredbricks.com/blog/2013/10/07/basic-games-in-ruby/">BASIC Games in Ruby</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://lostechies.com/ryanrauh/2013/10/08/emberjs-beyond-the-tutorials/">EmberJS :: Beyond the tutorials</a></p>
+
+<p><a href="https://engineering.groupon.com/2013/node-js/geekon-i-tier/">Today is exciting: we’ve completed a year-long project to move Groupon’s web traffic from our legacy Ruby on Rails application to Node.js. </a></p>
+
+<p><a href="http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/">Node.js and the new web front-end</a></p>
+
+<p><a href="http://nodeos.github.io/">NO!</a></p>
+
+<h2>Vim</h2>
+
+<p><a href="http://danielmiessler.com/study/vim/">A Vim Tutorial</a></p>
+
+<h2>Community / Engineering</h2>
+
+<p><a href="http://www.bitnative.com/2013/10/07/writing-code-know-your-boundaries/">Writing Code? Know Your Boundaries.</a></p>
+
+<p><a href="http://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/">What to Know Before Debating Type Systems</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/10/08/evolutionary-architecture-boundaries/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Evolutionary architecture boundaries</a></p>
+
+<p><a href="http://blog.8thlight.com/ryan-verner/2013/10/09/reducing-incidental-complexity-in-our-code-and-in-our-teaching.html">Reducing Incidental Complexity in Our Code and in Our Teaching</a></p>
+
+<p><a href="http://andreasohlund.net/2013/10/07/the-pain-and-suffering-of-large-source-code-repositories/">The Pain and Suffering of Large Source Code Repositories</a></p>
+
+<p><a href="http://www.javacodegeeks.com/2012/11/the-10-rules-of-a-zen-programmer.html">The 10 Rules of a Zen Programmer</a></p>
+
+<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven&#8217;s sake</a></p>
+
+<p><a href="http://voiceofthedba.wordpress.com/2013/10/09/letting-people-go-securely/">Letting People Go Securely</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie - Sound and Vision 2013 Remix - Official Lyric Video</a></p>
+
+<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? - The Carrie Edition</a></p>
+
+<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush&#8217;s Video Timeline</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #108]]></title>
@@ -1672,65 +1749,6 @@ preview</a></p>
 <p><a href="http://www.youtube.com/watch?v=iNXoRJdWbYo&amp;feature=share">Video - &#8220;Weird Paul&#8221; Ressurrects the C64 Programs He Wrote When He was 13</a></p>
 
 <p><a href="http://www.chickenlipsradio.org/2013/06/show-001-why-i-love-commodore.html">Podcast - Chicken Lips Radio #1: Why I Love Commodore</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #90]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90/"/>
-    <updated>2013-07-01T20:53:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/01/the-land-of-10-000-links-number-90</id>
-    <content type="html"><![CDATA[<h2>GO</h2>
-
-<p><a href="http://mattjibson.com/blog/2013/06/26/go-read-open-source-google-reader-clone/">Go Read: Open-Source Google Reader Clone</a></p>
-
-<p><a href="http://openmymind.net/Golang-Hot-Configuration-Reload/">Golang Hot Configuration Reload</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="https://nuget.org/packages/FakeItEasy/1.13.0">Fake it Easy! 1.13.0</a></p>
-
-<p><a href="http://msdn.microsoft.com/en-us/magazine/dn296510.aspx">How Microsoft&#8217;s Next-Gen Compiler Project Can Improve Your Code</a></p>
-
-<h2>Software Architecture</h2>
-
-<p><a href="http://askudi.libsyn.com/1-alternative-architectures-preaching-to-the-unconverted">Podcast - Ask Udi 1. Alternative Architectures &amp; Preaching to the Unconverted</a></p>
-
-<h2>Azure</h2>
-
-<p><a href="http://social.technet.microsoft.com/wiki/contents/articles/18146.windows-azure-telemetry-basics-and-troubleshooting.aspx">Windows Azure: Telemetry Basics adn Troubleshooting</a></p>
-
-<h2>AWS</h2>
-
-<p><a href="http://www.infoq.com/news/2013/06/economics-of-aws">Economics of Application Virtualization on AWS</a></p>
-
-<h2>HTTP / REST/ APIs</h2>
-
-<p><a href="https://mathieu.fenniak.net/is-your-web-api-susceptible-to-a-csrf-exploit/">Is your Web API susceptible to a CSRF exploit?</a></p>
-
-<h2>Security</h2>
-
-<p><a href="http://www.continuumsecurity.net/2013/07/01/how-to-sniff-cookies-over-https.html">How to Sniff Cookies Over HTTPS</a></p>
-
-<h2>OS</h2>
-
-<p><a href="http://thenextweb.com/insider/2013/07/01/windows-8-now-up-to-5-10-market-share-as-it-finally-passes-windows-vista/?utm_content=Windows%208%20now%20up%20to%205.10%%20market%20share%20as%20it%20finally%20passes%20Windows%20Vista&amp;awesm=tnw.to_b0ZLh&amp;utm_source=Twitter&amp;utm_campaign=social%20media&amp;utm_medium=share%20button">Windows 8 now up to 5.10% market share as it finally passes Windows Vista</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.computerandvideogames.com/417168/the-walking-dead-400-days-out-this-week/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Walking Dead: 400 Days out this week</a></p>
-
-<p><a href="http://www.computerandvideogames.com/417164/microsoft-ceo-steve-ballmer-to-oversee-xbox-business/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Xbox Head Leaves for Xynga - Ballmer to Oversee Xbox Business</a></p>
-
-<p><a href="http://majornelson.com/2013/07/01/xbox-360-special-edition-chrome-series-gold-wireless-controller/">Xbox 360 Special Edition Chrome Series Gold Wireless Controller</a></p>
-
-<h2>Apps</h2>
-
-<p><a href="http://blog.comixology.com/2013/07/01/comixology-debuts-subscriptions-bundles/">ComiXology Debuts Subscriptions &amp; Bundles!</a></p>
-
-<h2>Table-top RPGS</h2>
-
-<p><a href="http://www.wizards.com/DnD/Article.aspx?x=dnd%2F4ll%2F20130701&amp;utm_source=dlvr.it&amp;utm_medium=twitter">The Many Worlds of D&amp;D</a></p>
 ]]></content>
   </entry>
   

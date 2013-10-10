@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-07T20:37:29-05:00</updated>
+  <updated>2013-10-09T21:56:35-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #109]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/09/the-land-of-10-000-links-number-109/"/>
+    <updated>2013-10-09T21:53:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/09/the-land-of-10-000-links-number-109</id>
+    <content type="html"><![CDATA[<h2>Go</h2>
+
+<p><a href="http://pivotallabs.com/announcing-ginkgo-and-gomega-bdd-style-testing-for-golang/">Announcing Ginkgo and Gomega: BDD-Stye Testing for Golang</a></p>
+
+<p><a href="http://thornydev.blogspot.jp/2013/10/beautiful-code-ported-to-go.html">Beautiful Code Ported to Go</a></p>
+
+<h2>.NET / Azure</h2>
+
+<p><a href="http://www.lhotka.net/weblog/DoesNETHaveAFuture.aspx">Does .NET Have a Future</a></p>
+
+<p><a href="http://weblogs.asp.net/ricardoperes/archive/2013/10/07/tracing-entity-framework-code-first-calls.aspx">Tracing Entity Framework Code First Calls</a></p>
+
+<p><a href="http://www.troyhunt.com/2013/10/10-ways-to-make-your-net-projects-play.html">10 ways to make your .NET projects play nice with others</a></p>
+
+<p><a href="http://www.hanselman.com/blog/IteratingQuicklyAtAHackathonWithAzureMobileServicesAndDynamicSchema.aspx">Iterating quickly at a Hackathon with Azure Mobile Services and Dynamic Schema</a></p>
+
+<p><a href="http://blogs.msdn.com/b/granth/archive/2013/10/08/what-does-a-well-maintained-team-foundation-server-look-like.aspx">What does a well maintained Team Foundation Server look like?</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word "Enterprise"</a></p>
+
+<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx">ASP.NET App Suspend – responsive shared .NET web hosting</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/10/09/enable-and-monitor-asp-net-app-suspend-on-windows-server-2012-r2.aspx">Enable and monitor ASP.NET App Suspend on Windows Server 2012 R2</a></p>
+
+<p><a href="http://www.mindscapehq.com/blog/index.php/2013/10/08/building-wpf-applications/?utm_source=facebook&amp;utm_medium=blog&amp;utm_campaign=wpfapps">Building WPF Applications</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="http://rubyredbricks.com/blog/2013/10/07/basic-games-in-ruby/">BASIC Games in Ruby</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://lostechies.com/ryanrauh/2013/10/08/emberjs-beyond-the-tutorials/">EmberJS :: Beyond the tutorials</a></p>
+
+<p><a href="https://engineering.groupon.com/2013/node-js/geekon-i-tier/">Today is exciting: we’ve completed a year-long project to move Groupon’s web traffic from our legacy Ruby on Rails application to Node.js. </a></p>
+
+<p><a href="http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/">Node.js and the new web front-end</a></p>
+
+<p><a href="http://nodeos.github.io/">NO!</a></p>
+
+<h2>Vim</h2>
+
+<p><a href="http://danielmiessler.com/study/vim/">A Vim Tutorial</a></p>
+
+<h2>Community / Engineering</h2>
+
+<p><a href="http://www.bitnative.com/2013/10/07/writing-code-know-your-boundaries/">Writing Code? Know Your Boundaries.</a></p>
+
+<p><a href="http://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/">What to Know Before Debating Type Systems</a></p>
+
+<p><a href="http://lostechies.com/jimmybogard/2013/10/08/evolutionary-architecture-boundaries/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Evolutionary architecture boundaries</a></p>
+
+<p><a href="http://blog.8thlight.com/ryan-verner/2013/10/09/reducing-incidental-complexity-in-our-code-and-in-our-teaching.html">Reducing Incidental Complexity in Our Code and in Our Teaching</a></p>
+
+<p><a href="http://andreasohlund.net/2013/10/07/the-pain-and-suffering-of-large-source-code-repositories/">The Pain and Suffering of Large Source Code Repositories</a></p>
+
+<p><a href="http://www.javacodegeeks.com/2012/11/the-10-rules-of-a-zen-programmer.html">The 10 Rules of a Zen Programmer</a></p>
+
+<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven's sake</a></p>
+
+<p><a href="http://voiceofthedba.wordpress.com/2013/10/09/letting-people-go-securely/">Letting People Go Securely</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie - Sound and Vision 2013 Remix - Official Lyric Video</a></p>
+
+<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? - The Carrie Edition</a></p>
+
+<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush's Video Timeline</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #108]]></title>
@@ -431,111 +508,6 @@ upgrade for anyone who has paid in the past year.</p>
 <p><a href="http://cmd.fm/">Web Command Line Music Player</a></p>
 
 <p><a href="http://www.gamasutra.com/view/news/200655/Video_Porting_Canabalt_and_Super_Crate_Box_to_the_Commodore_64.php">Video - Porting Canabalt and Super Crate Box to the Commodore 64</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #104]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/09/14/the-land-of-10-000-links-number-104/"/>
-    <updated>2013-09-14T14:26:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/09/14/the-land-of-10-000-links-number-104</id>
-    <content type="html"><![CDATA[<h2>Azure</h2>
-
-<p><a href="http://www.scarydba.com/2013/08/29/windows-azure-sql-database-and-throttling/?utm_content=bufferad465&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Windows Azure SQL Database and Throttling</a></p>
-
-<p><a href="http://alexandrebrisebois.wordpress.com/2013/09/03/why-is-the-new-windows-azure-cache-service-important/">Why is The New Windows Azure Cache Service Important?</a></p>
-
-<p><a href="http://thinkfirstcodelater.com/blog/?p=2982">Think First Code Later - Azure CLI Article Index</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="https://github.com/elixir-lang/elixir/releases/tag/v0.10.2">v0.10.2</a></p>
-
-<p><a href="https://github.com/elixir-lang/ecto">A database wrapper and language integrated query for Elixir</a></p>
-
-<h2>Rust</h2>
-
-<p><a href="http://www.darkcoding.net/software/rust-what-i-learnt-so-far/">Rust: What I Learnt So Far</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/09/03/updated-nuget-support-in-visual-studio-2012-4.aspx">Updated NuGet Support in Visual Studio 2012.4</a></p>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/09/duplicate-finder-part-of-resharper-command-line-tools/">Duplicate Finder, Part of ReSharper Command Line Tools</a></p>
-
-<p><a href="http://www.tugberkugurlu.com/archive/owin-dependencies--an-ioc-container-adapter-into-owin-pipeline">Owin.Dependencies: An IoC Container Adapter Into OWIN Pipeline</a></p>
-
-<p><a href="http://www.codeproject.com/Tips/649042/Self-Hosted-Web-API-Wrapper-Class">Self Hosted WebAPI Wrapper Class</a></p>
-
-<p><a href="http://www.asp.net/aspnet/overview/aspnet-45/what-not-to-do-in-aspnet,-and-what-to-do-instead">What not to do in ASP.NET, and what to do instead</a></p>
-
-<p><a href="http://blog.jonathanchannon.com/2013/09/11/comparing-object-instances-with-fakeiteasy/">Comparing object instances with FakeItEasy</a></p>
-
-<p><a href="http://www.strathweb.com/2013/09/adding-high-performance-windows-azure-cache-service-to-your-asp-net-web-api/">Adding High Performance Windows Azure Cache Service to Your ASP.NET Web API</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/11/creating-new-windows-azure-web-site-from-visual-studio-2013-rc.aspx">Creating New Windows Azure Web Site from Visual Studio 2013 RC</a></p>
-
-<p><a href="http://www.tugberkugurlu.com/archive/good-old-f5-experience-with-owinhost-exe-on-visual-studio-2013">Good Old F5 Experience With OwinHost.exe on Visual Studio 2013</a></p>
-
-<p><a href="http://www.asp.net/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api">Parameter Binding in ASP.NET Web API</a></p>
-
-<p><a href="http://rogeralsing.com/2013/09/11/entity-framework-to-rest-efrest/">Entity Framework to REST - EfRest</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/10/what-is-new-in-browser-link-with-visual-studio-2013-rc.aspx">What is new in Browser Link with Visual Studio 2013 RC?</a></p>
-
-<p><a href="http://blogs.msdn.com/b/mvpawardprogram/archive/2013/09/09/visual-studio-2013-rc-released.aspx">What’s new in Visual Studio 2013 RC with Team Foundation Server</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="http://garbled.benhamill.com/2013/09/03/never-type-bundle-exec-again/">Never Type Bundle Exec Again</a></p>
-
-<p><a href="http://www.johnpapa.net/durandal-breeze-and-ruby/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+JohnPapa+%28JohnPapa.net%29">Durandal, Breeze, and Ruby</a></p>
-
-<p><a href="http://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html">Cryptic Ruby Global Variables and Their Meanings</a></p>
-
-<p><a href="http://raganwald.com/2013/09/12/the-predicate-module-pattern.html">The Predicate Module Pattern</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://tutorialzine.com/2013/08/learn-angularjs-5-examples/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer307f1&amp;utm_medium=twitter">Learn AngularJS With These 5 Practical Examples</a></p>
-
-<h2>Scala / Play</h2>
-
-<p><a href="http://www.toptal.com/scala/scaling-play-to-thousands-of-concurrent-requests">Scaling Play! to Thousands of Cuncurrent Requests</a></p>
-
-<h2>Hardware</h2>
-
-<p><a href="http://winsupersite.com/windows-8/surface-pro-2-details-emerge">Surface Pro 2 Details Emerge</a></p>
-
-<h2>Craftsmanship / Architecture / Community</h2>
-
-<p><a href="http://openmymind.net/Own-A-System-Beyond-Its-Childhood-Or-Stay-A-Bad-Programmer/">Own a System Beyond Its Childhood, or Stay a Bad Programmer</a></p>
-
-<p><a href="http://www.codingthearchitecture.com/2013/09/03/what_is_agile_software_architecture.html">What is Agle Software Architecture?</a></p>
-
-<p><a href="http://martinfowler.com/bliki/TellDontAsk.html">Tell Don't Ask</a></p>
-
-<p><a href="http://5whys.com/blog/the-bus-factor-why-your-best-developer-is-your-biggest-probl.html">The Bus Factor - Why your ‘best’ developer is your biggest problem</a></p>
-
-<p><a href="http://5whys.com/blog/two-techniques-to-avoid-the-bus-factor-in-your-teams-push-an.html">Two Techniques to Avoid the Bus Factor In your Teams: Push and Pull</a></p>
-
-<p><a href="http://jobtipsforgeeks.com/2013/06/27/leave/?utm_content=buffer05fa3&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">When to Leave Your Programming Job</a></p>
-
-<p><a href="http://blog.serverfault.com/2013/09/05/homegrown-devops-tools-at-stack-exchange/">Homegrown DevOps Tools at Stack Exchange</a></p>
-
-<p><a href="https://vimeo.com/72673788">What is BDD and why should I care?</a></p>
-
-<p><a href="https://twitter.com/Stammy/status/378293744308461568/photo/1">Fox News Explains Github</a></p>
-
-<p><a href="http://www.dungeonsanddevelopers.com/">Dungeons and Developers</a></p>
-
-<p><a href="http://stevelosh.com/blog/2013/09/teach-dont-tell/">Teach, Don’t Tell</a></p>
-
-<p><a href="http://www.brentozar.com/archive/2013/09/how-to-get-your-manager-to-pay-for-training/?utm_campaign=twitter&amp;utm_medium=twitter&amp;utm_source=twitter">How to Get Your Manager to Pay for Training</a></p>
-
-<h2>REST / APIs / HTTP</h2>
-
-<p><a href="http://codebetter.com/howarddierking/2013/09/12/versioning-restful-services-v2/">Versioning RESTful Services V2</a></p>
 ]]></content>
   </entry>
   
