@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-10T19:31:04-05:00</updated>
+  <updated>2013-10-12T20:58:22-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #111]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111/"/>
+    <updated>2013-10-12T20:55:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://blog.jetbrains.com/webstorm/2013/10/webstorm-and-windows-azure-mobile-services/">WebStorm and Windows Azure Mobile Services</a></p>
+
+<h2>.NET / Windows / Microsoft</h2>
+
+<p><a href="http://blog.simontimms.com/2013/10/11/2-days-with-scriptcs/">2 Days With Scriptcs</a></p>
+
+<p><a href="http://devproconnections.com/mobile-development/xamarin-miguel-de-icaza-ios-development">iOS Platform Fundamentals for C# Developers</a></p>
+
+<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=948">Web API, Async and Performance in an ASP.NET MVC Application</a></p>
+
+<p><a href="https://github.com/blog/1656-a-lighter-brighter-github-for-windows">A Lighter, Brighter, Github for Windows</a></p>
+
+<p><a href="http://codebetter.com/glennblock/2013/10/13/a-new-adventure-at-splunk-after-an-amazing-8-years-at-microsoft/">A new adventure at Splunk after an amazing 8 years at Microsoft</a></p>
+
+<h2>Rust</h2>
+
+<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I&#8217;m Learning Russt so I Can Move Away from C#</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool">How to Use Conditional Compilation With the Go Build Tool</a></p>
+
+<h2>Scala</h2>
+
+<p><a href="https://speakerdeck.com/ryanlecompte/confessions-of-a-ruby-developer-whose-heart-was-stolen-by-scala">Confessions of a Ruby Developer Whose Heart was Stolen by Scala</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/10/09/elixir-by-example-ring/">Elixir By Example: The Ring I</a></p>
+
+<h2>Architecture / Misc</h2>
+
+<p><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books List on Github</a></p>
+
+<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities - a REST viewpoint</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #110]]></title>
@@ -1643,90 +1688,6 @@ part of it has audio.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.eurogamer.net/articles/2013-07-05-project-eternity-as-a-series-could-run-for-eternity?utm_source=dlvr.it&amp;utm_medium=twitter">Project Eternity, as a series, could run for eternity</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #92]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92/"/>
-    <updated>2013-07-04T14:44:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/04/the-land-of-10-000-links-number-92</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://www.wintellect.com/blogs/jrobbins/tfs-build-numbers-file-version-now-with-hosted-tfs-build-support">TFS Build Numbers &amp; File Version Now with Hosted TFS Build Support</a></p>
-
-<p><a href="http://blogs.msdn.com/b/jaredpar/archive/2013/07/02/immutable-isn-t-just-for-parallel-code.aspx">Immutable Isn&#8217;t Just About Parallel Code</a></p>
-
-<p><a href="http://www.philliphaydon.com/2013/07/setting-up-a-nancyfx-website/">Setting up a NancyFX website</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/07/03/what-is-new-in-code-analysis-for-visual-studio-2013.aspx">What is New in Code Analysis for Visual Studio 2013</a></p>
-
-<p><a href="http://blog.getglimpse.com/2013/07/04/glimpse-1-5-0-released/">Glimpse 1.5.0 released</a></p>
-
-<p><a href="http://dhickey.ie/post/2013/07/04/Making-Visual-Studio-2012-extensions-work-with-VS-2013-Preview.aspx">Making Visual Studio 2012 extensions work with VS 2013 Preview</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/03/understanding-owin-forms-authentication-in-mvc-5.aspx">Understanding OWIN Forms authentication in MVC 5</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/02/manage-cors-policy-dynamically.aspx">Manage CORS policy dynamically</a></p>
-
-<p><a href="http://codebetter.com/patricksmacchia/2013/07/04/code-rules-are-not-just-about-clean-code/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CodeBetter+%28CodeBetter.Com%29">Code Rules are not just about Clean Code</a></p>
-
-<p><a href="http://lbadri.wordpress.com/2013/07/04/hawk-authentication-for-asp-net-web-api-using-thinktecture-identitymodel-45/">Hawk Authentication for ASP.NET Web API using Thinktecture.IdentityModel.45</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/03/the-story-of-synchronized-settings.aspx">The Story of Synchronized Settings in VS2013</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://screamingatmyscreen.com/2013/7/should-i-rewrite-my-app-in-go-for-better-scalability/">Should I rewrite my app in Go for better scalability?</a></p>
-
-<p><a href="http://openmymind.net/Shard-Your-Hash-table-to-reduce-write-locks/">Shard Your Hash Table To Reduce Write Locks</a></p>
-
-<p><a href="http://blog.drewolson.org/blog/2013/07/04/clojure-core-dot-async-and-go-a-code-comparison/">Clojure core.async and Go: A Code Comparison</a></p>
-
-<h2>Elixer</h2>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/06/13/elixir-for-the-lazy-impatient-and-busy-lists-and-recursion/">Elixir for the Lazy, Impatient and Busy: Part 1 |> Lists and Recursion</a></p>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/06/25/elixir-for-the-lazy-impatient-and-busy-part-2-processes-101/">Elixir for the Lazy Impatient and Busy: Part 2 |> Processes 101</a></p>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/07/04/elixir-for-the-lazy-impatient-and-busy-part-3-processes-101/">Elixir for the Lazy Impatient and Busy: Part 3 |> Processes 102</a></p>
-
-<h2>HTTP APIs / REST</h2>
-
-<p><a href="https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2">API Design: Harnessing HATEOAS, Part 2</a></p>
-
-<p><a href="http://yobriefca.se/blog/2013/04/29/micro-service-architecture/">Micro Service Architecture</a></p>
-
-<h2>Software Craftsmanship / Methodologies</h2>
-
-<p><a href="http://namcookanalytics.com/high-costs-and-negative-value-of-pair-programming/">High Costs and Negative Value of Pair Programming</a></p>
-
-<h2>OSes</h2>
-
-<p><a href="http://www.extremetech.com/computing/160342-windows-8-1-multi-monitor-hands-on-desktop-review-video">Windows 8.1 multi-monitor Desktop hands-on review (video)</a></p>
-
-<p><a href="http://www.winbeta.org/news/microsoft-research-releases-network-speed-test-app-windows-8">Microsoft Research releases Network Speed Test app for Windows 8</a></p>
-
-<p><a href="http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/">Internet Explorer 11: “Don’t call me IE”</a></p>
-
-<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-fixes-windows-81-preview?utm_source=twitterfeed&amp;utm_medium=twitter">Microsoft Delivers Fixes for Windows 8.1 Preview</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.p4rgaming.com/majority-of-gamers-today-cant-finish-level-1-in-super-mario-bros/">Majority of Gamers Today Can&#8217;t Finish Level 1 in Super Mario Bros.</a></p>
-
-<p><a href="http://www.computerandvideogames.com/417401/double-fine-needs-more-money-to-finish-3m-kickstarter-project/?cid=OTC-RSS&amp;attr=CVG-News-RSS&amp;utm_source=dlvr.it&amp;utm_medium=twitter">Double Fine &#8216;needs more money&#8217; to finish $3m Kickstarter project</a></p>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-04-american-mcgee-defends-double-fine-kickstarter-after-adding-new-USD100-000-stretch-goal?utm_source=twitterfeed&amp;utm_medium=twitter">American McGee defends Double Fine Kickstarter after adding $100,000 stretch goal to OZombie</a></p>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-04-microsoft-will-now-include-a-headset-with-xbox-one?utm_source=dlvr.it&amp;utm_medium=twitter">Microsoft will now include a headset with Xbox One - report</a></p>
-
-<p><a href="http://winsupersite.com/xbox/games-gold-july-2013?utm_source=twitterfeed&amp;utm_medium=twitter">XBox Live Games With Gold: July 2013</a></p>
-
-<h2>In Memoriam</h2>
-
-<p><a href="http://www.nytimes.com/2013/07/04/technology/douglas-c-engelbart-inventor-of-the-computer-mouse-dies-at-88.html">Douglas C. Engelbart, Inventor of the Computer Mouse, Dies at 88</a><br/>
-Watch his classic <a href="http://www.youtube.com/watch?v=JfIgzSoTMOs#">The Mother of All Demos</a>.</p>
 ]]></content>
   </entry>
   

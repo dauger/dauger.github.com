@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-10T19:31:04-05:00</updated>
+  <updated>2013-10-12T20:58:22-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #111]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111/"/>
+    <updated>2013-10-12T20:55:00-05:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://blog.jetbrains.com/webstorm/2013/10/webstorm-and-windows-azure-mobile-services/">WebStorm and Windows Azure Mobile Services</a></p>
+
+<h2>.NET / Windows / Microsoft</h2>
+
+<p><a href="http://blog.simontimms.com/2013/10/11/2-days-with-scriptcs/">2 Days With Scriptcs</a></p>
+
+<p><a href="http://devproconnections.com/mobile-development/xamarin-miguel-de-icaza-ios-development">iOS Platform Fundamentals for C# Developers</a></p>
+
+<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=948">Web API, Async and Performance in an ASP.NET MVC Application</a></p>
+
+<p><a href="https://github.com/blog/1656-a-lighter-brighter-github-for-windows">A Lighter, Brighter, Github for Windows</a></p>
+
+<p><a href="http://codebetter.com/glennblock/2013/10/13/a-new-adventure-at-splunk-after-an-amazing-8-years-at-microsoft/">A new adventure at Splunk after an amazing 8 years at Microsoft</a></p>
+
+<h2>Rust</h2>
+
+<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I'm Learning Russt so I Can Move Away from C#</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool">How to Use Conditional Compilation With the Go Build Tool</a></p>
+
+<h2>Scala</h2>
+
+<p><a href="https://speakerdeck.com/ryanlecompte/confessions-of-a-ruby-developer-whose-heart-was-stolen-by-scala">Confessions of a Ruby Developer Whose Heart was Stolen by Scala</a></p>
+
+<h2>Elixir</h2>
+
+<p><a href="http://benjamintanweihao.github.io/blog/2013/10/09/elixir-by-example-ring/">Elixir By Example: The Ring I</a></p>
+
+<h2>Architecture / Misc</h2>
+
+<p><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books List on Github</a></p>
+
+<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities - a REST viewpoint</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #110]]></title>
@@ -328,134 +373,6 @@
 <h2>Fun</h2>
 
 <p><a href="http://www.extremetech.com/gaming/167674-steam-box-valve-abuses-its-gamer-goodwill-to-bet-big-on-a-bad-idea">Steam Box: Valve Abuses its GamerGoodwill to Bet Big on a Bad Idea</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #106]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/09/28/the-land-of-10-000-links-number-106/"/>
-    <updated>2013-09-28T15:59:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/09/28/the-land-of-10-000-links-number-106</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><strong>PSA</strong>: There is an interesting discussion going on regarding the state
-of OSS in the .NET community.<br/>
-<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a> by <a href="https://twitter.com/amirrajan">Amir Rajan</a><br/>
-<a href="http://nerditorium.danielauger.com/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Perception is Reality - .NET OSS Is Getting Better</a> by <a href="https://twitter.com/danielauger">Moi</a><br/>
-<a href="http://lostechies.com/jimmybogard/2013/09/25/perception-is-realitythe-state-of-oss-in-net/">Perception is Reality–The state of OSS in .NET</a> by <a href="https://twitter.com/jbogard">Jimmy Bogard</a><br/>
-<a href="http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard/">Reality is an Illusion – .NET OSS is hard</a> by <a href="https://twitter.com/markrendle">Mark Rendle</a></p>
-
-<p><a href="https://www.youtube.com/watch?v=oaJgxPonEkc&amp;feature=youtu.be">Visual Studio Automation With Leap Motion</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/22/web-publish-how-to-automate-multi-project-publish-with-file-system.aspx">Web Publish - How to Automate Multi-project Publish with File System</a></p>
-
-<p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection">OWIN Startup Class Detection</a></p>
-
-<p><a href="https://twitter.com/gblock/status/383350823884836865">Glenn Block is leaving Microsoft</a></p>
-
-<p><a href="http://www.microsoftvirtualacademy.com/training-courses/developing-asp-net-mvc-4-web-applications-jump-start#fbid=7-fpkOj_Hmy">Microsoft Virtual Academy - Developing ASP.NET MVC 4 Web Applications Jump Start</a></p>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/09/26/test-styles-and-avoiding-setupteardown/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Test styles and avoiding setup/teardown</a></p>
-
-<p><a href="http://www.philliphaydon.com/2013/09/instant-nancy-web-development-book-review/">Instant Nancy Web Development - Book Review</a></p>
-
-<p><a href="https://www.youtube.com/watch?v=50Nqom-Zpuo&amp;feature=youtu.be&amp;a">Owin - A New .NET Web</a></p>
-
-<p><a href="http://channel9.msdn.com/Series/Get-Started-MS-Big-Data/01">Getting Started with Microsft Big Data</a></p>
-
-<p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/09/25/immutable-collections-ready-for-prime-time.aspx">Immutable collections ready for prime time</a></p>
-
-<p><a href="http://techcrunch.com/2013/09/26/microsofts-mobile-platforms-suffer-from-flagging-developer-interest/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29">Microsoft’s Mobile Platforms Suffer From Flagging Developer Interest</a></p>
-
-<p><a href="http://clariuslabs.github.io/CommonComposition/">Common Composition Portable component composition annotations, dependency injection framework agnostic.</a></p>
-
-<p><a href="http://billwagner.azurewebsites.net/blog/a-quick-refresher-on-x-and-x-c-version">A quick refresher on x++ and ++x (C# version)</a></p>
-
-<p><a href="http://channel9.msdn.com/posts/Introducing-Semantic-Logging">Introducing Semantic Logging</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/09/20/introducing-microsoft-monitoring-agent.aspx">Introducing Microsoft Monitoring Agent</a></p>
-
-<p><a href="http://lostechies.com/patricklioi/2013/09/27/a-swiss-army-katana/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">A Swiss Army Katana</a></p>
-
-<p><a href="http://cibrax.me/blog/2013/09/27/unit-testing-improvements-in-asp-dot-net-web-api/">Unit Testing Improvements in ASP.NET Web API</a></p>
-
-<p><a href="http://www.theverge.com/2013/9/27/4779036/exclusive-video-steve-ballmers-intense-tearful-goodbye-to-microsoft">Ballmer's Exit Speech</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/23/attribute-routing-changes-for-asp-net-web-stack-shipped-in-vs2013-rc.aspx">Attribute Routing changes for ASP.NET Web Stack shipped in VS2013 RC</a></p>
-
-<p><a href="http://blogs.msdn.com/b/wriju/archive/2013/09/24/ado-net-entity-framework-executing-tsql-and-dbcontext-under-same-transaction.aspx">ADO.NET Entity Framework : Executing TSQL and DbContext under same Transaction</a></p>
-
-<p><a href="http://blogs.msdn.com/b/ikivanc/archive/2013/09/24/windows-8-1-learning-roadmap.aspx">Windows 8.1 Learning RoadMap</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://blog.coderstats.net/todomvc-complexity/">How Complex are TodoMVC Implementations</a></p>
-
-<p><a href="http://blog.jetbrains.com/webstorm/2013/09/welcome-webstorm-7-0-everything-you-need-at-your-fingertips-without-compromise/">Webstorm 7 Has Been Released</a><br/>
-Remember: Webstorm has moved to a subscription model so this is a free
-upgrade for anyone who has paid in the past year.</p>
-
-<p><a href="http://mgonto.github.io/restangular-talk-with-image-right/">Consuming REST APIs with Restangular</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="http://www.techienews.co.uk/971517/ruby-on-rails-2-0-4-0-vulnerable-to-account-hijacks/?utm_medium=referral&amp;utm_source=t.co">Ruby on Rails 2.0 – 4.0 vulnerable to account hijacks</a></p>
-
-<p><a href="http://blog.mattwynne.net/2013/09/25/are-ruby-conferences-taking-us-in-the-wrong-direction/">Are Ruby conferences taking us in the wrong direction?</a></p>
-
-<p><a href="http://confreaks.com/videos/2668-gogaruco2013-measuring-ruby">Measuring Ruby</a></p>
-
-<p><a href="http://engineering.gomiso.com/2011/06/27/building-a-platform-api-on-rails/">Building a Platform API on Rails</a></p>
-
-<h2>Community / Engineering / Architecture</h2>
-
-<p><a href="http://ht.ly/pchcF">Test First</a></p>
-
-<p><a href="http://ht.ly/pfNW5">A.T. FAIL!</a></p>
-
-<p><a href="http://swizec.com/blog/lessons-learned-in-a-year-of-freelancing/swizec/6348">Lessions Learned in a Year of Freelancing</a></p>
-
-<p><a href="http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/">Testing Code is Simple</a></p>
-
-<p><a href="https://twitter.com/chzy/status/383240788299108352">Agile is NOT a set of practices</a></p>
-
-<p><a href="http://worrydream.com/dbx/">References for "The Future of Programming"</a></p>
-
-<h2>REST / APIs / HTTP</h2>
-
-<p><a href="http://codebetter.com/howarddierking/2013/09/23/the-secret-to-restful-services-is-restful-clients/">The Secret to RESTful Services is RESTful Clients</a></p>
-
-<p><a href="http://blog.runscope.com/posts/api-providers-build-a-twilio-like-request-inspector-with-runscope">API Providers: Build a Twilio-like Request Inspector in One Day with Runscope Embeds</a></p>
-
-<h2>Virtualization / Cloud</h2>
-
-<p><a href="http://www.infoq.com/articles/docker-containers">Docker: Using Linux Containers to Support Portable Application Deployment</a></p>
-
-<p><a href="http://www.infoq.com/articles/cloud-pci-compliance">Cloud PCI Compliance: The Checklist</a></p>
-
-<p><a href="http://blogs.msdn.com/b/igorpag/archive/2013/09/25/sql-server-vm-disaster-recovery-between-azure-and-amazon.aspx">SQL Server VM Disaster Recovery Between Azure and Amazon</a></p>
-
-<p><a href="http://blogs.msdn.com/b/brunoterkaly/archive/2013/09/26/migrating-an-on-premises-sql-server-2012-database-to-windows-azure-sql-database.aspx">How to Migrate an On-Premises SQL Server 2012 Database to Windows Azure SQL Database</a></p>
-
-<p><a href="http://blogs.msdn.com/b/umits/archive/2013/09/27/windows-azure-learning-poster.aspx">Windows Azure Learning Poster</a></p>
-
-<h2>Editors / IDEs</h2>
-
-<p><a href="http://rc3.org/2012/05/12/the-grammar-of-vim/">The Grammar of Vim</a></p>
-
-<p><a href="http://marked2app.com/">Marked 2 Has Been Released</a></p>
-
-<p><a href="http://jesseliberty.com/2013/09/25/sublime-textmy-new-love/">Sublime Text - My New Love</a></p>
-
-<h2>Fun</h2>
-
-<p><a href="http://www.retrocomputers.eu/2013/09/27/beebsid-c64-sid-chip-for-the-bbc-micro-in-the-internet-case/">BeebSID – C64 SID chip for the BBC Micro in ‘The Internet’ case</a></p>
-
-<p><a href="http://kotaku.com/how-lucasarts-fell-apart-1401731043">How LucasArts Fell Apart</a></p>
-
-<p><a href="http://games.slashdot.org/story/13/09/28/136230/what-valves-announcements-mean-for-gaming?utm_source=slashdot&amp;utm_medium=twitter">What Valve's Announcements Mean for Gaming</a></p>
-
-<p><a href="http://blog.ittoby.com/2013/09/overclocking-haswell-quick-fail-method.html">Overclocking Haswell Quick Fail Method</a></p>
 ]]></content>
   </entry>
   
