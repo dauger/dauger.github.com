@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -24,13 +24,13 @@
 
 <p><a href="http://www.tideland.biz/article/370/state-machines-with-google-go">State Machine with Google Go</a></p>
 
-<p><a href="https://github.com/smartystreets/goconvey">goconvery - Awesome Testing in Go</a></p>
+<p><a href="https://github.com/smartystreets/goconvey">goconvery &ndash; Awesome Testing in Go</a></p>
 
 <p><a href="https://www.youtube.com/watch?v=B97PK8PdbRE&amp;feature=youtu.be">Becoming a Gopher: a Pythonista learning Go</a></p>
 
 <p><a href="https://gist.github.com/slawosz/6992517">https://gist.github.com/slawosz/6992517</a></p>
 
-<p><a href="https://github.com/ActiveState/golor">golor - a package for colored terminal printing</a></p>
+<p><a href="https://github.com/ActiveState/golor">golor &ndash; a package for colored terminal printing</a></p>
 
 <p><a href="http://0value.com/introducing-agora--a-dynamic--embeddable-programming-language-built-with-Go">Introducing agora: a dynamic, embeddable programming language built with Go</a></p>
 
@@ -38,11 +38,11 @@
 
 <h2>JavaScript</h2>
 
-<p><a href="http://blog.ghost.org/public-launch/">Ghost - a JS Based Blogging Platform</a></p>
+<p><a href="http://blog.ghost.org/public-launch/">Ghost &ndash; a JS Based Blogging Platform</a></p>
 
-<p><a href="http://nodeguide.com/style.html">Felix's Node.js Style Guide</a></p>
+<p><a href="http://nodeguide.com/style.html">Felix&rsquo;s Node.js Style Guide</a></p>
 
-<p><a href="https://github.com/jimhigson/oboe.js">oboe - a Progressive JSON parser for ajax calls</a></p>
+<p><a href="https://github.com/jimhigson/oboe.js">oboe &ndash; a Progressive JSON parser for ajax calls</a></p>
 
 <p><a href="http://beletsky.net/2013/10/securing-express-dot-js-http-endpoints.html">Securing Express.js HTTP Endpoints</a></p>
 
@@ -64,13 +64,13 @@
 
 <p><a href="http://chuvash.eu/2013/10/15/scriptcs-and-sharepoint/">Scriptcs and Sharepoint</a></p>
 
-<p><a href="http://www.nudoq.org/">NuDoq - API docs for NuGet packages</a></p>
+<p><a href="http://www.nudoq.org/">NuDoq &ndash; API docs for NuGet packages</a></p>
 
 <p><a href="http://gillesleblanc.wordpress.com/2013/02/28/534/">Choosing a BDD framework for .Net</a></p>
 
 <p><a href="http://blog.ploeh.dk/2013/10/15/easy-aspnet-web-api-dtos-with-f-climutable-records/">Easy ASP.NET Web API DTOs with F# CLIMutable records</a></p>
 
-<p><a href="http://escapelizard.wordpress.com/2013/10/16/10-things-you-maybe-didnt-know-about-c/">10 Things you Maybe Didn't Know About C#</a></p>
+<p><a href="http://escapelizard.wordpress.com/2013/10/16/10-things-you-maybe-didnt-know-about-c/">10 Things you Maybe Didn&rsquo;t Know About C#</a></p>
 
 <p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/16/nuget-is-a-net-framework-release-vehicle.aspx">NuGet is a .NET framework release vehicle</a></p>
 
@@ -88,7 +88,7 @@
 
 <p><a href="http://blogs.msdn.com/b/webdev/archive/2013/10/17/attribute-routing-in-asp-net-mvc-5.aspx">Attribute Routing in ASP.NET MVC 5</a></p>
 
-<p><a href="http://thedatafarm.com/blog/data-access/ef6-connection-resiliency-for-sql-azure-ndash-when-does-it-actually-do-it-rsquo-s-thing/">EF6 Connection Resilience for SQL Azure - When Does it Actually do Its Thing?</a></p>
+<p><a href="http://thedatafarm.com/blog/data-access/ef6-connection-resiliency-for-sql-azure-ndash-when-does-it-actually-do-it-rsquo-s-thing/">EF6 Connection Resilience for SQL Azure &ndash; When Does it Actually do Its Thing?</a></p>
 
 <p><a href="http://karlshifflett.wordpress.com/2013/10/19/microsoft-windows-8-1-corporate-policies-and-common-sense/">Microsoft Windows 8.1 – Corporate Policies and Common Sense</a></p>
 
@@ -145,7 +145,7 @@
 
 <h2>Rust</h2>
 
-<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I'm Learning Russt so I Can Move Away from C#</a></p>
+<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I&rsquo;m Learning Russt so I Can Move Away from C#</a></p>
 
 <h2>Go</h2>
 
@@ -163,7 +163,7 @@
 
 <p><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books List on Github</a></p>
 
-<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities - a REST viewpoint</a></p>
+<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities &ndash; a REST viewpoint</a></p>
 ]]></content>
   </entry>
   
@@ -188,7 +188,7 @@
 
 <p><a href="http://weblogs.asp.net/shijuvarghese/archive/2013/10/09/git-source-control-integration-with-windows-azure-mobile-services.aspx">Git Source Control Integration with Windows Azure Mobile Services</a></p>
 
-<p><a href="http://csharp.2000things.com/2013/10/10/949-whats-in-which-version-of-c/">What's in Which Version of C#</a></p>
+<p><a href="http://csharp.2000things.com/2013/10/10/949-whats-in-which-version-of-c/">What&rsquo;s in Which Version of C#</a></p>
 
 <p><a href="http://lostechies.com/jimmybogard/2013/10/10/put-your-controllers-on-a-diet-redux/">Put Your Controllers on a Diet: Redux</a></p>
 
@@ -237,7 +237,7 @@
 
 <p><a href="http://blogs.msdn.com/b/granth/archive/2013/10/08/what-does-a-well-maintained-team-foundation-server-look-like.aspx">What does a well maintained Team Foundation Server look like?</a></p>
 
-<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word "Enterprise"</a></p>
+<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word &ldquo;Enterprise&rdquo;</a></p>
 
 <p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx">ASP.NET App Suspend – responsive shared .NET web hosting</a></p>
 
@@ -277,17 +277,17 @@
 
 <p><a href="http://www.javacodegeeks.com/2012/11/the-10-rules-of-a-zen-programmer.html">The 10 Rules of a Zen Programmer</a></p>
 
-<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven's sake</a></p>
+<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven&rsquo;s sake</a></p>
 
 <p><a href="http://voiceofthedba.wordpress.com/2013/10/09/letting-people-go-securely/">Letting People Go Securely</a></p>
 
 <h2>Fun</h2>
 
-<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie - Sound and Vision 2013 Remix - Official Lyric Video</a></p>
+<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie &ndash; Sound and Vision 2013 Remix &ndash; Official Lyric Video</a></p>
 
-<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? - The Carrie Edition</a></p>
+<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? &ndash; The Carrie Edition</a></p>
 
-<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush's Video Timeline</a></p>
+<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush&rsquo;s Video Timeline</a></p>
 ]]></content>
   </entry>
   
@@ -298,7 +298,7 @@
     <id>http://nerditorium.danielauger.com/blog/2013/10/07/the-land-of-10-000-links-number-108</id>
     <content type="html"><![CDATA[<h2>.NET / Azure</h2>
 
-<p><a href="http://www.strathweb.com/2013/10/extend-glimpse-fly-scriptcs-code-execution-tab-glimpse/">Extend Glimpse on the Fly - Scriptcs Code Execution Tab in Glimpse</a></p>
+<p><a href="http://www.strathweb.com/2013/10/extend-glimpse-fly-scriptcs-code-execution-tab-glimpse/">Extend Glimpse on the Fly &ndash; Scriptcs Code Execution Tab in Glimpse</a></p>
 
 <p><a href="http://tomasp.net/blog/csharp-async-gotchas.aspx/">Async in C# and F#: Asynchronous gotchas in C#</a></p>
 
@@ -328,7 +328,7 @@
 
 <h2>JavaScript</h2>
 
-<p><a href="http://learnxinyminutes.com/docs/javascript/">Learn Y in X Minutes - Where X=JavaScript</a></p>
+<p><a href="http://learnxinyminutes.com/docs/javascript/">Learn Y in X Minutes &ndash; Where X=JavaScript</a></p>
 
 <p><a href="http://wekeroad.com/2013/10/07/yes-bad-javascript-will-shut-your-site-down">Yes Bad JavaScript Will Shut Your Site Down</a></p>
 
@@ -336,7 +336,7 @@
 
 <h2>Elixir</h2>
 
-<p><a href="http://chimera.labs.oreilly.com/books/1234000001642/">Etudes for Elixir</a> - a companion to <a href="http://shop.oreilly.com/product/0636920030584.do">Introducing Elixir</a></p>
+<p><a href="http://chimera.labs.oreilly.com/books/1234000001642/">Etudes for Elixir</a> &ndash; a companion to <a href="http://shop.oreilly.com/product/0636920030584.do">Introducing Elixir</a></p>
 
 <h2>Git</h2>
 
@@ -348,7 +348,7 @@
 
 <h2>Community / Architecture / Methodology</h2>
 
-<p><a href="http://amirrajan.net/meta/2013/10/06/TDD-the-wombo-combo-of-software-dev/">TDD - The Wombo Combo of Software Development</a></p>
+<p><a href="http://amirrajan.net/meta/2013/10/06/TDD-the-wombo-combo-of-software-dev/">TDD &ndash; The Wombo Combo of Software Development</a></p>
 
 <p><a href="http://jamesmckay.net/2013/10/your-best-practices-are-probably-nothing-of-the-sort/">Your best practices are (probably) nothing of the sort</a></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -18,9 +18,9 @@
     <link href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/"/>
     <updated>2013-06-22T23:24:00-05:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight</id>
-    <content type="html"><![CDATA[<p>Apigee's <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth's new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc...) that I can remember.</p>
+    <content type="html"><![CDATA[<p>Apigee&rsquo;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&rsquo;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&hellip;) that I can remember.</p>
 
-<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn't really explored (vocabularies, API DNAs, etc...). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
+<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&rsquo;t really explored (vocabularies, API DNAs, etc&hellip;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
 
 <p>Bottom line: point developers who are new to Web APIs to this course.</p>
 ]]></content>
@@ -31,30 +31,30 @@
     <link href="http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide/"/>
     <updated>2013-04-21T20:21:00-05:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/04/21/code-review-hack-no-ide</id>
-    <content type="html"><![CDATA[<h2>I'm a fan of code reviews</h2>
+    <content type="html"><![CDATA[<h2>I&rsquo;m a fan of code reviews</h2>
 
-<p>I've typically used code reviews for the following benefits:</p>
+<p>I&rsquo;ve typically used code reviews for the following benefits:</p>
 
 <ol>
-<li>As a code quality measure. I think that code reviews rank right up there with TDD as a code quality practice. When I'm calling the shots on a project, I like to have "code review" being a requirement of something being considered "done".</li>
+<li>As a code quality measure. I think that code reviews rank right up there with TDD as a code quality practice. When I&rsquo;m calling the shots on a project, I like to have &ldquo;code review&rdquo; being a requirement of something being considered &ldquo;done&rdquo;.</li>
 <li>As a conversational learning experience (which can benefit both the reviewee and the reviewer).</li>
 </ol>
 
 
-<p>When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I've come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.</p>
+<p>When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I&rsquo;ve come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.</p>
 
 <!-- more -->
 
 
 <h2>Last Friday</h2>
 
-<p>Last Friday was my annual code review at work. At <a href="http://nerdery.com">The Nerdery</a>, all developers get a special code review as part of the annual review process. This code review is not about catching immediate code quality issues. Rather, it is a conversation about some code that you've written in the past. This is so strengths, areas of improvement, what you've learned since, and overall skill can be assessed. Because the code under review can be "old", the conversation about the code can be more important than evaluating the code on its own merits.</p>
+<p>Last Friday was my annual code review at work. At <a href="http://nerdery.com">The Nerdery</a>, all developers get a special code review as part of the annual review process. This code review is not about catching immediate code quality issues. Rather, it is a conversation about some code that you&rsquo;ve written in the past. This is so strengths, areas of improvement, what you&rsquo;ve learned since, and overall skill can be assessed. Because the code under review can be &ldquo;old&rdquo;, the conversation about the code can be more important than evaluating the code on its own merits.</p>
 
-<p>The code review tool we use is custom built. It is not entirely unlike <a href="http://www.atlassian.com/software/crucible">Crucible</a>. The tool's focus is about reading code and adding comments and tasks to possible issues. It has syntax highlighting, but it has no other IDE or advanced text editor features.</p>
+<p>The code review tool we use is custom built. It is not entirely unlike <a href="http://www.atlassian.com/software/crucible">Crucible</a>. The tool&rsquo;s focus is about reading code and adding comments and tasks to possible issues. It has syntax highlighting, but it has no other IDE or advanced text editor features.</p>
 
 <h2>Reviewing and talking about code without the crutch of tooling can be a humbling experience</h2>
 
-<p>So... back to last Friday. I'm in my annual code review with one of my trusted peers. We've both been doing .NET development since .NET was released. We're reviewing an HMAC request signing WebAPI message handler I wrote about 3 months ago. We come across this:</p>
+<p>So&hellip; back to last Friday. I&rsquo;m in my annual code review with one of my trusted peers. We&rsquo;ve both been doing .NET development since .NET was released. We&rsquo;re reviewing an HMAC request signing WebAPI message handler I wrote about 3 months ago. We come across this:</p>
 
 <p>```csharp
  var dateUtcHeader = request</p>
@@ -74,11 +74,11 @@
 
 <p>The conversation then goes something like this:</p>
 
-<p>Peer: "Just curious... so why don't you need to check if the return value of FirstOrDefault is null?"</p>
+<p>Peer: &ldquo;Just curious&hellip; so why don&rsquo;t you need to check if the return value of FirstOrDefault is null?&rdquo;</p>
 
-<p>Me: "Huh... Good question!"</p>
+<p>Me: &ldquo;Huh&hellip; Good question!&rdquo;</p>
 
-<p>This was followed by us spewing out a few lines of thought, only to backtrack. To be clear, he wasn't trying to ding me. The underlying context here is that FirstOrDefault often requires a null check, but Resharper would have let me know if it was needed.</p>
+<p>This was followed by us spewing out a few lines of thought, only to backtrack. To be clear, he wasn&rsquo;t trying to ding me. The underlying context here is that FirstOrDefault often requires a null check, but Resharper would have let me know if it was needed.</p>
 
 <p>Needless to say, this was a pretty humbling inquiry, and it lead to conversing about code (which was the point of the entire exercise).</p>
 
@@ -108,27 +108,27 @@ KeyValuePair&lt;string, IEnumerable<string>> dateUtcHeader = request</p>
     <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
     <updated>2013-02-05T20:49:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
-    <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
 
 <ul>
 <li><p>Testing DelegatingHandlers in isolation via HttpMessageInvoker as outlined here: <a href="http://restoncode.azurewebsites.net/blog/2012/10/16/unit-testing-message-handler-in-asp-dot-net-webapi/">Unit Testing Message Handler in Asp.net WebAPI</a></p></li>
-<li><p>Testing "everything" via an in-memory HttpServer as outlined here: <a href="http://www.strathweb.com/2012/06/asp-net-web-api-integration-testing-with-in-memory-hosting/">ASP.NET Web API integration testing with in-memory hosting</a></p></li>
+<li><p>Testing &ldquo;everything&rdquo; via an in-memory HttpServer as outlined here: <a href="http://www.strathweb.com/2012/06/asp-net-web-api-integration-testing-with-in-memory-hosting/">ASP.NET Web API integration testing with in-memory hosting</a></p></li>
 </ul>
 
 
 <p>Testing with dependencies is straightforward with in-memory hosting because it is obvious that you can provide the HttpServer instance with an HttpConfiguration object containing an IDependencyResolver. However, when it comes to testing handlers via an HttpMessageInvoker, it is not entirely obvious or discoverable as to how you can wire up an HttpConfiguration (and therefore an IDependencyResolver).</p>
 
-<p>Here is the secret sauce: you can add an HttpConfiguration to a request object via a "stringly typed" <em>"MS_HttpConfiguration"</em> property on the HttpRequestMessage object.</p>
+<p>Here is the secret sauce: you can add an HttpConfiguration to a request object via a &ldquo;stringly typed&rdquo; <em>&ldquo;MS_HttpConfiguration&rdquo;</em> property on the HttpRequestMessage object.</p>
 
 <p>``` csharp<br/>
 [TestMethod]
 public void SomeHandlerTest()
 {
-   // ... other test setup
-   // ... set up handlerUnderTest including inner test handler</p>
+   // &hellip; other test setup
+   // &hellip; set up handlerUnderTest including inner test handler</p>
 
-<p>   request = new HttpRequestMessage(HttpMethod.Get, serverUrl + "/resource/1?someParam=foo");
-   request.Properties["MS_HttpConfiguration"] = MethodThatReturnsAnHttpConfigWithDepResolver();</p>
+<p>   request = new HttpRequestMessage(HttpMethod.Get, serverUrl + &ldquo;/resource/1?someParam=foo&rdquo;);
+   request.Properties[&ldquo;MS_HttpConfiguration&rdquo;] = MethodThatReturnsAnHttpConfigWithDepResolver();</p>
 
 <p>   invoker = new HttpMessageInvoker(handlerUnderTest);</p>
 
@@ -137,7 +137,7 @@ public void SomeHandlerTest()
 <pre><code>                              .Result;
 </code></pre>
 
-<p>   // ... asserts
+<p>   // &hellip; asserts
 }
 ```</p>
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/ubuntu/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -18,14 +18,14 @@
     <link href="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/"/>
     <updated>2010-12-26T23:01:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu</id>
-    <content type="html"><![CDATA[<p>If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you've probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue: <!-- more --></p>
+    <content type="html"><![CDATA[<p>If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you&rsquo;ve probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue: <!-- more --></p>
 
 <p>Add the following code to your ~/.profile file:
 ```bash</p>
 
 <h1>This loads RVM into the session scope of the launcher.</h1>
 
-<p>[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; . "$HOME/.rvm/scripts/rvm"
+<p>[[ -s &ldquo;$HOME/.rvm/scripts/rvm&rdquo; ]] &amp;&amp; . &ldquo;$HOME/.rvm/scripts/rvm&rdquo;
 <code>
 Next create a script that you can use to start up GVim. Example ~/Apps/GVim/gvimstart.sh. In this script, place the following:
 </code>bash</p>
@@ -35,7 +35,7 @@ Next create a script that you can use to start up GVim. Example ~/Apps/GVim/gvim
 <p>source ~/.profile
 gvim
 ```
-Then right click on the applications menu and choose "Edit Menus". Then find your GVim launcher and point the command entry to your script.</p>
+Then right click on the applications menu and choose &ldquo;Edit Menus&rdquo;. Then find your GVim launcher and point the command entry to your script.</p>
 
 <p>I am, by no means, a Gnome expert, so please let me know if you are aware of a better solution.</p>
 

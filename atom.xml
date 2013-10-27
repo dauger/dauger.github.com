@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -24,13 +24,13 @@
 
 <p><a href="http://www.tideland.biz/article/370/state-machines-with-google-go">State Machine with Google Go</a></p>
 
-<p><a href="https://github.com/smartystreets/goconvey">goconvery - Awesome Testing in Go</a></p>
+<p><a href="https://github.com/smartystreets/goconvey">goconvery &ndash; Awesome Testing in Go</a></p>
 
 <p><a href="https://www.youtube.com/watch?v=B97PK8PdbRE&amp;feature=youtu.be">Becoming a Gopher: a Pythonista learning Go</a></p>
 
 <p><a href="https://gist.github.com/slawosz/6992517">https://gist.github.com/slawosz/6992517</a></p>
 
-<p><a href="https://github.com/ActiveState/golor">golor - a package for colored terminal printing</a></p>
+<p><a href="https://github.com/ActiveState/golor">golor &ndash; a package for colored terminal printing</a></p>
 
 <p><a href="http://0value.com/introducing-agora--a-dynamic--embeddable-programming-language-built-with-Go">Introducing agora: a dynamic, embeddable programming language built with Go</a></p>
 
@@ -38,11 +38,11 @@
 
 <h2>JavaScript</h2>
 
-<p><a href="http://blog.ghost.org/public-launch/">Ghost - a JS Based Blogging Platform</a></p>
+<p><a href="http://blog.ghost.org/public-launch/">Ghost &ndash; a JS Based Blogging Platform</a></p>
 
-<p><a href="http://nodeguide.com/style.html">Felix&#8217;s Node.js Style Guide</a></p>
+<p><a href="http://nodeguide.com/style.html">Felix&rsquo;s Node.js Style Guide</a></p>
 
-<p><a href="https://github.com/jimhigson/oboe.js">oboe - a Progressive JSON parser for ajax calls</a></p>
+<p><a href="https://github.com/jimhigson/oboe.js">oboe &ndash; a Progressive JSON parser for ajax calls</a></p>
 
 <p><a href="http://beletsky.net/2013/10/securing-express-dot-js-http-endpoints.html">Securing Express.js HTTP Endpoints</a></p>
 
@@ -64,13 +64,13 @@
 
 <p><a href="http://chuvash.eu/2013/10/15/scriptcs-and-sharepoint/">Scriptcs and Sharepoint</a></p>
 
-<p><a href="http://www.nudoq.org/">NuDoq - API docs for NuGet packages</a></p>
+<p><a href="http://www.nudoq.org/">NuDoq &ndash; API docs for NuGet packages</a></p>
 
 <p><a href="http://gillesleblanc.wordpress.com/2013/02/28/534/">Choosing a BDD framework for .Net</a></p>
 
 <p><a href="http://blog.ploeh.dk/2013/10/15/easy-aspnet-web-api-dtos-with-f-climutable-records/">Easy ASP.NET Web API DTOs with F# CLIMutable records</a></p>
 
-<p><a href="http://escapelizard.wordpress.com/2013/10/16/10-things-you-maybe-didnt-know-about-c/">10 Things you Maybe Didn&#8217;t Know About C#</a></p>
+<p><a href="http://escapelizard.wordpress.com/2013/10/16/10-things-you-maybe-didnt-know-about-c/">10 Things you Maybe Didn&rsquo;t Know About C#</a></p>
 
 <p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/16/nuget-is-a-net-framework-release-vehicle.aspx">NuGet is a .NET framework release vehicle</a></p>
 
@@ -88,7 +88,7 @@
 
 <p><a href="http://blogs.msdn.com/b/webdev/archive/2013/10/17/attribute-routing-in-asp-net-mvc-5.aspx">Attribute Routing in ASP.NET MVC 5</a></p>
 
-<p><a href="http://thedatafarm.com/blog/data-access/ef6-connection-resiliency-for-sql-azure-ndash-when-does-it-actually-do-it-rsquo-s-thing/">EF6 Connection Resilience for SQL Azure - When Does it Actually do Its Thing?</a></p>
+<p><a href="http://thedatafarm.com/blog/data-access/ef6-connection-resiliency-for-sql-azure-ndash-when-does-it-actually-do-it-rsquo-s-thing/">EF6 Connection Resilience for SQL Azure &ndash; When Does it Actually do Its Thing?</a></p>
 
 <p><a href="http://karlshifflett.wordpress.com/2013/10/19/microsoft-windows-8-1-corporate-policies-and-common-sense/">Microsoft Windows 8.1 – Corporate Policies and Common Sense</a></p>
 
@@ -145,7 +145,7 @@
 
 <h2>Rust</h2>
 
-<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I&#8217;m Learning Russt so I Can Move Away from C#</a></p>
+<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I&rsquo;m Learning Russt so I Can Move Away from C#</a></p>
 
 <h2>Go</h2>
 
@@ -163,7 +163,7 @@
 
 <p><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books List on Github</a></p>
 
-<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities - a REST viewpoint</a></p>
+<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities &ndash; a REST viewpoint</a></p>
 ]]></content>
   </entry>
   
@@ -188,7 +188,7 @@
 
 <p><a href="http://weblogs.asp.net/shijuvarghese/archive/2013/10/09/git-source-control-integration-with-windows-azure-mobile-services.aspx">Git Source Control Integration with Windows Azure Mobile Services</a></p>
 
-<p><a href="http://csharp.2000things.com/2013/10/10/949-whats-in-which-version-of-c/">What&#8217;s in Which Version of C#</a></p>
+<p><a href="http://csharp.2000things.com/2013/10/10/949-whats-in-which-version-of-c/">What&rsquo;s in Which Version of C#</a></p>
 
 <p><a href="http://lostechies.com/jimmybogard/2013/10/10/put-your-controllers-on-a-diet-redux/">Put Your Controllers on a Diet: Redux</a></p>
 
@@ -237,7 +237,7 @@
 
 <p><a href="http://blogs.msdn.com/b/granth/archive/2013/10/08/what-does-a-well-maintained-team-foundation-server-look-like.aspx">What does a well maintained Team Foundation Server look like?</a></p>
 
-<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word &#8220;Enterprise&#8221;</a></p>
+<p><a href="http://www.khalidabuhakmeh.com/retire-the-word-enterprise">Retire the Word &ldquo;Enterprise&rdquo;</a></p>
 
 <p><a href="http://blogs.msdn.com/b/dotnet/archive/2013/10/09/asp-net-app-suspend-responsive-shared-net-web-hosting.aspx">ASP.NET App Suspend – responsive shared .NET web hosting</a></p>
 
@@ -277,17 +277,17 @@
 
 <p><a href="http://www.javacodegeeks.com/2012/11/the-10-rules-of-a-zen-programmer.html">The 10 Rules of a Zen Programmer</a></p>
 
-<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven&#8217;s sake</a></p>
+<p><a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/10/08/10454920.aspx">I wrote FAT on an airplane, for heaven&rsquo;s sake</a></p>
 
 <p><a href="http://voiceofthedba.wordpress.com/2013/10/09/letting-people-go-securely/">Letting People Go Securely</a></p>
 
 <h2>Fun</h2>
 
-<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie - Sound and Vision 2013 Remix - Official Lyric Video</a></p>
+<p><a href="http://www.youtube.com/watch?v=peiJ9_1tH_w">David Bowie &ndash; Sound and Vision 2013 Remix &ndash; Official Lyric Video</a></p>
 
-<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? - The Carrie Edition</a></p>
+<p><a href="http://gizmodo.com/watch-this-girl-with-telekinetic-powers-freak-out-coffe-1442158546">What Would You Do? &ndash; The Carrie Edition</a></p>
 
-<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush&#8217;s Video Timeline</a></p>
+<p><a href="http://www.rollingstone.com/music/pictures/geddy-lee-dives-into-rushs-video-timeline-20131007">Geddy Lee Dives Into Rush&rsquo;s Video Timeline</a></p>
 ]]></content>
   </entry>
   
@@ -298,7 +298,7 @@
     <id>http://nerditorium.danielauger.com/blog/2013/10/07/the-land-of-10-000-links-number-108</id>
     <content type="html"><![CDATA[<h2>.NET / Azure</h2>
 
-<p><a href="http://www.strathweb.com/2013/10/extend-glimpse-fly-scriptcs-code-execution-tab-glimpse/">Extend Glimpse on the Fly - Scriptcs Code Execution Tab in Glimpse</a></p>
+<p><a href="http://www.strathweb.com/2013/10/extend-glimpse-fly-scriptcs-code-execution-tab-glimpse/">Extend Glimpse on the Fly &ndash; Scriptcs Code Execution Tab in Glimpse</a></p>
 
 <p><a href="http://tomasp.net/blog/csharp-async-gotchas.aspx/">Async in C# and F#: Asynchronous gotchas in C#</a></p>
 
@@ -328,7 +328,7 @@
 
 <h2>JavaScript</h2>
 
-<p><a href="http://learnxinyminutes.com/docs/javascript/">Learn Y in X Minutes - Where X=JavaScript</a></p>
+<p><a href="http://learnxinyminutes.com/docs/javascript/">Learn Y in X Minutes &ndash; Where X=JavaScript</a></p>
 
 <p><a href="http://wekeroad.com/2013/10/07/yes-bad-javascript-will-shut-your-site-down">Yes Bad JavaScript Will Shut Your Site Down</a></p>
 
@@ -336,7 +336,7 @@
 
 <h2>Elixir</h2>
 
-<p><a href="http://chimera.labs.oreilly.com/books/1234000001642/">Etudes for Elixir</a> - a companion to <a href="http://shop.oreilly.com/product/0636920030584.do">Introducing Elixir</a></p>
+<p><a href="http://chimera.labs.oreilly.com/books/1234000001642/">Etudes for Elixir</a> &ndash; a companion to <a href="http://shop.oreilly.com/product/0636920030584.do">Introducing Elixir</a></p>
 
 <h2>Git</h2>
 
@@ -348,7 +348,7 @@
 
 <h2>Community / Architecture / Methodology</h2>
 
-<p><a href="http://amirrajan.net/meta/2013/10/06/TDD-the-wombo-combo-of-software-dev/">TDD - The Wombo Combo of Software Development</a></p>
+<p><a href="http://amirrajan.net/meta/2013/10/06/TDD-the-wombo-combo-of-software-dev/">TDD &ndash; The Wombo Combo of Software Development</a></p>
 
 <p><a href="http://jamesmckay.net/2013/10/your-best-practices-are-probably-nothing-of-the-sort/">Your best practices are (probably) nothing of the sort</a></p>
 
@@ -371,7 +371,7 @@
 
 <p><a href="http://blog.jcoglan.com/2013/10/01/announcing-faye-1-0/">Announcing Faye 1.0</a></p>
 
-<p><a href="http://toys.usvsth3m.com/javascript-under-pressure/">You Can&#8217;t JavaScript Under Pressure</a></p>
+<p><a href="http://toys.usvsth3m.com/javascript-under-pressure/">You Can&rsquo;t JavaScript Under Pressure</a></p>
 
 <p><a href="http://www.sitepoint.com/writing-awesome-build-script-grunt/">Writing an Awesome Build Script with Grunt</a></p>
 
@@ -381,7 +381,7 @@
 
 <h2>Go</h2>
 
-<p><a href="http://blog.golang.org/slices">Arrays, slices (and strings): The mechanics of &#8216;append&#8217;</a></p>
+<p><a href="http://blog.golang.org/slices">Arrays, slices (and strings): The mechanics of &lsquo;append&rsquo;</a></p>
 
 <p><a href="http://nathany.com/go-testing-toolbox/">Go Testing Toolbox</a></p>
 
@@ -389,7 +389,7 @@
 
 <p><a href="http://www.codingcookies.com/2013/09/21/creating-a-proxy-server-with-go/">Creating a Proxy Server in Go</a></p>
 
-<p><a href="http://mwholt.blogspot.com/2013/09/behavior-driven-testing-in-go-with.html">Behavior-driven testing in Go with GoConvey (BDD in &#8220;golang&#8221;)</a></p>
+<p><a href="http://mwholt.blogspot.com/2013/09/behavior-driven-testing-in-go-with.html">Behavior-driven testing in Go with GoConvey (BDD in &ldquo;golang&rdquo;)</a></p>
 
 <p><a href="http://rubylearning.com/blog/2013/09/24/an-introduction-to-go-programming-a-free-online-course/">An Introduction to Go programming – A Free Online Course</a></p>
 
@@ -409,7 +409,7 @@
 
 <p><a href="http://www.diaryofaninja.com/blog/2013/09/28/migrating-diary-of-a-ninja-to-azure-websites-and-sql-azure">Migrating Diary of a Ninja to Azure Websites and SQL Azure</a></p>
 
-<p><a href="http://tfs.visualstudio.com/news/2013-sep-30">Team Foundation Service updates - Sep 30</a></p>
+<p><a href="http://tfs.visualstudio.com/news/2013-sep-30">Team Foundation Service updates &ndash; Sep 30</a></p>
 
 <p><a href="http://blog.pluralsight.com/2013/07/31/get-ready-for-ef6-by-learning-ef5/">Get ready for EF6… by learning EF5!</a></p>
 
@@ -427,7 +427,7 @@
 
 <p><a href="http://msarchet.com/hyperapi/">HyperApi</a></p>
 
-<p><a href="http://www.flexsearch.net/">{F}lexSearch - Flexible and fast open source .net based Search Engine</a></p>
+<p><a href="http://www.flexsearch.net/">{F}lexSearch &ndash; Flexible and fast open source .net based Search Engine</a></p>
 
 <p><a href="http://msdn.microsoft.com/en-us/magazine/dn451439.aspx">Getting Started with the Katana Project</a></p>
 
@@ -435,7 +435,7 @@
 
 <p><a href="http://msmvps.com/blogs/nunogodinho/archive/2013/04/22/lessons-learned-taking-the-best-out-of-windows-azure-virtual-machines.aspx">Lessons Learned: Taking the best out of Widnows Azure Virtual Machines</a></p>
 
-<p><a href="http://blog.jonathanchannon.com/2013/10/01/blogging-with-markdown-and-git/">Blogging with Markdown &amp; Deploying via Git - Introducing Sandra.Snow</a></p>
+<p><a href="http://blog.jonathanchannon.com/2013/10/01/blogging-with-markdown-and-git/">Blogging with Markdown &amp; Deploying via Git &ndash; Introducing Sandra.Snow</a></p>
 
 <p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/owin-middleware-in-the-iis-integrated-pipeline">OWIN Middleware in the IIS integrated pipeline</a></p>
 
@@ -443,7 +443,7 @@
 
 <p><a href="http://cmr.github.io/blog/2013/09/30/this-week-in-rust/">This Week in Rust</a></p>
 
-<p><a href="https://twitter.com/avdi/status/384731018538000384">Drama - Haskell == Rust > Go</a></p>
+<p><a href="https://twitter.com/avdi/status/384731018538000384">Drama &ndash; Haskell == Rust > Go</a></p>
 
 <h2>Elixir</h2>
 
@@ -451,7 +451,7 @@
 
 <h2>REST / APIs / HTTP</h2>
 
-<p><a href="http://www.designinghypermediaapis.com/blog/the-beginning-of-the-end.html">Update on Desinging Hypermerdia APIs Book - The Beginning of the End</a></p>
+<p><a href="http://www.designinghypermediaapis.com/blog/the-beginning-of-the-end.html">Update on Desinging Hypermerdia APIs Book &ndash; The Beginning of the End</a></p>
 
 <p><a href="http://www.crummy.com/writing/RESTful-Web-Services/">RESTful Web Services has been put online for free</a></p>
 
@@ -465,7 +465,7 @@
 
 <p><a href="http://openmymind.net/Growth-Planning/">Growth Planning</a></p>
 
-<p><a href="http://www.informit.com/promotions/what-is-the-best-way-for-a-programmer-to-learn-a-new-139481">What&#8217;s the Best Way for a Programmer to Learn a New Language?</a></p>
+<p><a href="http://www.informit.com/promotions/what-is-the-best-way-for-a-programmer-to-learn-a-new-139481">What&rsquo;s the Best Way for a Programmer to Learn a New Language?</a></p>
 
 <p><a href="http://rylev.github.io/words/blog/2013/10/03/erlang-is-the-most-object-oriented-language/">Erlang is the Most Object Oriented Language</a></p>
 
@@ -475,7 +475,7 @@
 
 <p><a href="http://lostechies.com/jimmybogard/2013/10/01/curbing-long-tail-design/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Curbing Long Tail Desing</a></p>
 
-<p><a href="http://venturebeat.com/2013/09/30/an-idiots-guide-to-devops/">An Idiot&#8217;s Guide to Devops</a></p>
+<p><a href="http://venturebeat.com/2013/09/30/an-idiots-guide-to-devops/">An Idiot&rsquo;s Guide to Devops</a></p>
 
 <p><a href="http://lostechies.com/jimmybogard/2013/10/03/scaling-lessons-learnedfrom-0-to-15-million-users/">Scaling lessons learned–from 0 to 15 million users</a></p>
 
@@ -494,26 +494,26 @@
 
 <p><strong>PSA</strong>: There is an interesting discussion going on regarding the state
 of OSS in the .NET community.<br/>
-<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a> by <a href="https://twitter.com/amirrajan">Amir Rajan</a><br/>
-<a href="http://nerditorium.danielauger.com/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Perception is Reality - .NET OSS Is Getting Better</a> by <a href="https://twitter.com/danielauger">Moi</a><br/>
+<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality &ndash; .Net OSS is DOA</a> by <a href="https://twitter.com/amirrajan">Amir Rajan</a><br/>
+<a href="http://nerditorium.danielauger.com/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Perception is Reality &ndash; .NET OSS Is Getting Better</a> by <a href="https://twitter.com/danielauger">Moi</a><br/>
 <a href="http://lostechies.com/jimmybogard/2013/09/25/perception-is-realitythe-state-of-oss-in-net/">Perception is Reality–The state of OSS in .NET</a> by <a href="https://twitter.com/jbogard">Jimmy Bogard</a><br/>
 <a href="http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard/">Reality is an Illusion – .NET OSS is hard</a> by <a href="https://twitter.com/markrendle">Mark Rendle</a></p>
 
 <p><a href="https://www.youtube.com/watch?v=oaJgxPonEkc&amp;feature=youtu.be">Visual Studio Automation With Leap Motion</a></p>
 
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/22/web-publish-how-to-automate-multi-project-publish-with-file-system.aspx">Web Publish - How to Automate Multi-project Publish with File System</a></p>
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/22/web-publish-how-to-automate-multi-project-publish-with-file-system.aspx">Web Publish &ndash; How to Automate Multi-project Publish with File System</a></p>
 
 <p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection">OWIN Startup Class Detection</a></p>
 
 <p><a href="https://twitter.com/gblock/status/383350823884836865">Glenn Block is leaving Microsoft</a></p>
 
-<p><a href="http://www.microsoftvirtualacademy.com/training-courses/developing-asp-net-mvc-4-web-applications-jump-start#fbid=7-fpkOj_Hmy">Microsoft Virtual Academy - Developing ASP.NET MVC 4 Web Applications Jump Start</a></p>
+<p><a href="http://www.microsoftvirtualacademy.com/training-courses/developing-asp-net-mvc-4-web-applications-jump-start#fbid=7-fpkOj_Hmy">Microsoft Virtual Academy &ndash; Developing ASP.NET MVC 4 Web Applications Jump Start</a></p>
 
 <p><a href="http://lostechies.com/jimmybogard/2013/09/26/test-styles-and-avoiding-setupteardown/?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">Test styles and avoiding setup/teardown</a></p>
 
-<p><a href="http://www.philliphaydon.com/2013/09/instant-nancy-web-development-book-review/">Instant Nancy Web Development - Book Review</a></p>
+<p><a href="http://www.philliphaydon.com/2013/09/instant-nancy-web-development-book-review/">Instant Nancy Web Development &ndash; Book Review</a></p>
 
-<p><a href="https://www.youtube.com/watch?v=50Nqom-Zpuo&amp;feature=youtu.be&amp;a">Owin - A New .NET Web</a></p>
+<p><a href="https://www.youtube.com/watch?v=50Nqom-Zpuo&amp;feature=youtu.be&amp;a">Owin &ndash; A New .NET Web</a></p>
 
 <p><a href="http://channel9.msdn.com/Series/Get-Started-MS-Big-Data/01">Getting Started with Microsft Big Data</a></p>
 
@@ -533,7 +533,7 @@ of OSS in the .NET community.<br/>
 
 <p><a href="http://cibrax.me/blog/2013/09/27/unit-testing-improvements-in-asp-dot-net-web-api/">Unit Testing Improvements in ASP.NET Web API</a></p>
 
-<p><a href="http://www.theverge.com/2013/9/27/4779036/exclusive-video-steve-ballmers-intense-tearful-goodbye-to-microsoft">Ballmer&#8217;s Exit Speech</a></p>
+<p><a href="http://www.theverge.com/2013/9/27/4779036/exclusive-video-steve-ballmers-intense-tearful-goodbye-to-microsoft">Ballmer&rsquo;s Exit Speech</a></p>
 
 <p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/23/attribute-routing-changes-for-asp-net-web-stack-shipped-in-vs2013-rc.aspx">Attribute Routing changes for ASP.NET Web Stack shipped in VS2013 RC</a></p>
 
@@ -573,7 +573,7 @@ upgrade for anyone who has paid in the past year.</p>
 
 <p><a href="https://twitter.com/chzy/status/383240788299108352">Agile is NOT a set of practices</a></p>
 
-<p><a href="http://worrydream.com/dbx/">References for &#8220;The Future of Programming&#8221;</a></p>
+<p><a href="http://worrydream.com/dbx/">References for &ldquo;The Future of Programming&rdquo;</a></p>
 
 <h2>REST / APIs / HTTP</h2>
 
@@ -599,7 +599,7 @@ upgrade for anyone who has paid in the past year.</p>
 
 <p><a href="http://marked2app.com/">Marked 2 Has Been Released</a></p>
 
-<p><a href="http://jesseliberty.com/2013/09/25/sublime-textmy-new-love/">Sublime Text - My New Love</a></p>
+<p><a href="http://jesseliberty.com/2013/09/25/sublime-textmy-new-love/">Sublime Text &ndash; My New Love</a></p>
 
 <h2>Fun</h2>
 
@@ -607,7 +607,7 @@ upgrade for anyone who has paid in the past year.</p>
 
 <p><a href="http://kotaku.com/how-lucasarts-fell-apart-1401731043">How LucasArts Fell Apart</a></p>
 
-<p><a href="http://games.slashdot.org/story/13/09/28/136230/what-valves-announcements-mean-for-gaming?utm_source=slashdot&amp;utm_medium=twitter">What Valve&#8217;s Announcements Mean for Gaming</a></p>
+<p><a href="http://games.slashdot.org/story/13/09/28/136230/what-valves-announcements-mean-for-gaming?utm_source=slashdot&amp;utm_medium=twitter">What Valve&rsquo;s Announcements Mean for Gaming</a></p>
 
 <p><a href="http://blog.ittoby.com/2013/09/overclocking-haswell-quick-fail-method.html">Overclocking Haswell Quick Fail Method</a></p>
 ]]></content>
@@ -619,10 +619,10 @@ upgrade for anyone who has paid in the past year.</p>
     <updated>2013-09-23T20:31:00-05:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better</id>
     <content type="html"><![CDATA[<p>This post is a response (not a rebuttal) to:
-<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a>
+<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality &ndash; .Net OSS is DOA</a>
 by <a href="https://twitter.com/amirrajan">Amir Rajan</a></p>
 
-<p><em>note: I intentionally heaven&#8217;t read many of the linked blog&#8217;s comments so that
+<p><em>note: I intentionally heaven&rsquo;t read many of the linked blog&rsquo;s comments so that
 I could get my own thoughts down. Therefore, I may be repeating some
 things that have already been said.</em></p>
 
@@ -632,10 +632,13 @@ things that have already been said.</em></p>
 However, OSS usage has really taken off among other types of teams. Additionally, there are things that Microsoft
 could do to increase OSS adoption across the board.</p>
 
+<!-- more -->
+
+
 <h2>OSS in the Enterprise / Big Business Projects</h2>
 
 <p>Although there is a long way to go when it comes to getting enterprise .NET
-shops to embrace OSS, I&#8217;ve definitely seen an increase in acceptance over the
+shops to embrace OSS, I&rsquo;ve definitely seen an increase in acceptance over the
 past three years. This is largely due to a number of factors such as: NuGet
 being an integral part of the current Visual Studio experience, the fact that
 MS is now including OSS libraries as a part of default templates, and the fact
@@ -643,30 +646,30 @@ that MS has open sourced many of the frameworks that are central to running .NET
 on a server.</p>
 
 <p>There is a caveat here: in my experience, the items above have not automatically
-made enterprises OSS friendly. Microsoft&#8217;s consulting division isn&#8217;t walking
-into enterprises saying &#8220;embrace open source.&#8221; (in fact I&#8217;ve heard a couple say
+made enterprises OSS friendly. Microsoft&rsquo;s consulting division isn&rsquo;t walking
+into enterprises saying &ldquo;embrace open source.&rdquo; (in fact I&rsquo;ve heard a couple say
 the opposite recently) However, the above items give OSS advocates more
-evidence when trying to persuade stakeholders to use OSS packages. I&#8217;ve
-personally seen an organization go from &#8220;we won&#8217;t use OSS&#8221; to &#8220;let&#8217;s use some
-well known packages.&#8221; And yes&#8230; I&#8217;m even talking about packages that aren&#8217;t MS
+evidence when trying to persuade stakeholders to use OSS packages. I&rsquo;ve
+personally seen an organization go from &ldquo;we won&rsquo;t use OSS&rdquo; to &ldquo;let&rsquo;s use some
+well known packages.&rdquo; And yes&hellip; I&rsquo;m even talking about packages that aren&rsquo;t MS
 backed.</p>
 
-<p>In the past, open source would have just been rejected as being &#8220;open source&#8221;
-in the environments I&#8217;m talking about. Now the hesitation I&#8217;m seeing revolves
+<p>In the past, open source would have just been rejected as being &ldquo;open source&rdquo;
+in the environments I&rsquo;m talking about. Now the hesitation I&rsquo;m seeing revolves
 largely around knowing how to vet and choose OSS packages. People are worried
-about relying on projects that may die off suddenly - especially on larger /
+about relying on projects that may die off suddenly &ndash; especially on larger /
 expensive projects. Obviously even the cautious know that just because something
-is from Microsoft doesn&#8217;t mean it won&#8217;t be abandoned either. However, I&#8217;m still
+is from Microsoft doesn&rsquo;t mean it won&rsquo;t be abandoned either. However, I&rsquo;m still
 seeing this as a significant psychological hurdle when it comes to using
 OSS in these environments.</p>
 
 <h2>OSS in Design Agencies and Direct to Business Projects</h2>
 
-<p>If you aren&#8217;t familiar with these sectors, I&#8217;ll do a probably offensive
+<p>If you aren&rsquo;t familiar with these sectors, I&rsquo;ll do a probably offensive
 job of explaining them below.</p>
 
 <p><strong>Design Agencies</strong> are entities that will pitch, design (and possibly UX and
-develop) a software solution for companies that don&#8217;t have a public-end-user savvy
+develop) a software solution for companies that don&rsquo;t have a public-end-user savvy
 development group.</p>
 
 <p><em>Example of an agency project: A big box retailer needs a highly
@@ -676,12 +679,12 @@ interactive mini-site for their holiday sale.</em></p>
 for clients that would otherwise fall into the mainstream corporate /
 enterprise category. However, agencies rarely have to follow the same technology
 rules that internal teams do. In fact, they are often hired to bypass the
-involvement of an internal team. What&#8217;s also interesting is that I&#8217;m seeing an
+involvement of an internal team. What&rsquo;s also interesting is that I&rsquo;m seeing an
 increase in requests to implement things that would have traditionally fallen
-under their internal dev group (APIs, data migrations, etc&#8230;).</p>
+under their internal dev group (APIs, data migrations, etc&hellip;).</p>
 
 <p><strong>Direct to Business</strong> are typically clients that do not have a dev shop, or they have
-a dev shop that can&#8217;t meet current demands by themselves.</p>
+a dev shop that can&rsquo;t meet current demands by themselves.</p>
 
 <p><em>Example: A medical research company needs a custom application to
 manage research protocols.</em></p>
@@ -702,7 +705,7 @@ enough for busting their asses trying to push open source initiatives.</p></bloc
 are making a huge difference in OSS adoption, but there is still a lot
 of work to do.</p>
 
-<blockquote><p>It <em>doesn&#8217;t</em> have to be this way.</p></blockquote>
+<blockquote><p>It <em>doesn&rsquo;t</em> have to be this way.</p></blockquote>
 
 <p>I think the following enhancements <em>could</em> be made at Microsoft
 to facilitate the adoption of OSS in the .NET world:</p>
@@ -719,8 +722,8 @@ a) The MS Consulting arm, and b) Patterns and Practices. Although these
 people may not participate in our larger community, they undoubtedly cross paths with MS
 consultants and the PnP group.</p>
 
-<p><em>As a related aside: you&#8217;d really be surprised how effective events like
-VSLive! are for promoting open source. I&#8217;ve seen someone arrive at the
+<p><em>As a related aside: you&rsquo;d really be surprised how effective events like
+VSLive! are for promoting open source. I&rsquo;ve seen someone arrive at the
 conference with a decidedly anti-Git attitude but leave the conference
 open to it because almost all of the presenters (including Microsoft people)
 were using it in their talks.</em></p>
@@ -730,24 +733,24 @@ were using it in their talks.</em></p>
 <p>At the very least, the express version of Visual Studio should support
 plug-ins. Additionally, any new framework libraries should be <a href="http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx">free of platform restrictions</a>.</p>
 
-<p>Along these lines - anything new on the server side that could work on
+<p>Along these lines &ndash; anything new on the server side that could work on
 Mono should be made so that it works on Mono.</p>
 
-<h3>Don&#8217;t Reinvent the Wheel; Invest in Existing OSS Projects</h3>
+<h3>Don&rsquo;t Reinvent the Wheel; Invest in Existing OSS Projects</h3>
 
 <p>Something like the <a href="http://efvote.wufoo.com/forms/z7x3p9/">NHibernate vs EntityFramework situation</a>
 should never happen again (no offense to the bright EF developers). This was a really
 horrible event in .NET OSS history. NH is basically dead now, and we are left with something that
 is still playing catch-up.</p>
 
-<h3>Continue Backing Established Projects but Don&#8217;t Leave the &#8220;Little Guys&#8221; Out of the Picture.</h3>
+<h3>Continue Backing Established Projects but Don&rsquo;t Leave the &ldquo;Little Guys&rdquo; Out of the Picture.</h3>
 
 <p>This may be a contriversial opinion, but I think Microsoft needs to
-continue to &#8220;back&#8221; projects. I don&#8217;t think anyone will argue that
+continue to &ldquo;back&rdquo; projects. I don&rsquo;t think anyone will argue that
 throwing resources behind node.js has been anything but good for us.</p>
 
 <p>As far as keeping the little guys in the picture goes, this could be a
-bit trickier and I don&#8217;t have a slam-dunk idea at the moment. Maybe
+bit trickier and I don&rsquo;t have a slam-dunk idea at the moment. Maybe
 MS needs to open up the MVP program to be more OSS centric (instead of
 boots on the ground at your local user group centric), or maybe they need to
 do an emerging technologies review every once in awhile like ThoughtWorks&#8217;
@@ -757,8 +760,8 @@ do an emerging technologies review every once in awhile like ThoughtWorks&#8217;
 
 <p>You might ask yourself why Microsoft would want to make Azure less .NET
 and Windows focused, but I think it is clear that the world
-won&#8217;t be Windows dominated again anytime soon. Additionally, making
-Azure friendly to PHP, Node.js, Python, Ruby on Rails, etc&#8230; can bring
+won&rsquo;t be Windows dominated again anytime soon. Additionally, making
+Azure friendly to PHP, Node.js, Python, Ruby on Rails, etc&hellip; can bring
 those developers at least a little bit closer to our community. This in
 turn should help our community rejuvinate with new ideas.</p>
 
@@ -767,7 +770,7 @@ turn should help our community rejuvinate with new ideas.</p>
 <p>I think there are some significant challenges ahead for those inside of
 Microsoft who wish to promote OSS. I personally think getting the
 consulting arm onboard is going to be a large hurdle that could make or
-break things. Also - I haven&#8217;t really done enough thinking about the
+break things. Also &ndash; I haven&rsquo;t really done enough thinking about the
 recent reorg to foresee how it might affect things.</p>
 
 <h2>Other Reactions</h2>
@@ -786,9 +789,9 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://apievangelist.com/2013/09/14/api-monetization-in-the-internet-of-things--nordic-apis/">API Monetization In The Internet of Things @ Nordic APIs</a></p>
 
-<p><a href="http://thenextweb.com/entrepreneur/2013/09/15/why-you-probably-dont-need-an-api-strategy/">Why You Probably Don&#8217;t Need an API Strategy</a></p>
+<p><a href="http://thenextweb.com/entrepreneur/2013/09/15/why-you-probably-dont-need-an-api-strategy/">Why You Probably Don&rsquo;t Need an API Strategy</a></p>
 
-<p><a href="http://readwrite.com/2013/09/19/api-defined#awesm=~ohZ4uqjc0xOXUd">What APIs Are And Why They&#8217;re Important</a></p>
+<p><a href="http://readwrite.com/2013/09/19/api-defined#awesm=~ohZ4uqjc0xOXUd">What APIs Are And Why They&rsquo;re Important</a></p>
 
 <h2>Ruby</h2>
 
@@ -798,11 +801,11 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.randomhacks.net/articles/2005/12/03/why-ruby-is-an-acceptable-lisp">Why Ruby is an Acceptable LISP</a></p>
 
-<p><a href="https://speakerdeck.com/sarahmei/why-hasnt-ruby-won">Why Hasn&#8217;t Ruby Won?</a></p>
+<p><a href="https://speakerdeck.com/sarahmei/why-hasnt-ruby-won">Why Hasn&rsquo;t Ruby Won?</a></p>
 
-<p><a href="http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/">Twitter Drops Ruby - The Bullshit</a></p>
+<p><a href="http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/">Twitter Drops Ruby &ndash; The Bullshit</a></p>
 
-<p><a href="http://www.reddit.com/r/ruby/comments/1mwg7o/what_are_some_of_the_best_ruby_programs_youve/">Reddit - What are Some of the Best Ruby Programs You&#8217;ve Ever Seen?</a></p>
+<p><a href="http://www.reddit.com/r/ruby/comments/1mwg7o/what_are_some_of_the_best_ruby_programs_youve/">Reddit &ndash; What are Some of the Best Ruby Programs You&rsquo;ve Ever Seen?</a></p>
 
 <p><a href="http://www.sitepoint.com/comparing-ruby-background-processing-libraries-delayed-job/">Comparing Ruby Background Processing Libraries: Delayed Job</a></p>
 
@@ -814,19 +817,19 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+haacked+%28you%27ve+been+HAACKED%29">RestSharp 104.2.0 Released</a></p>
 
-<p><a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a></p>
+<p><a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality &ndash; .Net OSS is DOA</a></p>
 
 <p><a href="http://roysvork.wordpress.com/2013/09/20/nancy-style-modules-in-asp-net-web-api-with-superscribe/">Nancy Style Modules in ASP.NET WebAPI with Superscribe</a></p>
 
 <p><a href="http://roysvork.wordpress.com/2013/09/22/why-you-shouldnt-use-a-web-framework-to-build-your-next-api/">Why you shouldn’t use a web framework to build your next API</a></p>
 
-<p><a href="http://ianbattersby.github.io/blog/2013/09/21/sorry-windows-its-you-not-me/">Sorry Windows, It&#8217;s You, Not Me.</a></p>
+<p><a href="http://ianbattersby.github.io/blog/2013/09/21/sorry-windows-its-you-not-me/">Sorry Windows, It&rsquo;s You, Not Me.</a></p>
 
 <p><a href="http://blogs.msdn.com/b/myamama/archive/2013/09/22/download-free-windows-phone-quality-checklist.aspx">Windows Phone Development Quality Checklist</a></p>
 
 <p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/09/19/announcing-the-availability-of-team-foundation-server-2013-power-tools.aspx">Announcing the availability of Team Foundation Server 2013 Power Tools</a></p>
 
-<p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/09/19/casting-vs-quot-as-quot-embracing-exceptions.aspx">Casting vs &#8220;as&#8221; - Embracing Exceptions</a></p>
+<p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/09/19/casting-vs-quot-as-quot-embracing-exceptions.aspx">Casting vs &ldquo;as&rdquo; &ndash; Embracing Exceptions</a></p>
 
 <p><a href="http://blog.jonathanchannon.com/2013/09/20/returning-multiple-fake-objects-with-fakeiteasy/">Returning multiple fake objects with FakeItEasy</a></p>
 
@@ -858,7 +861,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <h2>Community / Engineering</h2>
 
-<p><a href="http://lucisferre.net/2013/09/11/why-im-not-supporting-old-ie-versions/">Why I&#8217;m Not Supporting Old IE Versions</a></p>
+<p><a href="http://lucisferre.net/2013/09/11/why-im-not-supporting-old-ie-versions/">Why I&rsquo;m Not Supporting Old IE Versions</a></p>
 
 <p><a href="http://msmvps.com/blogs/jon_skeet/archive/2013/09/21/career-and-skills-advice.aspx">Career and Skills Advice</a></p>
 
@@ -872,7 +875,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://cmd.fm/">Web Command Line Music Player</a></p>
 
-<p><a href="http://www.gamasutra.com/view/news/200655/Video_Porting_Canabalt_and_Super_Crate_Box_to_the_Commodore_64.php">Video - Porting Canabalt and Super Crate Box to the Commodore 64</a></p>
+<p><a href="http://www.gamasutra.com/view/news/200655/Video_Porting_Canabalt_and_Super_Crate_Box_to_the_Commodore_64.php">Video &ndash; Porting Canabalt and Super Crate Box to the Commodore 64</a></p>
 ]]></content>
   </entry>
   
@@ -887,7 +890,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://alexandrebrisebois.wordpress.com/2013/09/03/why-is-the-new-windows-azure-cache-service-important/">Why is The New Windows Azure Cache Service Important?</a></p>
 
-<p><a href="http://thinkfirstcodelater.com/blog/?p=2982">Think First Code Later - Azure CLI Article Index</a></p>
+<p><a href="http://thinkfirstcodelater.com/blog/?p=2982">Think First Code Later &ndash; Azure CLI Article Index</a></p>
 
 <h2>Elixir</h2>
 
@@ -921,7 +924,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.asp.net/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api">Parameter Binding in ASP.NET Web API</a></p>
 
-<p><a href="http://rogeralsing.com/2013/09/11/entity-framework-to-rest-efrest/">Entity Framework to REST - EfRest</a></p>
+<p><a href="http://rogeralsing.com/2013/09/11/entity-framework-to-rest-efrest/">Entity Framework to REST &ndash; EfRest</a></p>
 
 <p><a href="http://blogs.msdn.com/b/webdev/archive/2013/09/10/what-is-new-in-browser-link-with-visual-studio-2013-rc.aspx">What is new in Browser Link with Visual Studio 2013 RC?</a></p>
 
@@ -955,9 +958,9 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.codingthearchitecture.com/2013/09/03/what_is_agile_software_architecture.html">What is Agle Software Architecture?</a></p>
 
-<p><a href="http://martinfowler.com/bliki/TellDontAsk.html">Tell Don&#8217;t Ask</a></p>
+<p><a href="http://martinfowler.com/bliki/TellDontAsk.html">Tell Don&rsquo;t Ask</a></p>
 
-<p><a href="http://5whys.com/blog/the-bus-factor-why-your-best-developer-is-your-biggest-probl.html">The Bus Factor - Why your ‘best’ developer is your biggest problem</a></p>
+<p><a href="http://5whys.com/blog/the-bus-factor-why-your-best-developer-is-your-biggest-probl.html">The Bus Factor &ndash; Why your ‘best’ developer is your biggest problem</a></p>
 
 <p><a href="http://5whys.com/blog/two-techniques-to-avoid-the-bus-factor-in-your-teams-push-an.html">Two Techniques to Avoid the Bus Factor In your Teams: Push and Pull</a></p>
 
@@ -992,19 +995,19 @@ recent reorg to foresee how it might affect things.</p>
 
 <h2>REST / HTTP / APIs</h2>
 
-<p><a href="http://amy.palamounta.in/blog/2013/07/29/exist-in-the-web-not-on-it/">Exist in the Web - Not on It</a></p>
+<p><a href="http://amy.palamounta.in/blog/2013/07/29/exist-in-the-web-not-on-it/">Exist in the Web &ndash; Not on It</a></p>
 
 <p><a href="http://apievangelist.com/2013/09/02/baseline-for-federal-government-open-data-and-api-portals/">Baseline for Federal Government Open Data and API Portals</a></p>
 
 <h2>Cloud &amp; Virtualization</h2>
 
-<p><a href="http://technosophos.com/content/why-containers-wont-beat-vms">Why Containers Won&#8217;t Beat VMs</a></p>
+<p><a href="http://technosophos.com/content/why-containers-wont-beat-vms">Why Containers Won&rsquo;t Beat VMs</a></p>
 
 <p><a href="http://www.networkworld.com/supp/2013/enterprise4/082613-ecs-amazon-273014.html?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8897a&amp;utm_medium=twitter">Can Anybody Catch Amazon</a></p>
 
 <h2>.NET</h2>
 
-<p><a href="http://theburningmonk.com/2010/03/threading-understanding-the-volatile-modifier-in-csharp/">Threading - Understanding the Volatile Modifier in C#</a></p>
+<p><a href="http://theburningmonk.com/2010/03/threading-understanding-the-volatile-modifier-in-csharp/">Threading &ndash; Understanding the Volatile Modifier in C#</a></p>
 
 <p><a href="http://thenextdotnet.com/blog/2013/08/30/entering-the-next-net/#.UiQj2QauO4w.twitter">Entering the Next .NET</a></p>
 
@@ -1016,7 +1019,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.infoq.com/articles/planning-controlling-complex-projects-beyond-budgetting">Planning and Controlling Complex Projects</a></p>
 
-<p><a href="http://tekpub.com/blogs/news/8909001-we-re-suspending-subscriptions">Tekpub - We&#8217;re Suspending Subscriptions</a></p>
+<p><a href="http://tekpub.com/blogs/news/8909001-we-re-suspending-subscriptions">Tekpub &ndash; We&rsquo;re Suspending Subscriptions</a></p>
 
 <p><a href="http://schneems.com/post/41104255619/use-gifs-in-your-pull-request-for-good-not-evil">Use GIFs in your Pull Request for Good, not Evil</a></p>
 
@@ -1043,7 +1046,7 @@ recent reorg to foresee how it might affect things.</p>
     <id>http://nerditorium.danielauger.com/blog/2013/09/01/the-land-of-10-000-links-number-102</id>
     <content type="html"><![CDATA[<h2>.NET</h2>
 
-<p><a href="http://www.amazedsaint.com/2013/08/awesome-libraries-for-c-developers-1.html">Awesome Libraries For C# Developers #1 - Interactive Extensions</a></p>
+<p><a href="http://www.amazedsaint.com/2013/08/awesome-libraries-for-c-developers-1.html">Awesome Libraries For C# Developers #1 &ndash; Interactive Extensions</a></p>
 
 <p><a href="http://tfs.visualstudio.com/news/release-archive">TF Service Feature Release Archive</a></p>
 
@@ -1051,9 +1054,9 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://blogs.msdn.com/b/adonet/archive/2013/08/21/ef6-release-candidate-available.aspx">EF 6 Release Candidate</a></p>
 
-<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/08/20/tfs-internal-usage-statistics-1st-half-cy-2013.aspx">TFS Internal Usage Statistics - 1st Half CY 2013</a></p>
+<p><a href="http://blogs.msdn.com/b/visualstudioalm/archive/2013/08/20/tfs-internal-usage-statistics-1st-half-cy-2013.aspx">TFS Internal Usage Statistics &ndash; 1st Half CY 2013</a></p>
 
-<p><a href="https://github.com/cameronism/ConsoleDump">Pretty print objects to the console. Similar to LINQPad&#8217;s Dump() extension method.</a></p>
+<p><a href="https://github.com/cameronism/ConsoleDump">Pretty print objects to the console. Similar to LINQPad&rsquo;s Dump() extension method.</a></p>
 
 <p><a href="http://blog.ploeh.dk/2013/08/23/how-to-create-a-pure-f-aspnet-web-api-project/">How to create a pure F# ASP.NET Web API project</a></p>
 
@@ -1067,7 +1070,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.strathweb.com/2013/08/asp-net-web-api-2-and-httprequestcontext/">ASP.NET Web API 2 and HttpRequestContext</a></p>
 
-<p><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817?page=0,0">Why Microsoft&#8217;s .NET Failed</a></p>
+<p><a href="http://www.infoworld.com/d/application-development/why-microsoft-net-failed-225817?page=0,0">Why Microsoft&rsquo;s .NET Failed</a></p>
 
 <p><a href="http://www.asp.net/aspnet/overview/owin-and-katana/an-overview-of-project-katana">An Overview of Project Katana</a></p>
 
@@ -1081,7 +1084,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <h2>Elixir</h2>
 
-<p><a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/">Elixir Isn&#8217;t Hipser</a></p>
+<p><a href="http://blog.alexrp.com/2013/02/14/elixir-isnt-hipster/">Elixir Isn&rsquo;t Hipser</a></p>
 
 <h2>Scala</h2>
 
@@ -1137,13 +1140,13 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://openmymind.net/SOA-Lessons-Learned-1/">SOA Lessons Learned</a></p>
 
-<p><a href="http://simpleprogrammer.com/2013/08/26/dont-code-katas/?utm_source=feedly">Why I Don&#8217;t Do Code Katas</a></p>
+<p><a href="http://simpleprogrammer.com/2013/08/26/dont-code-katas/?utm_source=feedly">Why I Don&rsquo;t Do Code Katas</a></p>
 
 <p><a href="http://wekeroad.com/2013/08/28/how-behavioral-is-your-bdd">Are You Really Doing BDD?</a></p>
 
 <h2>Retro</h2>
 
-<p><a href="http://www.wothke.ch/experimental/TinyJsSid.html">Tiny&#8217;R&#8217;Sid - An HTML 5 / JS SID Player</a></p>
+<p><a href="http://www.wothke.ch/experimental/TinyJsSid.html">Tiny&#8217;R&#8217;Sid &ndash; An HTML 5 / JS SID Player</a></p>
 ]]></content>
   </entry>
   
@@ -1162,7 +1165,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://blogs.gartner.com/eric-knipp/2013/08/02/dont-let-api-management-wag-the-dog/">Don’t Let API Management Wag the Dog</a></p>
 
-<p><a href="http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html">Let&#8217;s Remove Verbs from HTTP 2.0</a></p>
+<p><a href="http://www.onebigfluke.com/2013/08/lets-remove-verbs-from-http-20.html">Let&rsquo;s Remove Verbs from HTTP 2.0</a></p>
 
 <p><a href="http://slid.es/passy/hypermedia-apis">Pragmatic Hypermedia APIs</a></p>
 
@@ -1172,13 +1175,13 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://matthewlehner.net/rails-api-testing-guidelines/">Rails API Testing Best Practices</a></p>
 
-<p><a href="http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators">Jump start your app development with Runscope&#8217;s OAuth 1.0a and OAuth 2 Token Generators</a></p>
+<p><a href="http://blog.runscope.com/posts/jump-start-your-app-development-with-runscopes-oauth-10a-and-oauth-2-token-generators">Jump start your app development with Runscope&rsquo;s OAuth 1.0a and OAuth 2 Token Generators</a></p>
 
 <h2>Elixir</h2>
 
 <p><a href="http://benjamintanweihao.github.io/blog/2013/08/14/elixir-for-the-lazy-impatient-and-busy-part-5-streams-streaming-dynamo/">Elixir for the Lazy Impatient and Busy: Part 5 Streams, Streaming and Dynamo!</a></p>
 
-<p><a href="https://www.youtube.com/watch?v=KQwEmdOH-GM">LoneStarRuby Conf 2013 - Elixir: Power of Erlang, Joy of Ruby</a></p>
+<p><a href="https://www.youtube.com/watch?v=KQwEmdOH-GM">LoneStarRuby Conf 2013 &ndash; Elixir: Power of Erlang, Joy of Ruby</a></p>
 
 <h2>JavaScript</h2>
 
@@ -1190,7 +1193,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Build a Complete MVC Web Site With ExpressJS</a></p>
 
-<p><a href="http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&amp;utm_medium=email">The &#8220;Development Drawbacks&#8221; Of JavaScript Web Applications</a></p>
+<p><a href="http://www.cerebris.com/blog/2013/08/08/the-development-drawbacks-of-javascript-web-applications/?utm_source=javascriptweekly&amp;utm_medium=email">The &ldquo;Development Drawbacks&rdquo; Of JavaScript Web Applications</a></p>
 
 <h2>.NET</h2>
 
@@ -1220,7 +1223,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx">Penny Pinching in the Cloud: When do Azure Websites make sense?</a></p>
 
-<p><a href="http://www.jeff.wilcox.name/2013/08/command-line-improvements/">Windows Azure cross-platform command line improvements - Summer 2013</a></p>
+<p><a href="http://www.jeff.wilcox.name/2013/08/command-line-improvements/">Windows Azure cross-platform command line improvements &ndash; Summer 2013</a></p>
 
 <h2>Software Craftsmanship / Community / Engineering</h2>
 
@@ -1253,7 +1256,7 @@ recent reorg to foresee how it might affect things.</p>
     <id>http://nerditorium.danielauger.com/blog/2013/08/01/the-land-of-10-000-links-number-100</id>
     <content type="html"><![CDATA[<h2>.NET</h2>
 
-<p><a href="http://www.strathweb.com/2013/07/owin-middleware-asp-net-web-api-and-clients-ip-address/">Owin Middleare, ASP.NET Web API and Client&#8217;s IP Address</a></p>
+<p><a href="http://www.strathweb.com/2013/07/owin-middleware-asp-net-web-api-and-clients-ip-address/">Owin Middleare, ASP.NET Web API and Client&rsquo;s IP Address</a></p>
 
 <p><a href="http://blog.leansentry.com/2013/07/all-about-iis-asp-net-request-queues/">Everything you ever wanted to know about ASP.NET request queueing</a></p>
 
@@ -1281,7 +1284,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/31/the-improved-microsoft-developer-network.aspx">The Improved Microsoft Developer Network</a></p>
 
-<p><a href="http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider">The One Cost Engineers and Product Managers Don&#8217;t Consider</a></p>
+<p><a href="http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider">The One Cost Engineers and Product Managers Don&rsquo;t Consider</a></p>
 
 <p><a href="http://www.nytimes.com/2013/07/27/nyregion/in-lieu-of-money-toyota-donates-efficiency-to-new-york-charity.html?_r=2&amp;">In Lieu of Money, Toyota Donates Efficiency to New York Charity</a></p>
 
@@ -1302,11 +1305,11 @@ recent reorg to foresee how it might affect things.</p>
     <id>http://nerditorium.danielauger.com/blog/2013/07/29/the-land-of-10-000-links-99</id>
     <content type="html"><![CDATA[<h2>.NET</h2>
 
-<p><a href="http://brockallen.com/2013/07/27/implementing-async-http-modules-in-asp-net-using-tpls-task-api/">Implementing Async HTTP Modules in ASP.NET Using TPL&#8217;s Task API</a></p>
+<p><a href="http://brockallen.com/2013/07/27/implementing-async-http-modules-in-asp-net-using-tpls-task-api/">Implementing Async HTTP Modules in ASP.NET Using TPL&rsquo;s Task API</a></p>
 
 <p><a href="http://weblogs.asp.net/cibrax/archive/2013/07/29/using-the-katana-authentication-handlers-with-nancyfx.aspx">Using the Katana Authentication Handlers with NancyFx</a></p>
 
-<p><a href="http://thedatafarm.com/blog/data-access/recommended-order-for-watching-my-pluralsight-entity-framework-courses/">Recommended Order for Watching Julie Lerman&#8217;s Pluralsight Entity Framework Courses</a></p>
+<p><a href="http://thedatafarm.com/blog/data-access/recommended-order-for-watching-my-pluralsight-entity-framework-courses/">Recommended Order for Watching Julie Lerman&rsquo;s Pluralsight Entity Framework Courses</a></p>
 
 <p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/29/visual-studio-2012-tools-for-git-0-9-5-0-are-available.aspx">Visual Studio 2012 tools for Git (0.9.5.0) are available</a></p>
 
@@ -1320,7 +1323,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <h2>JavaScript</h2>
 
-<p><a href="http://raganwald.com/2013/07/27/Ive-always-been-mad.html">It&#8217;s a Mad, Mad, Mad, Mad World: Scoping in CoffeeScript and JavaScript</a></p>
+<p><a href="http://raganwald.com/2013/07/27/Ive-always-been-mad.html">It&rsquo;s a Mad, Mad, Mad, Mad World: Scoping in CoffeeScript and JavaScript</a></p>
 
 <h2>HTTP / REST / APIs</h2>
 
@@ -1403,13 +1406,13 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/22/rest-api-for-team-rooms.aspx">REST API for TFS Team Rooms</a></p>
 
-<p><a href="http://techoctave.com/c7/posts/71-twitter-rest-api-dissected">Twitter &#8220;REST&#8221; API Dissected</a></p>
+<p><a href="http://techoctave.com/c7/posts/71-twitter-rest-api-dissected">Twitter &ldquo;REST&rdquo; API Dissected</a></p>
 
 <p><a href="http://blog.hartleybrody.com/https-certificates/">How HTTPS Secures Connections: What Every Web Dev Should Know</a></p>
 
 <h2>Community / Craftsmanship / Engineering</h2>
 
-<p><a href="http://www.mindful.org/mindful-magazine/a-users-guide-to-living-well-in-screenworld">A User&#8217;s Guide to Living Well in Screenworld</a></p>
+<p><a href="http://www.mindful.org/mindful-magazine/a-users-guide-to-living-well-in-screenworld">A User&rsquo;s Guide to Living Well in Screenworld</a></p>
 
 <p><a href="http://michaelfeathers.typepad.com/michael_feathers_blog/2013/07/the-single-responsibility-principle-leads-to-good-openclosed-characteristics.html">The Single Responsibility and Open/Closed Principle are the Same</a></p>
 
@@ -1437,7 +1440,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.computerandvideogames.com/420736/microsoft-to-open-xbox-one-to-self-publishing-claims-report/">Microsoft reveals Xbox One self-publishing plans</a></p>
 
-<p><a href="http://blogs.technet.com/b/in_the_cloud/archive/2013/07/24/what-s-new-in-2012-r2-enabling-open-source-software.aspx">What&#8217;s New in 2012 R2: Enabling Open Source Software</a></p>
+<p><a href="http://blogs.technet.com/b/in_the_cloud/archive/2013/07/24/what-s-new-in-2012-r2-enabling-open-source-software.aspx">What&rsquo;s New in 2012 R2: Enabling Open Source Software</a></p>
 
 <p><a href="http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL">Spy agencies ban Lenovo PCs on security concerns</a></p>
 
@@ -1445,7 +1448,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://aspirecode.com/sublime-text-3-worth-the-upgrade/">Sublime Text 3: Worth the Upgrade?</a></p>
 
-<p><a href="https://github.com/nosami/Omnisharp">Omnisharp - Vim Omnicompletion (Intellisense) and More for C#</a></p>
+<p><a href="https://github.com/nosami/Omnisharp">Omnisharp &ndash; Vim Omnicompletion (Intellisense) and More for C#</a></p>
 
 <p><a href="http://blogs.msdn.com/b/cdnstudents/archive/2013/07/18/visual-studio-tips-for-html-web-or-windows-developers-zencoding.aspx">Visual Studio Tips for HTML web or windows developers: ZenCoding</a></p>
 
@@ -1462,13 +1465,13 @@ recent reorg to foresee how it might affect things.</p>
     <id>http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97</id>
     <content type="html"><![CDATA[<h2>Ruby</h2>
 
-<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let&#8217;s Celebrate the Future</a></p>
+<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let&rsquo;s Celebrate the Future</a></p>
 
 <p><a href="http://rubysource.com/docker-for-rubyists/">Docker for Rubyists</a></p>
 
 <h2>.NET</h2>
 
-<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual - An Extensible Deep Comparison for .NET</a></p>
+<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual &ndash; An Extensible Deep Comparison for .NET</a></p>
 
 <p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/19/writing-web-api-client-code-for-multiple-platforms-using-portable-libraries.aspx">Writing Web API Client Code for Multiple Platforms Using Portable Libraries</a></p>
 
@@ -1478,29 +1481,29 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://blogs.jetbrains.com/dotnet/2013/07/resharper-80-is-available/">ReSharper 8.0 is Available</a></p>
 
-<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC - 4 Years Later</a></p>
+<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC &ndash; 4 Years Later</a></p>
 
 <h2>JavaScript</h2>
 
-<p><a href="http://endgate.net/">Endgate - An HTML5 / JS Game Framework Powered by TypeScript</a></p>
+<p><a href="http://endgate.net/">Endgate &ndash; An HTML5 / JS Game Framework Powered by TypeScript</a></p>
 
 <p><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync Multiple AngularJS Apps Without Server via PouchDB</a></p>
 
 <p><a href="http://briancray.com/posts/javascript-module-pattern">JavaScript Module Pattern: When to Use it and Why</a></p>
 
-<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn&#8217;t Scheme</a></p>
+<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn&rsquo;t Scheme</a></p>
 
 <h2>HTTP / REST</h2>
 
 <p><a href="http://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/">PUT or POST: The REST of the Story </a></p>
 
-<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API - Tips for REST + JSON Developers</a></p>
+<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API &ndash; Tips for REST + JSON Developers</a></p>
 
 <h2>Git</h2>
 
 <p><a href="https://sandofsky.com/blog/git-workflow.html">Understanding the Git Workflow</a></p>
 
-<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate - Git Repository based Database Migrations</a></p>
+<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate &ndash; Git Repository based Database Migrations</a></p>
 
 <h2>Databases</h2>
 
@@ -1526,7 +1529,7 @@ recent reorg to foresee how it might affect things.</p>
 
 <p><a href="http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon">Enigma codebreaker Alan Turing to be given posthumous pardon</a></p>
 
-<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can&#8217;t Teach Programming, Create Software Engineering for Poor Programmers</a></p>
+<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can&rsquo;t Teach Programming, Create Software Engineering for Poor Programmers</a></p>
 
 <p><a href="http://goodenoughsoftware.net/2013/07/18/the-charlie-foxtrot-aka-teched/">Why I Cancelled My TechEd Talks</a></p>
 
@@ -1599,7 +1602,7 @@ part of it has audio.</p>
 
 <h2>HTTP</h2>
 
-<p><a href="http://www.chmod777self.com/2013/07/http2-wait-theres-more.html">HTTP/2 &#8230; Wait! There&#8217;s more!</a></p>
+<p><a href="http://www.chmod777self.com/2013/07/http2-wait-theres-more.html">HTTP/2 &hellip; Wait! There&rsquo;s more!</a></p>
 
 <h2>Video Games</h2>
 
@@ -1636,7 +1639,7 @@ part of it has audio.</p>
 
 <h2>Git</h2>
 
-<p><a href="http://www.peterlundgren.com/blog/on-gits-shortcomings/">On Git&#8217;s Shortcomings</a></p>
+<p><a href="http://www.peterlundgren.com/blog/on-gits-shortcomings/">On Git&rsquo;s Shortcomings</a></p>
 
 <p><a href="http://kivo.com/blog/git-for-the-masses/">Git for the Masses</a></p>
 
@@ -1683,7 +1686,7 @@ part of it has audio.</p>
 
 <p><a href="http://blowmage.com/2013/07/08/minitest-spec-rails4">Adding Minitest Spec in Rails 4</a></p>
 
-<p><a href="https://github.com/moger777/missingly">Missingly - A DSL for Handling method_missing Hooks</a></p>
+<p><a href="https://github.com/moger777/missingly">Missingly &ndash; A DSL for Handling method_missing Hooks</a></p>
 
 <h2>Elixir</h2>
 
@@ -1709,9 +1712,9 @@ part of it has audio.</p>
 
 <h2>HTTP / REST</h2>
 
-<p><a href="http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/">Signs you&#8217;re veering from good API design</a></p>
+<p><a href="http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/">Signs you&rsquo;re veering from good API design</a></p>
 
-<p><a href="https://github.com/solso/raw2swagger">raw2swagger - Incrementally Create a Swagger API Spec from Logs</a></p>
+<p><a href="https://github.com/solso/raw2swagger">raw2swagger &ndash; Incrementally Create a Swagger API Spec from Logs</a></p>
 
 <h2>Software Engineering / Crafstmanship / Process</h2>
 
@@ -1733,7 +1736,7 @@ part of it has audio.</p>
 
 <h2>Cloud / Scalability</h2>
 
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/08/going-cloud-first-with-windows-azure.aspx">Going &#8216;Cloud First&#8217; with Windows Azure</a></p>
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/08/going-cloud-first-with-windows-azure.aspx">Going &lsquo;Cloud First&rsquo; with Windows Azure</a></p>
 
 <p><a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds</a></p>
 
@@ -1743,9 +1746,9 @@ part of it has audio.</p>
 
 <p><a href="http://www.bruneras.com/games_bruce2.php">Bruce Lee Gets a Sequel 29 Years Later</a></p>
 
-<p><a href="http://www.computerandvideogames.com/418079/hidden-powers-at-valve-ex-employee-claims/">Hidden Powers At Valve - Ex-Employee Claims</a></p>
+<p><a href="http://www.computerandvideogames.com/418079/hidden-powers-at-valve-ex-employee-claims/">Hidden Powers At Valve &ndash; Ex-Employee Claims</a></p>
 
-<p><a href="http://www.businessinsider.com/xbox-rejected-names-2013-7">Here Are The Names Microsoft Rejected Before Settling On &#8216;Xbox&#8217;</a></p>
+<p><a href="http://www.businessinsider.com/xbox-rejected-names-2013-7">Here Are The Names Microsoft Rejected Before Settling On &lsquo;Xbox&rsquo;</a></p>
 ]]></content>
   </entry>
   

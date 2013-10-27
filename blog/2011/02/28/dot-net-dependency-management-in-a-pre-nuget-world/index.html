@@ -18,19 +18,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -40,7 +41,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -126,7 +127,7 @@
 </ul>
 
 
-<p>This solution complicates things slightly (in a positive way) by requiring each sln to use a proper release of all internal dlls; therefore you are able to have some degree of configuration management. However, this solution failed for us because of one simple fact: TFS does not track binaries well. We never ran into this weakness with the first solution because all of the 3rd party dlls were set-and-forget. They never changed after setting the initial reference. The internal dlls however, would change daily, or even hourly. At first this seemed like the perfect solution, however all sorts of strange errors started occurring. One person would get latest and everything would work, but another person would get latest and have errors. TFS simply could not tell if you needed a new version of the dlls in the /bin folder. Sadly, even a “clean all&#8221; and &#8220;get specific version&#8221; didn&#8217;t fix things a lot of the time.</p>
+<p>This solution complicates things slightly (in a positive way) by requiring each sln to use a proper release of all internal dlls; therefore you are able to have some degree of configuration management. However, this solution failed for us because of one simple fact: TFS does not track binaries well. We never ran into this weakness with the first solution because all of the 3rd party dlls were set-and-forget. They never changed after setting the initial reference. The internal dlls however, would change daily, or even hourly. At first this seemed like the perfect solution, however all sorts of strange errors started occurring. One person would get latest and everything would work, but another person would get latest and have errors. TFS simply could not tell if you needed a new version of the dlls in the /bin folder. Sadly, even a “clean all&#8221; and &ldquo;get specific version&rdquo; didn&rsquo;t fix things a lot of the time.</p>
 
 <h2>Third attempt ending in Success:</h2>
 
@@ -136,11 +137,11 @@
 
 
 <p>Our custom package management system worked thusly: We created a network share. For each logical release (i.g. MS EntLib, Internal.Common.Util) we created both a [networkShare]\[package]\LatestRelease folder and a [networkShare]\[package]\Release_[version number] folder. We then created a console EXE with a bunch of options that would: 1) go and grab all of the latest dlls for all projects and dump them into one pre-defined “latest” folder on the developer PC and 2) Recreate the “releases” tree structure on the developer PC. This way, developers have the ability to drink from the fire-hose (the latest folder) or go for set releases (from the releases folder tree). TFS is not tracking dlls at all. Rather, we are relying on an absolute path file reference. Additionally, calling this executable becomes a build task on the CI server.
-This solution isn&#8217;t perfect. Namely, it relies on developers to remember to run the executable from time to time. Additionally, there are potentially some versioning scenarios that could occur between packages that expect a different versions of sub dependencies. However that issue never manifested itself in our environment.</p>
+This solution isn&rsquo;t perfect. Namely, it relies on developers to remember to run the executable from time to time. Additionally, there are potentially some versioning scenarios that could occur between packages that expect a different versions of sub dependencies. However that issue never manifested itself in our environment.</p>
 
 <h2>Nuget is not the final answer for teams using TFS</h2>
 
-<p><del>I&#8217;ve been following the Nuget dev list closely, and Nuget is considered to be a development time dependency resolver only, not a build time resolver. This means that if you use TFS to track your Nuget package folders, you could still run into dll versioning issues.</del></p>
+<p><del>I&rsquo;ve been following the Nuget dev list closely, and Nuget is considered to be a development time dependency resolver only, not a build time resolver. This means that if you use TFS to track your Nuget package folders, you could still run into dll versioning issues.</del></p>
 
 <h3>Update (4/17/2011)</h3>
 
@@ -189,7 +190,7 @@ This solution isn&#8217;t perfect. Namely, it relies on developers to remember t
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2011/02/28/dot-net-dependency-management-in-a-pre-nuget-world/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -261,19 +262,9 @@ This solution isn&#8217;t perfect. Namely, it relies on developers to remember t
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -316,7 +307,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

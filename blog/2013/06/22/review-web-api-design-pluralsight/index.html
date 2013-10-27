@@ -9,7 +9,7 @@
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="Apigee&#8217;s API Design webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API &hellip;">
+  <meta name="description" content="Apigee&rsquo;s API Design webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,19 +18,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -40,7 +41,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -103,9 +104,9 @@
   </header>
 
 
-<div class="entry-content"><p>Apigee&#8217;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&#8217;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&#8230;) that I can remember.</p>
+<div class="entry-content"><p>Apigee&rsquo;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&rsquo;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&hellip;) that I can remember.</p>
 
-<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&#8217;t really explored (vocabularies, API DNAs, etc&#8230;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
+<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&rsquo;t really explored (vocabularies, API DNAs, etc&hellip;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
 
 <p>Bottom line: point developers who are new to Web APIs to this course.</p>
 </div>
@@ -144,7 +145,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/06/22/review-web-api-design-pluralsight/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -222,19 +223,9 @@
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -269,7 +260,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -293,7 +284,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

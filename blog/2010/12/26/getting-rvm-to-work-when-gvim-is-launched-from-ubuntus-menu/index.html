@@ -9,7 +9,7 @@
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you&#8217;ve probably found out that your . &hellip;">
+  <meta name="description" content="If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you&rsquo;ve probably found out that your . &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,19 +18,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -40,7 +41,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -103,7 +104,7 @@
   </header>
 
 
-<div class="entry-content"><p>If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you&#8217;ve probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue: <!-- more --></p>
+<div class="entry-content"><p>If you want to use GVim as your Ruby editor in Ubuntu (and most likely any other Gnome based distro), you&rsquo;ve probably found out that your .bashrc file is not read when launching GVim from the Gnome menu. This means that your RVM paths are not available in the scope of apps launched from the menu. However, when launching apps from the menu, the launcher can access your .profile file. That being the case, here is a quick work-around for this issue: <!-- more --></p>
 
 <p>Add the following code to your ~/.profile file:</p>
 
@@ -125,7 +126,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>Then right click on the applications menu and choose &#8220;Edit Menus&#8221;. Then find your GVim launcher and point the command entry to your script.</p>
+<p>Then right click on the applications menu and choose &ldquo;Edit Menus&rdquo;. Then find your GVim launcher and point the command entry to your script.</p>
 
 <p>I am, by no means, a Gnome expert, so please let me know if you are aware of a better solution.</p>
 
@@ -166,7 +167,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2010/12/26/getting-rvm-to-work-when-gvim-is-launched-from-ubuntus-menu/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -238,19 +239,9 @@
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -293,7 +284,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

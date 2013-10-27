@@ -4,7 +4,7 @@
   <title><![CDATA[Category: osx | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/osx/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -18,22 +18,22 @@
     <link href="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/"/>
     <updated>2013-01-12T01:53:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go</id>
-    <content type="html"><![CDATA[<p>When it comes to *nix experience, I'm kind of an odd duck. You see, I've been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I'm still playing catch-up in many ways when it comes to fundamentals. <!-- more --></p>
+    <content type="html"><![CDATA[<p>When it comes to *nix experience, I&rsquo;m kind of an odd duck. You see, I&rsquo;ve been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I&rsquo;m still playing catch-up in many ways when it comes to fundamentals. <!-- more --></p>
 
-<p>I recently blew away my OSX Mountain Lion install and started from scratch. While I was setting things up again I thought to myself: "I should really create some aliases for show / hide hidden files, because I can never remember the exact syntax." I did a bit of googling and learned that I should put my aliases in ~/.profile.</p>
+<p>I recently blew away my OSX Mountain Lion install and started from scratch. While I was setting things up again I thought to myself: &ldquo;I should really create some aliases for show / hide hidden files, because I can never remember the exact syntax.&rdquo; I did a bit of googling and learned that I should put my aliases in ~/.profile.</p>
 
 <p>Things worked fine for a day or two until I set up my Ruby environment. Somewhere along the way my aliases stopped working. Part of setting up RVM is pathing the ruby environment in a bash config file such as ~/.bash_profile.</p>
 
-<p>It turns out that .profile doesn't get loaded in shell sessions if .bash_profile exists. D'oh!</p>
+<p>It turns out that .profile doesn&rsquo;t get loaded in shell sessions if .bash_profile exists. D'oh!</p>
 
-<p><a href="http://superuser.com/questions/278433/whats-the-difference-between-profile-and-bash-profile-and-when-do-you-config">What's the difference between .profile and .bash_profile, and when do you configure which? (Mac)</a></p>
+<p><a href="http://superuser.com/questions/278433/whats-the-difference-between-profile-and-bash-profile-and-when-do-you-config">What&rsquo;s the difference between .profile and .bash_profile, and when do you configure which? (Mac)</a></p>
 
 <blockquote><p>When bash is invoked as an interactive login shell, or as  a  non-interactive<br/>
-shell  with the --login option, it first reads and executes commands
+shell  with the &mdash;login option, it first reads and executes commands
 from the file /etc/profile, if that file exists.  After reading that file,
 it  looks  for  ~/.bash_profile,  ~/.bash_login,  and  ~/.profile, in that
 order, and reads and executes commands from the first one that exists  and
-is readable.  The --noprofile option may be used when the shell is started
+is readable.  The &mdash;noprofile option may be used when the shell is started
 to inhibit this behavior.</p></blockquote>
 ]]></content>
   </entry>

@@ -9,8 +9,8 @@
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="Introduction – A Word Of Warning First off - I do not recommend you write your own hand-rolled data
-access solution for an OO .NET application. &hellip;">
+  <meta name="description" content="Introduction – A Word Of Warning First off &ndash; I do not recommend you write your own hand-rolled data
+access solution for an OO .NET application &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,19 +19,20 @@ access solution for an OO .NET application. &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -41,7 +42,7 @@ access solution for an OO .NET application. &hellip;">
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -106,7 +107,7 @@ access solution for an OO .NET application. &hellip;">
 
 <div class="entry-content"><h2>Introduction – A Word Of Warning</h2>
 
-<p>First off - I <strong>do not</strong> recommend you write your own hand-rolled data
+<p>First off &ndash; I <strong>do not</strong> recommend you write your own hand-rolled data
 access solution for an OO .NET application. Ayende has a <a href="http://ayende.com/Blog/archive/2006/05/12/25ReasonsNotToWriteYourOwnObjectRelationalMapper.aspx">great post</a>
 that should convince you to use something like
 <a href="http://nhforge.org/">NHibernate</a>, <a href="http://www.llblgen.com/">LLBLGen</a>,
@@ -238,11 +239,11 @@ of the overhead and complexity of persistence concerns.</p>
 <p>Now that we have all the background out of the way, let’s take a look at
 an implementation I’ve tried recently that seems to work well and is
 very easy to understand. It comes down to two classes which are
-coordinated by the application&#8217;s DAO classes. These two classes are:</p>
+coordinated by the application&rsquo;s DAO classes. These two classes are:</p>
 
-<p><strong>LazyLoadingList&lt;T></strong> - This is a wrapper around List&lt;T> which triggers a load whenever one of its methods is called.</p>
+<p><strong>LazyLoadingList&lt;T></strong> &ndash; This is a wrapper around List&lt;T> which triggers a load whenever one of its methods is called.</p>
 
-<p><strong>LoadDelegate&lt;T></strong> - This is the delegate that is executed when a LazyLoadingList&lt;T>’s load method is triggered.</p>
+<p><strong>LoadDelegate&lt;T></strong> &ndash; This is the delegate that is executed when a LazyLoadingList&lt;T>’s load method is triggered.</p>
 
 <p>Here is the code for the LazyLoadingList&lt;T>:</p>
 
@@ -702,7 +703,7 @@ across DAOs etc…</p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2010/01/31/practical-persistence-ignorant-lazy-loading-for-your-hand-rolled-dal/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -772,19 +773,9 @@ across DAOs etc…</p>
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -827,7 +818,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

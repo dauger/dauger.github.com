@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -26,7 +26,7 @@
 </ol>
 
 
-<p>I wasn't sure where to start because I am new to Octopress. My google-fu was questionable due to my lack of understanding Octopress' terminology.</p>
+<p>I wasn&rsquo;t sure where to start because I am new to Octopress. My google-fu was questionable due to my lack of understanding Octopress' terminology.</p>
 
 <h2>Hiding Link Posts from the Index Page</h2>
 
@@ -36,9 +36,9 @@
 
 <h2>Creating a Page Just for the Hidden Category and Providing a Nav Link to It</h2>
 
-<p>This one tripped me up for a bit. I quickly went down a black hole searching for things like "octopress create category page".</p>
+<p>This one tripped me up for a bit. I quickly went down a black hole searching for things like &ldquo;octopress create category page&rdquo;.</p>
 
-<p>I couldn't find quite what I was looking for so I starting searching for other Octopress based blogs to see if anyone had done such a thing. After I came across <a href="http://time.to.pullthepl.ug/blog/archives/">this</a> blog, the answer was obvious. Octopress already creates category specific pages. In order to provide a nav link to the category, I simply needed to edit the _source/custom/navigation.html file like so:<br/>
+<p>I couldn&rsquo;t find quite what I was looking for so I starting searching for other Octopress based blogs to see if anyone had done such a thing. After I came across <a href="http://time.to.pullthepl.ug/blog/archives/">this</a> blog, the answer was obvious. Octopress already creates category specific pages. In order to provide a nav link to the category, I simply needed to edit the _source/custom/navigation.html file like so:<br/>
 ```html</p>
 
 <ul class="main-navigation">

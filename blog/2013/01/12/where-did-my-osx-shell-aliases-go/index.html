@@ -9,7 +9,7 @@
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="When it comes to *nix experience, I&#8217;m kind of an odd duck. You see, I&#8217;ve been using Linux quite a bit as a desktop since Mandrake Linux &hellip;">
+  <meta name="description" content="When it comes to *nix experience, I&rsquo;m kind of an odd duck. You see, I&rsquo;ve been using Linux quite a bit as a desktop since Mandrake Linux &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,19 +18,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -40,7 +41,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -103,22 +104,22 @@
   </header>
 
 
-<div class="entry-content"><p>When it comes to *nix experience, I&#8217;m kind of an odd duck. You see, I&#8217;ve been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I&#8217;m still playing catch-up in many ways when it comes to fundamentals. <!-- more --></p>
+<div class="entry-content"><p>When it comes to *nix experience, I&rsquo;m kind of an odd duck. You see, I&rsquo;ve been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I&rsquo;m still playing catch-up in many ways when it comes to fundamentals. <!-- more --></p>
 
-<p>I recently blew away my OSX Mountain Lion install and started from scratch. While I was setting things up again I thought to myself: &#8220;I should really create some aliases for show / hide hidden files, because I can never remember the exact syntax.&#8221; I did a bit of googling and learned that I should put my aliases in ~/.profile.</p>
+<p>I recently blew away my OSX Mountain Lion install and started from scratch. While I was setting things up again I thought to myself: &ldquo;I should really create some aliases for show / hide hidden files, because I can never remember the exact syntax.&rdquo; I did a bit of googling and learned that I should put my aliases in ~/.profile.</p>
 
 <p>Things worked fine for a day or two until I set up my Ruby environment. Somewhere along the way my aliases stopped working. Part of setting up RVM is pathing the ruby environment in a bash config file such as ~/.bash_profile.</p>
 
-<p>It turns out that .profile doesn&#8217;t get loaded in shell sessions if .bash_profile exists. D&#8217;oh!</p>
+<p>It turns out that .profile doesn&rsquo;t get loaded in shell sessions if .bash_profile exists. D&#8217;oh!</p>
 
-<p><a href="http://superuser.com/questions/278433/whats-the-difference-between-profile-and-bash-profile-and-when-do-you-config">What&#8217;s the difference between .profile and .bash_profile, and when do you configure which? (Mac)</a></p>
+<p><a href="http://superuser.com/questions/278433/whats-the-difference-between-profile-and-bash-profile-and-when-do-you-config">What&rsquo;s the difference between .profile and .bash_profile, and when do you configure which? (Mac)</a></p>
 
 <blockquote><p>When bash is invoked as an interactive login shell, or as  a  non-interactive<br/>
-shell  with the &#8211;login option, it first reads and executes commands
+shell  with the &mdash;login option, it first reads and executes commands
 from the file /etc/profile, if that file exists.  After reading that file,
 it  looks  for  ~/.bash_profile,  ~/.bash_login,  and  ~/.profile, in that
 order, and reads and executes commands from the first one that exists  and
-is readable.  The &#8211;noprofile option may be used when the shell is started
+is readable.  The &mdash;noprofile option may be used when the shell is started
 to inhibit this behavior.</p></blockquote>
 </div>
 
@@ -156,7 +157,7 @@ to inhibit this behavior.</p></blockquote>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/01/12/where-did-my-osx-shell-aliases-go/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -234,19 +235,9 @@ to inhibit this behavior.</p></blockquote>
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -281,7 +272,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -305,7 +296,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

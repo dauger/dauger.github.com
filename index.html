@@ -10,8 +10,8 @@
 
   
   <meta name="description" content="This post is a response (not a rebuttal) to:
-Perception is Reality - .Net OSS is DOA
-by Amir Rajan note: I intentionally heaven&#8217;t read many of &hellip;">
+Perception is Reality &ndash; .Net OSS is DOA
+by Amir Rajan note: I intentionally heaven&rsquo;t read &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,19 +20,20 @@ by Amir Rajan note: I intentionally heaven&#8217;t read many of &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -42,7 +43,7 @@ by Amir Rajan note: I intentionally heaven&#8217;t read many of &hellip;">
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -109,10 +110,10 @@ by Amir Rajan note: I intentionally heaven&#8217;t read many of &hellip;">
 
 
   <div class="entry-content"><p>This post is a response (not a rebuttal) to:
-<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality - .Net OSS is DOA</a>
+<a href="http://amirrajan.net/meta/2013/09/19/perception-is-reality-dot-net-oss/">Perception is Reality &ndash; .Net OSS is DOA</a>
 by <a href="https://twitter.com/amirrajan">Amir Rajan</a></p>
 
-<p><em>note: I intentionally heaven&#8217;t read many of the linked blog&#8217;s comments so that
+<p><em>note: I intentionally heaven&rsquo;t read many of the linked blog&rsquo;s comments so that
 I could get my own thoughts down. Therefore, I may be repeating some
 things that have already been said.</em></p>
 
@@ -122,150 +123,12 @@ things that have already been said.</em></p>
 However, OSS usage has really taken off among other types of teams. Additionally, there are things that Microsoft
 could do to increase OSS adoption across the board.</p>
 
-<h2>OSS in the Enterprise / Big Business Projects</h2>
-
-<p>Although there is a long way to go when it comes to getting enterprise .NET
-shops to embrace OSS, I&#8217;ve definitely seen an increase in acceptance over the
-past three years. This is largely due to a number of factors such as: NuGet
-being an integral part of the current Visual Studio experience, the fact that
-MS is now including OSS libraries as a part of default templates, and the fact
-that MS has open sourced many of the frameworks that are central to running .NET
-on a server.</p>
-
-<p>There is a caveat here: in my experience, the items above have not automatically
-made enterprises OSS friendly. Microsoft&#8217;s consulting division isn&#8217;t walking
-into enterprises saying &#8220;embrace open source.&#8221; (in fact I&#8217;ve heard a couple say
-the opposite recently) However, the above items give OSS advocates more
-evidence when trying to persuade stakeholders to use OSS packages. I&#8217;ve
-personally seen an organization go from &#8220;we won&#8217;t use OSS&#8221; to &#8220;let&#8217;s use some
-well known packages.&#8221; And yes&#8230; I&#8217;m even talking about packages that aren&#8217;t MS
-backed.</p>
-
-<p>In the past, open source would have just been rejected as being &#8220;open source&#8221;
-in the environments I&#8217;m talking about. Now the hesitation I&#8217;m seeing revolves
-largely around knowing how to vet and choose OSS packages. People are worried
-about relying on projects that may die off suddenly - especially on larger /
-expensive projects. Obviously even the cautious know that just because something
-is from Microsoft doesn&#8217;t mean it won&#8217;t be abandoned either. However, I&#8217;m still
-seeing this as a significant psychological hurdle when it comes to using
-OSS in these environments.</p>
-
-<h2>OSS in Design Agencies and Direct to Business Projects</h2>
-
-<p>If you aren&#8217;t familiar with these sectors, I&#8217;ll do a probably offensive
-job of explaining them below.</p>
-
-<p><strong>Design Agencies</strong> are entities that will pitch, design (and possibly UX and
-develop) a software solution for companies that don&#8217;t have a public-end-user savvy
-development group.</p>
-
-<p><em>Example of an agency project: A big box retailer needs a highly
-interactive mini-site for their holiday sale.</em></p>
-
-<p>The interesting thing about agency projects is that they can often be
-for clients that would otherwise fall into the mainstream corporate /
-enterprise category. However, agencies rarely have to follow the same technology
-rules that internal teams do. In fact, they are often hired to bypass the
-involvement of an internal team. What&#8217;s also interesting is that I&#8217;m seeing an
-increase in requests to implement things that would have traditionally fallen
-under their internal dev group (APIs, data migrations, etc&#8230;).</p>
-
-<p><strong>Direct to Business</strong> are typically clients that do not have a dev shop, or they have
-a dev shop that can&#8217;t meet current demands by themselves.</p>
-
-<p><em>Example: A medical research company needs a custom application to
-manage research protocols.</em></p>
-
-<h3>Use of OSS in Agency and DTB projects</h3>
-
-<p>In my experience, stakeholders rarely balk at using OSS in these situations. The team
-decides what is the best way to deliver software on time and under budget.</p>
-
-<h2>How Microsoft Could Improve on Promoting OSS</h2>
-
-<blockquote><p>Microsoft is trying to change the mainstream (corporate) .Net culture. They
-are genuinely trying to promote open source software, without bias. And I can’t
-thank people at Microsoft (like Glenn Block, Scott Hanselman, and Jon Galloway)
-enough for busting their asses trying to push open source initiatives.</p></blockquote>
-
-<p>I completely sympathize with this quote. I believe that important people in DevDiv
-are making a huge difference in OSS adoption, but there is still a lot
-of work to do.</p>
-
-<blockquote><p>It <em>doesn&#8217;t</em> have to be this way.</p></blockquote>
-
-<p>I think the following enhancements <em>could</em> be made at Microsoft
-to facilitate the adoption of OSS in the .NET world:</p>
-
-<h3>Broaden the Audience of Evangelism and Align Evangelism Efforts with the Consulting Arm.</h3>
-
-<p>OSS evangelism needs to be <em>extended</em> outside of the audience that is reading blogs
-like this or following Hanselman, Block, and Galloway on Twitter. One important slice of
-this audience are decision makers on corporate / enterprise teams such as
-architects, infrastructure folks, and PMs. Although I think
-MS has been doing a good job of reaching these folks at events like
-VSLive! and TechEd, I think there is a more direct line to these people:
-a) The MS Consulting arm, and b) Patterns and Practices. Although these
-people may not participate in our larger community, they undoubtedly cross paths with MS
-consultants and the PnP group.</p>
-
-<p><em>As a related aside: you&#8217;d really be surprised how effective events like
-VSLive! are for promoting open source. I&#8217;ve seen someone arrive at the
-conference with a decidedly anti-Git attitude but leave the conference
-open to it because almost all of the presenters (including Microsoft people)
-were using it in their talks.</em></p>
-
-<h3>Stop Handcuffing the Free Version of VS and Remove Platform Restrictions</h3>
-
-<p>At the very least, the express version of Visual Studio should support
-plug-ins. Additionally, any new framework libraries should be <a href="http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx">free of platform restrictions</a>.</p>
-
-<p>Along these lines - anything new on the server side that could work on
-Mono should be made so that it works on Mono.</p>
-
-<h3>Don&#8217;t Reinvent the Wheel; Invest in Existing OSS Projects</h3>
-
-<p>Something like the <a href="http://efvote.wufoo.com/forms/z7x3p9/">NHibernate vs EntityFramework situation</a>
-should never happen again (no offense to the bright EF developers). This was a really
-horrible event in .NET OSS history. NH is basically dead now, and we are left with something that
-is still playing catch-up.</p>
-
-<h3>Continue Backing Established Projects but Don&#8217;t Leave the &#8220;Little Guys&#8221; Out of the Picture.</h3>
-
-<p>This may be a contriversial opinion, but I think Microsoft needs to
-continue to &#8220;back&#8221; projects. I don&#8217;t think anyone will argue that
-throwing resources behind node.js has been anything but good for us.</p>
-
-<p>As far as keeping the little guys in the picture goes, this could be a
-bit trickier and I don&#8217;t have a slam-dunk idea at the moment. Maybe
-MS needs to open up the MVP program to be more OSS centric (instead of
-boots on the ground at your local user group centric), or maybe they need to
-do an emerging technologies review every once in awhile like ThoughtWorks&#8217;
-<a href="http://www.thoughtworks.com/radar">Technology Radar</a>.</p>
-
-<h3>Continue Extending Azure Support to Linux and Other Languages and Platforms.</h3>
-
-<p>You might ask yourself why Microsoft would want to make Azure less .NET
-and Windows focused, but I think it is clear that the world
-won&#8217;t be Windows dominated again anytime soon. Additionally, making
-Azure friendly to PHP, Node.js, Python, Ruby on Rails, etc&#8230; can bring
-those developers at least a little bit closer to our community. This in
-turn should help our community rejuvinate with new ideas.</p>
-
-<h2>It Could Get Better or Worse at this Point</h2>
-
-<p>I think there are some significant challenges ahead for those inside of
-Microsoft who wish to promote OSS. I personally think getting the
-consulting arm onboard is going to be a large hurdle that could make or
-break things. Also - I haven&#8217;t really done enough thinking about the
-recent reorg to foresee how it might affect things.</p>
-
-<h2>Other Reactions</h2>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/09/25/perception-is-realitythe-state-of-oss-in-net/">Perception is Reality–The state of OSS in .NET</a> by <a href="https://twitter.com/jbogard">Jimmy Bogard</a><br/>
-<a href="http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard/">Reality is an Illusion – .NET OSS is hard</a> by <a href="https://twitter.com/markrendle">Mark Rendle</a></p>
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/blog/2013/09/23/perception-is-reality-net-oss-is-getting-better/">Read on &rarr;</a>
+    </footer>
   
 
 
@@ -299,9 +162,9 @@ recent reorg to foresee how it might affect things.</p>
   </header>
 
 
-  <div class="entry-content"><p>Apigee&#8217;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&#8217;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&#8230;) that I can remember.</p>
+  <div class="entry-content"><p>Apigee&rsquo;s <a href="http://apigee.com/about/api-best-practices/api-design-third-edition">API Design</a> webinar may have just become my second choice as the go-to resource for bootstrapping developers new to HTTP/REST/Web API design. Shawn Wildermuth&rsquo;s new <a href="http://wildermuth.com/2013/6/19/Designing_APIs_for_the_Web">Web API Design</a> Pluralsight course is probably the most complete and non-biased resource for beginners on the topic. Shawn does a great job of distilling in 2.5 hours what took me countless hours to glean via scouring through blog posts and RFCs. He also carefully discusses the trade-offs of several design choices without falling into the RESTafarian vs. Pragmatic REST trap. The course also provides one of the best explanations of the most common OAuth flow (Facebook, Twitter, etc&hellip;) that I can remember.</p>
 
-<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&#8217;t really explored (vocabularies, API DNAs, etc&#8230;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
+<p>My only minor gripe with the course is this: HATEOAS is mostly framed as a way to be friendly to humans (meaning: a way to make an API discoverable for developers). The possibilities of facilitating discoverable machine-to-machine communications isn&rsquo;t really explored (vocabularies, API DNAs, etc&hellip;). However, I share his assertion that HATEOAS is still in the academic state. I will say that he does a good job of covering HAL and Collection+JSON in regards to this topic.</p>
 
 <p>Bottom line: point developers who are new to Web APIs to this course.</p>
 </div>
@@ -339,7 +202,7 @@ recent reorg to foresee how it might affect things.</p>
   </header>
 
 
-  <div class="entry-content"><p>This information comes from a <a href="http://code.dblock.org/octopress-setting-up-a-blog-and-contributing-to-an-existing-one">post</a> by <a href="https://twitter.com/dblockdotorg">@dblockdotorg</a> which was down today while I was trying to set my blog up on a fresh OS install. Therefore, I&#8217;m mirroring that content here in case it is unavailable in the future.</p>
+  <div class="entry-content"><p>This information comes from a <a href="http://code.dblock.org/octopress-setting-up-a-blog-and-contributing-to-an-existing-one">post</a> by <a href="https://twitter.com/dblockdotorg">@dblockdotorg</a> which was down today while I was trying to set my blog up on a fresh OS install. Therefore, I&rsquo;m mirroring that content here in case it is unavailable in the future.</p>
 
 <pre><code>$ git clone git@github.com:username/username.github.com.git
 $ cd username.github.com
@@ -386,17 +249,17 @@ $ cd ..
   </header>
 
 
-  <div class="entry-content"><h2>I&#8217;m a fan of code reviews</h2>
+  <div class="entry-content"><h2>I&rsquo;m a fan of code reviews</h2>
 
-<p>I&#8217;ve typically used code reviews for the following benefits:</p>
+<p>I&rsquo;ve typically used code reviews for the following benefits:</p>
 
 <ol>
-<li>As a code quality measure. I think that code reviews rank right up there with TDD as a code quality practice. When I&#8217;m calling the shots on a project, I like to have &#8220;code review&#8221; being a requirement of something being considered &#8220;done&#8221;.</li>
+<li>As a code quality measure. I think that code reviews rank right up there with TDD as a code quality practice. When I&rsquo;m calling the shots on a project, I like to have &ldquo;code review&rdquo; being a requirement of something being considered &ldquo;done&rdquo;.</li>
 <li>As a conversational learning experience (which can benefit both the reviewee and the reviewer).</li>
 </ol>
 
 
-<p>When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I&#8217;ve come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.</p>
+<p>When reviewing code as a quality check, I highly recommend that you use any tools at your disposal. In .NET land (at least for me) that means Visual Studio and Resharper. However, when doing more of a conversational code review for learning purposes, I&rsquo;ve come to find that it can be handy to do the review without any tooling. To illustrate this point, I want to tell you a story about last Friday.</p>
 
 </div>
   
@@ -476,7 +339,7 @@ $ cd ..
   </header>
 
 
-  <div class="entry-content"><p>I&#8217;ve been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.</div>
+  <div class="entry-content"><p>I&rsquo;ve been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.</div>
   
   
     <footer>
@@ -515,7 +378,7 @@ $ cd ..
   </header>
 
 
-  <div class="entry-content"><p>I&#8217;ve been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: </div>
+  <div class="entry-content"><p>I&rsquo;ve been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: </div>
   
   
     <footer>
@@ -554,7 +417,7 @@ $ cd ..
   </header>
 
 
-  <div class="entry-content"><p>When it comes to *nix experience, I&#8217;m kind of an odd duck. You see, I&#8217;ve been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I&#8217;m still playing catch-up in many ways when it comes to fundamentals. </div>
+  <div class="entry-content"><p>When it comes to *nix experience, I&rsquo;m kind of an odd duck. You see, I&rsquo;ve been using Linux quite a bit as a desktop since Mandrake Linux came out (1998?). Also, I learned a little bit about running a *nix server in the late 90s / early 2000s when I was a Java developer. That being said, I never really tried to develop on a *nix system until late 2010 when I bought a Macbook Pro to learn Ruby. I&rsquo;m still playing catch-up in many ways when it comes to fundamentals. </div>
   
   
     <footer>
@@ -595,13 +458,13 @@ $ cd ..
 
   <div class="entry-content"><h2>Reboot</h2>
 
-<p>It&#8217;s been over a year since I&#8217;ve written a post at <a href="http://mynerditorium.blogspot.com">Welcome to My Nerditorium</a>. My old blog is hosted on the Blogger / Blogspot platform which I&#8217;ve never really enjoyed using.</p>
+<p>It&rsquo;s been over a year since I&rsquo;ve written a post at <a href="http://mynerditorium.blogspot.com">Welcome to My Nerditorium</a>. My old blog is hosted on the Blogger / Blogspot platform which I&rsquo;ve never really enjoyed using.</p>
 
-<p>I&#8217;ve decided to reboot my blog using the <a href="http://octopress.org">Octopress</a> blog engine. Although I plan on slowly migrating my old posts over to this blog, I hope to jump back in the saddle and start generating new content ASAP.</p>
+<p>I&rsquo;ve decided to reboot my blog using the <a href="http://octopress.org">Octopress</a> blog engine. Although I plan on slowly migrating my old posts over to this blog, I hope to jump back in the saddle and start generating new content ASAP.</p>
 
 <h2>What am I going to blog about now?</h2>
 
-<p>I plan to keep the theme of my blog roughly the same as before. It will be heavily focused on posts related to software development, but I will also be throwing in the occasional game review or editorial on various nerd related issues. The biggest change is that I plan to post lists of curated content on a semi-regular basis - not unlike <a href="http://blog.cwa.me.uk/">The Morning Brew</a> or <a href="http://www.alvinashcraft.com/">The Morning Dew</a>. I do not plan on directly competing with these two popular curation blogs. I will not be focusing solely on .NET or programming, and I don&#8217;t plan on posting lists every day. I&#8217;m simply going to curate lists of things that interest me (and hopefully people like me).</p>
+<p>I plan to keep the theme of my blog roughly the same as before. It will be heavily focused on posts related to software development, but I will also be throwing in the occasional game review or editorial on various nerd related issues. The biggest change is that I plan to post lists of curated content on a semi-regular basis &ndash; not unlike <a href="http://blog.cwa.me.uk/">The Morning Brew</a> or <a href="http://www.alvinashcraft.com/">The Morning Dew</a>. I do not plan on directly competing with these two popular curation blogs. I will not be focusing solely on .NET or programming, and I don&rsquo;t plan on posting lists every day. I&rsquo;m simply going to curate lists of things that interest me (and hopefully people like me).</p>
 </div>
   
   
@@ -708,19 +571,9 @@ $ cd ..
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -751,7 +604,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -775,7 +628,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

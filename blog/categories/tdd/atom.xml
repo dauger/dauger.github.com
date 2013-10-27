@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tdd | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/tdd/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-10-20T11:13:30-05:00</updated>
+  <updated>2013-10-27T11:55:58-05:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -18,27 +18,27 @@
     <link href="http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker/"/>
     <updated>2013-02-05T20:49:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/02/05/unit-testing-a-webapi-delegatinghandler-with-a-dependencyscope-via-an-httpmessageinvoker</id>
-    <content type="html"><![CDATA[<p>I've been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been working with ASP.NET WebAPI on a day-to-day basis for about seven months now, and I have to say that I really appreciate how testable it is. Although the self-hosting capability of WebAPI seems like an obvious way to facilitate a test-first workflow, I personally favor two other methodologies.<!-- more --></p>
 
 <ul>
 <li><p>Testing DelegatingHandlers in isolation via HttpMessageInvoker as outlined here: <a href="http://restoncode.azurewebsites.net/blog/2012/10/16/unit-testing-message-handler-in-asp-dot-net-webapi/">Unit Testing Message Handler in Asp.net WebAPI</a></p></li>
-<li><p>Testing "everything" via an in-memory HttpServer as outlined here: <a href="http://www.strathweb.com/2012/06/asp-net-web-api-integration-testing-with-in-memory-hosting/">ASP.NET Web API integration testing with in-memory hosting</a></p></li>
+<li><p>Testing &ldquo;everything&rdquo; via an in-memory HttpServer as outlined here: <a href="http://www.strathweb.com/2012/06/asp-net-web-api-integration-testing-with-in-memory-hosting/">ASP.NET Web API integration testing with in-memory hosting</a></p></li>
 </ul>
 
 
 <p>Testing with dependencies is straightforward with in-memory hosting because it is obvious that you can provide the HttpServer instance with an HttpConfiguration object containing an IDependencyResolver. However, when it comes to testing handlers via an HttpMessageInvoker, it is not entirely obvious or discoverable as to how you can wire up an HttpConfiguration (and therefore an IDependencyResolver).</p>
 
-<p>Here is the secret sauce: you can add an HttpConfiguration to a request object via a "stringly typed" <em>"MS_HttpConfiguration"</em> property on the HttpRequestMessage object.</p>
+<p>Here is the secret sauce: you can add an HttpConfiguration to a request object via a &ldquo;stringly typed&rdquo; <em>&ldquo;MS_HttpConfiguration&rdquo;</em> property on the HttpRequestMessage object.</p>
 
 <p>``` csharp<br/>
 [TestMethod]
 public void SomeHandlerTest()
 {
-   // ... other test setup
-   // ... set up handlerUnderTest including inner test handler</p>
+   // &hellip; other test setup
+   // &hellip; set up handlerUnderTest including inner test handler</p>
 
-<p>   request = new HttpRequestMessage(HttpMethod.Get, serverUrl + "/resource/1?someParam=foo");
-   request.Properties["MS_HttpConfiguration"] = MethodThatReturnsAnHttpConfigWithDepResolver();</p>
+<p>   request = new HttpRequestMessage(HttpMethod.Get, serverUrl + &ldquo;/resource/1?someParam=foo&rdquo;);
+   request.Properties[&ldquo;MS_HttpConfiguration&rdquo;] = MethodThatReturnsAnHttpConfigWithDepResolver();</p>
 
 <p>   invoker = new HttpMessageInvoker(handlerUnderTest);</p>
 
@@ -47,7 +47,7 @@ public void SomeHandlerTest()
 <pre><code>                              .Result;
 </code></pre>
 
-<p>   // ... asserts
+<p>   // &hellip; asserts
 }
 ```</p>
 ]]></content>
@@ -58,7 +58,7 @@ public void SomeHandlerTest()
     <link href="http://nerditorium.danielauger.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark/"/>
     <updated>2013-01-21T22:13:00-06:00</updated>
     <id>http://nerditorium.danielauger.com/blog/2013/01/21/tdd-pattern-broken-test-as-a-context-bookmark</id>
-    <content type="html"><![CDATA[<p>I've been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: <!-- more --></p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been meaning to write about this technique for many years now, but two things have finally influenced me to put the words down: <!-- more --></p>
 
 <ol>
 <li>I took a trip last week which kept me from coding, and I used this technique to get me back on track this morning.</li>

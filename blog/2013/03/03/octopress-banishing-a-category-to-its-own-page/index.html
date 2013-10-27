@@ -18,19 +18,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
-<script type="text/javascript">
+  <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-37319998-1']);
     _gaq.push(['_trackPageview']);
@@ -40,7 +41,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>
+  </script>
 
 
 </head>
@@ -111,7 +112,7 @@
 </ol>
 
 
-<p>I wasn&#8217;t sure where to start because I am new to Octopress. My google-fu was questionable due to my lack of understanding Octopress&#8217; terminology.</p>
+<p>I wasn&rsquo;t sure where to start because I am new to Octopress. My google-fu was questionable due to my lack of understanding Octopress&#8217; terminology.</p>
 
 <h2>Hiding Link Posts from the Index Page</h2>
 
@@ -121,9 +122,9 @@
 
 <h2>Creating a Page Just for the Hidden Category and Providing a Nav Link to It</h2>
 
-<p>This one tripped me up for a bit. I quickly went down a black hole searching for things like &#8220;octopress create category page&#8221;.</p>
+<p>This one tripped me up for a bit. I quickly went down a black hole searching for things like &ldquo;octopress create category page&rdquo;.</p>
 
-<p>I couldn&#8217;t find quite what I was looking for so I starting searching for other Octopress based blogs to see if anyone had done such a thing. After I came across <a href="http://time.to.pullthepl.ug/blog/archives/">this</a> blog, the answer was obvious. Octopress already creates category specific pages. In order to provide a nav link to the category, I simply needed to edit the _source/custom/navigation.html file like so:</p>
+<p>I couldn&rsquo;t find quite what I was looking for so I starting searching for other Octopress based blogs to see if anyone had done such a thing. After I came across <a href="http://time.to.pullthepl.ug/blog/archives/">this</a> blog, the answer was obvious. Octopress already creates category specific pages. In order to provide a nav link to the category, I simply needed to edit the _source/custom/navigation.html file like so:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -173,7 +174,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -251,19 +252,9 @@
 
 
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("danielauger", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/danielauger" class="twitter-follow-button" data-show-count="false">Follow @danielauger</a>
-  
+  <h1>Twitter</h1>
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/danielauger" data-widget-id="394505608881131520">Tweets by @danielauger</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </section>
 
 
@@ -298,7 +289,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }());
 </script>
@@ -322,7 +313,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
