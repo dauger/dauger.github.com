@@ -17,6 +17,7 @@ things that have already been said.*
 In my experience, OSS usage has risen slightly among internal corporate teams over the past few years. 
 However, OSS usage has really taken off among other types of teams. Additionally, there are things that Microsoft
 could do to increase OSS adoption across the board.
+<!-- more -->
 
 ## OSS in the Enterprise / Big Business Projects
 Although there is a long way to go when it comes to getting enterprise .NET 
