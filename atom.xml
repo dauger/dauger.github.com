@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-14T14:36:44-06:00</updated>
+  <updated>2013-11-17T19:35:11-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #114]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/11/17/the-land-of-10-000-links-number-114/"/>
+    <updated>2013-11-17T19:30:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/11/17/the-land-of-10-000-links-number-114</id>
+    <content type="html"><![CDATA[<h2>Go</h2>
+
+<p><a href="http://smartystreets.github.io/goconvey/">GoConvey is Awesome Go Testing</a></p>
+
+<p><a href="https://news.ycombinator.com/item?id=6735780">A List of Go Testing Frameworks Sorted by Activity</a></p>
+
+<p><a href="http://spf13.com/post/go-fmt">Refactoring With Go Fmt</a></p>
+
+<p><a href="http://dave.cheney.net/2013/11/15/evaluation-order-oddity">Evaluation order oddity</a></p>
+
+<p><a href="http://craigwickesser.com/blog/2013/11/15/gobrewfw/">Gobrew::fw</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://blog.ploeh.dk/2013/11/15/albedo/">Albedo</a></p>
+
+<p><a href="http://marcgravell.blogspot.com/2013/11/allocaction-allocation-allocation.html">Allocaction, Allocation, Allocation</a></p>
+
+<p><a href="http://leekelleher.com/2013/11/17/predictions-for-umbraco-beyond-2014/">Predictions for Umbraco &ndash; Beyond 2014</a></p>
+
+<p><a href="http://www.ilker.de/the-most-elegant-guard.html">The Most Elegant Guard</a></p>
+
+<p><a href="https://github.com/projectkudu/kudu/wiki/Azure-Site-Extensions">Azure Site Extensions</a></p>
+
+<h2>Software Engineering / Methodology / Architecture</h2>
+
+<p><a href="http://www.grahamlea.com/2013/11/git-mercurial-anti-agile-continuous-integration/">Are Git and Mercurial Anti-Agile?</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/layers-are-cheap-but-doing-it-right-is.html">Layers are Cheap, but Doing it Right is Priceless</a></p>
+
+<p><a href="http://www.slideshare.net/jeppec/soa-and-event-driven-architecture-soa-20">SOA &amp; EDA</a></p>
+
+<p><a href="http://blog.codebeside.org/blog/2013/11/10/higher-order-list-operations-across-languages/">Higher Order List Operations Across Languages</a></p>
+
+<p><a href="http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/">A Culture of Beer and Overtime</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://www.scei.co.jp/ps4-license/">OSS Used in the PS4</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #113]]></title>
@@ -1734,71 +1781,6 @@ part of it has audio.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.eurogamer.net/articles/2013-07-11-microsoft-is-retiring-its-xbox-live-rewards-program">Microsoft is retiring its Xbox Live Rewards program</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #95]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95/"/>
-    <updated>2013-07-10T20:05:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/10/the-land-of-10-000-links-number-95</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/10/inrelease-acquisition-is-complete.aspx">InRelease Acquisition is complete</a></p>
-
-<p><a href="http://support.microsoft.com/kb/2848395/en-us">Known issues for Visual Studio 2013 Preview</a></p>
-
-<p><a href="http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx">RIA Services is Getting Open-Sourced</a></p>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/07/09/getting-started-with-owin-katana-and-vs2013.aspx">Getting Started With OWIN, Katana, and VS2013</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29">Required JavaScript Reading</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://openmymind.net/Go-Slices-And-The-Case-Of-The-Missing-Memory/">Go Slices And The Case Of The Missing Memory</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="http://tryelixir.org/">Try Elixir</a></p>
-
-<h2>Git</h2>
-
-<p><a href="http://www.peterlundgren.com/blog/on-gits-shortcomings/">On Git&rsquo;s Shortcomings</a></p>
-
-<p><a href="http://kivo.com/blog/git-for-the-masses/">Git for the Masses</a></p>
-
-<p><a href="http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/">Usefull Github Patterns</a></p>
-
-<h2>Software Engineering / Craftsmanship</h2>
-
-<p><a href="http://pl.atyp.us/2013-07-perf-pitfalls.html">Performance Measurements Pitfalls</a></p>
-
-<p><a href="http://pauloortins.com/lessons-unit-tests/">12 Lessons I learned using unit tests/TDD</a></p>
-
-<p><a href="http://sideeffect.kr/popularconvention/">Popular Code Convations Gleened from Github</a></p>
-
-<p><a href="http://pandodaily.com/2013/07/08/lessons-from-the-first-millionaire-online-teacher/">Lessons from the first millionaire online teacher</a></p>
-
-<p><a href="http://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best">How to Work Remotely and Still Be the Best</a></p>
-
-<p><a href="http://blog.goosoftware.co.uk/2012/12/05/how-ascii-lost-and-unicode-won/">How ASCII Lost and Unicode Won</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://www.ericsink.com/entries/mobile_database_sync.html">Welcoming Dropbox Datastore</a></p>
-
-<p><a href="http://blogs.msdn.com/b/luispanzano/archive/2013/07/10/quick-recap-of-cloud-announcements-at-build-and-wpc-2013.aspx">Recap of Cloud Announcements at BUILD and WPC 2013</a></p>
-
-<p><a href="http://sqlblog.com/blogs/greg_low/archive/2013/07/09/is-there-more-to-using-sql-in-azure-than-redirecting-your-connection-string.aspx">Is there more to using SQL in Azure than redirecting your connection string?</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://kellabyte.com/2013/07/09/lightning-memory-mapped-database/">Lightning Memory-Mapped Database</a></p>
-
-<p><a href="http://ayende.com/blog/162754/reviewing-lightning-memory-mapped-database-library-partial?key=5fbbf4a4-bf5c-44f3-8b10-93ba25e4ace8&amp;utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+AyendeRahien+%28Ayende+%40+Rahien%29">Reviewing Lightning Memory-Mapped Database Library: Partial</a></p>
 ]]></content>
   </entry>
   
