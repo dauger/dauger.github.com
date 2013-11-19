@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-17T19:35:11-06:00</updated>
+  <updated>2013-11-18T21:14:14-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #115]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/11/18/the-land-of-10-000-links-number-115/"/>
+    <updated>2013-11-18T21:08:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/11/18/the-land-of-10-000-links-number-115</id>
+    <content type="html"><![CDATA[<h2>.NET / Microsoft Related Tech</h2>
+
+<p><a href="http://geekswithblogs.net/EltonStoneman/archive/2013/11/15/using-idisposable-to-scope-dangerous-behaviour.aspx">Using IDisposable to scope dangerous behaviour</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/11/18/disabling-arr-s-instance-affinity-in-windows-azure-web-sites.aspx">Disabling ARR&rsquo;s Instance Affinity in Windows Azure Web Sites</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/18/announcing-release-of-asp-net-and-web-tools-2013-1-for-visual-studio-2012.aspx">Announcing Release of ASP.NET and Web Tools 2013.1 for Visual Studio 2012</a></p>
+
+<p><a href="http://nickcraver.com/blog/2013/11/18/running-stack-overflow-sql-2014-ctp-2/">Running Stack Overflow SQL 2014 CTP 2</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/asp-net-mvc-5-authentication-breakdown-part-deux">ASP.NET MVC 5 Authentication Breakdown : Part Deux</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-1.html">Visual Studio Live! Orlando Day 1</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://tmp.devcharm.com/pages/golang-net-http-handlers">Go Net/HTTP Handlers</a></p>
+
+<p><a href="http://hugo.spf13.com/">Hugo &ndash; A Static Site Generator Written in Go</a></p>
+
+<p><a href="http://www.pheelicks.com/2013/11/intro-to-images-in-go-websockets/">Intro to (images in) Go – websockets</a></p>
+
+<h2>Architecture / Community / Methodology</h2>
+
+<p><a href="http://wildermuth.com/hwpod">New Podcast: Shawn Wildermuth&rsquo;s &ldquo;Hello, World&rdquo; Podcast</a></p>
+
+<p><a href="http://www.threedrunkensysadsonthe.net/2013/11/burnout-recovery-and-honesty/">Burnout, Recovery and Honesty</a></p>
+
+<p><a href="http://reefpoints.dockyard.com/2013/11/15/think.html">Think</a></p>
+
+<p><a href="http://mobprogramming.org/mob-programming-basics/">Mob Programming Basics</a></p>
+
+<p><a href="http://abdullin.com/journal/2013/11/18/things-i-learned-recently.html">Things I learned Recently</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #114]]></title>
@@ -1712,75 +1753,6 @@ recent reorg to foresee how it might affect things.</p>
 <p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
 
 <p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #96]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/11/the-land-of-10-000-links-number-96/"/>
-    <updated>2013-07-11T19:49:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/11/the-land-of-10-000-links-number-96</id>
-    <content type="html"><![CDATA[<h2>Microsoft Reorg</h2>
-
-<p><a href="http://www.microsoft.com/en-us/news/Press/2013/Jul13/07-11OneMicrosoft.aspx">One Microsoft: Company realigns to enable innovation at greater speed, efficiency</a></p>
-
-<p><a href="http://blogs.technet.com/b/firehose/archive/2013/07/11/ballmer-talks-about-realignment-and-the-future-for-one-microsoft.aspx">Ballmer talks about realignment and the future for ‘One Microsoft’</a><br/>
-Note: This is stock footage intended for news agencies, which is why only
-part of it has audio.</p>
-
-<h2>.NET</h2>
-
-<p><a href="http://www.moqthis.com/rebirth.html">Moq Rebirth</a></p>
-
-<p><a href="http://paulstovell.com/blog/convention-based-rest-api-with-documentation">Convention-based HTTP API on top of Nancy (with documentation!)</a></p>
-
-<p><a href="http://octopusdeploy.com/blog/octopus-2.0-vision">Planning Octopus 2.0</a></p>
-
-<p><a href="http://tech.pro/tutorial/1408/building-remote-control-service-for-spotify-with-aspnet-web-api-and-signalr">Building remote control service for Spotify with ASP.NET Web API and SignalR</a></p>
-
-<p><a href="http://blog.xamarin.com/a-quick-look-at-dropbox%E2%80%99s-new-datastore-api%E2%80%A6-in-c-sharp/">A quick look at Dropbox’s new Datastore API… in C#!</a></p>
-
-<p><a href="http://blogs.msdn.com/b/zainnab/archive/2013/07/11/drag-and-drop-code-onto-the-toolbox.aspx">Visual Studio 2013: Drag and Drop Code Onto the Toolbox</a></p>
-
-<p><a href="http://www.udidahan.com/2013/07/11/nservicebus-4-0-released/">NServiceBus 4.0 Released!</a></p>
-
-<p><a href="http://notherdev.blogspot.com/2013/07/liskov-substitution-vs-immutability.html">Liskov Substitution Principle vs. immutability</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/eight-cool-features-coming-in-es6">Eight Cool Features Coming in ES6</a></p>
-
-<h2>Git</h2>
-
-<p><a href="https://github.com/blog/1557-github-flow-in-the-browser">What is GitHub Flow?</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/11/scaling-up-and-scaling-out-in-windows-azure-web-sites.aspx">Scaling Up and Scaling Out in Windows Azure Web Sites</a></p>
-
-<h2>Software Craftsmanship / Engineering / Architecture / Community</h2>
-
-<p><a href="http://voiceofthedba.wordpress.com/2013/07/11/hiring-guitarists/">Hiring Guitarists</a></p>
-
-<p><a href="http://blog.ledwards.com/blog/2013/07/11/in-defense-of-coders/">In Defense of Coders</a></p>
-
-<p><a href="http://codebetter.com/sebastienlambla/2013/07/11/unit-testing-is-out-vertical-slice-testing-is-in">Unit testing is out, Vertical Slice Testing is in</a></p>
-
-<p><a href="http://blog.jgc.org/2013/07/your-test-suite-is-trying-to-tell-you.html">Your Test Suite is Trying to Tell You Something</a></p>
-
-<p><a href="http://disciplinedagiledelivery.wordpress.com/2013/07/10/12-habits-that-will-make-you-an-excellent-team-lead/">12 Habits That Will Make You an Excellent Team Lead</a></p>
-
-<h2>Design</h2>
-
-<p><a href="http://blog.hubspot.com/look-back-20-years-website-design">A Look Back at 20+ Years of Website Design</a></p>
-
-<h2>HTTP</h2>
-
-<p><a href="http://www.chmod777self.com/2013/07/http2-wait-theres-more.html">HTTP/2 &hellip; Wait! There&rsquo;s more!</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.eurogamer.net/articles/2013-07-11-microsoft-is-retiring-its-xbox-live-rewards-program">Microsoft is retiring its Xbox Live Rewards program</a></p>
 ]]></content>
   </entry>
   
