@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-18T21:14:14-06:00</updated>
+  <updated>2013-11-19T23:17:10-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #116]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/11/19/the-land-of-10-000-links-number-116/"/>
+    <updated>2013-11-19T23:13:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/11/19/the-land-of-10-000-links-number-116</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/">Isomorphic JavaScript: The Future of Web Apps</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/10/03/hello-minty/">Hello Minty</a></p>
+
+<h2>.NET / Azure</h2>
+
+<p><a href="http://www.scarydba.com/2013/11/19/windows-azure-views/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HomeOfTheScaryDba+%28Home+of+the+Scary+DBA%29">Windows Azure Views</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/18/browser-link-apis-in-visual-studio-2013-rtm.aspx">Browser Link APIs in Visual Studio 2013 RTM</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vS6ONq6YwyI&amp;feature=youtu.be">Glimpse for Webforms</a></p>
+
+<p><a href="http://redmondmag.com/articles/2013/11/01/whither-the-microsoft-it-pro.aspx">Are the Days of the Microsoft IT Pro Numbered?</a></p>
+
+<p><a href="http://redmondmag.com/articles/2013/11/15/storage-spaces-flaw.aspx">Microsoft Warns of Storage Spaces Flaw in Windows Server 2012 R2</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-2.html">Visual Studio LIVE! Orlando 2013 Day 2</a></p>
+
+<p><a href="http://www.troyhunt.com/2013/11/dont-trust-net-web-forms-email-regex.html">Don’t trust the .NET web forms email regex validator (or most others)</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://www.alexedwards.net/blog/simple-flash-messages-in-golang">Simple Flash Messages in Go</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://gigaom.com/2013/11/12/netflix-ditches-webkit-to-roll-out-slick-new-ui-for-smart-tvs-roku-boxes-and-game-consoles/">Netflix ditches Webkit to roll out slick new UI for smart TVs, Roku boxes and game consoles</a></p>
+
+<p><a href="http://aws.typepad.com/aws/2013/11/process-earth-science-data-on-aws-with-nasa-nex.html">Process Earth Science Data on AWS With NASA / NEX Public Data Sets</a></p>
+
+<p><a href="http://explainshell.com/">Explainshell &ndash; get a clue about shell commands</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #115]]></title>
@@ -334,51 +375,6 @@
 <h2>Fun</h2>
 
 <p><a href="http://blog.ittoby.com/2013/10/the-gathering-storm-in-pc-gaming.html">The Gathering Storm in the PC Gaming Industry</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #111]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111/"/>
-    <updated>2013-10-12T20:55:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/10/12/the-land-of-10-000-links-number-111</id>
-    <content type="html"><![CDATA[<h2>JavaScript</h2>
-
-<p><a href="http://blog.jetbrains.com/webstorm/2013/10/webstorm-and-windows-azure-mobile-services/">WebStorm and Windows Azure Mobile Services</a></p>
-
-<h2>.NET / Windows / Microsoft</h2>
-
-<p><a href="http://blog.simontimms.com/2013/10/11/2-days-with-scriptcs/">2 Days With Scriptcs</a></p>
-
-<p><a href="http://devproconnections.com/mobile-development/xamarin-miguel-de-icaza-ios-development">iOS Platform Fundamentals for C# Developers</a></p>
-
-<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=948">Web API, Async and Performance in an ASP.NET MVC Application</a></p>
-
-<p><a href="https://github.com/blog/1656-a-lighter-brighter-github-for-windows">A Lighter, Brighter, Github for Windows</a></p>
-
-<p><a href="http://codebetter.com/glennblock/2013/10/13/a-new-adventure-at-splunk-after-an-amazing-8-years-at-microsoft/">A new adventure at Splunk after an amazing 8 years at Microsoft</a></p>
-
-<h2>Rust</h2>
-
-<p><a href="http://earlz.net/view/2013/10/12/1812/im-learning-rust-so-i-can-move-away">I&rsquo;m Learning Russt so I Can Move Away from C#</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool">How to Use Conditional Compilation With the Go Build Tool</a></p>
-
-<h2>Scala</h2>
-
-<p><a href="https://speakerdeck.com/ryanlecompte/confessions-of-a-ruby-developer-whose-heart-was-stolen-by-scala">Confessions of a Ruby Developer Whose Heart was Stolen by Scala</a></p>
-
-<h2>Elixir</h2>
-
-<p><a href="http://benjamintanweihao.github.io/blog/2013/10/09/elixir-by-example-ring/">Elixir By Example: The Ring I</a></p>
-
-<h2>Architecture / Misc</h2>
-
-<p><a href="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md">Free Programming Books List on Github</a></p>
-
-<p><a href="http://byterot.blogspot.com/2013/10/api-layer-and-its-responsibilities-rest-viewpoint-webapi-csds-aspnetwebapi.html">API Layer and its responsibilities &ndash; a REST viewpoint</a></p>
 ]]></content>
   </entry>
   

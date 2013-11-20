@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-18T21:14:14-06:00</updated>
+  <updated>2013-11-19T23:17:10-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #116]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/11/19/the-land-of-10-000-links-number-116/"/>
+    <updated>2013-11-19T23:13:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/11/19/the-land-of-10-000-links-number-116</id>
+    <content type="html"><![CDATA[<h2>JavaScript</h2>
+
+<p><a href="http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/">Isomorphic JavaScript: The Future of Web Apps</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/10/03/hello-minty/">Hello Minty</a></p>
+
+<h2>.NET / Azure</h2>
+
+<p><a href="http://www.scarydba.com/2013/11/19/windows-azure-views/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+HomeOfTheScaryDba+%28Home+of+the+Scary+DBA%29">Windows Azure Views</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/18/browser-link-apis-in-visual-studio-2013-rtm.aspx">Browser Link APIs in Visual Studio 2013 RTM</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vS6ONq6YwyI&amp;feature=youtu.be">Glimpse for Webforms</a></p>
+
+<p><a href="http://redmondmag.com/articles/2013/11/01/whither-the-microsoft-it-pro.aspx">Are the Days of the Microsoft IT Pro Numbered?</a></p>
+
+<p><a href="http://redmondmag.com/articles/2013/11/15/storage-spaces-flaw.aspx">Microsoft Warns of Storage Spaces Flaw in Windows Server 2012 R2</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-2.html">Visual Studio LIVE! Orlando 2013 Day 2</a></p>
+
+<p><a href="http://www.troyhunt.com/2013/11/dont-trust-net-web-forms-email-regex.html">Don’t trust the .NET web forms email regex validator (or most others)</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://www.alexedwards.net/blog/simple-flash-messages-in-golang">Simple Flash Messages in Go</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://gigaom.com/2013/11/12/netflix-ditches-webkit-to-roll-out-slick-new-ui-for-smart-tvs-roku-boxes-and-game-consoles/">Netflix ditches Webkit to roll out slick new UI for smart TVs, Roku boxes and game consoles</a></p>
+
+<p><a href="http://aws.typepad.com/aws/2013/11/process-earth-science-data-on-aws-with-nasa-nex.html">Process Earth Science Data on AWS With NASA / NEX Public Data Sets</a></p>
+
+<p><a href="http://explainshell.com/">Explainshell &ndash; get a clue about shell commands</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #115]]></title>
@@ -1670,89 +1711,6 @@ recent reorg to foresee how it might affect things.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.computerandvideogames.com/420421/sony-issues-new-ps4-operating-system-screenshots/">Sony Issues New PS4 Operating System Screenshots</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #97]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97/"/>
-    <updated>2013-07-20T21:21:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/20/the-land-of-10-000-links-number-97</id>
-    <content type="html"><![CDATA[<h2>Ruby</h2>
-
-<p><a href="http://ruby.awsblog.com/post/Tx1KGN84F9CRCKM/Happy-Birthday-SDK-Now-Let-s-Celebrate-the-Future">Happy Birthday, AWS Ruby SDK! Now Let&rsquo;s Celebrate the Future</a></p>
-
-<p><a href="http://rubysource.com/docker-for-rubyists/">Docker for Rubyists</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="https://github.com/jamesfoster/DeepEqual">DeepEqual &ndash; An Extensible Deep Comparison for .NET</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/07/19/writing-web-api-client-code-for-multiple-platforms-using-portable-libraries.aspx">Writing Web API Client Code for Multiple Platforms Using Portable Libraries</a></p>
-
-<p><a href="http://blog.ploeh.dk/2013/07/20/linq-versus-the-lsp/">LINQ Versus the LSP</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work.aspx">Windows Azure Web Sites: How Application Strings and Connection Strings Work</a></p>
-
-<p><a href="http://blogs.jetbrains.com/dotnet/2013/07/resharper-80-is-available/">ReSharper 8.0 is Available</a></p>
-
-<p><a href="http://lostechies.com/jimmybogard/2013/07/17/how-we-do-mvc-4-years-later/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">How We Do MVC &ndash; 4 Years Later</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://endgate.net/">Endgate &ndash; An HTML5 / JS Game Framework Powered by TypeScript</a></p>
-
-<p><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync Multiple AngularJS Apps Without Server via PouchDB</a></p>
-
-<p><a href="http://briancray.com/posts/javascript-module-pattern">JavaScript Module Pattern: When to Use it and Why</a></p>
-
-<p><a href="http://journal.stuffwithstuff.com/2013/07/18/javascript-isnt-scheme/">JavaScript Isn&rsquo;t Scheme</a></p>
-
-<h2>HTTP / REST</h2>
-
-<p><a href="http://jcalcote.wordpress.com/2008/10/16/put-or-post-the-rest-of-the-story/">PUT or POST: The REST of the Story </a></p>
-
-<p><a href="http://www.youtube.com/watch?v=FeSdFhsKGG0">Secure Your API &ndash; Tips for REST + JSON Developers</a></p>
-
-<h2>Git</h2>
-
-<p><a href="https://sandofsky.com/blog/git-workflow.html">Understanding the Git Workflow</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=dElKSWf9n24&amp;feature=youtu.be&amp;a">Git Migrate &ndash; Git Repository based Database Migrations</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://pluralsight.com/training/Courses/TableOfContents/mongodb-introduction">New Pluralsight Course: Introduction to MongoDB</a></p>
-
-<p><a href="http://0x74696d.com/posts/falling-in-and-out-of-love-with-dynamodb-part-ii/">Falling In And Out Of Love With DynamoDB, Part II</a></p>
-
-<p><a href="http://www.usievents.com/en/conferences/12-paris-usi-2013/sessions/1090-why-you-should-never-write-your-own-database">Why You Should Never Write Your Own Database</a></p>
-
-<h2>Windows</h2>
-
-<p><a href="http://winsupersite.com/windows-8/microsoft-delivers-more-fixes-windows-81-preview">Microsoft Delivers More Fixes for Windows 8.1 Preview</a></p>
-
-<h2>OSX</h2>
-
-<p><a href="http://www.macworld.com/article/2044473/new-digitally-signed-mac-malware-confuses-users-with-right-to-left-file-name-tricks.html">New digitally signed Mac malware confuses users with right-to-left file name tricks</a></p>
-
-<h2>Community</h2>
-
-<p><a href="http://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=bufferce215&amp;utm_medium=twitter">Linus Torvalds defends his right to shame Linux kernel developers</a></p>
-
-<p><a href="http://www.wired.com/wiredenterprise/2013/07/sarah_sharp/">Why This Hacker Stood Up Against ‘Verbal Abuse’ in Linux Land</a></p>
-
-<p><a href="http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon">Enigma codebreaker Alan Turing to be given posthumous pardon</a></p>
-
-<p><a href="http://computinged.wordpress.com/2013/07/19/if-we-cant-teach-programming-create-software-engineering-for-dumb-programmers/">If We Can&rsquo;t Teach Programming, Create Software Engineering for Poor Programmers</a></p>
-
-<p><a href="http://goodenoughsoftware.net/2013/07/18/the-charlie-foxtrot-aka-teched/">Why I Cancelled My TechEd Talks</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://arstechnica.com/gaming/2013/07/in-the-beginning-ralph-h-baer-and-the-birth-of-the-game-console/">Baer’s Odyssey: Meet the serial inventor who built the world’s first game console</a></p>
-
-<p><a href="http://www.nintendolife.com/news/2013/07/the_famicom_turns_30_years_old">The Famicom Turns 30</a></p>
 ]]></content>
   </entry>
   
