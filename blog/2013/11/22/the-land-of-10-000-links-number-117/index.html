@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Octopress: Banishing a Category to Its Own Page - Welcome to My Nerditorium</title>
+  <title>The Land of 10,000 Links #117 - Welcome to My Nerditorium</title>
   <meta name="author" content="Daniel Auger">
 
   
-  <meta name="description" content="Because this blog is made of up link posts and original content posts, I wanted to make two customizations to Octopress to keep original content from &hellip;">
+  <meta name="description" content="Heads up: I&rsquo;m starting a new job so I might not be posting links for a few weeks. JavaScript / HTML Introducing node.js Tools fo Visual Studio &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page">
+  <link rel="canonical" href="http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Welcome to My Nerditorium" type="application/atom+xml">
@@ -81,7 +81,7 @@
   
   <header>
     
-      <h1 class="entry-title">Octopress: Banishing a Category to Its Own Page</h1>
+      <h1 class="entry-title">The Land of 10,000 Links #117</h1>
     
     
       <p class="meta">
@@ -97,47 +97,112 @@
   
 
 
-<time datetime="2013-03-03T18:11:00-06:00" pubdate data-updated="true">Mar 3<span>rd</span>, 2013</time>
+<time datetime="2013-11-22T22:35:00-06:00" pubdate data-updated="true">Nov 22<span>nd</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Because this blog is made of up <a href="/blog/categories/links">link posts</a> and original content posts, I wanted to make two customizations to Octopress to keep original content from getting lost under the volume of link posts.<!-- more --> The modifications I wanted to make were:</p>
+<div class="entry-content"><p>Heads up: I&rsquo;m starting a new job so I might not be posting links for a few weeks.</p>
 
-<ol>
-<li>Hide all link posts from the index page.</li>
-<li>Create a page just for link posts and provide navigation to it via the nav bar.</li>
-</ol>
+<h2>JavaScript / HTML</h2>
 
+<p><a href="http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx">Introducing node.js Tools fo Visual Studio</a></p>
 
-<p>I wasn&rsquo;t sure where to start because I am new to Octopress. My google-fu was questionable due to my lack of understanding Octopress&#8217; terminology.</p>
+<p><a href="http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-">21 JavaScript Parts I Struggle To Remember</a></p>
 
-<h2>Hiding Link Posts from the Index Page</h2>
+<p><a href="http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/">An Introduction To Full-Stack JavaScript</a></p>
 
-<p>Out of the two things I wanted to do, this was the easiest to find help with. I found this post about <a href="http://arshad.github.com/blog/2012/05/10/recipe-hiding-posts-from-the-octopress-front-page/">hiding posts from the octopress front page</a> almost right away.</p>
+<p><a href="http://www.wekeroad.com/2013/10/04/minty-the-first-steps/">Minty: The First Steps</a></p>
 
-<p>The TLDR version of that post is: you need to assign a category to the posts you want to hide and then alter the pagination plugin to exclude that category.</p>
+<p><a href="http://www.wekeroad.com/2013/10/04/minty-defining-the-model/">Minty: Defining the Model</a></p>
 
-<h2>Creating a Page Just for the Hidden Category and Providing a Nav Link to It</h2>
+<h2>HTML</h2>
 
-<p>This one tripped me up for a bit. I quickly went down a black hole searching for things like &ldquo;octopress create category page&rdquo;.</p>
+<p><a href="http://www.icenium.com/blog/icenium-team-blog/2013/11/21/what-exactly-is.....-the-300ms-click-delay">What Exactly Is&hellip;.. The 300ms Click Delay</a></p>
 
-<p>I couldn&rsquo;t find quite what I was looking for so I starting searching for other Octopress based blogs to see if anyone had done such a thing. After I came across <a href="http://time.to.pullthepl.ug/blog/archives/">this</a> blog, the answer was obvious. Octopress already creates category specific pages. In order to provide a nav link to the category, I simply needed to edit the _source/custom/navigation.html file like so:</p>
+<h2>UX</h2>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">&quot;main-navigation&quot;</span><span class="nt">&gt;</span>
-</span><span class='line'>  <span class="c">&lt;!-- other nav links --&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">&quot;/blog/categories/links&quot;</span><span class="nt">&gt;</span>10,000 Links<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-</span><span class='line'>  <span class="c">&lt;!-- other nav links --&gt;</span>
-</span><span class='line'><span class="nt">&lt;/ul&gt;</span>
-</span></code></pre></td></tr></table></div></figure>
+<p><a href="http://zacknaylor.tumblr.com/post/67653388328/where-ux-begins-ends">Where UX Begins &amp; Ends</a></p>
 
+<h2>Ruby</h2>
+
+<p><a href="https://blog.engineyard.com/2013/getting-started-in-ruby">Getting Started in Ruby</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://dotnetfiddle.net/">Fiddle for .NET</a></p>
+
+<p><a href="http://msmvps.com/blogs/nunogodinho/archive/2013/11/20/windows-azure-storage-performance-best-practices.aspx">Windows Azure Storage Performance Best Practices</a></p>
+
+<p><a href="http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx">RIA Services is Getting Open-Sourced</a></p>
+
+<p><a href="http://lostechies.com/keithdahlby/2013/11/20/discovering-net-open-source-up-for-grabs/">Discovering .NET Open Source: up-for-grabs.net</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-3.html">Visual Studio Live Orlando 2013 &ndash; Day 3</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-4.html">Visual Studio Live Orlando 2013 &ndash; Day 4</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-5.html">Visual Studio Live Orlando 2013 &ndash; Day 5</a></p>
+
+<p><a href="http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx">Declare Don&rsquo;t Tell</a></p>
+
+<p><a href="http://blogs.msdn.com/b/agile/archive/2013/11/21/microsoft-enterprise-library-open-development-model.aspx">Microsoft Enterprise Library &ndash; Open Development Model</a></p>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/11/21/windows-azure-general-availability-release-of-biztalk-services-traffic-manager-azure-ad-app-access-xamarin-support-for-mobile-services.aspx">Windows Azure: General Availability Release of BizTalk Services, Traffic Manager, Azure AD App Access + Xamarin support for Mobile Services</a></p>
+
+<p><a href="http://thinkfirstcodelater.com/blog/?p=3463">Azure CLI Day 46 – sql server list</a></p>
+
+<p><a href="http://byterot.blogspot.co.uk/2013/11/content-negotiation-higher-level-media-type-5LMT-asp-net-web-api-mediatypeformatter-conneg.html">HTTP Content Negotiation on higher levels of media type</a></p>
+
+<p><a href="http://blog.xamarin.com/windowsazure-welcomes-xamarin/">WindowsAzure.com Welcomes Xamarin</a></p>
+
+<p><a href="http://blogs.msdn.com/b/ukmsdn/archive/2013/11/19/how-vpns-can-help-you-use-your-msdn-azure-benefits-with-tfs-lab-management.aspx">How VPNs can help you use your MSDN Azure benefits with TFS Lab Management</a></p>
+
+<p><a href="https://communities.coverity.com/blogs/development-testing-blog/2013/11/20/c-non-nullable-reference-types">C#: Non-nullable Reference Types</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/11/20/how-much-data-can-you-put-on-vsonline.aspx">How much data can you put on VSOnline?</a></p>
+
+<p><a href="http://kozmic.net/2013/11/21/on-strongly-typed-application-settings-with-castle-dictionaryadapter/">On Strongly Typed Application Settings with Castle Dictionary Adapter</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/22/debugging-owin-app-or-framework.aspx">Debugging OWIN app or Framework</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://thechangelog.com/on-go-web-application-ecosystem/">On Go&rsquo;s Web Application Ecosystem</a></p>
+
+<p><a href="https://medium.com/p/528af8ee1a58">Hassle-Free Go in Production</a></p>
+
+<p><a href="http://corte.si/posts/code/go/golang-practicaly-beats-purity/index.html">How I Learned to Stop Worrying and Love Golang</a> and some <a href="http://www.reddit.com/r/programming/comments/1r32pt/how_i_learned_to_stop_worrying_and_love_golang/">followup</a></p>
+
+<p><a href="http://www.qureet.com/blog/golang-technology-stack/">TweetQureet: a full Golang technology stack</a></p>
+
+<p><a href="http://openmymind.net/Concurrent-Reads-With-Serialized-Writes/">Concurrent Reads with Serialized Writes</a></p>
+
+<h2>HTTP / Hypermedia / APIs</h2>
+
+<p><a href="http://apievangelist.com/2013/11/20/hypermedia-in-the-wild-amazon-appstream-api/">Hypermedia In The Wild: Amazon AppStream API</a></p>
+
+<h2>Engineering / Craftsmanship</h2>
+
+<p><a href="http://therealadam.com/2013/11/20/object-oriented-relativism/">Object-oriented relativism</a></p>
+
+<p><a href="http://blog.pagerduty.com/2013/11/failure-friday-at-pagerduty/">Failure Friday: How We Ensure PagerDuty is Always Reliable</a></p>
+
+<p><a href="https://vimeo.com/79866979">Implementing Micro Service Architectures</a></p>
+
+<h2>Fun / Misc</h2>
+
+<p><a href="http://arstechnica.com/business/2013/11/after-15-years-of-llama-whipping-aol-shuts-down-winamp-for-good/">After 15 Years of Llama-whipping, AOL Shuts Down Winamp for Good</a></p>
+
+<p><a href="http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/">Healthcare.gov and the Gulf Between Planning and Reality</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/are-all-open-source-developers-assholes">Are All Open Source Developers Assholes?</a></p>
+
+<p><a href="http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/">What it Takes to Run Stack Overflow</a></p>
+
+<p><a href="https://twitter.com/ID_AA_Carmack/status/403983210880577536">Professional Ties Severed Between John Carmack and ID</a></p>
 </div>
 
 
@@ -160,12 +225,12 @@
   
 
 
-<time datetime="2013-03-03T18:11:00-06:00" pubdate data-updated="true">Mar 3<span>rd</span>, 2013</time>
+<time datetime="2013-11-22T22:35:00-06:00" pubdate data-updated="true">Nov 22<span>nd</span>, 2013</time>
       
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/meta/'>meta</a>, <a class='category' href='/blog/categories/octopress/'>octopress</a>
+    <a class='category' href='/blog/categories/links/'>links</a>
   
 </span>
 
@@ -174,7 +239,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117/" data-via="danielauger" data-counturl="http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -185,10 +250,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/03/03/the-land-of-10-000-links-number-47/" title="Previous Post: The Land of 10,000 Links #47">&laquo; The Land of 10,000 Links #47</a>
+        <a class="basic-alignment left" href="/blog/2013/11/19/the-land-of-10-000-links-number-116/" title="Previous Post: The Land of 10,000 Links #116">&laquo; The Land of 10,000 Links #116</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2013/03/04/the-land-of-10-000-links-number-48/" title="Next Post: The Land of 10,000 Links #48">The Land of 10,000 Links #48 &raquo;</a>
       
     </p>
   </footer>
@@ -283,8 +346,8 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/';
-        var disqus_url = 'http://nerditorium.danielauger.com/blog/2013/03/03/octopress-banishing-a-category-to-its-own-page/';
+        var disqus_identifier = 'http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117/';
+        var disqus_url = 'http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117/';
         var disqus_script = 'embed.js';
       
     (function () {

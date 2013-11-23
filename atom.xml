@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-19T23:17:10-06:00</updated>
+  <updated>2013-11-22T23:05:00-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,113 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #117]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117/"/>
+    <updated>2013-11-22T22:35:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/11/22/the-land-of-10-000-links-number-117</id>
+    <content type="html"><![CDATA[<p>Heads up: I&rsquo;m starting a new job so I might not be posting links for a few weeks.</p>
+
+<h2>JavaScript / HTML</h2>
+
+<p><a href="http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx">Introducing node.js Tools fo Visual Studio</a></p>
+
+<p><a href="http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-">21 JavaScript Parts I Struggle To Remember</a></p>
+
+<p><a href="http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/">An Introduction To Full-Stack JavaScript</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/10/04/minty-the-first-steps/">Minty: The First Steps</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/10/04/minty-defining-the-model/">Minty: Defining the Model</a></p>
+
+<h2>HTML</h2>
+
+<p><a href="http://www.icenium.com/blog/icenium-team-blog/2013/11/21/what-exactly-is.....-the-300ms-click-delay">What Exactly Is&hellip;.. The 300ms Click Delay</a></p>
+
+<h2>UX</h2>
+
+<p><a href="http://zacknaylor.tumblr.com/post/67653388328/where-ux-begins-ends">Where UX Begins &amp; Ends</a></p>
+
+<h2>Ruby</h2>
+
+<p><a href="https://blog.engineyard.com/2013/getting-started-in-ruby">Getting Started in Ruby</a></p>
+
+<h2>.NET</h2>
+
+<p><a href="http://dotnetfiddle.net/">Fiddle for .NET</a></p>
+
+<p><a href="http://msmvps.com/blogs/nunogodinho/archive/2013/11/20/windows-azure-storage-performance-best-practices.aspx">Windows Azure Storage Performance Best Practices</a></p>
+
+<p><a href="http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx">RIA Services is Getting Open-Sourced</a></p>
+
+<p><a href="http://lostechies.com/keithdahlby/2013/11/20/discovering-net-open-source-up-for-grabs/">Discovering .NET Open Source: up-for-grabs.net</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-3.html">Visual Studio Live Orlando 2013 &ndash; Day 3</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-4.html">Visual Studio Live Orlando 2013 &ndash; Day 4</a></p>
+
+<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-5.html">Visual Studio Live Orlando 2013 &ndash; Day 5</a></p>
+
+<p><a href="http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx">Declare Don&rsquo;t Tell</a></p>
+
+<p><a href="http://blogs.msdn.com/b/agile/archive/2013/11/21/microsoft-enterprise-library-open-development-model.aspx">Microsoft Enterprise Library &ndash; Open Development Model</a></p>
+
+<p><a href="http://weblogs.asp.net/scottgu/archive/2013/11/21/windows-azure-general-availability-release-of-biztalk-services-traffic-manager-azure-ad-app-access-xamarin-support-for-mobile-services.aspx">Windows Azure: General Availability Release of BizTalk Services, Traffic Manager, Azure AD App Access + Xamarin support for Mobile Services</a></p>
+
+<p><a href="http://thinkfirstcodelater.com/blog/?p=3463">Azure CLI Day 46 – sql server list</a></p>
+
+<p><a href="http://byterot.blogspot.co.uk/2013/11/content-negotiation-higher-level-media-type-5LMT-asp-net-web-api-mediatypeformatter-conneg.html">HTTP Content Negotiation on higher levels of media type</a></p>
+
+<p><a href="http://blog.xamarin.com/windowsazure-welcomes-xamarin/">WindowsAzure.com Welcomes Xamarin</a></p>
+
+<p><a href="http://blogs.msdn.com/b/ukmsdn/archive/2013/11/19/how-vpns-can-help-you-use-your-msdn-azure-benefits-with-tfs-lab-management.aspx">How VPNs can help you use your MSDN Azure benefits with TFS Lab Management</a></p>
+
+<p><a href="https://communities.coverity.com/blogs/development-testing-blog/2013/11/20/c-non-nullable-reference-types">C#: Non-nullable Reference Types</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/11/20/how-much-data-can-you-put-on-vsonline.aspx">How much data can you put on VSOnline?</a></p>
+
+<p><a href="http://kozmic.net/2013/11/21/on-strongly-typed-application-settings-with-castle-dictionaryadapter/">On Strongly Typed Application Settings with Castle Dictionary Adapter</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/22/debugging-owin-app-or-framework.aspx">Debugging OWIN app or Framework</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://thechangelog.com/on-go-web-application-ecosystem/">On Go&rsquo;s Web Application Ecosystem</a></p>
+
+<p><a href="https://medium.com/p/528af8ee1a58">Hassle-Free Go in Production</a></p>
+
+<p><a href="http://corte.si/posts/code/go/golang-practicaly-beats-purity/index.html">How I Learned to Stop Worrying and Love Golang</a> and some <a href="http://www.reddit.com/r/programming/comments/1r32pt/how_i_learned_to_stop_worrying_and_love_golang/">followup</a></p>
+
+<p><a href="http://www.qureet.com/blog/golang-technology-stack/">TweetQureet: a full Golang technology stack</a></p>
+
+<p><a href="http://openmymind.net/Concurrent-Reads-With-Serialized-Writes/">Concurrent Reads with Serialized Writes</a></p>
+
+<h2>HTTP / Hypermedia / APIs</h2>
+
+<p><a href="http://apievangelist.com/2013/11/20/hypermedia-in-the-wild-amazon-appstream-api/">Hypermedia In The Wild: Amazon AppStream API</a></p>
+
+<h2>Engineering / Craftsmanship</h2>
+
+<p><a href="http://therealadam.com/2013/11/20/object-oriented-relativism/">Object-oriented relativism</a></p>
+
+<p><a href="http://blog.pagerduty.com/2013/11/failure-friday-at-pagerduty/">Failure Friday: How We Ensure PagerDuty is Always Reliable</a></p>
+
+<p><a href="https://vimeo.com/79866979">Implementing Micro Service Architectures</a></p>
+
+<h2>Fun / Misc</h2>
+
+<p><a href="http://arstechnica.com/business/2013/11/after-15-years-of-llama-whipping-aol-shuts-down-winamp-for-good/">After 15 Years of Llama-whipping, AOL Shuts Down Winamp for Good</a></p>
+
+<p><a href="http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/">Healthcare.gov and the Gulf Between Planning and Reality</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/are-all-open-source-developers-assholes">Are All Open Source Developers Assholes?</a></p>
+
+<p><a href="http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/">What it Takes to Run Stack Overflow</a></p>
+
+<p><a href="https://twitter.com/ID_AA_Carmack/status/403983210880577536">Professional Ties Severed Between John Carmack and ID</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #116]]></title>
@@ -1596,121 +1703,6 @@ recent reorg to foresee how it might affect things.</p>
 <h2>Video Games</h2>
 
 <p><a href="http://www.youtube.com/watch?v=MpRBPY-E8Wg&amp;feature=youtube_gdata">Matt Chat 203: Frayed Knights</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #98]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98/"/>
-    <updated>2013-07-27T12:11:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/27/the-land-of-10-000-links-number-98</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://codebetter.com/howarddierking/2013/07/23/katana-license-lifts-windows-only-restriction/">Katana License Lifts Windows-only Restriction</a></p>
-
-<p><a href="http://www.strathweb.com/2013/07/scriptcs-and-multiline-repl/">Scriptcs and multiline REPL!</a></p>
-
-<p><a href="https://github.com/xpaulbettsx/refit">The automatic type-safe REST library for Xamarin and .NET</a></p>
-
-<p><a href="http://blog.xamarin.com/major-upgrades-to-xamarin%E2%80%99s-platform-async-is-here/">Async Comes to Mono</a></p>
-
-<p><a href="http://www.cloudidentity.com/blog/2013/07/23/securing-a-web-api-with-windows-azure-ad-and-katana/">Securing a Web API with Windows Azure AD and Katana</a></p>
-
-<p><a href="http://stackoverflow.com/questions/7807066/how-signalr-works-internally/7874352#7874352">How Signalr Words Internally</a></p>
-
-<p><a href="https://github.com/tugberkugurlu/OwinSamples">OWIN Samples</a></p>
-
-<p><a href="http://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/">When to use IEnumerable, ICollection, IList and List</a></p>
-
-<p><a href="http://mentalflatlining.wordpress.com/2013/02/19/evaluating-data-services-options-wcf-vs-webapi-vs-servicestack/">Evaluating Data Services options – WCF vs WebAPI vs ServiceStack</a></p>
-
-<p><a href="http://www.dotnetcurry.com/ShowArticle.aspx?ID=921">ASP.NET Web API 2.0 Cross Origin Resource Sharing Support</a></p>
-
-<p><a href="http://nakedalm.com/creating-a-custom-activity-for-team-foundation-build/">You can be creating a custom activity for Team Foundation Build in a few simple steps.</a></p>
-
-<p><a href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/24/msbuild-is-now-part-of-visual-studio.aspx">MSBuild is Now Part of Visual Studio</a></p>
-
-<h2>Dart</h2>
-
-<p><a href="http://www.infoq.com/interviews/moore-dart">Kevin Moore on Dart</a></p>
-
-<h2>Go</h2>
-
-<p><a href="https://github.com/mindreframer/golang-stuff/">Go Resources / Stuff</a></p>
-
-<p><a href="http://blog.bensigelman.org/post/56158760736/golang-impressions">My Impressions of Go</a></p>
-
-<h2>Databases</h2>
-
-<p><a href="http://www.infoq.com/research/nosql-databases">NoSQL Trends</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://blog.alexmaccaw.com/how-yield-will-transform-node">How Yield Will Transform Node</a></p>
-
-<p><a href="http://net.tutsplus.com/articles/news/learn-ember-with-us-for-free/">Learn Ember With Us for Free</a></p>
-
-<h2>Cloud</h2>
-
-<p><a href="http://weblogs.asp.net/scottgu/archive/2013/07/23/windows-azure-july-updates-sql-database-traffic-manager-autoscale-virtual-machines.aspx">Windows Azure July Updates: SQL Database, Traffic Manager, AutoScale, Virtual Machines</a></p>
-
-<p><a href="http://windowsitpro.com/cloud/prism-killing-us-cloud-economy">PRISM is Killing the US Cloud Economy</a></p>
-
-<h2>HTTP / REST / API</h2>
-
-<p><a href="http://blog.programmableweb.com/2013/07/23/swagger-offers-lightning-quick-connection-to-your-api/">Swagger Offers Lightning Quick Connection To Your API</a></p>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/22/rest-api-for-team-rooms.aspx">REST API for TFS Team Rooms</a></p>
-
-<p><a href="http://techoctave.com/c7/posts/71-twitter-rest-api-dissected">Twitter &ldquo;REST&rdquo; API Dissected</a></p>
-
-<p><a href="http://blog.hartleybrody.com/https-certificates/">How HTTPS Secures Connections: What Every Web Dev Should Know</a></p>
-
-<h2>Community / Craftsmanship / Engineering</h2>
-
-<p><a href="http://www.mindful.org/mindful-magazine/a-users-guide-to-living-well-in-screenworld">A User&rsquo;s Guide to Living Well in Screenworld</a></p>
-
-<p><a href="http://michaelfeathers.typepad.com/michael_feathers_blog/2013/07/the-single-responsibility-principle-leads-to-good-openclosed-characteristics.html">The Single Responsibility and Open/Closed Principle are the Same</a></p>
-
-<p><a href="http://scriptogr.am/terryr/post/thank-you-github">Thank You GitHub (And all Other OSS Community Leaders)</a></p>
-
-<p><a href="http://www.joelonsoftware.com/items/2013/07/22.html">Victory Lap for Ask Patents</a></p>
-
-<p><a href="http://www.wired.com/underwire/2013/07/ap_argshaming/?mbid=social10097944">Why You Should Think Twice Before Shaming Anyone on Social Media</a></p>
-
-<p><a href="https://peepcode.com/blog/2013/leveling-up">Pluralsight Acquires Peepcode</a></p>
-
-<p><a href="http://www.codinghorror.com/blog/2013/07/rule-of-three.html">The Rule of Three</a></p>
-
-<p><a href="http://openmymind.net/Caching-Your-Worst-Best-Friend/">Caching: Your Words Best Friend</a></p>
-
-<p><a href="http://justin.abrah.ms/computer-science/big-o-notation-explained.html">Big-O Notation Explained by a Self-Taught Programmer</a></p>
-
-<p><a href="http://www.daedtech.com/throw-out-your-code">Throw Out Your Code</a></p>
-
-<p><a href="http://lizkeogh.com/2013/07/21/estimating-complexity/">Estimating Complexity</a></p>
-
-<h2>Operating Systems and Hardware</h2>
-
-<p><a href="http://mattgemmell.com/2013/07/24/connecting-newton-devices-to-os-x/">Connecting Newton devices to OS X</a></p>
-
-<p><a href="http://www.computerandvideogames.com/420736/microsoft-to-open-xbox-one-to-self-publishing-claims-report/">Microsoft reveals Xbox One self-publishing plans</a></p>
-
-<p><a href="http://blogs.technet.com/b/in_the_cloud/archive/2013/07/24/what-s-new-in-2012-r2-enabling-open-source-software.aspx">What&rsquo;s New in 2012 R2: Enabling Open Source Software</a></p>
-
-<p><a href="http://www.afr.com/p/technology/spy_agencies_ban_lenovo_pcs_on_security_HVgcKTHp4bIA4ulCPqC7SL">Spy agencies ban Lenovo PCs on security concerns</a></p>
-
-<h2>Text Editors / IDEs</h2>
-
-<p><a href="http://aspirecode.com/sublime-text-3-worth-the-upgrade/">Sublime Text 3: Worth the Upgrade?</a></p>
-
-<p><a href="https://github.com/nosami/Omnisharp">Omnisharp &ndash; Vim Omnicompletion (Intellisense) and More for C#</a></p>
-
-<p><a href="http://blogs.msdn.com/b/cdnstudents/archive/2013/07/18/visual-studio-tips-for-html-web-or-windows-developers-zencoding.aspx">Visual Studio Tips for HTML web or windows developers: ZenCoding</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.computerandvideogames.com/420421/sony-issues-new-ps4-operating-system-screenshots/">Sony Issues New PS4 Operating System Screenshots</a></p>
 ]]></content>
   </entry>
   
