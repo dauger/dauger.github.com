@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-22T23:05:00-06:00</updated>
+  <updated>2013-12-08T21:21:12-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #118]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/12/08/the-land-of-10-000-links-number-118/"/>
+    <updated>2013-12-08T21:16:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/12/08/the-land-of-10-000-links-number-118</id>
+    <content type="html"><![CDATA[<h2>.NET / Microsoft / Azure</h2>
+
+<p><a href="https://github.com/adamralph/bau">Bau &ndash; Write your build scripts in C#</a></p>
+
+<p><a href="http://adamralph.com/2013/12/06/ndc-diary-day-3/">NDC Diary &ndash; Day 3 Including Future C# Features</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazurestorage/archive/2013/12/05/windows-azure-tables-introducing-json.aspx">Windows Azure Tables: Introducing JSON</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://jordanorelli.tumblr.com/post/32665860244/how-to-use-interfaces-in-go">How to Use Interfaces in Go</a></p>
+
+<p><a href="http://guzalexander.com/2013/12/06/golang-channels-tutorial.html">Golang Channels Tutorial</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/">The Essentials of Writing High Quality JavaScript</a></p>
+
+<p><a href="http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly">7 JavaScript Basics Many Developers Aren&rsquo;t Using (Properly)</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/11/06/minty-refactor-1-moving-to-a-document-db/">Minty: Refactor 1: Moving to a Document DB</a></p>
+
+<p><a href="http://www.kickstarter.com/projects/eisenbergeffect/durandal-2014">Durandal 2014 Kickstarter</a></p>
+
+<p><a href="http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/">AngularJS &ndash; Part 1</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="http://stackoverflow.com/questions/20429502/rest-without-hypermedia?utm_content=buffer4eb0a&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">REST Without Hypermedia?</a></p>
+
+<p><a href="http://www.slideshare.net/evolve_conference/201308-fielding-evolve/">Evlolve &lsquo;13 Keynote Slides</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://html9responsiveboilerstrapjs.com/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8c2ba&amp;utm_medium=twitter">HTML9 Responsive Boilerstrap JS</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #117]]></title>
@@ -1658,51 +1701,6 @@ recent reorg to foresee how it might affect things.</p>
 <h2>Operating Systems</h2>
 
 <p><a href="http://blog.ittoby.com/2013/07/windows-81-changes-illustrate-attention.html">Windows 8.1: Changes Illustrate Attention to Detail</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #99]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/07/29/the-land-of-10-000-links-99/"/>
-    <updated>2013-07-29T20:37:00-05:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/07/29/the-land-of-10-000-links-99</id>
-    <content type="html"><![CDATA[<h2>.NET</h2>
-
-<p><a href="http://brockallen.com/2013/07/27/implementing-async-http-modules-in-asp-net-using-tpls-task-api/">Implementing Async HTTP Modules in ASP.NET Using TPL&rsquo;s Task API</a></p>
-
-<p><a href="http://weblogs.asp.net/cibrax/archive/2013/07/29/using-the-katana-authentication-handlers-with-nancyfx.aspx">Using the Katana Authentication Handlers with NancyFx</a></p>
-
-<p><a href="http://thedatafarm.com/blog/data-access/recommended-order-for-watching-my-pluralsight-entity-framework-courses/">Recommended Order for Watching Julie Lerman&rsquo;s Pluralsight Entity Framework Courses</a></p>
-
-<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/07/29/visual-studio-2012-tools-for-git-0-9-5-0-are-available.aspx">Visual Studio 2012 tools for Git (0.9.5.0) are available</a></p>
-
-<p><a href="http://tfs.visualstudio.com/en-us/news/2013-jul-29">Team Foundation Service updates – July 29</a></p>
-
-<p><a href="http://geekswithblogs.net/BlackRabbitCoder/archive/2013/07/25/c.net-little-wonders-getting-caller-information.aspx">C#/.NET Little Wonders: Getting Caller Information</a></p>
-
-<h2>Sql Server</h2>
-
-<p><a href="http://www.brentozar.com/archive/2013/07/sql-server-2014-standard-edition-sucks-and-its-all-your-fault/">SQL Server 2014 Standard Edition Sucks, and It’s All Your Fault</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://raganwald.com/2013/07/27/Ive-always-been-mad.html">It&rsquo;s a Mad, Mad, Mad, Mad World: Scoping in CoffeeScript and JavaScript</a></p>
-
-<h2>HTTP / REST / APIs</h2>
-
-<p><a href="https://speakerdeck.com/ammeep/exist-in-the-web-not-on-it">Exist in the Web Not On It</a></p>
-
-<p><a href="http://hadihariri.com/2013/07/29/one-step-guide-on-designing-a-rest-api/">One Step Guide On Designing a REST API</a></p>
-
-<p><a href="http://blog.apiary.io/2013/07/22/Back-to-the-roots/">Back to the Roots. Meet HTTP</a></p>
-
-<h2>Software Crafstmanship / Engineering / Community</h2>
-
-<p><a href="http://blog.8thlight.com/mike-jansen/2013/07/29/honesty-under-pressure.html">Honesty Under Pressure</a></p>
-
-<h2>Video Games</h2>
-
-<p><a href="http://www.youtube.com/watch?v=MpRBPY-E8Wg&amp;feature=youtube_gdata">Matt Chat 203: Frayed Knights</a></p>
 ]]></content>
   </entry>
   

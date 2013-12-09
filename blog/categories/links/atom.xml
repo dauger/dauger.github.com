@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-11-22T23:05:00-06:00</updated>
+  <updated>2013-12-08T21:21:12-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #118]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/12/08/the-land-of-10-000-links-number-118/"/>
+    <updated>2013-12-08T21:16:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/12/08/the-land-of-10-000-links-number-118</id>
+    <content type="html"><![CDATA[<h2>.NET / Microsoft / Azure</h2>
+
+<p><a href="https://github.com/adamralph/bau">Bau &ndash; Write your build scripts in C#</a></p>
+
+<p><a href="http://adamralph.com/2013/12/06/ndc-diary-day-3/">NDC Diary &ndash; Day 3 Including Future C# Features</a></p>
+
+<p><a href="http://blogs.msdn.com/b/windowsazurestorage/archive/2013/12/05/windows-azure-tables-introducing-json.aspx">Windows Azure Tables: Introducing JSON</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://jordanorelli.tumblr.com/post/32665860244/how-to-use-interfaces-in-go">How to Use Interfaces in Go</a></p>
+
+<p><a href="http://guzalexander.com/2013/12/06/golang-channels-tutorial.html">Golang Channels Tutorial</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/">The Essentials of Writing High Quality JavaScript</a></p>
+
+<p><a href="http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly">7 JavaScript Basics Many Developers Aren&rsquo;t Using (Properly)</a></p>
+
+<p><a href="http://www.wekeroad.com/2013/11/06/minty-refactor-1-moving-to-a-document-db/">Minty: Refactor 1: Moving to a Document DB</a></p>
+
+<p><a href="http://www.kickstarter.com/projects/eisenbergeffect/durandal-2014">Durandal 2014 Kickstarter</a></p>
+
+<p><a href="http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/">AngularJS &ndash; Part 1</a></p>
+
+<h2>HTTP / REST</h2>
+
+<p><a href="http://stackoverflow.com/questions/20429502/rest-without-hypermedia?utm_content=buffer4eb0a&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">REST Without Hypermedia?</a></p>
+
+<p><a href="http://www.slideshare.net/evolve_conference/201308-fielding-evolve/">Evlolve &lsquo;13 Keynote Slides</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://html9responsiveboilerstrapjs.com/?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer8c2ba&amp;utm_medium=twitter">HTML9 Responsive Boilerstrap JS</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #117]]></title>
@@ -246,133 +289,6 @@
 <h2>Fun</h2>
 
 <p><a href="http://www.scei.co.jp/ps4-license/">OSS Used in the PS4</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #113]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/11/14/the-land-of-10-000-links-number-113/"/>
-    <updated>2013-11-14T14:29:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/11/14/the-land-of-10-000-links-number-113</id>
-    <content type="html"><![CDATA[<h2>Go</h2>
-
-<p><a href="http://blog.golang.org/4years">Four Years of Go</a> &ndash; <a href="https://news.ycombinator.com/item?id=6708800">some followup</a></p>
-
-<p><a href="http://www.newspaper.io/golang">Newspaper.io/Golang &ndash; a weekly Go community newsletter</a></p>
-
-<p><a href="http://www.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go">Docker and Go: Why Did We Decide to Write Docker in Go?</a></p>
-
-<p><a href="http://blog.cloudflare.com/what-weve-been-doing-with-go">CloudFlare &ndash; What We&rsquo;ve Been Doing with Go</a></p>
-
-<p><a href="http://www.slideshare.net/cloudflare/go-profiling-john-graham-cumming">Profiling Go</a></p>
-
-<p><a href="http://dave.cheney.net/2013/11/14/stupid-go-declaration-tricks">Stupid Go Declaration Tricks</a></p>
-
-<p><a href="http://aaronoellis.com/articles/get-going-with-web-servers-in-go">Get Going with Web Servers in Go</a></p>
-
-<p><a href="https://github.com/iand/gocookbook">gocookbook &ndash; A collection of Go Recipies</a></p>
-
-<p><a href="http://raygun.io/blog/2013/11/5-reasons-go-will-kick-ass-in-your-next-project/">5 Reasons Go will Kick Ass in Your Next Project</a></p>
-
-<p><a href="http://martini.codegangsta.io/">Martini &ndash; Classy Web Development in Go</a></p>
-
-<p><a href="https://github.com/grobins2/gobrew">gobrew &ndash; An RVM-like Go Version Manager</a></p>
-
-<p><a href="http://tmp.devcharm.com/pages/go-essential">Go Essential &ndash; A List of Beginner Go Resources</a></p>
-
-<p><a href="http://dave.cheney.net/2013/11/14/more-simple-test-coverage-in-go-1-2">More Simple Test Coverage in Go</a></p>
-
-<h2>JavaScript</h2>
-
-<p><a href="http://digital.cabinetoffice.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/">How many people are missing out on JavaScript enhancement?</a></p>
-
-<h2>Ruby</h2>
-
-<p><a href="http://garbled.benhamill.com/2013/11/12/hal-client-update-cetacean/">HAL Client Update: Cetacean</a></p>
-
-<p><a href="http://railsapps.github.io/installrubyonrails-mac.html?utm_content=buffercb3e1&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Install Ruby on Rails · Mac OS X Mavericks</a></p>
-
-<h2>Data Storage</h2>
-
-<p><a href="https://speakerdeck.com/andrewgodwin/rapid-schema-development-with-postgresql">Rapid Schema Development with PostreSQL</a></p>
-
-<p><a href="https://functionwhatwhat.com/json-in-postgresql/">Why JSON in PostgreSQL is Awesome</a></p>
-
-<p><a href="http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/">Why You Should Never Use MongoDB</a> &ndash; <a href="http://ayende.com/blog/164483/re-why-you-should-never-use-mongodb?Key=863c3b71-1c86-4a72-8b8d-53605ed90257">some</a> <a href="https://twitter.com/jbogard/status/399995552991281153">followup</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://channel9.msdn.com/posts/Meet-WACEL">Video &ndash; WACEL = Windows Azure Cache Extension Library</a></p>
-
-<p><a href="http://leastprivilege.com/2013/11/11/client-certificate-authentication-middleware-for-katana/">Client Certificate Authentication Middleware for Katana</a></p>
-
-<p><a href="https://twitter.com/RoryBecker/status/392388707049033728">ASMX Service Template Retired for .NET 4.5.1 Projects</a></p>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/11/12/simple-logging-middleware-katana-part-4.aspx?fb_action_ids=10152049063773875&amp;fb_action_types=og.likes&amp;fb_source=other_multiline&amp;action_object_map=%257B%252210152049063773875%2522%253A575155409205825%257D&amp;action_type_map=%257B%252210152049063773875%2522%253A%2522og.likes%2522%257D&amp;action_ref_map=%255B%255D">Simple Logging Middleware (Katana Part 4)</a></p>
-
-<p><a href="http://odetocode.com/blogs/scott/archive/2013/11/13/shimming-and-wrapping-owin-middleware-katana-part-5.aspx">Shimming and Wrapping OWIN Middleware (Katana Part 5)</a></p>
-
-<p><a href="http://msdn.microsoft.com/en-US/data/dn481501">Code First Migrations in Team Environments</a></p>
-
-<p><a href="http://blogs.msdn.com/b/somasegar/archive/2013/11/13/visual-studio-2013-launch-announcing-visual-studio-online.aspx">Visual Studio 2013 Launch: Announcing Visual Studio Online</a></p>
-
-<p><a href="http://blog.maartenballiauw.be/post/2013/11/13/Visual-Studio-Online-for-Windows-Azure-Web-Sites.aspx">Visual Studio Online for Windows Azure Web Sites</a></p>
-
-<p><a href="http://channel9.msdn.com/Series/Visual-Studio-Online-Monaco">Videos of &ldquo;Monaco&rdquo; editor in action</a></p>
-
-<p><a href="http://www.visualstudio.com/en-us/news/2013-nov-13-vso.aspx">Announcing Visual Studio Online / Dropping of TF Service Name</a></p>
-
-<p><a href="http://www.bradygaster.com/post/tracing-with-the-management-libraries">Tracing with the Windows Azure Management Libraries</a></p>
-
-<p><a href="http://byterot.blogspot.co.uk/2013/11/Content-based-action-selection-ASP.NET-Web-API-REST-5LMT-Five-Levels-Of-Media-Type.html">Content-based action selection in ASP.NET Web API</a></p>
-
-<p><a href="http://www.hanselman.com/blog/PortableClassLibrariesJustGotREALLYUsefulWithNewLicensingChanges.aspx">Portable Class Libraries just got REALLY useful with new licensing changes</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/11/14/introduction-to-websockets-on-windows-azure-web-sites.aspx">Introduction to WebSockets on Windows Azure Web Sites</a></p>
-
-<h2>Virtualization / Cloud / Distributed Computing</h2>
-
-<p><a href="http://developer.rackspace.com/blog/zero-to-peanut-butter-docker-time-in-78-seconds.html">Zero to Peanut Butter Docker Time in 78 Seconds</a></p>
-
-<p><a href="https://news.ycombinator.com/item?id=6713742">Jenkins Developers Accidently do &ldquo;git push &mdash;force&rdquo; to Over 150 Repos on Github</a></p>
-
-<h2>HTTP / APIs</h2>
-
-<p><a href="http://www.stevensuing.com/?p=841">Is Hypermedia Worth the Effort</a></p>
-
-<p><a href="https://docs.google.com/presentation/d/1TNtwvMDb-rBXMpnicDbOJs62xt9tSYEpgNLIfdZLmYM/edit#slide=id.p">Reusable APIs</a></p>
-
-<p><a href="http://www.freshblurbs.com/blog/2013/10/22/web-of-apis-hypermedia-collection-document.html">Web of APIs: Hypermedia and Collection.Document As the Engines of Innovation for Web Publishing</a></p>
-
-<p><a href="http://www.davidwhitney.co.uk/Blog/2013/10/27/lessons-learnt-scaling-a-big-mainstream-restful-api/">Lessons Learnt Scailaing a Big Mainstream RESTful API</a></p>
-
-<p><a href="http://www.infoq.com/news/2013/11/apiary-jakub-nesetril-interview">The Human Aspects of API Design: An Interview with Apiary&rsquo;s Jakub Nesetril</a></p>
-
-<h2>Craftsmanship / Engineering</h2>
-
-<p><a href="https://vimeo.com/77415896">David West &ndash; OOP is Dead!</a></p>
-
-<p><a href="https://twitter.com/jezhumble/status/400071665482088448/photo/1">Google does everything off trunk despite 10k devs across 40 offices.</a></p>
-
-<p><a href="http://blog.mattgauger.com/blog/2013/11/11/apprentice-talk-video-and-notes/">Apprenticeship: Software Craftsmanship’s Missing Link</a></p>
-
-<p><a href="http://blog.8thlight.com/uncle-bob/2013/11/12/Healthcare-gov.html">8th Light Blog: Healthcare.gov</a></p>
-
-<p><a href="http://blog.jetbrains.com/blog/2013/11/12/an-introduction-to-nitra/">An Introduction to Nitra</a></p>
-
-<p><a href="http://adrianwithy.com/2013/11/13/pair-programming-3-5-years-on/">Pair Programming 3.5 Years On</a></p>
-
-<p><a href="http://imgur.com/xvNRKIT">Don&rsquo;t Interrupt Programmers</a></p>
-
-<p><a href="http://www.chrisaitchison.com/2011/05/03/you-are-not-a-software-engineer/">You are Not a Software Engineer</a></p>
-
-<h2>Fun</h2>
-
-<p><a href="http://kottke.org/13/11/crazy-plane-landing-on-a-mountain">Crazy plane landing on a mountain</a></p>
-
-<p><a href="http://www.retroist.com/2013/11/11/ernest-borgnine-is-a-hollywood-tough-guy-and-stamp-collector/">Ernest Borgnine is a Hollywood Tough Guy and … Stamp Collector?</a></p>
-
-<p><a href="http://www.youtube.com/watch?v=ySRgVo1X_18">Full Length Documentary &ndash; Minecraft: The Story of Mojang</a></p>
 ]]></content>
   </entry>
   
