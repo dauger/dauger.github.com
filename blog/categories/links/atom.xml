@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-12-08T21:24:59-06:00</updated>
+  <updated>2013-12-10T21:19:01-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,97 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #119]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/12/10/the-land-of-10-000-links-number-119/"/>
+    <updated>2013-12-10T21:14:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/12/10/the-land-of-10-000-links-number-119</id>
+    <content type="html"><![CDATA[<h1>Go</h1>
+
+<p><a href="http://sergiotapia.me/golang-getting-the-dimensions-of-an-image-using-go/">Getting the Dimensions of an Image Using Go</a></p>
+
+<p><a href="http://blog.gopheracademy.com/day-09-building-a-weather-app-using-go">Go Advent Day 9 &ndash; Building A Weather App In Go</a></p>
+
+<p><a href="http://blog.gopheracademy.com/day-10-beyond-static-binaries">Go Advent Day 10 &ndash; Beyond Static Binaries</a></p>
+
+<p><a href="https://github.com/jagregory/halgo">HAL implementation in Go</a></p>
+
+<p><a href="https://gdstechnology.blog.gov.uk/2013/12/09/choosing-go-for-a-new-project/">Choosing Go for a New Project</a></p>
+
+<h2>.NET / Microsoft</h2>
+
+<p><a href="http://blog.slaks.net/2013-12-10/syntax-highlighted-markdown-code-blocks-web-essentials/">Syntax-highlighted Markdown Code Blocks in Web Essential</a></p>
+
+<p><a href="http://weblogs.asp.net/fbouma/archive/2013/12/09/fetch-performance-of-various-net-orm-data-access-frameworks.aspx">Fetch performance of various .NET ORM / Data-access frameworks</a></p>
+
+<p><a href="http://www.khalidabuhakmeh.com/webapi-is-not-a-replacement-for-asp-net-mvc">WebAPI Is Not A Replacement For ASP.NET MVC</a></p>
+
+<p><a href="http://damieng.com/blog/2013/12/09/probable-c-6-0-features-illustrated">Probable C# 6.0 features illustrated</a></p>
+
+<p><a href="http://wesnerm.blogs.com/net_undocumented/2013/12/immutable-isolated-types-highly-likely-in-future-c.html">Immutable &amp; Isolated Types Likely in Future C#</a></p>
+
+<p><a href="http://jeffhandley.com/archive/2013/12/09/nuget-package-restore-misconceptions.aspx">Common NuGet Misconceptions: Package Restore</a></p>
+
+<p><a href="http://weblog.west-wind.com/posts/2013/Dec/09/Reexamining-ASPNET-and-Helios-Performance-Tests">Re-examining ASP.NET and Helios Performance Tests</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/12/09/asp-net-and-web-tools-2013-2-preview-for-visual-studio-2013.aspx">Release Candidates for ASP.NET MVC 5.1, Web API 2.1 and Web Page 3.1.</a></p>
+
+<p><a href="http://blogs.msdn.com/b/bharry/archive/2013/12/09/visual-studio-2013-1-rc-is-available.aspx">Visual Studio 2013.1 RC is Available</a></p>
+
+<p><a href="http://www.strathweb.com/2013/12/asp-net-web-api-2-1-rc-whats-new/">ASP.NET Web API 2.1 RC is out – what’s new?</a></p>
+
+<p><a href="http://www.spjeff.com/2013/12/09/launch-ie-as-multiple-users-for-testing/">Launch IE as multiple users for testing</a></p>
+
+<p><a href="http://thenextweb.com/microsoft/2013/12/09/microsoft-confirms-windows-7-sales-ended-october-30-pcs-windows-7-dont-yet-end-sales-date/#!pz8JD">Windows 7 Sales Ended October 30th</a></p>
+
+<p><a href="http://www.cloudidentity.com/blog/2013/12/10/protecting-a-self-hosted-api-with-microsoft-owin-security-activedirectory/?utm_source=feedly">Protecting a Self-Hosted API with Microsoft.Owin.Security.ActiveDirectory</a></p>
+
+<p><a href="http://blog.ittoby.com/2013/12/windows-2012-to-2012r2-in-place-upgrade.html">Windows 2012 to 2012R2 In-Place Upgrade (Not recommended) Wipes out Network Teams, vSwitches</a></p>
+
+<p><a href="http://csharp.2000things.com/2013/12/09/991-using-the-round-trip-format-specifier/">#991 – Using the Round-Trip Format Specifier</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://nathanleclaire.com/blog/2013/12/07/dont-fear-directives-in-angular-dot-js/?utm_content=buffer050f9&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Don&rsquo;t Fear Directives In Angular.js</a></p>
+
+<p><a href="http://css.dzone.com/articles/beginner%E2%80%99s-list-javascript?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+zones%2Fcss+%28CSS+Zone%29">A Beginner’s List of JavaScript Gotchas</a></p>
+
+<p><a href="http://lostechies.com/gabrielschenker/2013/12/09/angularjspart-2-the-controller/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+LosTechies+%28LosTechies%29">AngularJS–Part 2, the controller</a></p>
+
+<h2>REST / HTTP</h2>
+
+<p><a href="http://www.infoq.com/articles/rest-api-on-cqrs">Exposing CQRS Through a RESTful API</a></p>
+
+<h2>Methodology / Architecture</h2>
+
+<p><a href="http://blog.8thlight.com/uncle-bob/2013/12/10/Thankyou-Kent.html">Extreme Programming, a Reflection</a></p>
+
+<p><a href="http://codemanship.co.uk/parlezuml/blog/?postid=1190">Start Developing as One Team</a></p>
+
+<p><a href="http://techblog.netflix.com/2013/12/announcing-suro-backbone-of-netflixs.html">Announcing Suro: Backbone of Netflix&rsquo;s Data Pipeline</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/12/10/semantic-versioning-with-continuous-deployment/">Semantic Versioning with Continuous Deployment</a></p>
+
+<h2>Git</h2>
+
+<p><a href="http://blogs.atlassian.com/2013/12/whats-new-git-1-8-5/">What&rsquo;s New in Git 1.8.5</a></p>
+
+<p><a href="http://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/">Keeping Parts of Your Codebase Private on GitHub</a></p>
+
+<p><a href="http://arstechnica.com/information-technology/2013/12/how-can-i-keep-api-keys-out-of-source-control/">How can I keep API keys out of source control?</a></p>
+
+<h2>Misc / Fun</h2>
+
+<p><a href="http://www.nytimes.com/2013/12/10/world/spies-dragnet-reaches-a-playing-field-of-elves-and-trolls.html?_r=1&amp;">Spies Infiltrate a Fantasy Realm of Online Games</a></p>
+
+<p><a href="http://dungeonsanddrawings.blogspot.com">Dungeons &amp; Drawings &ndash; A Reimagining of D&amp;D Creatures</a></p>
+
+<p><a href="http://www.computerandvideogames.com/442183/obsidian-names-new-rpg-pillars-of-eternity/">Obsidian Gives Name to Project Eternity &amp; Releases Gameplay Trailer</a></p>
+
+<p><a href="http://hackaday.com/2013/12/09/guest-post-the-real-story-of-hacking-together-the-commodore-c128/">The Real Story of Hacking Together the Commodore C128</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #118]]></title>
@@ -242,53 +333,6 @@
 <p><a href="http://mobprogramming.org/mob-programming-basics/">Mob Programming Basics</a></p>
 
 <p><a href="http://abdullin.com/journal/2013/11/18/things-i-learned-recently.html">Things I learned Recently</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #114]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/11/17/the-land-of-10-000-links-number-114/"/>
-    <updated>2013-11-17T19:30:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/11/17/the-land-of-10-000-links-number-114</id>
-    <content type="html"><![CDATA[<h2>Go</h2>
-
-<p><a href="http://smartystreets.github.io/goconvey/">GoConvey is Awesome Go Testing</a></p>
-
-<p><a href="https://news.ycombinator.com/item?id=6735780">A List of Go Testing Frameworks Sorted by Activity</a></p>
-
-<p><a href="http://spf13.com/post/go-fmt">Refactoring With Go Fmt</a></p>
-
-<p><a href="http://dave.cheney.net/2013/11/15/evaluation-order-oddity">Evaluation order oddity</a></p>
-
-<p><a href="http://craigwickesser.com/blog/2013/11/15/gobrewfw/">Gobrew::fw</a></p>
-
-<h2>.NET</h2>
-
-<p><a href="http://blog.ploeh.dk/2013/11/15/albedo/">Albedo</a></p>
-
-<p><a href="http://marcgravell.blogspot.com/2013/11/allocaction-allocation-allocation.html">Allocaction, Allocation, Allocation</a></p>
-
-<p><a href="http://leekelleher.com/2013/11/17/predictions-for-umbraco-beyond-2014/">Predictions for Umbraco &ndash; Beyond 2014</a></p>
-
-<p><a href="http://www.ilker.de/the-most-elegant-guard.html">The Most Elegant Guard</a></p>
-
-<p><a href="https://github.com/projectkudu/kudu/wiki/Azure-Site-Extensions">Azure Site Extensions</a></p>
-
-<h2>Software Engineering / Methodology / Architecture</h2>
-
-<p><a href="http://www.grahamlea.com/2013/11/git-mercurial-anti-agile-continuous-integration/">Are Git and Mercurial Anti-Agile?</a></p>
-
-<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/layers-are-cheap-but-doing-it-right-is.html">Layers are Cheap, but Doing it Right is Priceless</a></p>
-
-<p><a href="http://www.slideshare.net/jeppec/soa-and-event-driven-architecture-soa-20">SOA &amp; EDA</a></p>
-
-<p><a href="http://blog.codebeside.org/blog/2013/11/10/higher-order-list-operations-across-languages/">Higher Order List Operations Across Languages</a></p>
-
-<p><a href="http://www.jayhuang.org/blog/a-culture-of-beer-and-overtime/">A Culture of Beer and Overtime</a></p>
-
-<h2>Fun</h2>
-
-<p><a href="http://www.scei.co.jp/ps4-license/">OSS Used in the PS4</a></p>
 ]]></content>
   </entry>
   
