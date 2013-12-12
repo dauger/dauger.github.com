@@ -4,7 +4,7 @@
   <title><![CDATA[Category: links | Welcome to My Nerditorium]]></title>
   <link href="http://nerditorium.danielauger.com/blog/categories/links/atom.xml" rel="self"/>
   <link href="http://nerditorium.danielauger.com/"/>
-  <updated>2013-12-10T21:21:06-06:00</updated>
+  <updated>2013-12-11T20:51:05-06:00</updated>
   <id>http://nerditorium.danielauger.com/</id>
   <author>
     <name><![CDATA[Daniel Auger]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Land of 10,000 Links #120]]></title>
+    <link href="http://nerditorium.danielauger.com/blog/2013/12/11/the-land-of-10-000-links-number-120/"/>
+    <updated>2013-12-11T20:48:00-06:00</updated>
+    <id>http://nerditorium.danielauger.com/blog/2013/12/11/the-land-of-10-000-links-number-120</id>
+    <content type="html"><![CDATA[<h2>Methodology</h2>
+
+<p><a href="http://agilewarrior.wordpress.com/2013/12/11/the-book-that-changed-the-game/">The Book that Changed the Game</a></p>
+
+<p><a href="http://codemanship.co.uk/parlezuml/blog/?postid=1192">Don&rsquo;t Just Eat the Dogfood. BE THE DOG</a></p>
+
+<p><a href="http://visualstudiomagazine.com/articles/2013/06/01/so-long-and-thanks-for-the-all-the-manifestos.aspx">So Long and Thanks for the All the Manifestos</a></p>
+
+<p><a href="http://www.infoq.com/news/2013/12/rocket-to-mars-sprint-planning">Rocket to Mars: A Sprint Planning Game</a></p>
+
+<h2>.NET / Microsoft</h2>
+
+<p><a href="http://www.byboth.org/2013/12/visual-studio-online-free-tfs-server.html?spref=tw">Visual Studio Online &ndash; Free TFS Server</a></p>
+
+<p><a href="http://www.zdnet.com/microsofts-ballmer-on-longhorn-and-other-regrets-7000024186/#.">Microsoft&rsquo;s Ballmer: On Longhorn and other regrets</a></p>
+
+<p><a href="http://redmondmag.com/Articles/2013/12/11/Slow-Running-SQL-Queries.aspx?Page=1">Troubleshoot Slow-Running Queries In SQL Server</a></p>
+
+<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/12/10/asp-net-december-2013-security-updates.aspx">ASP.NET December 2013 Security Updates</a></p>
+
+<p><a href="http://blog.ploeh.dk/2013/12/11/zerotonine/">ZeroToNine</a></p>
+
+<h2>JavaScript</h2>
+
+<p><a href="http://24ways.org/2013/grunt-is-not-weird-and-hard/?utm_content=buffer2c5e3&amp;utm_source=buffer&amp;utm_medium=twitter&amp;utm_campaign=Buffer">Grunt for People Who Think Things Like Grunt are Weird and Hard</a></p>
+
+<p><a href="http://lostechies.com/gabrielschenker/2013/12/10/angularjspart-3-inheritance/">Angular JS &ndash; Part 3, Inheritance</a></p>
+
+<h2>Go</h2>
+
+<p><a href="http://blog.gopheracademy.com/day-11-martini">Go Advent Day 11 &ndash; Build a Christmas List With Martini</a></p>
+
+<h2>Fun</h2>
+
+<p><a href="http://mattchat.us/?p=458">Turn-Based Combat Making a Comeback?: About Damn Time</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Land of 10,000 Links #119]]></title>
@@ -292,47 +335,6 @@
 <p><a href="http://aws.typepad.com/aws/2013/11/process-earth-science-data-on-aws-with-nasa-nex.html">Process Earth Science Data on AWS With NASA / NEX Public Data Sets</a></p>
 
 <p><a href="http://explainshell.com/">Explainshell &ndash; get a clue about shell commands</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Land of 10,000 Links #115]]></title>
-    <link href="http://nerditorium.danielauger.com/blog/2013/11/18/the-land-of-10-000-links-number-115/"/>
-    <updated>2013-11-18T21:08:00-06:00</updated>
-    <id>http://nerditorium.danielauger.com/blog/2013/11/18/the-land-of-10-000-links-number-115</id>
-    <content type="html"><![CDATA[<h2>.NET / Microsoft Related Tech</h2>
-
-<p><a href="http://geekswithblogs.net/EltonStoneman/archive/2013/11/15/using-idisposable-to-scope-dangerous-behaviour.aspx">Using IDisposable to scope dangerous behaviour</a></p>
-
-<p><a href="http://blogs.msdn.com/b/windowsazure/archive/2013/11/18/disabling-arr-s-instance-affinity-in-windows-azure-web-sites.aspx">Disabling ARR&rsquo;s Instance Affinity in Windows Azure Web Sites</a></p>
-
-<p><a href="http://blogs.msdn.com/b/webdev/archive/2013/11/18/announcing-release-of-asp-net-and-web-tools-2013-1-for-visual-studio-2012.aspx">Announcing Release of ASP.NET and Web Tools 2013.1 for Visual Studio 2012</a></p>
-
-<p><a href="http://nickcraver.com/blog/2013/11/18/running-stack-overflow-sql-2014-ctp-2/">Running Stack Overflow SQL 2014 CTP 2</a></p>
-
-<p><a href="http://www.khalidabuhakmeh.com/asp-net-mvc-5-authentication-breakdown-part-deux">ASP.NET MVC 5 Authentication Breakdown : Part Deux</a></p>
-
-<p><a href="http://allen-conway-dotnet.blogspot.com/2013/11/visual-studio-live-orlando-2013-day-1.html">Visual Studio Live! Orlando Day 1</a></p>
-
-<h2>Go</h2>
-
-<p><a href="http://tmp.devcharm.com/pages/golang-net-http-handlers">Go Net/HTTP Handlers</a></p>
-
-<p><a href="http://hugo.spf13.com/">Hugo &ndash; A Static Site Generator Written in Go</a></p>
-
-<p><a href="http://www.pheelicks.com/2013/11/intro-to-images-in-go-websockets/">Intro to (images in) Go – websockets</a></p>
-
-<h2>Architecture / Community / Methodology</h2>
-
-<p><a href="http://wildermuth.com/hwpod">New Podcast: Shawn Wildermuth&rsquo;s &ldquo;Hello, World&rdquo; Podcast</a></p>
-
-<p><a href="http://www.threedrunkensysadsonthe.net/2013/11/burnout-recovery-and-honesty/">Burnout, Recovery and Honesty</a></p>
-
-<p><a href="http://reefpoints.dockyard.com/2013/11/15/think.html">Think</a></p>
-
-<p><a href="http://mobprogramming.org/mob-programming-basics/">Mob Programming Basics</a></p>
-
-<p><a href="http://abdullin.com/journal/2013/11/18/things-i-learned-recently.html">Things I learned Recently</a></p>
 ]]></content>
   </entry>
   
